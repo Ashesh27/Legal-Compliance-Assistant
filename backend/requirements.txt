@@ -1,0 +1,30 @@
+# Framework web
+flask==3.0.0
+flask-cors==4.0.0
+
+# Processing documenti
+docling==1.0.0
+docling-core==1.0.0
+
+# NLP e ML
+spacy==3.7.2
+sentence-transformers==2.3.1
+scikit-learn==1.3.2
+numpy==1.24.3
+
+# LLM providers
+ollama==0.1.6
+google-generativeai==0.3.2
+openai==1.10.0
+
+# Excel e dati
+pandas==2.1.4
+openpyxl==3.1.2
+
+# Utilities
+python-dotenv==1.0.0
+werkzeug==3.0.1
+markdown==3.5.1
+xhtml2pdf==0.2.14tqdm==4.66.1
+weasyprint
+pikepdf==8.11.2

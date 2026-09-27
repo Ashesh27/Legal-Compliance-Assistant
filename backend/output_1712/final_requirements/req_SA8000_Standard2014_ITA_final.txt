@@ -1,0 +1,1303 @@
+REQUISITI ESTRATTI
+Totale requisiti: 109
+================================================================================
+
+REQUISITO 1
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare un sistema per valorizzare e tutelare tutto il personale che rientra nella sua sfera di controllo e influenza.
+REFERENZE: (pag 4 "SA8000:2014
+Standard Internazionale
+I.")
+DOMANDA AUDIT: Quali politiche e procedure sono in atto per garantire la valorizzazione e la tutela di tutto il personale, come definito dallo standard?
+
+================================================================================
+
+REQUISITO 2
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: Il sistema di tutela del personale deve estendersi ai dipendenti dell'organizzazione, ai fornitori, ai subappaltatori, ai sub-fornitori e ai lavoratori a domicilio.
+REFERENZE: (pag 4 "SA8000:2014
+Standard Internazionale
+I.")
+DOMANDA AUDIT: Il sistema di gestione della responsabilità sociale copre esplicitamente e con evidenze tracciabili anche il personale della catena di fornitura (fornitori, subappaltatori, ecc.)?
+
+================================================================================
+
+REQUISITO 3
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione deve raggiungere la conformità allo Standard SA8000 attraverso l'implementazione e il mantenimento di un sistema di gestione adeguato ed efficace.
+REFERENZE: (pag 4 "SA8000:2014
+Standard Internazionale
+I.")
+DOMANDA AUDIT: L'organizzazione ha formalizzato e implementato un sistema di gestione per la responsabilità sociale che indirizza tutti i requisiti dello standard SA8000?
+
+================================================================================
+
+REQUISITO 4
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: Il sistema di gestione deve essere progettato per supportare il miglioramento continuo al fine di raggiungere una conformità piena e sostenibile a SA8000.
+REFERENZE: (pag 4 "SA8000:2014
+Standard Internazionale
+I.")
+DOMANDA AUDIT: Il sistema di gestione include un processo formalizzato di revisione e miglioramento continuo (es. ciclo PDCA) per la performance sociale?
+
+================================================================================
+
+REQUISITO 5
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione deve creare, strutturare e mantenere un meccanismo di partecipazione attiva e congiunta tra lavoratori e management.
+REFERENZE: (pag 4 "SA8000:2014
+Standard Internazionale
+I.")
+DOMANDA AUDIT: Esiste un comitato o un processo formalizzato che assicura la partecipazione congiunta e regolare di rappresentanti dei lavoratori e del management sulle tematiche SA8000?
+
+================================================================================
+
+REQUISITO 6
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: Il processo di partecipazione congiunta tra lavoratori e management deve essere utilizzato per identificare e correggere le non conformità e per assicurare il mantenimento della conformità.
+REFERENZE: (pag 4 "SA8000:2014
+Standard Internazionale
+I.")
+DOMANDA AUDIT: Ci sono evidenze (es. verbali di riunione, azioni correttive) che dimostrano che il meccanismo di partecipazione congiunta è efficace nell'identificare e risolvere le non conformità?
+
+================================================================================
+
+REQUISITO 7
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare le leggi locali, nazionali e le altre leggi applicabili.
+REFERENZE: (pag 5 "SA8000:2014
+Standard Internazionale
+II.")
+DOMANDA AUDIT: Esiste un registro aggiornato di tutte le leggi locali e nazionali applicabili all'organizzazione e come ne viene verificata la conformità?
+
+================================================================================
+
+REQUISITO 8
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare le norme prevalenti di settore e gli altri requisiti ai quali aderisce volontariamente.
+REFERENZE: (pag 5 "SA8000:2014
+Standard Internazionale
+II.")
+DOMANDA AUDIT: Quali sono le norme di settore e i requisiti volontari a cui l'organizzazione aderisce, e come viene gestita la conformità a tali norme?
+
+================================================================================
+
+REQUISITO 9
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: In caso di sovrapposizione o conflitto tra leggi, norme, requisiti volontari e lo Standard SA8000, l'organizzazione deve applicare la disposizione che risulta più favorevole ai lavoratori.
+REFERENZE: (pag 5 "SA8000:2014
+Standard Internazionale
+II.")
+DOMANDA AUDIT: Esiste una procedura formalizzata per identificare i conflitti normativi e per determinare e applicare la disposizione più favorevole ai lavoratori? Si possono fornire esempi concreti?
+
+================================================================================
+
+REQUISITO 10
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare i principi internazionali relativi alla durata e alla riduzione dell'orario di lavoro (Convenzione ILO 1, Raccomandazione 116).
+REFERENZE: (pag 5 "SA8000:2014
+Standard Internazionale
+II.")
+DOMANDA AUDIT: Come vengono gestiti e monitorati gli orari di lavoro per assicurare che siano in linea con i principi delle convenzioni ILO pertinenti?
+
+================================================================================
+
+REQUISITO 11
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare i principi internazionali sull'abolizione del lavoro forzato (Convenzioni ILO 29 e 105).
+REFERENZE: (pag 5 "SA8000:2014
+Standard Internazionale
+II.")
+DOMANDA AUDIT: Quali misure di controllo e prevenzione sono in atto per garantire l'assenza di qualsiasi forma di lavoro forzato o obbligatorio all'interno dell'organizzazione e della sua catena di fornitura?
+
+================================================================================
+
+REQUISITO 12
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare i principi internazionali sulla libertà sindacale, il diritto di organizzazione e la negoziazione collettiva (Convenzioni ILO 87, 98, 135).
+REFERENZE: (pag 5 "SA8000:2014
+Standard Internazionale
+II.")
+DOMANDA AUDIT: Come viene garantito ai lavoratori il diritto di associarsi liberamente, di formare sindacati e di negoziare collettivamente senza subire discriminazioni o ritorsioni?
+
+================================================================================
+
+REQUISITO 13
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare i principi internazionali sull'uguaglianza di retribuzione e sulla non discriminazione nell'impiego e nella professione (Convenzioni ILO 100, 111; Convenzioni ONU sulla discriminazione).
+REFERENZE: (pag 5 "SA8000:2014
+Standard Internazionale
+II.")
+DOMANDA AUDIT: Quali politiche e pratiche sono state adottate per eliminare la discriminazione e garantire la parità di retribuzione per lavoro di pari valore?
+
+================================================================================
+
+REQUISITO 14
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare i principi internazionali sull'età minima e sull'eliminazione delle peggiori forme di lavoro minorile (Convenzioni ILO 138, 182; Convenzione ONU sui diritti del bambino).
+REFERENZE: (pag 5 "SA8000:2014
+Standard Internazionale
+II.")
+DOMANDA AUDIT: Quali procedure di verifica dell'età sono implementate al momento dell'assunzione per prevenire il lavoro minorile?
+
+================================================================================
+
+REQUISITO 15
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare i principi internazionali sulla sicurezza e la salute sul lavoro (Convenzione ILO 155, Raccomandazione 164).
+REFERENZE: (pag 5 "SA8000:2014
+Standard Internazionale
+II.")
+DOMANDA AUDIT: L'organizzazione ha implementato un sistema di gestione della salute e sicurezza conforme ai principi internazionali per identificare, valutare e controllare i rischi?
+
+================================================================================
+
+REQUISITO 16
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare i principi internazionali relativi a salario minimo, sicurezza sociale e protezione della maternità (Convenzioni ILO 131, 102, 183).
+REFERENZE: (pag 5 "SA8000:2014
+Standard Internazionale
+II.")
+DOMANDA AUDIT: Come si assicura l'organizzazione che i salari rispettino gli standard minimi, che siano garantite le coperture di sicurezza sociale e che la maternità sia protetta secondo le norme internazionali?
+
+================================================================================
+
+REQUISITO 17
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare i principi internazionali per la tutela di gruppi specifici, inclusi persone con disabilità (ILO 159), popoli indigeni (ILO 169), lavoratori a domicilio (ILO 177) e lavoratori di agenzie private (ILO 181).
+REFERENZE: (pag 5 "SA8000:2014
+Standard Internazionale
+II.")
+DOMANDA AUDIT: Esistono politiche specifiche per garantire l'inclusione e la protezione dei diritti dei lavoratori appartenenti a categorie specifiche come persone con disabilità, popoli indigeni o lavoratori atipici?
+
+================================================================================
+
+REQUISITO 18
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare i principi fondamentali dei diritti umani sanciti dagli strumenti internazionali (Dichiarazione Universale dei Diritti Umani, Patti ONU, Principi Guida ONU su Business e Diritti Umani).
+REFERENZE: (pag 5 "SA8000:2014
+Standard Internazionale
+II.")
+DOMANDA AUDIT: L'organizzazione ha condotto una due diligence sui diritti umani per identificare e mitigare gli impatti delle proprie attività sui diritti umani?
+
+================================================================================
+
+REQUISITO 19
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve determinare l'età minima per l'accesso al lavoro applicando la definizione di 'bambino', che considera l'età di 15 anni o l'età più elevata stabilita dalle leggi locali per il lavoro o la scuola dell'obbligo.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: L'organizzazione ha una procedura documentata per verificare l'età dei lavoratori e per determinare l'età minima legale applicabile in base alla legislazione locale e allo standard SA8000?
+
+================================================================================
+
+REQUISITO 20
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare politiche e procedure per prevenire l'impiego di qualsiasi persona al di sotto dell'età minima per il lavoro, come definito dallo standard (lavoro infantile).
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: Quali controlli sono in atto per prevenire l'assunzione e l'impiego di bambini, in conformità con la definizione di lavoro infantile?
+
+================================================================================
+
+REQUISITO 21
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve riconoscere e aderire ai termini e alle condizioni di lavoro specificati in eventuali contratti collettivi negoziati con le organizzazioni dei lavoratori.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: In che modo l'organizzazione assicura il rispetto dei contratti collettivi applicabili e come viene gestita la loro implementazione?
+
+================================================================================
+
+REQUISITO 22
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve stabilire e mantenere un processo per l'identificazione delle non conformità e l'implementazione di azioni correttive volte a eliminare le cause alla radice e a prevenire il loro ripetersi.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: Esiste un processo documentato per la gestione delle azioni correttive, che includa l'analisi delle cause radice e la verifica dell'efficacia delle azioni intraprese?
+
+================================================================================
+
+REQUISITO 23
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che nessun individuo svolga lavoro o servizi sotto minaccia, coercizione o come forma di pagamento di un debito, prevenendo ogni forma di lavoro forzato o obbligato.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: Quali misure sono state adottate per garantire che tutto il lavoro sia volontario e per verificare l'assenza di pratiche di lavoro forzato o obbligato, anche nella catena di fornitura?
+
+================================================================================
+
+REQUISITO 24
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve applicare i requisiti dello standard SA8000 a tutto il personale, indipendentemente dalla forma contrattuale. Questo ambito include, a titolo esemplificativo e non esaustivo, direttori, manager, impiegati, operai, lavoratori esterni e i lavoratori a domicilio che operano per l'organizzazione o per i suoi fornitori.
+DOMANDA AUDIT: Come l'organizzazione assicura e dimostra che i requisiti dello standard SA8000 siano applicati a tutte le categorie di personale (inclusi lavoratori esterni e a domicilio, anche quelli dei fornitori), indipendentemente dalla loro forma contrattuale?
+
+================================================================================
+
+REQUISITO 25
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare misure efficaci per prevenire qualsiasi forma di tratta di esseri umani nelle proprie operazioni e nella catena di fornitura.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: Quali politiche e controlli ha implementato l'organizzazione per prevenire il rischio di tratta di esseri umani?
+
+================================================================================
+
+REQUISITO 26
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve identificare le proprie parti interessate e considerare il loro interesse e la loro influenza rispetto alle proprie performance sociali.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: Esiste un processo documentato per l'identificazione e la mappatura delle parti interessate rilevanti per il sistema di gestione SA8000?
+
+================================================================================
+
+REQUISITO 27
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che la retribuzione per una settimana di lavoro standard sia sufficiente a coprire uno standard di vita dignitoso per il lavoratore e la sua famiglia (salario dignitoso).
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: L'organizzazione ha condotto un'analisi per determinare il salario dignitoso locale e può dimostrare che le retribuzioni corrisposte lo soddisfano o superano?
+
+================================================================================
+
+REQUISITO 28
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve verificare che le agenzie per l'impiego private utilizzate operino in conformità con i requisiti dello standard SA8000.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: Esiste un processo di qualifica, selezione e monitoraggio per le agenzie per l'impiego private per assicurarne la conformità allo standard?
+
+================================================================================
+
+REQUISITO 29
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve disporre di una procedura per implementare azioni di rimedio qualora venissero identificati casi di lavoro infantile, garantendo la sicurezza, la salute, l'istruzione e lo sviluppo del bambino.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: L'organizzazione ha un piano di rimedio documentato da attivare in caso di scoperta di lavoro infantile?
+
+================================================================================
+
+REQUISITO 30
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve condurre un processo di valutazione del rischio per identificare, analizzare e dare priorità ai rischi relativi alla salute, sicurezza e alle politiche del lavoro.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: L'organizzazione può dimostrare di aver eseguito e documentato una valutazione dei rischi sociali e di salute e sicurezza, e di averla utilizzata per pianificare le proprie attività?
+
+================================================================================
+
+REQUISITO 31
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve facilitare un processo che permetta ai lavoratori di eleggere liberamente uno o più rappresentanti SA8000 per la comunicazione con la direzione.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: È stato implementato un processo trasparente e democratico per l'elezione dei rappresentanti dei lavoratori SA8000, e i lavoratori ne sono a conoscenza?
+
+================================================================================
+
+REQUISITO 32
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: Nei siti sindacalizzati, l'organizzazione deve riconoscere come rappresentante SA8000 un membro del sindacato, qualora il sindacato scelga di ricoprire tale ruolo.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: Nei siti con presenza sindacale, come viene gestita la nomina del rappresentante SA8000 in collaborazione con il sindacato?
+
+================================================================================
+
+REQUISITO 33
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve mirare al miglioramento continuo della propria performance sociale per raggiungere una conformità piena e sostenibile allo standard SA8000.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: L'organizzazione ha definito obiettivi misurabili e un programma per il miglioramento continuo della propria performance sociale?
+
+================================================================================
+
+REQUISITO 34
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve stabilire un processo per il coinvolgimento attivo delle parti interessate su tematiche relative alla performance sociale.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: Quali canali e attività vengono utilizzati per coinvolgere le parti interessate e raccogliere i loro feedback sul rispetto dello standard SA8000?
+
+================================================================================
+
+REQUISITO 35
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare un sistema per monitorare e influenzare la conformità ai requisiti SA8000 da parte dei propri fornitori, subappaltatori e sub-fornitori.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: Esiste un programma di gestione della catena di fornitura che includa la valutazione e il monitoraggio della performance sociale dei fornitori?
+
+================================================================================
+
+REQUISITO 36
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare il diritto dei lavoratori di formare, aderire e organizzarsi in associazioni di loro scelta (organizzazioni dei lavoratori) per la contrattazione collettiva.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: La politica aziendale e le prassi operative garantiscono la libertà di associazione dei lavoratori senza timore di discriminazione o ritorsione?
+
+================================================================================
+
+REQUISITO 37
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare misure di protezione specifiche per i giovani lavoratori (età compresa tra quella di 'bambino' e i 18 anni), in linea con le leggi e lo standard.
+REFERENZE: (pag 6,7 "SA8000:2014
+Standard Internazionale
+III.")
+DOMANDA AUDIT: Quali procedure specifiche sono in atto per proteggere i giovani lavoratori per quanto riguarda orari, tipo di mansioni, salute e sicurezza?
+
+================================================================================
+
+REQUISITO 38
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare politiche e controlli per non ricorrere né dare sostegno all'utilizzo del lavoro infantile.
+REFERENZE: (pag 8,9 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali politiche e controlli sono in atto per prevenire l'utilizzo del lavoro infantile?
+
+================================================================================
+
+REQUISITO 39
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve stabilire, documentare, mantenere e comunicare politiche e procedure scritte per la gestione e la risoluzione dei casi di lavoro infantile.
+REFERENZE: (pag 8,9 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Esistono procedure documentate e comunicate per la gestione dei casi di lavoro infantile?
+
+================================================================================
+
+REQUISITO 40
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve fornire un adeguato sostegno (finanziario e di altro tipo) per garantire l'istruzione dei bambini trovati in situazioni di lavoro infantile.
+REFERENZE: (pag 8,9 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali meccanismi di sostegno sono previsti per i bambini rimossi da situazioni di lavoro infantile per garantire la loro istruzione?
+
+================================================================================
+
+REQUISITO 41
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che i giovani lavoratori, soggetti a istruzione obbligatoria, lavorino esclusivamente al di fuori dell'orario scolastico.
+REFERENZE: (pag 8,9 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Come viene verificato che l'orario di lavoro dei giovani lavoratori non si sovrapponga all'orario scolastico obbligatorio?
+
+================================================================================
+
+REQUISITO 42
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che, per i giovani lavoratori, l'orario di lavoro giornaliero non superi le 8 ore e che il tempo totale combinato di lavoro, scuola e spostamenti non superi le 10 ore giornaliere.
+DOMANDA AUDIT: Quali meccanismi di monitoraggio e documentazione ha implementato l'organizzazione per assicurare che i giovani lavoratori rispettino sia il limite di 8 ore di lavoro giornaliere sia il limite di 10 ore totali giornaliere (lavoro, scuola, spostamenti)?
+
+================================================================================
+
+REQUISITO 43
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve proibire il lavoro notturno per i giovani lavoratori.
+REFERENZE: (pag 8,9 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali misure sono in atto per impedire il lavoro notturno dei giovani lavoratori?
+
+================================================================================
+
+REQUISITO 44
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare misure per non esporre bambini o giovani lavoratori a situazioni rischiose o nocive per la loro salute fisica, mentale e il loro sviluppo.
+REFERENZE: (pag 8,9 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali valutazioni dei rischi e misure preventive sono state adottate specificamente per proteggere bambini e giovani lavoratori?
+
+================================================================================
+
+REQUISITO 45
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve avere una politica che vieta di trattenere i documenti d'identità originali del personale.
+REFERENZE: (pag 8,9,10 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: L'organizzazione trattiene i documenti d'identità originali dei lavoratori? Esiste una politica esplicita a riguardo?
+
+================================================================================
+
+REQUISITO 46
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve proibire la richiesta di depositi o pagamenti da parte del personale all'inizio del rapporto di lavoro.
+REFERENZE: (pag 8,9,10 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Viene richiesto al personale di versare depositi all'inizio del rapporto di lavoro?
+
+================================================================================
+
+REQUISITO 47
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che né essa né i suoi fornitori di manodopera trattengano salari, indennità, proprietà o documenti del personale come forma di coercizione.
+REFERENZE: (pag 8,9,10 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Esistono controlli per assicurare che né l'organizzazione né i suoi fornitori di manodopera trattengano beni o documenti dei lavoratori per obbligarli a rimanere?
+
+================================================================================
+
+REQUISITO 48
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che nessun costo o commissione di assunzione sia addebitato ai lavoratori.
+REFERENZE: (pag 8,9,10 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: I lavoratori sostengono costi o commissioni per la loro assunzione? Come viene verificato?
+
+================================================================================
+
+REQUISITO 49
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire al personale il diritto di lasciare il luogo di lavoro al termine dell'orario standard.
+REFERENZE: (pag 8,9,10 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Il personale è libero di lasciare i locali dell'azienda al termine del proprio turno di lavoro?
+
+================================================================================
+
+REQUISITO 50
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire al personale la libertà di terminare il proprio rapporto di lavoro fornendo un ragionevole preavviso.
+REFERENZE: (pag 8,9,10 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Esistono ostacoli o penalità che impediscono a un lavoratore di terminare il proprio contratto di lavoro, oltre al ragionevole preavviso?
+
+================================================================================
+
+REQUISITO 51
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare politiche e controlli per prevenire e non sostenere la tratta di esseri umani, sia internamente che attraverso i suoi fornitori di manodopera.
+REFERENZE: (pag 8,9,10 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali misure di due diligence e controllo sono in atto per prevenire la tratta di esseri umani nella catena di fornitura di manodopera?
+
+================================================================================
+
+REQUISITO 52
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire un ambiente di lavoro sicuro e salubre, adottando misure efficaci per prevenire incidenti, infortuni e malattie professionali.
+REFERENZE: (pag 8,9,10 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali sono le principali misure adottate per garantire la sicurezza e la salubrità dell'ambiente di lavoro?
+
+================================================================================
+
+REQUISITO 53
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare un processo per identificare, ridurre ed eliminare, per quanto ragionevolmente possibile, le cause dei rischi nell'ambiente di lavoro.
+REFERENZE: (pag 8,9,10 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Esiste un processo documentato per la valutazione e la mitigazione dei rischi sul luogo di lavoro?
+
+================================================================================
+
+REQUISITO 54
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve condurre una valutazione specifica dei rischi per le lavoratrici in gravidanza, puerpere e in allattamento e adottare misure per eliminare o ridurre tali rischi.
+REFERENZE: (pag 9,10,11 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Viene effettuata una valutazione dei rischi specifica per le lavoratrici in gravidanza o in allattamento? Quali misure sono state prese?
+
+================================================================================
+
+REQUISITO 55
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve fornire gratuitamente al personale gli appropriati Dispositivi di Protezione Individuale (DPI) qualora i rischi non possano essere eliminati.
+REFERENZE: (pag 9,10,11 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: I DPI necessari vengono forniti gratuitamente a tutto il personale esposto a rischi?
+
+================================================================================
+
+REQUISITO 56
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve disporre di procedure e risorse per fornire primo soccorso in caso di infortunio e assistere il lavoratore nell'ottenere cure mediche.
+REFERENZE: (pag 9,10,11 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali procedure e risorse sono disponibili per il primo soccorso e l'assistenza medica in caso di infortunio?
+
+================================================================================
+
+REQUISITO 57
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve nominare formalmente un rappresentante del senior management con la responsabilità della salute e sicurezza sul lavoro.
+REFERENZE: (pag 9,10,11 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: È stato nominato un rappresentante del senior management per la salute e sicurezza? Chi è e quali sono le sue responsabilità?
+
+================================================================================
+
+REQUISITO 58
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve istituire e mantenere attivo un Comitato per la Salute e Sicurezza con rappresentanza equilibrata di management e lavoratori.
+REFERENZE: (pag 9,10,11 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Esiste un Comitato per la Salute e Sicurezza? Qual è la sua composizione e frequenza di riunione?
+
+================================================================================
+
+REQUISITO 59
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: Il Comitato per la Salute e Sicurezza deve condurre valutazioni dei rischi periodiche e formali.
+REFERENZE: (pag 9,10,11 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Il Comitato per la Salute e Sicurezza conduce valutazioni dei rischi periodiche? Dove sono documentati i risultati?
+
+================================================================================
+
+REQUISITO 60
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve conservare le registrazioni delle valutazioni dei rischi e delle relative azioni correttive e preventive.
+REFERENZE: (pag 9,10,11 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Sono disponibili le registrazioni delle valutazioni dei rischi e delle azioni intraprese?
+
+================================================================================
+
+REQUISITO 61
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve fornire formazione periodica ed efficace in materia di salute e sicurezza a tutto il personale.
+REFERENZE: (pag 9,10,11 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Qual è il programma di formazione sulla sicurezza? Come viene verificata la sua efficacia?
+
+================================================================================
+
+REQUISITO 62
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve ripetere la formazione sulla sicurezza per il personale nuovo, per quello riassegnato e in caso di incidenti o introduzione di nuovi rischi.
+REFERENZE: (pag 9,10,11 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: La formazione sulla sicurezza viene erogata a tutti i nuovi assunti e in caso di cambio mansione o introduzione di nuovi rischi?
+
+================================================================================
+
+REQUISITO 63
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve mantenere un registro scritto di tutti gli incidenti che si verificano nei luoghi di lavoro e nelle strutture fornite.
+REFERENZE: (pag 10,11,12 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Viene mantenuto un registro degli incidenti? Cosa include?
+
+================================================================================
+
+REQUISITO 64
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire a tutto il personale l'accesso a bagni puliti, acqua potabile e strutture adeguate per i pasti e la conservazione degli alimenti.
+REFERENZE: (pag 10,11,12 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Il personale ha accesso a servizi igienici puliti, acqua potabile e aree pasto adeguate?
+
+================================================================================
+
+REQUISITO 65
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che gli alloggi forniti al personale siano puliti, sicuri e soddisfino i bisogni essenziali.
+REFERENZE: (pag 10,11,12 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali controlli vengono effettuati per garantire la pulizia, la sicurezza e l'adeguatezza dei dormitori forniti al personale?
+
+================================================================================
+
+REQUISITO 66
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire al personale il diritto di allontanarsi da una situazione di pericolo grave e imminente senza chiedere autorizzazione.
+REFERENZE: (pag 10,11,12 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Il personale è informato del proprio diritto di abbandonare il posto di lavoro in caso di pericolo grave e imminente? Esiste una procedura a riguardo?
+
+================================================================================
+
+REQUISITO 67
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare e non interferire con il diritto del personale di formare, aderire e organizzare sindacati.
+REFERENZE: (pag 10,11,12 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali politiche garantiscono la libertà di associazione sindacale e come viene comunicata al personale?
+
+================================================================================
+
+REQUISITO 68
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve permettere l'elezione libera di rappresentanti dei lavoratori qualora la legge limiti la libertà di associazione e contrattazione.
+REFERENZE: (pag 10,11,12 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: In che modo l'organizzazione facilita l'elezione di rappresentanti dei lavoratori in contesti dove la libertà sindacale è limitata?
+
+================================================================================
+
+REQUISITO 69
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare misure per proteggere i rappresentanti dei lavoratori e i membri del sindacato da discriminazione, vessazioni, intimidazioni o ritorsioni.
+REFERENZE: (pag 10,11,12 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali meccanismi di protezione sono in atto per i rappresentanti sindacali e i loro membri?
+
+================================================================================
+
+REQUISITO 70
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che i rappresentanti dei lavoratori possano avere contatti con i loro iscritti sul luogo di lavoro.
+REFERENZE: (pag 10,11,12 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: I rappresentanti dei lavoratori hanno la possibilità di incontrare e comunicare con i loro membri all'interno del luogo di lavoro?
+
+================================================================================
+
+REQUISITO 71
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare una politica di non discriminazione in tutte le fasi del rapporto di lavoro (assunzione, retribuzione, formazione, promozione, cessazione).
+REFERENZE: (pag 11,12,13 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Esiste una politica anti-discriminazione? Come viene applicata nei processi HR?
+
+================================================================================
+
+REQUISITO 72
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve rispettare e non interferire con l'esercizio dei diritti del personale legati a pratiche o principi personali (religiosi, culturali, ecc.).
+REFERENZE: (pag 11,12,13 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Come l'organizzazione accomoda le pratiche e i principi personali dei dipendenti (es. preghiera, abbigliamento)?
+
+================================================================================
+
+REQUISITO 73
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare una politica di tolleranza zero verso comportamenti minacciosi, offensivi, di sfruttamento o sessualmente coercitivi.
+REFERENZE: (pag 11,12,13 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali politiche e procedure sono in atto per prevenire e gestire casi di molestie o comportamenti offensivi sul luogo di lavoro?
+
+================================================================================
+
+REQUISITO 74
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve proibire esplicitamente l'uso di test di gravidanza o di verginità sul personale.
+REFERENZE: (pag 11,12,13 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: La politica aziendale vieta l'uso di test di gravidanza o di verginità in qualsiasi fase del rapporto di lavoro?
+
+================================================================================
+
+REQUISITO 75
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che tutto il personale sia trattato con dignità e rispetto.
+REFERENZE: (pag 11,12,13 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Come viene promosso un ambiente di lavoro basato su dignità e rispetto?
+
+================================================================================
+
+REQUISITO 76
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve avere una politica che vieta e sanziona l'uso di punizioni corporali, coercizione fisica o mentale e abuso verbale.
+REFERENZE: (pag 11,12,13 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali sono le procedure disciplinari e come garantiscono l'assenza di trattamenti inumani o abusi?
+
+================================================================================
+
+REQUISITO 77
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve conformarsi alle leggi e ai contratti collettivi applicabili in materia di orario di lavoro, riposi e festività.
+REFERENZE: (pag 11,12,13 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Come viene assicurata la conformità dell'orario di lavoro con la legislazione e i contratti collettivi?
+
+================================================================================
+
+REQUISITO 78
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che la settimana lavorativa standard, escluso lo straordinario, non superi le 48 ore.
+REFERENZE: (pag 11,12,13 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Il sistema di gestione delle presenze monitora il rispetto del limite di 48 ore per la settimana lavorativa standard?
+
+================================================================================
+
+REQUISITO 79
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire al personale almeno un giorno di riposo ogni sette giorni, salvo eccezioni previste da legge e contrattazione collettiva.
+REFERENZE: (pag 12,13,14 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Come viene gestito e monitorato il giorno di riposo settimanale per tutto il personale?
+
+================================================================================
+
+REQUISITO 80
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che il lavoro straordinario sia volontario, non superi le 12 ore settimanali e non sia richiesto su base regolare.
+REFERENZE: (pag 12,13,14 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Qual è la procedura per la richiesta di lavoro straordinario? Come viene monitorato il limite delle 12 ore settimanali e la sua non regolarità?
+
+================================================================================
+
+REQUISITO 81
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che la retribuzione per una settimana lavorativa normale sia sempre uguale o superiore agli standard legali o minimi di settore.
+REFERENZE: (pag 12,13,14 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Come viene verificato che le retribuzioni siano conformi o superiori ai minimi legali e di settore?
+
+================================================================================
+
+REQUISITO 82
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve mirare a corrispondere un salario dignitoso (living wage) che copra i bisogni primari e consenta un guadagno discrezionale.
+REFERENZE: (pag 12,13,14 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: L'organizzazione ha condotto analisi per determinare se i salari pagati costituiscono un 'salario dignitoso' nel contesto locale?
+
+================================================================================
+
+REQUISITO 83
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve proibire le trattenute salariali per motivi disciplinari, salvo eccezioni previste da legge e contrattazione collettiva.
+REFERENZE: (pag 12,13,14 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Vengono effettuate trattenute salariali a scopo disciplinare? Se sì, in base a quali normative o accordi?
+
+================================================================================
+
+REQUISITO 84
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve fornire al personale una busta paga chiara e dettagliata per ogni periodo di paga.
+REFERENZE: (pag 12,13,14 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Le buste paga fornite ai lavoratori sono chiare, dettagliate e regolari?
+
+================================================================================
+
+REQUISITO 85
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve pagare salari e indennità in modo puntuale, conforme alla legge e conveniente per i lavoratori, senza ricorrere a metodi come voucher o pagherò.
+REFERENZE: (pag 12,13,14 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Con quali modalità e tempistiche vengono pagati i salari? Vengono utilizzati metodi di pagamento non monetari?
+
+================================================================================
+
+REQUISITO 86
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve retribuire tutto il lavoro straordinario con la maggiorazione prevista dalla legge, dalla contrattazione collettiva o, in assenza, da uno standard di settore prevalente.
+REFERENZE: (pag 12,13,14 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Come viene calcolata e pagata la maggiorazione per il lavoro straordinario?
+
+================================================================================
+
+REQUISITO 87
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve evitare l'uso di accordi contrattuali (es. 'sola manodopera', contratti a breve termine consecutivi, falso apprendistato) volti a eludere gli obblighi di legge in materia di lavoro e sicurezza sociale.
+REFERENZE: (pag 12,13,14 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali tipologie contrattuali vengono utilizzate? Esistono controlli per prevenire l'abuso di forme contrattuali atipiche?
+
+================================================================================
+
+REQUISITO 88
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve disporre di una politica scritta, definita dal Senior Management, che dichiari l'adesione allo standard SA8000.
+REFERENZE: (pag 13,14,15 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Esiste una politica SA8000 approvata dal Senior Management?
+
+================================================================================
+
+REQUISITO 89
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: La politica SA8000 deve includere un impegno esplicito alla conformità con tutti i requisiti dello standard, le leggi applicabili e gli strumenti internazionali pertinenti.
+REFERENZE: (pag 13,14,15 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: La politica aziendale include un impegno formale alla conformità con SA8000 e le leggi vigenti?
+
+================================================================================
+
+REQUISITO 90
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve esporre la politica SA8000 e lo standard in luoghi visibili e accessibili al personale.
+REFERENZE: (pag 13,14,15 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: La politica SA8000 è affissa in luoghi visibili all'interno dell'azienda?
+
+================================================================================
+
+REQUISITO 91
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve comunicare efficacemente le politiche e procedure SA8000 al personale e condividerle con clienti e fornitori.
+REFERENZE: (pag 13,14,15 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Come vengono comunicate le politiche e procedure SA8000 internamente ed esternamente?
+
+================================================================================
+
+REQUISITO 92
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve mantenere un sistema di registrazione per documentare e dimostrare la conformità allo standard SA8000.
+REFERENZE: (pag 13,14,15 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quale sistema di registrazione è in uso per tracciare la conformità a SA8000?
+
+================================================================================
+
+REQUISITO 93
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve condurre riesami periodici della direzione per valutare la performance del sistema di gestione SA8000 e promuovere il miglioramento continuo.
+REFERENZE: (pag 13,14,15 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Vengono condotti riesami della direzione sul sistema SA8000? Con quale frequenza e quali sono gli output?
+
+================================================================================
+
+REQUISITO 94
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve rendere disponibile la propria politica SA8000 alle parti interessate su richiesta.
+REFERENZE: (pag 13,14,15 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Qual è la procedura per rendere pubblica la politica SA8000 alle parti interessate?
+
+================================================================================
+
+REQUISITO 95
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve istituire un Social Performance Team (SPT) con rappresentanza equilibrata di management e lavoratori per l'applicazione dello standard SA8000.
+REFERENZE: (pag 13,14,15 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: È stato istituito un Social Performance Team? Qual è la sua composizione?
+
+================================================================================
+
+REQUISITO 96
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: Il Social Performance Team (SPT) deve condurre e documentare valutazioni periodiche dei rischi di non conformità allo standard SA8000.
+REFERENZE: (pag 14,15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Il SPT conduce valutazioni dei rischi periodiche? Dove sono documentati i risultati?
+
+================================================================================
+
+REQUISITO 97
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: Il Social Performance Team (SPT) deve basare le sue valutazioni dei rischi sulla raccolta di dati e sulla consultazione delle parti interessate.
+REFERENZE: (pag 14,15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Come vengono coinvolte le parti interessate nel processo di valutazione dei rischi del SPT?
+
+================================================================================
+
+REQUISITO 98
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: Il Social Performance Team (SPT) deve facilitare audit interni periodici e preparare report sulla performance del sistema per il Senior Management.
+REFERENZE: (pag 14,15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Vengono condotti audit interni sul sistema SA8000? Chi li conduce e a chi vengono riportati i risultati?
+
+================================================================================
+
+REQUISITO 99
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: Il Social Performance Team (SPT) deve tenere riunioni periodiche per riesaminare i progressi e identificare azioni di miglioramento.
+REFERENZE: (pag 14,15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Con quale frequenza si riunisce il SPT e quali sono gli argomenti tipici delle riunioni?
+
+================================================================================
+
+REQUISITO 100
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare un piano strutturato di formazione e comunicazione per tutto il personale, al fine di garantire che comprendano e applichino efficacemente i requisiti dello standard SA8000.
+DOMANDA AUDIT: L'organizzazione può dimostrare l'esistenza e l'implementazione di un piano di formazione e comunicazione per tutto il personale, finalizzato a garantire la comprensione e l'applicazione efficace dei requisiti SA8000? Quali sono le evidenze (registri, materiali, valutazioni di efficacia) a supporto?
+
+================================================================================
+
+REQUISITO 101
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare una procedura di reclamo scritta, confidenziale, imparziale, non ritorsiva e accessibile per il personale e le parti interessate.
+REFERENZE: (pag 14,15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Esiste una procedura documentata per la gestione dei reclami? Come ne viene garantita la confidenzialità e l'accessibilità?
+
+================================================================================
+
+REQUISITO 102
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve disporre di procedure per investigare, gestire e comunicare l'esito dei reclami ricevuti.
+REFERENZE: (pag 14,15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Qual è il processo seguito dall'organizzazione dal ricevimento di un reclamo alla sua risoluzione e comunicazione?
+
+================================================================================
+
+REQUISITO 103
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire una politica di non ritorsione contro chiunque fornisca informazioni o presenti reclami relativi alla conformità SA8000.
+REFERENZE: (pag 14,15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali tutele sono in atto per proteggere da ritorsioni chi segnala non conformità o presenta reclami?
+
+================================================================================
+
+REQUISITO 104
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire piena cooperazione con gli auditor esterni durante le verifiche di conformità allo standard SA8000.
+REFERENZE: (pag 15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Qual è la politica aziendale riguardo alla cooperazione durante gli audit esterni?
+
+================================================================================
+
+REQUISITO 105
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve impegnarsi attivamente nel coinvolgimento delle parti interessate per raggiungere una conformità sostenibile allo standard SA8000.
+REFERENZE: (pag 15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali attività di coinvolgimento delle parti interessate vengono svolte regolarmente?
+
+================================================================================
+
+REQUISITO 106
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve disporre di politiche e procedure documentate per la gestione tempestiva delle azioni correttive e preventive.
+REFERENZE: (pag 15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Esiste una procedura per la gestione delle azioni correttive e preventive? Quali sono i tempi di attuazione?
+
+================================================================================
+
+REQUISITO 107
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: Il Social Performance Team (SPT) deve mantenere un registro dettagliato delle non conformità, delle loro cause, delle azioni intraprese e dei risultati ottenuti.
+REFERENZE: (pag 15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: È disponibile un registro delle non conformità e delle relative azioni correttive/preventive?
+
+================================================================================
+
+REQUISITO 108
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: Il processo di gestione dei fornitori deve includere: comunicazione dei requisiti SA8000, valutazione dei rischi di non conformità, implementazione di azioni di mitigazione e monitoraggio continuo delle performance.
+REFERENZE: (pag 15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Il processo di qualifica e gestione dei fornitori include la valutazione e il monitoraggio dei rischi legati alla responsabilità sociale?
+
+================================================================================
+
+REQUISITO 109
+File sorgente: req_SA8000_Standard2014_ITA_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che i lavoratori a domicilio nella sua catena di fornitura ricevano un livello di protezione equivalente a quello degli altri lavoratori, in conformità con lo standard SA8000.
+REFERENZE: (pag 15,16 "SA8000:2014
+Standard Internazionale
+IV.")
+DOMANDA AUDIT: Quali misure specifiche sono state adottate per garantire la protezione dei lavoratori a domicilio nella catena di fornitura?
+
+================================================================================
+

@@ -1,0 +1,1272 @@
+CHUNKING DINAMICO GERARCHICO - SECTION + PAGE LEVELS
+================================================================================
+
+================================================================================
+CHUNK 0
+CHUNK SUB 1
+SEZIONE: PREMESSA
+PAGINE: 3-12
+CARATTERI: 34843
+PAROLE: 4611
+PAGE: 3
+PAGINA CARATTERI: 1987
+PAGINA PAROLE: 287
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+PREMESSA
+La presente prassi di riferimento UNI/PdR 125:2022 non è una norma nazionale, ma è un documento pubblicato da UNI, come previsto dal Regolamento UE n.1025/2012 che riflette gli esiti del confronto svoltosi nel Tavolo di lavoro sulla certificazione di genere delle imprese previsto dal PNRR Missione 5, coordinato dal Dipartimento per le Pari Opportunità e a cui hanno partecipato il Dipartimento per le politiche  della  famiglia,  il  Ministero  dell'Economia  e  delle  Finanze,  il  Ministero  del  Lavoro  e  delle Politiche Sociali, il Ministero dello Sviluppo Economico e la Consigliera Nazionale di Parità.
+La  presente  prassi  di  riferimento  raccoglie  prescrizioni  relative  a  prassi  condivise  all'interno  dei soggetti rappresentanti il mercato e la società civile, firmatari di un accordo di collaborazione con UNI, rappresentati nel Tavolo 'Parità di genere' condotto da UNI.
+La presente prassi di rifermento è stata elaborata con linguaggio neutro rispetto al genere.
+La presente prassi di riferimento è stata ratificata dal Presidente dell'UNI ed entra in vigore il 16 marzo 2022.
+Le prassi di riferimento, adottate esclusivamente in ambito nazionale, rientrano fra i 'prodotti della normazione  europea',  come  previsti  dal  Regolamento  UE  n.1025/2012,  e  sono  documenti  che introducono prescrizioni tecniche, elaborati sulla base di un rapido processo ristretto a chi ne è autore, sotto la conduzione operativa di UNI.
+Le prassi di riferimento sono disponibili per un periodo non superiore a 5 anni, tempo massimo dalla loro  pubblicazione  entro  il  quale  possono  essere  trasformate  in  un  documento  normativo  (UNI, UNI/TS, UNI/TR) oppure devono essere ritirate.
+Chiunque ritenesse, a seguito dell'applicazione della presente prassi di riferimento, di poter fornire suggerimenti per un suo miglioramento è pregato di inviare i propri contributi all'UNI, Ente Italiano di Normazione, che li terrà in considerazione.
+© UNI
+1
+
+================================================================================
+CHUNK 0
+CHUNK SUB 2
+SEZIONE: PREMESSA
+PAGINE: 3-12
+CARATTERI: 34843
+PAROLE: 4611
+PAGE: 4
+PAGINA CARATTERI: 4079
+PAGINA PAROLE: 257
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+SOMMARIO
+© UNI
+2
+
+
+
+**[TABELLA]**
+| 0 | INTRODUZIONE...................................................................................................................... 4 |
+| --- | --- |
+| 0.1 | CONTESTO............................................................................................................................. 4 |
+| 0.2 | NECESSITÀ DEL RIEQUILIBRIO DI GENERE...................................................................... 7 |
+| 0.3 | OBIETTIVI E STRUMENTI...................................................................................................... 9 |
+| 1 | SCOPO E CAMPO DI APPLICAZIONE................................................................................ 11 |
+| 2 | RIFERIMENTI NORMATIVI E LEGISLATIVI ........................................................................ 11 |
+| 3 | TERMINI E DEFINIZIONI....................................................................................................... 12 |
+| 4 | PRINCIPIO............................................................................................................................. 15 |
+| 5 | INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI................................. 16 |
+| 5.1 | GENERALITÀ ........................................................................................................................................16 |
+| 5.2 | AREA CULTURA E STRATEGIA..........................................................................................................18 |
+| 5.3 | AREA GOVERNANCE...........................................................................................................................20 |
+| 5.4 | AREA PROCESSI HR............................................................................................................................22 |
+| 5.5 | AREA OPPORTUNITÀ DI CRESCITA ED INCLUSIONE DELLE DONNE IN AZIENDA....................23 |
+| 5.6 | AREA EQUITÀ REMUNERATIVA PER GENERE................................................................................25 |
+| 5.7 | AREA TUTELA DELLA GENITORIALITÀ E CONCILIAZIONE VITA-LAVORO.................................27 |
+| 6 | POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, |
+| E SISTEMA DI GESTIONE .............................................................................................................. 28 | E SISTEMA DI GESTIONE .............................................................................................................. 28 |
+| 6.1 | POLITICHE DI PARITÀ DI GENERE.....................................................................................................28 |
+| 6.2 | PIANIFICAZIONE...................................................................................................................................29 |
+| 6.3 | ATTUAZIONE DELLE AZIONI DEL PIANO STRATEGICO E MONITORAGGIO...............................30 |
+| 6.3.1 | GENERALITÀ ....................................................................................................................................30 |
+| 6.3.2 | TEMI OGGETTO DEL PIANO STRATEGICO...................................................................................30 |
+| 6.4 SISTEMA DI GESTIONE........................................................................................................................33 | 6.4 SISTEMA DI GESTIONE........................................................................................................................33 |
+| 6.4.1 | GENERALITÀ ....................................................................................................................................33 |
+| 6.4.2 | DOCUMENTAZIONE DEL SISTEMA................................................................................................33 |
+| 6.4.3 | MONITORAGGIO DEGLI INDICATORI.............................................................................................33 |
+| 6.4.4 | COMUNICAZIONE INTERNA ED ESTERNA....................................................................................33 |
+
+================================================================================
+CHUNK 0
+CHUNK SUB 3
+SEZIONE: PREMESSA
+PAGINE: 3-12
+CARATTERI: 34843
+PAROLE: 4611
+PAGE: 5
+PAGINA CARATTERI: 1740
+PAGINA PAROLE: 147
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+© UNI
+3
+
+
+
+**[TABELLA]**
+| 6.4.5 | AUDIT INTERNI (SISTEMA DI VERIFICA INTERNO DI CONFORMITÀ ALLA UNI/PdR)..............34 |
+| --- | --- |
+| 6.4.6 | GESTIONE DELLE SITUAZIONI NON CONFORMI.........................................................................35 |
+| 6.4.7 | REVISIONE PERIODICA...................................................................................................................35 |
+| 6.4.8 | MIGLIORAMENTO.............................................................................................................................35 |
+| 6.4.9 | NOTE FINALI .....................................................................................................................................35 |
+| APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE......................................... 36 | APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE......................................... 36 |
+| APPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE ................................................. 39 | APPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE ................................................. 39 |
+| BIBLIOGRAFIA................................................................................................................................ 40 | BIBLIOGRAFIA................................................................................................................................ 40 |
+
+================================================================================
+CHUNK 0
+CHUNK SUB 4
+SEZIONE: PREMESSA
+PAGINE: 3-12
+CARATTERI: 34843
+PAROLE: 4611
+PAGE: 6
+PAGINA CARATTERI: 3770
+PAGINA PAROLE: 587
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+0 INTRODUZIONE
+0.1 CONTESTO 1
+Secondo l'ultimo rapporto sulla parità di genere del World Economic Forum (WEF, 2021), nessun Paese al mondo ha colmato i divari di genere. I Paesi più avanzati in tema di parità di genere (Islanda, Finlandia, Norvegia, Svezia) hanno chiuso un po' più dell'80% del divario. Considerando la parità di genere attraverso quattro dimensioni - economia, istruzione, salute e politica, il WEF stima che nel mondo si è chiuso il 96% del divario in salute, il 95% del divario in istruzione, il 58% del  divario  in  opportunità  e  partecipazione  economica  e  solo  il  22%  del  divario  in  politica  e rappresentanza. In questa classifica globale, che copre 156 Paesi, l'Italia si posiziona al 63esimo posto  e,  se  restringiamo  l'attenzione  alla  sola  componente  economica,  al  114esimo.  La partecipazione economica emerge come la dimensione più critica per il nostro Paese 2 .Il dato più noto  e  che  più  caratterizza  l'Italia  è  il  basso  tasso  di occupazione  femminile .  Nel  2018 (popolazione 15-64 anni) è stato pari al 49,5% (Istat), un valore quasi stabile nell'ultimo decennio. Il corrispondente tasso maschile è pari al 67,6%. L'occupazione varia molto all'interno del Paese, passando dal 59,7% del Nord, al 55,9% del Centro e solo il 32,8% del Sud. Con questi valori l'Italia si colloca agli ultimi posti in Europa, seguita solo da Grecia e Malta. La situazione migliora tra le più giovani: tra le 25-34enni italiane, il tasso di occupazione è il 53,3% (69,9% per gli uomini) ma resta solo il 34% al Sud.
+Il basso tasso di occupazione contrasta con i risultati nell' istruzione . Le donne italiane sono oggi più istruite degli uomini: secondo il Censis (2019), le laureate in Italia sono pari al 56% del totale. Le donne sono la maggioranza anche negli studi post-laurea: rappresentano il 59,3% delle persone iscritte a dottorati di ricerca, corsi di specializzazione o master. Sono però ancora in minoranza nei percorsi  di  laurea  STEM  (scienza,  tecnologia,  ingegneria,  matematica).  Secondo  il  rapporto AlmaLaurea 2018 sul profilo delle persone laureate, gli uomini che hanno conseguito nell'anno 2017 un titolo universitario in un percorso STEM rappresentano il 59%, con proporzioni particolarmente elevate nei gruppi ingegneria (74%) e scientifico (68,4%). Tra chi è laureato non STEM prevalgono le donne (sono quasi due su tre).
+In  generale,  quando  lavorano,  le  donne  sono  un  soggetto  debole  sul  mercato  del  lavoro.  Vari indicatori sottolineano questo aspetto, tra cui il salario e la tipologia di lavoro. Secondo l'Eurostat, confrontando il salario lordo orario medio maschile e femminile, le donne europee guadagnano circa il 16% in meno degli uomini. In Italia la differenza è minore, sotto il 10%. Tuttavia, questo dato è fuorviante: quando il tasso di occupazione è basso, come in Italia, la selezione nel mercato del lavoro è maggiore, con la conseguenza che lavorano solo le donne più istruite e con redditi più elevati.  Gli  studi  infatti,  per  considerare  correttamente  questo  dato,  operano  una  correzione statistica per l'effetto selezione, a seguito della quale il dato italiano si riallinea con quello della media europea. Nel 2018, il 32,4% delle donne italiane occupate (15-64 anni, Istat) lavora parttime contro solo l'8% degli uomini. L'Istat stima che il 60% del part-time sia involontario .
+Le donne che lavorano a tempo determinato sono il 17,3% del totale delle lavoratrici.
+1 Si  segnala  che  i  dati  riportati  si  riferiscono  a  quanto  disponibile  al  momento  della  pubblicazione  della UNI/PdR e che potrebbero variare anche significativamente nel tempo.
+2 Profeta, Paola, Parità di genere e politiche pubbliche , EGEA, 2020.
+© UNI
+4
+
+================================================================================
+CHUNK 0
+CHUNK SUB 5
+SEZIONE: PREMESSA
+PAGINE: 3-12
+CARATTERI: 34843
+PAROLE: 4611
+PAGE: 7
+PAGINA CARATTERI: 3871
+PAGINA PAROLE: 572
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+La maternità rimane un ostacolo nel percorso di raggiungimento della parità di genere nel mercato del lavoro, poiché la scelta di avere un figlio ha effetti fortemente asimmetrici su uomini e donne. Innanzitutto, la maternità comporta una riduzione nella partecipazione femminile al mercato del lavoro: secondo i dati Istat (2019), in Italia il tasso di occupazione delle madri (25-64 anni) è 54,5%, contro l'83,5% dei padri. In secondo luogo, anche le madri che continuano a partecipare al mercato del lavoro, soffrono una sensibile riduzione nei redditi, a fronte di una sostanziale invarianza di quelli dei padri, una crescente letteratura ha evidenziato come la cosiddetta child penalty - il costo sul mercato del lavoro della nascita di un figlio - sia un fenomeno diffuso in diversi Paesi sviluppati, che colpisce le madri, ma non i padri.
+Secondo uno studio INPS del 2020 3 , in Italia la nascita di un figlio determina per la donna una riduzione della probabilità di continuare a lavorare e una perdita reddituale nei 24 mesi successivi alla nascita rispetto a quanto sarebbe accaduto se non avesse avuto il figlio.
+La penalità è molto pronunciata nel breve periodo - in particolare nell'anno del congedo e in quello successivo - ma permane anche a diversi anni di distanza dalla nascita. A quindici anni dalla maternità, i salari lordi annuali delle madri sono di 5.700 euro inferiori a quelli delle donne senza figli rispetto al periodo antecedente la nascita.
+Nel contesto italiano, esistono settori occupazionali tipicamente maschili, come l'industria e le costruzioni  (rispettivamente  71%  e  89%  di  uomini),  e settori  con  prevalenza  di  occupazione femminile , i servizi e in particolare sanità, istruzione, alloggio e ristorazione e attività artistiche (la percentuale di donne occupate in questi settori è circa il 50%). Le donne sono meno presenti nei settori che risultano più remunerativi.
+Il  processo  di  de-specializzazione  che  ha  interessato  l'Italia  a  partire  dal  1993  ha  favorito  la partecipazione  femminile  al  mercato  del  lavoro.  Un'analisi  più  attenta  dei  dati  (Ateco  5  digit) evidenzia  però  che,  nell'ambito  di  questi  settori, le  donne  spesso  non  ricoprono  ruoli  di responsabilità . Nell'ambito del settore Attività Professionali Scientifiche e Tecniche (Ateco M) la maggior presenza femminile si concentra nei servizi forniti agli studi professionali, mentre in ambito sanitario (Ateco Q Sanità ed Assistenza Sociale) le donne sono prevalentemente presenti in settori quali i servizi di assistenza sociale residenziale e non residenziale. In conclusione, se da un lato il processo di de-specializzazione ha favorito le donne, incrementando il peso dei settori produttivi in cui la partecipazione  femminile  è  più  elevata  in  tutte  le  regioni  d'Italia, dall'altro  questa partecipazione si caratterizza per lo più per figure professionali di profilo intermedio che spesso sono di supporto ad altre attività. La presenza delle donne si concentra in settori a basso valore aggiunto,  in  organizzazioni  di  piccole  e  piccolissime  dimensioni  o  in  organizzazioni  di  grandi dimensioni ma con figure professionali medio basse (operaie-impiegate).
+L'ulteriore elemento di contesto da considerare è quello legato alla carriera delle donne. Le donne in posizioni managerial i in Italia sono circa il 27% (Istat) del totale. Il glass ceiling, o soffitto di vetro - gli  ostacoli  che  le  donne  lavoratrici  incontrano  nella  loro  carriera  per  raggiungere  posizioni  di vertice - è ancora un fenomeno molto diffuso. Nelle posizioni manageriali le differenze di genere relative al reddito sono più elevate, pari a circa il 23% (Istat).
+3 Fonte:
+https://www.inps.it/docallegatiNP/Mig/Allegati/03_XIX%20Rapporto%20INPS%2024.10.2020_ver3_compre ssed.pdf pp. 330-333
+© UNI
+5
+
+================================================================================
+CHUNK 0
+CHUNK SUB 6
+SEZIONE: PREMESSA
+PAGINE: 3-12
+CARATTERI: 34843
+PAROLE: 4611
+PAGE: 8
+PAGINA CARATTERI: 4131
+PAGINA PAROLE: 590
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+Non da meno, è la metafora del pavimento appiccicoso sticky floor - utilizzata per far riflettere sulla segregazione verticale che vede le donne costrette in posizioni medio basse e, conseguentemente, meno remunerate.
+Un elemento di cambiamento in questo ambito è rappresentato dalla presenza delle donne nei consigli di amministrazione e collegi sindacali delle società quotate, che è balzata dal 7% del 2011 all'attuale 39%. Questo cambiamento, il più significativo nel contesto italiano delle statistiche di  genere e uno dei più significativi tra i Paesi europei, è stato raggiunto grazie all'introduzione nell'agosto 2011 di quote di rappresentanza di genere (Legge Golfo-Mosca 120/2011), rafforzata ed estesa temporalmente a partire dal gennaio 2020 (Legge di Bilancio 160/2019). Purtroppo, come evidenziato sopra, questo risultato non si è tradotto in uno sviluppo parallelo della presenza delle donne nelle posizioni di vertice (CEO/AD) e Executive Committee.
+La pandemia  Covid-19 è  scoppiata  in  una  situazione  di  contesto  particolarmente  difficile  per l'occupazione femminile italiana e rischia di accentuare i divari. Sono ormai numerosi gli studi che mostrano  che  i  divari  di  genere  rischiano  di  amplificarsi  durante  la  pandemia  Le  donne rappresentano un elemento debole sul mercato del lavoro e le crisi colpiscono soprattutto le parti più deboli. A differenza della crisi finanziaria del 2008, che ha colpito settori tipicamente maschili quali industria e costruzioni, lo shock determinato dal Covid-19 ha colpito anche i servizi, settore con prevalenza di occupazione al femminile. Lo shock del 2008 ha provocato una ' Man-cession ' durante la quale l'occupazione maschile decresceva ma quella femminile aumentava. Proprio a seguito  dello  shock  economico-finanziario  del  2008,  molte  donne  hanno  deciso  di  entrare  nel mercato del  lavoro,  passando  dalla  situazione  di  inattive  a  quella  di  attive  (attive  =  occupati  + disoccupati). La lettura congiunta dell'andamento dei dati relativi al mercato del lavoro degli uomini e delle donne evidenzia alcune criticità. Mentre lo shock economico faceva perdere il lavoro agli uomini, le donne entravano nel mercato del lavoro per cercare di sostenere la famiglia. La necessità di  lavorare  le  ha  però  spinte  ad  accettare  spesso  lavori  meno  qualificati  o  part-time.  La  crisi pandemica invece si identifica come una 'She-cession' . Le donne rappresentano la maggioranza delle persone occupate in settori lavorativi come la sanità e l'istruzione, che espongono a elevati rischi  di  contagio.  Sono  occupate  soprattutto  nel  settore  dei  servizi  messi  a  dura  prova  dalla pandemia. Inoltre, sulle donne rischia di gravare la maggior parte dell'aumento del lavoro domestico e di cura generato dalla pandemia.
+Accanto ad interventi  micro,  volti  ad  agire  sul  DNA  aziendale,  rivolti  al  riequilibrio  di  genere,  è necessario prendere in considerazione anche la Valutazione di Impatto di Genere delle politiche pubbliche .
+L'Unione Europea, nel marzo del 2020, ha predisposto il documento ' Un'Unione dell'uguaglianza: la  strategia  per  la  parità  di  genere  2020-2025 '  definendo  obiettivi  politici  e  azioni  chiave  per raggiungere  la  parità  di  genere  entro  il  2025.  La  strategia  prevede  la  realizzazione  di  misure specifiche  volte  a  conseguire  la  parità  di  genere,  combinate  a  una  maggior  integrazione  della dimensione di genere ' inserendo sistematicamente una prospettiva di genere in ogni fase dell'elaborazione delle politiche in tutti i settori di azione dell'UE, sia interni che esterni' . La strategia sarà attuata nel pieno rispetto del principio della intersezionalità così come è definito dallo European  Institute  for  Gender  Equality  (EIGE)  come  uno  " strumento  analitico  per  studiare, comprendere e rispondere ai modi in cui sesso e genere si intersecano con altre caratteristiche/identità  personali  e  i  modi  in  cui  tali  intersezioni  contribuiscono  a  determinare esperienze di discriminazione specifiche ".
+© UNI
+6
+
+================================================================================
+CHUNK 0
+CHUNK SUB 7
+SEZIONE: PREMESSA
+PAGINE: 3-12
+CARATTERI: 34843
+PAROLE: 4611
+PAGE: 9
+PAGINA CARATTERI: 3761
+PAGINA PAROLE: 553
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+Tra le azioni che l'Europa propone nell'ambito del gender mainstream , assume particolare rilevanza la valutazione dei progetti in termini di genere, il Gender Impact Assessment (GIA) definito dall'UE come segue: ' La valutazione di impatto di genere è il processo di confronto e valutazione, secondo criteri di genere rilevanti, della situazione attuale e delle tendenze future con gli sviluppi attesi risultanti dall'introduzione della misura proposta ' 4 .
+Il GIA viene promosso per stimare i diversi effetti (positivi e negativi) di qualsiasi politica, in corso di attuazione o attuata, in termini di parità di genere. Di conseguenza, essa tiene conto dei diversi bisogni, delle caratteristiche, delle priorità e dei comportamenti degli individui a cui le politiche sono in definitiva rivolte (Commissione Europea, 2003). Le sfide poste da questa analisi sono molteplici e riguardano: l'identificazione degli impatti potenziali su donne e uomini e sulle relazioni di genere; l'acquisizione  di  informazione  statistica,  ovvero  di  dati  disaggregati  per  genere  e  sufficienti  a valutare  l'impatto  dell'azione  proposta  dalla  politica;  la  scelta  di  indicatori  per  misurare  il cambiamento  nei  ruoli  e  nelle  relazioni  di  genere.  A  differenza  della  Gender  Analysis,  che  è finalizzata a cogliere le differenze di genere e le diverse condizioni in termini di accesso alle risorse, alle attività e ai processi decisionali, il GIA va oltre poiché fornisce informazioni sugli effetti di qualsiasi politica o azione proposta, chiede informazione statistica di qualità su cui basare le decisioni politiche e intende aumentare il livello e la qualità della partecipazione di donne e uomini a tutti i livelli della società.
+Le politiche, in accordo con il GIA vengono valutate non solo per la loro efficacia ma anche rispetto al mantenimento di equilibrio tra uomini e donne, sia in termini occupazionali, che in termini sociali. Quest'ultima dimensione rappresenta un elemento particolarmente importante in quanto le ricadute sociali derivanti dall'esclusione delle donne dalla vita produttiva del Paese possono generare la cosiddetta poverty trap .
+Si evidenzia infine che nel mese di luglio 2021 l'Italia ha predisposto, tramite la Ministra per le Pari opportunità,  la  Strategia  Nazionale  sulla  Parità  di  Genere  2021-2025,  che  si  ispira  alla  Gender Equality Strategy 2020-2025 dell'Unione Europea, ed è strettamente correlata al PNRR, di cui uno dei dispositivi legislativi è la Legge 5 novembre 2021 n. 162 sulla parità salariale. La legge introduce rilevanti novità, tra cui la modifica della nozione di 'discriminazione indiretta' per includere atti di natura organizzativa o che incidano sull'orario di lavoro, la trasparenza nei dati, l'ampliamento delle aziende  tenute  alla  presentazione  ogni  due  anni  del  rapporto  sul  personale  e  soprattutto  la CERTIFICAZIONE di parità di genere, per le aziende virtuose, cui corrispondono sgravi contributivi e premialità nella valutazione dei bandi pubblici.
+0.2 NECESSITÀ DEL RIEQUILIBRIO DI GENERE
+Il terzo dei Millennium Development Goals (MDGs) proposti dalle Nazione Unite (UN) è ' to promote gender  equality  and  empower  women '  ossia  promuovere  la  parità  di  genere  e  la  leadership femminile.
+Tra i 17 Obiettivi per lo Sviluppo Sostenibile - Sustainable Development Goals, SDGs - dell'Agenda 2030, il goal 5 si prefissa l'obiettivo di raggiungere l'uguaglianza di genere ed emancipare tutte le
+4 ' Gender impact assessment is the process of comparing and assessing, according to gender relevant criteria, the current situation and trend with the expected development resulting from the introduction of the proposed policy'.
+© UNI
+7
+
+================================================================================
+CHUNK 0
+CHUNK SUB 8
+SEZIONE: PREMESSA
+PAGINE: 3-12
+CARATTERI: 34843
+PAROLE: 4611
+PAGE: 10
+PAGINA CARATTERI: 3800
+PAGINA PAROLE: 521
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+donne e le ragazze. E più in generale, con il goal 10 si vuole ridurre l'ineguaglianza all'interno e fra le Nazioni.
+NOTA A supporto del conseguimento degli obiettivi  ONU  dell'Agenda 2030, anche  il sistema  nazionale, europeo e internazionale della normazione tecnica sta lavorando affinché il tema della parità di genere sia elemento chiave sia nei documenti tecnici che nei processi di sviluppo delle norme. In questo contesto UNI ha firmato la Dichiarazione UNECE Gender Responsive Standards Declaration 5 , documento elaborato da UNECE United Nations Economic Commission for Europe che ha come scopo di dare maggiore potere e valore  alle  donne,  rendendo  concreta  ed  efficace  la  parità  di  genere,  anche  attraverso  un  processo  di normazione che punti a realizzare standard che prestino sempre maggiore attenzione alla diversità di genere.
+È  noto  come  la  parità  di  genere  sia  motore  di  crescita  economica  e  di  sviluppo 6 .  Poiché  la distribuzione  dei  talenti  e  delle  capacità  tra  uomini  e  donne  è  la  stessa  e  le  donne  in  media detengono un capitale umano e una produttività non inferiore a quella  degli  uomini,  una  piena valorizzazione del talento femminile diventa elemento fondamentale nella creazione della crescita economica. Inoltre, il lavoro femminile rappresenta un contributo diretto alla formazione di PIL e alla creazione  di  crescita  economica,  come  misurato  da  molteplici  organizzazioni  internazionali: secondo le stime del Fondo Monetario Internazionale se le lavoratrici fossero numericamente pari ai lavoratori, in Italia il PIL aumenterebbe dell'11%. Infine, la partecipazione delle donne alla vita economica e alle decisioni economiche e politiche comporta un allargamento di prospettive che è essenziale per spingere l'innovazione e la performance .
+La letteratura recente sottolinea che le aziende più inclusive sono in grado di creare un valore più  elevato .  Da  decenni  sono  numerose  le  evidenze  non-accademiche  che  identificano  la correlazione positiva tra la presenza di donne in posizioni decisionali e le performance aziendali 7 . Queste evidenze, sia pur suggestive, non sono in grado di identificare se la performance aumenta perché ci sono più donne oppure se le donne aumentano in aziende che performano meglio, o ancora se sia la presenza di donne, sia la performance migliorano a causa di un fattore esterno che le determina, per esempio la cultura più favorevole o un mercato del lavoro più dinamico. Abbiamo però oggi studi rigorosi in grado di stimare l'effetto causale che una leadership femminile ha sui risultati economici. Per l'Italia, sono significativi gli studi condotti con riferimento all'introduzione di quote  di  genere,  un  fattore  esogeno  che  aumenta  il  numero  di  donne  in  posizioni  decisionali
+5  https://unece.org/trade/wp6/thermatic-areas/gender-resp-stds-decl
+6 Sugli  impatti  positivi  della  parità  di  genere  per  l'economia  sono  d'accordo  tutte  le  organizzazioni internazionali, che da decenni stimano l'impatto positivo e significativo della parità di genere sul PIL. Si veda Profeta, Paola, Parità di genere e politiche pubbliche , EGEA, 2020, per un'analisi degli effetti diretti e indiretti della relazione tra occupazione femminile e crescita economica.
+7  Mc Kinsey & Company, Diversity wins: how inclusion matters , 2020.
+https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters
+Mc Kinsey& Company, Women matter: Ten years of insight on gender diversity , 2013.
+https://www.mckinsey.com/featured-insights/gender-equality/women-matter-ten-years-of-insights-ongender-diversity
+Catalyst, Why diversity matters , 2013
+https://www.catalyst.org/research/why-diversity-matters/
+© UNI
+8
+
+================================================================================
+CHUNK 0
+CHUNK SUB 9
+SEZIONE: PREMESSA
+PAGINE: 3-12
+CARATTERI: 34843
+PAROLE: 4611
+PAGE: 11
+PAGINA CARATTERI: 3787
+PAGINA PAROLE: 530
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+indipendentemente da altri fattori 8  e che quindi permette di identificare in modo rigoroso il rapporto di causa-effetto. I risultati positivi sono confermati. Quali sono i canali che li spiegano?
+In  parte  la  relazione  positiva  dipende  dalle  caratteristiche  individuali  specifiche  delle  donne (avversione  al  rischio,  capacità  di  negoziare,  visione  di  lungo  periodo,  sensibilità  ai  temi  di sostenibilità), dalle modalità di relazionarsi, dalla capacità di interagire in gruppi, e in generale da quello che viene definito lo stile di leadership femminile , più inclusivo e orientato all'innovazione di  quello  maschile.  In  parte,  la  relazione  positiva  può  essere  vista  come  il  risultato  di  una competizione benefica che si innesca quando le donne prendono parte al processo di selezione: quando le posizioni di leadership si aprono a uomini e a donne e la platea dei candidati si allarga, il livello  di  qualità migliora  e  la  selezione  diventa  più  efficace.  Il  risultato  è  che  le  posizioni decisionali saranno occupate da persone più qualificate che opereranno scelte portatrici di maggior valore.  Infine,  gli  studi  esistenti  mostrano  che  la  presenza  di  donne  in  posizioni  decisionali  si accompagna alla definizione di una nuova agenda , dove temi come l'inclusione, la sostenibilità, il work-life  balance diventano  prioritari.  Si  tratta  di  temi  con  un  forte  impatto  propulsivo  sulla produttività  e  sul  valore  del  business,  a  conferma  che  la  parità  di  genere  può  innescare  circoli virtuosi che portano benefici per l'azienda, per la società e per l'economia.
+0.3 OBIETTIVI E STRUMENTI
+L'obiettivo della parità di genere ormai assunto a livello istituzionale, nazionale e internazionale, a partire dall'Agenda ONU 2030 fino alle linee guida europee, richiede interventi radicali per superare gli stereotipi di genere, sia in riferimento al contesto lavorativo che familiare, e scardinare le fonti di disuguaglianza. Inoltre, l'impatto economico e sociale della pandemia da Covid-19, impone alle realtà  aziendali  un  cambio  di  paradigma  nell'organizzazione  del  lavoro  e  rende  prioritaria  ed essenziale l'inclusione a tutti i livelli del 51% del Paese: le donne.
+Per realizzare un vero cambiamento di paradigma è necessario che i principi di parità di genere e di  rispetto  delle  diversità  siano  integrati  negli obiettivi  aziendali ed  è  quindi  necessario  per  le organizzazioni dotarsi di adeguati strumenti attraverso i quali:
+-porre l'attenzione e fissare precisi obiettivi per ogni fase lavorativa delle donne all'interno delle organizzazioni,
+-misurare in modo chiaro e standardizzato i progressi realizzati,
+-certificare i risultati raggiunti seguendo processi qualificati e trasparenti.
+Le  organizzazioni  si  impegnano  a  recepire  i  principi  di gender  equality ,  articolati  sull'intero percorso  professionale  e  fasi  di  vita  delle  lavoratrici,  dal  momento  del  recruiting  fino  al pensionamento,  con  l'obiettivo  non  solo  di  aumentare  la  presenza  femminile  all'interno  del contesto lavorativo ma anche di garantire pari opportunità di carriera, fino ai più importanti ruoli apicali, pari trattamento economico, condizioni di work-life balance adeguate alle diverse fasi di vita e proattive nel riequilibrio dei carichi familiari tra uomini e donne, nonché un ambiente di lavoro che rifiuti stereotipi, discriminazioni, ogni forma di abuso fisico, verbale, digitale e proponga invece una cultura della diversità e dell'inclusione.
+8  Ferraro Valeria; Ferrari Giulia; Profeta Paola; Pronzato Chiara, 'Do board gender quotas matter? Selection, performance and stock market effects. Management Science, forthcoming', 2021.
+© UNI
+9
+
+================================================================================
+CHUNK 0
+CHUNK SUB 10
+SEZIONE: PREMESSA
+PAGINE: 3-12
+CARATTERI: 34843
+PAROLE: 4611
+PAGE: 12
+PAGINA CARATTERI: 3775
+PAGINA PAROLE: 547
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+L'adozione e il perseguimento di un sistema di gestione per la parità di genere, che potrà portare anche alla 'Certificazione di parità di genere' per le organizzazioni che lo adotteranno, si propone di promuovere e tutelare la diversità e le pari opportunità sul luogo di lavoro, misurandone gli stati di avanzamento e i risultati attraverso la predisposizione di specifici KPI di cui si rende conto nei documenti ufficiali.
+Poiché il sistema economico funziona per incentivi, è necessario immaginare un meccanismo di premialità nei confronti delle organizzazioni che adottino un sistema di gestione per la parità di genere, con l'obiettivo di traghettare le organizzazioni italiane verso un modello che promuove la parità tra i sessi e la creazione di maggiore valore sostenibile .
+Nel contesto italiano, abbiamo evidenziato alcuni elementi specifici di particolare attenzione, che ci portano  ad  identificare  i  seguenti  aspetti  critici  del comportamento  delle  organizzazioni nei confronti del lavoro femminile:
+-Retribuzioni  e  carriere. Le  donne  sono  penalizzate  nella  retribuzione  e  nei  percorsi  di crescita professionale, occupano livelli professionali inferiori e in settori meno remunerativi. Questi divari di genere non possono essere pienamente spiegati in base alle caratteristiche osservabili di uomini e donne, né alle libere scelte individuali delle donne o delle famiglie, né al contesto istituzionale. Sono invece frutto di fattori che hanno le loro radici in una cultura aziendale  poco  aperta  alla  parità  di  genere  e  che  non  vede  penalizzata  la  sua  scarsa attenzione  alla  parità  di  genere.  Incentivi  a  valorizzare  la  parità  di  genere,  sono  misure efficaci per scardinare questa criticità.
+-Genitorialità e cura della famiglia. Nonostante la puntuale e completa tutela legislativa presente  nel  Paese,  la  genitorialità  è  ancora  elemento  scoraggiante  per  l'occupazione femminile, poiché ad essa le organizzazioni attribuiscono un costo elevato e asimmetrico rispetto a quello legato alla paternità. Sulla base di processi di discriminazione statistica, le organizzazioni attribuiscono alle madri mediamente un maggior coinvolgimento dei padri nella gestione della famiglia e della casa (evidenza provata dai dati) e quindi preferiscono assumere  e  promuovere  uomini  a  cui  non  attribuiscono  tali  carichi.  Di  conseguenza all'interno della coppia ci sarà un vero incentivo per la donna a dedicarsi maggiormente al lavoro di cura e al lavoro domestico e all'uomo a investire nel lavoro e nella carriera. Questo vale sia per la cura di figli/figlie che per altri compiti familiari, come la cura degli anziani o di altri individui fragili nel proprio nucleo familiare. Si genera dunque  un equilibrio discriminatorio da cui è difficile uscire, senza misure specifiche disegnate per lo scopo.
+-Bias gestionali e processi di gestione. I  processi gestionali non sono neutri rispetto al genere. L'esistenza di bias espliciti ma anche impliciti all'interno delle organizzazioni è stata misurata da un'ampia letteratura economica. Anche i processi di selezione non sono neutri: un gruppo di valutatori completamente maschile sarà meno in grado di valutare le capacità di  una  lavoratrice  donna.  Il  risultato,  tuttavia,  non  è  efficiente,  poiché  può  portare  alla selezione di profili candidati non sulla base del merito e quindi della futura performance, ma sulla  base  di  altre  caratteristiche.  In  altri  termini,  la  presenza  dei bias è  molto  costosa. Rimuovere i bias è estremamente difficile. Il primo passo è il riconoscimento della loro stessa esistenza, grazie ad indicatori oggettivi di misurazione. Gestire i processi aziendali diventerà più efficiente.
+© UNI
+10
+
+================================================================================
+CHUNK 1
+CHUNK SUB 1
+SEZIONE: 1 SCOPO E CAMPO DI APPLICAZIONE
+PAGINE: 13-13
+CARATTERI: 2339
+PAROLE: 356
+PAGE: 13
+PAGINA CARATTERI: 2327
+PAGINA PAROLE: 354
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+1 SCOPO E CAMPO DI APPLICAZIONE
+La prassi di riferimento definisce le linee guida sul sistema di gestione per la parità di genere che prevede la strutturazione  e  adozione  di  un  insieme  di  indicatori  prestazionali  (KPI)  inerenti  alle politiche di parità di genere nelle organizzazioni.
+La  prassi  di  riferimento  per  la  parità  di  genere  nelle  organizzazioni  prevede  la  misura,  la rendicontazione e la valutazione dei dati relativi al genere nelle organizzazioni con l'obiettivo di colmare i gap attualmente esistenti nonché incorporare il nuovo paradigma relativo alla parità di genere nel DNA delle organizzazioni e produrre un cambiamento sostenibile e durevole nel tempo.
+Il documento non si applica alle Partite IVA che non hanno dipendenti o addetti/e.
+2 RIFERIMENTI NORMATIVI E LEGISLATIVI
+La presente prassi di riferimento rimanda, mediante riferimenti datati e non, a disposizioni contenute in altre pubblicazioni. Tali riferimenti normativi e legislativi sono citati nei punti appropriati del testo e sono di seguito elencati. Per quanto riguarda i riferimenti datati, successive modifiche o revisioni apportate a dette pubblicazioni valgono unicamente se introdotte nel presente documento come aggiornamento o revisione. Per i riferimenti non datati vale l'ultima edizione della pubblicazione alla quale si fa riferimento.
+Decreto Legislativo 11 aprile 2006, n.198 Codice delle pari opportunità tra uomo e donna, a norma dell'articolo 6 della legge 28 novembre 2005, n.246. (Gazzetta Ufficiale n.125 del 31-5-2006 - Suppl. Ordinario n.133)
+L. 162/2021 Modifiche al codice di cui al D.Lgs 11 aprile 2006 n.198 e altre disposizioni in materia di parità tra uomo e donna in ambito lavorativo (Gazzetta Ufficiale n.275 del 18-11-2021)
+UNI EN ISO 9000 Sistemi di gestione per la qualità - Fondamenti e vocabolario
+UNI EN ISO 9001 Sistemi di gestione per la qualità
+UNI EN ISO 19011 Linee guida per gli audit dei sistemi di gestione per la qualità e/o di gestione ambientale
+UNI  CEI  EN  ISO/IEC  17021-1  Valutazione  della  conformità  -  Requisiti  per  gli  organismi  che forniscono audit e certificazione di sistemi di gestione - Parte 1: Requisiti
+UNI EN ISO 26000 Guida alla responsabilità sociale
+UNI ISO 30415, Gestione delle risorse umane - Diversità e inclusione
+© UNI
+11
+
+================================================================================
+CHUNK 2
+CHUNK SUB 1
+SEZIONE: 3 TERMINI E DEFINIZIONI
+PAGINE: 14-16
+CARATTERI: 8514
+PAROLE: 1165
+PAGE: 14
+PAGINA CARATTERI: 2776
+PAGINA PAROLE: 369
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.1 addetto/a: Persona occupata in un'unità giuridica, come lavoratore/lavoratrice indipendente o dipendente (a tempo pieno, a tempo parziale o con contratto di formazione lavoro), anche se temporaneamente assente (per servizio, ferie, malattia, sospensione dal lavoro, Cassa integrazione guadagni, ecc.). Comprende il/i titolare/i della/e impresa/e partecipante/i direttamente alla  gestione,  i  cooperatori  (soci  di  cooperative  che,  come  corrispettivo  della  loro  prestazione, percepiscono  un  compenso  proporzionato  all'opera  resa  e  una  quota  degli  utili  dell'impresa),  i coadiuvanti familiari (parenti o affini del titolare che prestano lavoro manuale senza una prefissata retribuzione contrattuale), dirigenti, quadri, impiegati, operai e apprendisti.
+[Fonte:  Report  statistiche  ISTAT,  CONTI  ECONOMICI  DELLE  IMPRESE E DEI GRUPPI DI IMPRESA | ANNO 2019, 2 novembre 2021]
+3.2 benefit: Tutti i beni e servizi che un'organizzazione offre, in varie forme (es. buoni pasto, automobile,  assicurazione  sanitaria,  asili  nido,  voucher  per  attività  sportive  dei  figli,  facilitazioni d'acquisto sui propri prodotti), al personale dipendente in aggiunta alla retribuzione.
+3.3 budget: Programmazione delle attività di un'organizzazione in vista del conseguimento di determinati obiettivi, con stanziamento della somma che si decide di spendere.
+3.4 caregiver: Chi si prende cura di un'altra persona.
+3.5 check list: Lista dei requisiti della presente UNI/PdR che occorre controllare e spuntare per verificare che le attività pianificate siano state eseguite correttamente.
+3.6 comitato guida: Comitato istituito dall'Alta Direzione per l'efficace adozione e la continua ed efficace applicazione della Politica per la Parità di Genere.
+3.7 conciliazione vita-lavoro: Capacità di equilibrare la sfera lavorativa e quella privata.
+3.8 DEI: Diversità, Equità e Inclusione.
+3.9 delega: Assegnazione  dell'esercizio  di  poteri  e  funzioni  e  della  capacità  di  agire relativamente a determinati voci di costo, investimenti, compiti.
+3.10 dipendente :  Persona  che  svolge  la  propria  attività  lavorativa  in  un'unità  giuridica  ed  è iscritta nel libro paga dell'organizzazione. Sono considerati tra i/le lavoratori/lavoratrici dipendenti:
+-le persone socie di cooperativa iscritte nel libro paga;
+-i/le dirigenti, i quadri, gli/le impiegati/e e gli/le operai/e, a tempo pieno o parziale;
+-gli/le apprendisti/e;
+-i/le lavoratori/lavoratrici a domicilio iscritti nel libro paga;
+-i/le lavoratori/lavoratrici stagionali;
+-i/le lavoratori/lavoratrici con contratto di formazione lavoro.
+© UNI
+12
+
+================================================================================
+CHUNK 2
+CHUNK SUB 2
+SEZIONE: 3 TERMINI E DEFINIZIONI
+PAGINE: 14-16
+CARATTERI: 8514
+PAROLE: 1165
+PAGE: 15
+PAGINA CARATTERI: 2738
+PAGINA PAROLE: 373
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+[Fonte:  Report  statistiche  ISTAT,  CONTI  ECONOMICI  DELLE  IMPRESE E DEI GRUPPI DI IMPRESA | ANNO 2019, 2 novembre 2021]
+3.11 discriminazione: Assenza  di  pari  opportunità  e  trattamento,  operata  in  seguito  a  un giudizio o a una classificazione.
+NOTA Nella presente UNI/PdR si intende principalmente discriminazione di genere.
+3.12 empowerment femminile: Processo attraverso cui una donna acquisisce competenze, autonomia e potere che le permettono di compiere scelte strategiche in ambito personale, sociale, politico ed economico e quindi di avere il controllo sulla propria vita. Tale processo, sostenuto da politiche che favoriscono la parità di genere, riconosce i bisogni e le esperienze specifiche delle donne, permettendo loro di vivere relazioni paritarie e di esercitare il diritto di accedere al mercato del lavoro e ai servizi pubblici rilevanti (es. welfare, salute, istruzione).
+3.13 formazione: Processo  attraverso  cui  le  persone  acquisiscono  conoscenze  e  capacità, tecniche e manageriali, che abilitano la piena partecipazione e contribuzione rispetto al proprio ruolo all'interno dell'organizzazione.
+3.14 gender diversity: Diversità di genere.
+3.15 governance: Sistema di governo attraverso il quale un'organizzazione prende e attua le decisioni nel perseguimento dei suoi obiettivi.
+3.16 HR : Risorse Umane.
+3.17 inclusione: Inserimento  stabile  e  funzionale  in  un  sistema  o  gruppo  per  favorire  pari opportunità e non discriminazione creando valore per le persone, per le organizzazioni e il contesto sociale.
+3.18 Key  Performance  Indicator  (KPI): Indicatori  chiave  di  prestazione,  utilizzati  per  il monitoraggio degli obiettivi stabiliti dalla politica di parità di genere e descritti nel piano strategico.
+3.19 molestia (molestia sessuale) : Comportamento indesiderato avente lo scopo o l'effetto di rendere un ambiente di lavoro offensivo, umiliante o degradante.
+3.20 parità di genere: Parità di genere tra sessi.
+3.21 piano strategico: Documento formale nel quale l'organizzazione definisce gli obiettivi da perseguire, stabilisce risorse, responsabilità, metodi e frequenze di monitoraggio.
+3.22 politica di parità di genere: Documento formale nel quale l'organizzazione definisce il quadro generale all'interno del quale devono essere individuate le strategie e gli obiettivi riguardanti l'uguaglianza di genere.
+3.23 promozione: Passaggio a una qualifica o livello contrattuale o organizzativo superiore.
+3.24 recruiting: Selezione del personale.
+3.25 retribuzione : Importo della retribuzione  complessiva  corrisposta,  delle  componenti accessorie del salario, anche collegate alle premialità del risultato, dei bonus e di ogni altro beneficio
+© UNI
+13
+
+================================================================================
+CHUNK 2
+CHUNK SUB 3
+SEZIONE: 3 TERMINI E DEFINIZIONI
+PAGINE: 14-16
+CARATTERI: 8514
+PAROLE: 1165
+PAGE: 16
+PAGINA CARATTERI: 2958
+PAGINA PAROLE: 417
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+riconosciuti  al  personale,  in  base  a  quanto  previsto  dai  contratti  collettivi  sottoscritti  dalle organizzazioni sindacali comparativamente più rappresentative a livello nazionale per il settore di riferimento.
+NOTA La retribuzione si compone di una parte fissa a cui possono aggiungersi una parte variabile (monetaria e/o finanziaria) ed eventuali benefit (tipicamente non monetari).
+3.26 selezione: Processo volto al reperimento, alla scelta e all'inserimento nell'organizzazione di nuove risorse.
+3.27 smart working o lavoro agile o lavoro flessibile: Modalità di esecuzione del rapporto di lavoro subordinato caratterizzato dall'assenza di vincoli orari o spaziali e un'organizzazione per fasi, cicli e obiettivi, stabilita mediante accordo tra dipendente e datore di lavoro; una modalità che aiuta il  lavoratore  a  conciliare  i  tempi  di  vita  e  lavoro  e,  al  contempo,  favorire  la  crescita  della  sua produttività.
+[Fonte: Definizione tratta dalla Legge n. 81/2017]
+3.28 staff: Gruppo di persone addette a un particolare compito, di solito sotto la guida di una persona responsabile che coordina.
+3.29 stereotipi di genere: Insieme rigido di credenze condivise e trasmesse socialmente, su quelli che sono e devono essere i comportamenti, il ruolo, le occupazioni, i tratti, l'apparenza fisica di una persona, in relazione alla sua appartenenza di genere.
+3.30 sviluppo: Sistema  integrato  di  attività  tramite  il  quale  il  personale  migliora  le  proprie competenze e abilità e ne impara di nuove, in modo da svolgere il lavoro in modo più efficace ed efficiente (formazione, coaching, job rotation, ecc.).
+3.31 talent development: Processo di sviluppo del talento del personale e del suo potenziale.
+3.32 target: Obiettivo  che  un'organizzazione  si  propone  di  raggiungere,  espresso  in  termini quantitativi.
+3.33 telelavoro: Lavoro  effettuato a distanza grazie all'utilizzo di sistemi telematici di comunicazione.
+3.34 valori: Elementi  chiave  della  cultura  di un'organizzazione  che  rafforzano  l'identità nell'organizzazione stessa, che indirizzano i comportamenti attesi dalle risorse e che e al tempo stesso la contraddistinguono da tutte le altre organizzazioni.
+3.35 vertice: Top Management o Alta Direzione (es. Country Manager).
+3.36 welfare  aziendale: Insieme  delle azioni volte a migliorare il benessere  dei/delle lavoratori/lavoratrici e delle loro famiglie con un approccio di 'corso di vita'. I/le lavoratori/lavoratrici sono consumatori di servizi e prodotti di welfare aziendale e devono essere partecipi (soggetti attivi) delle azioni decise. Il piano di welfare aziendale deve essere integrativo e complementare con il welfare  pubblico  e  coerente  con  il  contesto  locale  dell'organizzazione.  Le  somme,  i  beni,  le prestazioni, le opere e i servizi hanno finalità di rilevanza sociale e per questo sono escluse, in tutto o in parte, da reddito di lavoro.
+© UNI
+14
+
+================================================================================
+CHUNK 3
+CHUNK SUB 1
+SEZIONE: 4 PRINCIPIO
+PAGINE: 17-17
+CARATTERI: 2656
+PAROLE: 381
+PAGE: 17
+PAGINA CARATTERI: 2644
+PAGINA PAROLE: 379
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+[FONTE: UNI/PdR 103:2021]
+3.37 well-being : Benessere fisico, psicologico e sociale.
+3.38 whistle-blowing: Denuncia, di solito anonima, presentata dal personale di un'organizzazione alle autorità pubbliche, ai mezzi d'informazione, a gruppi di interesse pubblico, di attività non etiche o illecite commesse all'interno dell'organizzazione stessa. Termine utilizzato anche per le denunce al Sistema interno di Responsabilità Sociale.
+4 PRINCIPIO
+La presente UNI/PdR ha l'obiettivo di inserirsi in un contesto più ampio rappresentato da alcuni pilastri descritti  di  seguito  la  cui  azione  congiunta  è  volta  ad  avviare  quel  percorso  sistemico di cambiamento culturale nelle organizzazioni e nella Società tutta al fine di raggiungere una più equa parità di genere.
+Tale contesto è dettato dalla necessità di massimizzare obiettivi specifici in materia di occupazione e rappresentanza femminile nelle aziende pubbliche e private in Italia.
+Si supera in questo modo la visione stereotipata dei ruoli, attivando la grande risorsa dei talenti femminili per stimolare la crescita economica e sociale del Paese agendo sui seguenti driver:
+rispetto dei principi costituzionali di parità ed uguaglianza;
+adozione di politiche e misure per favorire l'occupazione femminile -  specie quella delle giovani donne e quella qualificata - e le imprese femminili, anche con incentivi per l'accesso al credito e al mercato ed agevolazioni fiscali;
+adozione di misure che favoriscano l'effettiva parità tra uomini e donne nel mondo del lavoro, tra  cui:  pari  opportunità  nell'accesso  al  lavoro,  parità  reddituale,  pari  accesso  alle opportunità di carriera e di formazione, piena attuazione del congedo di paternità in linea con le migliori pratiche europee;
+promozione di politiche di welfare a sostegno del 'lavoro silenzioso' di chi si dedica alla cura della famiglia, nel rispetto del co. 1 art. 3 della Costituzione (uguaglianza formale);
+adozione di misure specifiche a favore delle pari opportunità, in linea con quanto stabilito dal co. 2 art. 3 della Costituzione (uguaglianza sostanziale);
+integrazione del principio dell'equità di genere nella normativa nazionale  affinché la sua adozione volontaria diventi riferimento qualora fosse richiesto alle organizzazioni pubbliche e private di ogni settore e dimensione di certificare la sostenibilità e l'adozione di politiche di genere, giustificata a ragione di specifiche esigenze e finalità produttive, in contesti quali, ad esempio, gare di appalto, rilascio di contributi pubblici oppure da un sistema di premialità allineato ai principi di libero mercato.
+© UNI
+15
+
+================================================================================
+CHUNK 4
+CHUNK SUB 1
+SEZIONE: 5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+PAGINE: 18-29
+CARATTERI: 24328
+PAROLE: 3795
+PAGE: 18
+PAGINA CARATTERI: 2787
+PAGINA PAROLE: 390
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.
+Il documento si completa con: una Appendice A relativa alle raccomandazioni per la valutazione di conformità di terza parte (certificazione) alla presente UNI/PdR per le organizzazioni che hanno implementato un sistema di gestione atto a garantire la parità di genere; una Appendice B relativa ad esempi di KPI per settore industriale.
+5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+5.1 GENERALITÀ
+È  fondamentale  che  l'efficacia  delle  azioni  intraprese  dall'organizzazione  al  fine  di  creare  un ambiente di lavoro inclusivo delle diversità, in linea con quanto previsto nella UNI EN ISO 26000 sulla  responsabilità  sociale  delle  organizzazioni  e  come  suggerito  nella  UNI  ISO  30415,  e  che sostenga  la  parità  di  genere,  venga  misurato  rispetto  a  un  insieme  di  indicatori  caratterizzati dall'essere  percorribili,  pertinenti  e  confrontabili  e  in  grado  di  guidare  il  cambiamento  e  di rappresentare il continuo miglioramento messo in atto dalle organizzazioni stesse.
+Lo sviluppo di un ambiente di lavoro inclusivo richiede difatti un impegno costante e un contributo di  tutta  l'organizzazione  in  termini  di  linguaggio,  politiche,  processi,  pratiche  organizzative,  e comportamenti consci e inconsci delle singole persone.
+Al fine di garantire una misurazione olistica del livello di maturità delle singole organizzazioni, sono state individuate 6 Aree di indicatori attinenti alle differenti variabili che possono contraddistinguere un'organizzazione inclusiva e rispettosa della parità di genere quali:
+Cultura e strategia (5.2);
+Governance (5.3);
+Processi HR (5.4);
+Opportunità di crescita ed inclusione delle donne in azienda (5.5);
+Equità remunerativa per genere (5.6);
+Tutela della genitorialità e conciliazione vita-lavoro (5.7).
+Ogni Area è contraddistinta da un peso % (fatto 100 il totale del peso delle differenti Aree) che contribuisce alla misurazione del livello as-is dell'organizzazione e rispetto al quale sono misurati gli stati di avanzamento costanti nel tempo.
+Per ciascuna Area di valutazione sono stati identificati degli specifici KPI attraverso i quali misurare il grado di maturità dell'organizzazione attraverso un monitoraggio annuale e una verifica ogni due anni, per dare evidenza del miglioramento ottenuto grazie alla varietà degli interventi messi in atto o del remediation plan attivato.
+© UNI
+16
+
+================================================================================
+CHUNK 4
+CHUNK SUB 2
+SEZIONE: 5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+PAGINE: 18-29
+CARATTERI: 24328
+PAROLE: 3795
+PAGE: 19
+PAGINA CARATTERI: 2320
+PAGINA PAROLE: 325
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+Al fine di assicurare l'opportuna coerenza con le diverse realtà organizzative che rappresentano il Sistema Paese inteso quale intero apparato economico-produttivo della nazione, si prevede che gli indicatori afferenti alle 6 Aree sopracitate, siano applicabili secondo un principio di proporzionalità che  ne  definisce  un'applicazione  proporzionale  e  graduale  in  ragione  del  profilo  dimensionale dell'organizzazione considerata quale sintesi della differente articolazione e complessità organizzativa.
+Sono escluse dall'applicazione del presente documento le Partite IVA che non hanno dipendenti o addetti/e.
+È  auspicabile  che  consorzi,  Reti  di  Impresa  o  General  Contractor  che  intendano  adottare  la presente  UNI/PdR,  definiscano  una  formula  di  selezione  e  qualifica,  all'interno  del  processo  di selezione dei propri consorziati/imprese/outsourcer, che richieda agli stessi l'adozione della prassi di riferimento.
+In  coerenza  con  la  tassonomia  Istat,  sono  state  identificate  4  fasce  o  cluster  attraverso  cui classificare le organizzazioni (private, pubbliche, enti, ecc.):
+Prospetto 1 - Fasce/Cluster di classificazione delle organizzazioni
+A fronte della classificazione in una delle quattro fasce, viene definito il set di indicatori considerati i  presidi  target  in  tema  di  diversità  coerenti  alla  dimensione  dell'organizzazione.  Sono  previste semplificazioni per le organizzazioni appartenenti alla fascia 1 (micro-organizzazione) e fascia 2 (piccola organizzazione), mentre  per le organizzazioni appartenenti alla fascia 3 (media organizzazione) e alla fascia 4 (grande organizzazione) sono applicati la totalità degli indicatori.
+Gli indicatori sono di natura quantitativa e qualitativa.
+Gli indicatori di natura qualitativa sono misurati in termini di presenza o non presenza, mentre gli indicatori  di  natura  quantitativa  sono  misurati  in  termini  di  delta  %  rispetto  a  un  valore  interno aziendale o al valore medio di riferimento nazionale o del tipo di attività economica (codice ATECO di appartenenza) come dalla seguente aggregazione:
+© UNI
+17
+
+
+
+**[TABELLA]**
+| FASCIA | CLUSTER | NUMERO ADDETTI/E |
+| --- | --- | --- |
+| 1 | MICRO | 1-9 |
+| 2 | PICCOLA | 10-49 |
+| 3 | MEDIA | 50-249 |
+| 4 | GRANDE | 250 e oltre |
+
+================================================================================
+CHUNK 4
+CHUNK SUB 3
+SEZIONE: 5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+PAGINE: 18-29
+CARATTERI: 24328
+PAROLE: 3795
+PAGE: 20
+PAGINA CARATTERI: 2293
+PAGINA PAROLE: 375
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+Prospetto 2 - Classificazione ATECO delle organizzazioni
+Ogni singolo indicatore è associato a un punteggio il cui raggiungimento o meno viene ponderato per il peso dell'Area di appartenenza.
+È previsto il raggiungimento dello score minimo di sintesi complessivo del 60% per determinare l'accesso alla certificazione da parte dell'organizzazione. In tal modo, l'attribuzione di una verifica di conformità in base allo score finale consente agli stakeholder di riconoscere la validità e l'efficacia dei processi implementati internamente, con ricadute positive in termini reputazionali del brand ed economici.
+La  certificazione  viene  rilasciata  al  momento  della  rilevazione  degli  indicatori,  se  esistono  già  i requisiti relativi al conseguimento del punteggio minimo stabilito attraverso i KPI. Ogni due anni tale certificazione  viene  rivalutata  e  rinnovata  se  sui  gap  rilevati  sono  stati  messi  in  atto  piani  di mitigazione e miglioramento.
+Il  modello di calcolo è da considerarsi dinamico, cioè l'algoritmo si aggiorna ogni anno con una nuova media sulla base dei dati ricevuti per l'anno precedente per ogni categoria (codice ATECO).
+5.2 AREA CULTURA E STRATEGIA
+Area volta a misurare che i principi e gli obiettivi di inclusione, parità di genere e attenzione alla gender  diversity dell'organizzazione  siano  coerenti  con  la  sua  visione,  le  finalità  e  i  valori  che caratterizzano l'ambiente di lavoro.
+Il peso dell'Area rispetto alla valutazione complessiva è pari al 15%.
+Gli indicatori attinenti a questa area sono 7 e di seguito riportati.
+© UNI
+18
+
+
+
+**[TABELLA]**
+| LETTERE | CODICE | ETICHETTA |
+| --- | --- | --- |
+| A | 01 | Agricoltura, silvicoltura e pesca |
+| B-E | 02 | Industria in senso stretto |
+| F | 03 | Costruzioni |
+| G | 04 | Commercio |
+| I | 05 | Alberghi e ristoranti |
+| H | 06 | Trasporto e magazzinaggio |
+| J | 07 | Servizi di informazione e comunicazione |
+| K | 08 | Attività finanziarie e assicurative |
+| L-N | 09 | Attività immobiliari, servizi alle imprese e altre attività professionali e imprenditoriali |
+| O | 10 | Amministrazione pubblica e difesa assicurazione sociale obbligatoria |
+| P-Q | 11 | Istruzione, sanità e altri servizi sociali |
+| R-U | 12 | Altri servizi collettivi e personali |
+
+================================================================================
+CHUNK 4
+CHUNK SUB 4
+SEZIONE: 5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+PAGINE: 18-29
+CARATTERI: 24328
+PAROLE: 3795
+PAGE: 21
+PAGINA CARATTERI: 1696
+PAGINA PAROLE: 284
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+Prospetto 3 - Cultura e strategia
+© UNI
+19
+
+
+
+**[TABELLA]**
+| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |
+| --- | --- | --- | --- | --- |
+| 1. Formalizzazione e implementazione di un piano strategico come definito al punto 6.3 che possa favorire e sostenere lo sviluppo di un ambiente di lavoro inclusivo e preveda valori aziendali coerenti con una cultura inclusiva | QUALITATIVO | SÌ/NO | Interna | 20 |
+| 2. Presenza di procedure interne che consentono alle risorse di esprimere, anche in modalità anonima, le proprie opinioni e dare suggerimenti per il cambiamento nell'organizzazione e favorire il dialogo e il confronto NOTA Sono da intendersi, oltre alle procedure in senso stretto, anche iniziative, progetti e valori stabiliti dall'azienda il cui fine sia il medesimo, ovvero consentire alle persone di esprimere opinioni e creare un ambiente aperto al confronto e al dialogo. | QUALITATIVO | SÌ/NO | Interna | 10 |
+| 3. Presenza di attività di comunicazione interna e di sensibilizzazione che promuovano l'utilizzo di comportamenti e di un linguaggio in grado di garantire un ambiente di lavoro inclusivo e rispettoso delle diversità di genere | QUALITATIVO | SÌ/NO | Interna | 20 |
+| 4. Presenza di politiche che garantiscano che i generi siano equamente rappresentati tra i relatori del panel di tavole rotonde, eventi, convegni o altro evento anche di carattere scientifico | QUALITATIVO | SÌ/NO | Interna | 10 |
+| 5. Realizzazione nell'ultimo biennio di interventi formativi a tutti i livelli, compresi i vertici, sulla differenza di genere e suo valore, gli stereotipi e gli unconscious bias | QUALITATIVO | SÌ/NO | Interna | 10 |
+
+================================================================================
+CHUNK 4
+CHUNK SUB 5
+SEZIONE: 5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+PAGINE: 18-29
+CARATTERI: 24328
+PAROLE: 3795
+PAGE: 22
+PAGINA CARATTERI: 1454
+PAGINA PAROLE: 217
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+Per  le  organizzazioni  appartenenti  alla fascia  dimensionale  1 è  considerato  necessario  il raggiungimento dell'indicatore numero 1, per le organizzazioni appartenenti alla fascia dimensionale 2 sono considerati necessari solo gli indicatori numero 1, 3 e 5.
+5.3 AREA GOVERNANCE
+Area volta a misurare il grado di maturità del modello di governance dell'organizzazione volto a definire  gli  adeguati  presidi  organizzativi  e  la  presenza  del  genere  di  minoranza  negli  organi  di indirizzo e controllo dell'organizzazione nonché la presenza di processi volti a identificare e porre rimedio a qualsiasi evento di non inclusione.
+Il peso dell'Area rispetto alla valutazione complessiva è pari al 15%.
+Gli indicatori attinenti a questa area sono 5 e di seguito riportati.
+© UNI
+20
+
+
+
+**[TABELLA]**
+| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |
+| --- | --- | --- | --- | --- |
+| 6. Realizzazione di interventi finalizzati all'analisi della percezione delle/dei dipendenti sulle pari opportunità nell'ultimo anno | QUALITATIVO | SÌ/NO | Interna | 20 |
+| 7. Realizzazione di interventi finalizzati a promuovere le pari opportunità fuori dal proprio contesto organizzativo nell'ultimo biennio, che includano, tra altre, attività di comunicazione e coinvolgimento dei diversi stakeholder sui temi dell'inclusione, della parità di genere e della integrazione | QUALITATIVO | SÌ/NO | Interna | 10 |
+
+================================================================================
+CHUNK 4
+CHUNK SUB 6
+SEZIONE: 5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+PAGINE: 18-29
+CARATTERI: 24328
+PAROLE: 3795
+PAGE: 23
+PAGINA CARATTERI: 1779
+PAGINA PAROLE: 279
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+Prospetto 4 - Governance
+Per  le  organizzazioni  appartenenti  alla fascia  dimensionale  1 è  considerato  necessario  il raggiungimento dell'indicatore numero 1; per le organizzazioni appartenenti alla fascia dimensionale 2 sono considerati necessari gli indicatori numero 1 e 2.
+© UNI
+21
+
+
+
+**[TABELLA]**
+| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |
+| --- | --- | --- | --- | --- |
+| 1. Definizione nella governance dell'organizzazione di un presidio (comitato, unità o funzione, ruolo organizzativo, ecc.) volto alla gestione e monitoraggio delle tematiche legate all'inclusione, alla parità di genere e integrazione NOTA Il tipo di presidio per la gestione e monitoraggio dei temi di genere può variare in relazione alle dimensioni e alla complessità dell'organizzazione. Per le organizzazioni di fascia dimensionale 1 è | QUALITATIVO | SÌ/NO | Interna | 25 |
+| 2. Presenza di processi per identificare, approfondire e gestire qualsiasi forma di non inclusività | QUALITATIVO | SÌ/NO | Interna | 25 |
+| 3. Presenza di un budget dell'organizzazione per lo sviluppo di attività a supporto dell'inclusione, della parità di genere e dell'integrazione | QUALITATIVO | SÌ/NO | Interna | 15 |
+| 4. Definizione di obiettivi legati alla parità di genere e loro attribuzione ai vertici e al management, per i quali saranno valutati | QUALITATIVO | SÌ/NO | Interna | 15 |
+| 5. Presenza di esponenti del sesso meno rappresentato nell'organo amministrativo e di controllo della organizzazione | QUANTITATIVO | Numero assoluto delle quote di genere rispetto a requisiti normativi di riferimento o pari comunque a 1/3 della composizione complessiva del consiglio di amministrazione | Normativa vigente o Regolamentazi one interna | 20 |
+
+================================================================================
+CHUNK 4
+CHUNK SUB 7
+SEZIONE: 5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+PAGINE: 18-29
+CARATTERI: 24328
+PAROLE: 3795
+PAGE: 24
+PAGINA CARATTERI: 2085
+PAGINA PAROLE: 342
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+5.4 AREA PROCESSI HR
+Area volta a misurare il grado di maturità dei principali processi in ambito HR, relativi ai diversi stadi che caratterizzano il ciclo di vita di una risorsa nell'organizzazione e che si dovrebbero basare su principi di inclusione e rispetto delle diversità.
+Il peso dell'Area rispetto alla valutazione complessiva è pari al 10%.
+Gli indicatori attinenti a questa area sono 6 e di seguito riportati.
+Prospetto 5 - Processi Human Resources (HR)
+Per  le  organizzazioni  appartenenti  alla fascia  dimensionale  1 è  considerato  necessario  il raggiungimento  degli  indicatori  numero  1  e  6;  per  le  organizzazioni  appartenenti  alla fascia dimensionale 2 sono considerati necessari gli indicatori numero 1, 4 e 6.
+© UNI
+22
+
+
+
+**[TABELLA]**
+| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |
+| --- | --- | --- | --- | --- |
+| 1. Definizione di processi di gestione e sviluppo delle risorse umane a favore dell'inclusione, della parità di genere e dell'integrazione, quali selezione, condizioni generali di contratto, on-boarding neutrali, valutazioni prestazioni | QUALITATIVO | SÌ/NO | Interna | 25 |
+| 2. Presenza di meccanismi di analisi del Turnover in base al genere | QUALITATIVO | SÌ/NO | Interna | 15 |
+| 3. Presenza di politiche in grado di garantire la partecipazione equa e paritaria a percorsi di formazione e di valorizzazione, con la presenza di entrambi i sessi, inclusi corsi sulla leadership | QUALITATIVO | SÌ/NO | Interna | 15 |
+| 4. Presenza di politiche di mobilità interna e di successione a posizioni manageriali coerenti con i principi di un'organizzazione inclusiva e rispettosa della parità di genere | QUALITATIVO | SÌ/NO | Interna | 20 |
+| 5. Presenza di meccanismi di protezione del posto di lavoro e di garanzia del medesimo livello retributivo nel post-maternità | QUALITATIVO | SÌ/NO | Interna | 15 |
+| 6. Presenza di referenti e prassi aziendali a tutela dell'ambiente di lavoro, con particolare riferimento ed episodi di molestie o mobbing | QUALITATIVO | SÌ/NO | Interna | 10 |
+
+================================================================================
+CHUNK 4
+CHUNK SUB 8
+SEZIONE: 5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+PAGINE: 18-29
+CARATTERI: 24328
+PAROLE: 3795
+PAGE: 25
+PAGINA CARATTERI: 1966
+PAGINA PAROLE: 313
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+5.5 AREA OPPORTUNITÀ DI CRESCITA ED INCLUSIONE DELLE DONNE IN AZIENDA
+Area volta a misurare il grado di maturità delle organizzazioni in relazione all'accesso neutrale dei generi ai percorsi di carriera e di crescita interni e la relativa accelerazione.
+Il peso dell'Area rispetto alla valutazione complessiva è pari al 20%.
+Gli indicatori attinenti a questa area sono 7 e di seguito riportati.
+Prospetto 6 - Opportunità di crescita ed inclusione delle donne in azienda
+© UNI
+23
+
+
+
+**[TABELLA]**
+| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |
+| --- | --- | --- | --- | --- |
+| 1. INDICATORE APPLICABILE SOLO ALLE ORGANIZZAZIONI DI FASCIA 1 E 2 Percentuale di donne nell'organizzazione rispetto alla totalità dell'organico NOTA Considerare nel calcolo le varie altre forme di collaborazione. | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una differenza almeno pari a +10 punti% (pp) rispetto al valore del biennio precedente fino al raggiungimento della parità | Interna | 25 |
+| 2. INDICATORE APPLICABILE SOLO PER ORGANIZZAZIONI DI FASCIA 3 E 4 Percentuale di donne nell'organizzazione rispetto alla totalità dell'organico rispetto al benchmark dell'industria di riferimento NOTA Considerare nel calcolo le varie altre forme di collaborazione. | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una differenza almeno pari a +10 punti% (pp) rispetto al valore medio dell'industry di appartenenza e comunque in crescita anno su anno fino al raggiungimento della parità. NOTA La fonte dati da utilizzare per quantificare %èquella rispetto al codice ATECO, in particolare fare riferimento al codice ATECO più disaggregato. | Istat, Rilevazione sulle Forze di lavoro. | 25 |
+| 3. INDICATORE APPLICABILE SOLO ALLE ORGANIZZAZIONI DI FASCIA 2 | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una differenza almeno pari a +10 punti% (pp) rispetto al valore | Interna | 25 |
+
+================================================================================
+CHUNK 4
+CHUNK SUB 9
+SEZIONE: 5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+PAGINE: 18-29
+CARATTERI: 24328
+PAROLE: 3795
+PAGE: 26
+PAGINA CARATTERI: 1641
+PAGINA PAROLE: 269
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+© UNI
+24
+
+
+
+**[TABELLA]**
+| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |
+| --- | --- | --- | --- | --- |
+| Percentuale di donne nell'organizzazione con qualifica di dirigente ( in caso di impresa familiare considerare anche le donne con ruoli dirigenziali espressione della proprietà) |  | del biennio precedente fino al raggiungimento della parità |  |  |
+| 4. INDICATORE APPLICABILE SOLO PER ORGANIZZAZIONI DI FASCIA 3 E 4 Percentuale di donne nell'organizzazione con qualifica di dirigente (per le imprese familiari considerare solo donne non espressione della proprietà ) | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una differenza almeno pari a +10 punti% (pp) rispetto al valore medio dell'industry di appartenenza e comunque in crescita anno su anno fino al raggiungimento della parità | Istat, Rilevazione sulle Forze di lavoro. | 25 |
+| 5. Percentuale di donne nell'organizzazione responsabili di una o più unità organizzative rispetto al totale della popolazione di riferimento | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una quota almeno pari al 40% rispetto al totale responsabili e comunque in crescita anno su anno fino al raggiungimento della parità | Interna | 20 |
+| 6. Percentuale di donne presenti nella prima linea di riporto al Vertice | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una differenza almeno pari a +10 punti% (pp) rispetto al valore medio %di donne con qualifica di dirigente nell'industry di appartenenza e comunque in crescita anno su anno fino al raggiungimento della parità | Interna | 20 |
+
+================================================================================
+CHUNK 4
+CHUNK SUB 10
+SEZIONE: 5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+PAGINE: 18-29
+CARATTERI: 24328
+PAROLE: 3795
+PAGE: 27
+PAGINA CARATTERI: 2611
+PAGINA PAROLE: 413
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+Per  le  organizzazioni  appartenenti  alla fascia  dimensionale  1 è  considerato  necessario  il raggiungimento dell'indicatore numero 1; per le organizzazioni appartenenti alla fascia dimensionale 2 sono considerati necessari solo gli indicatori numero 1 e 3.
+NOTA L'Appendice B riporta degli esempi di KPI per settori industriali come da settori ATECO individuati nel prospetto 2.
+5.6 AREA EQUITÀ REMUNERATIVA PER GENERE
+Area volta a misurare il grado di maturità delle organizzazioni in relazione al differenziale retributivo in logica di total reward comprendente quindi anche compensi non monetari quali sistemi di welfare e well-being .
+Il peso dell'Area rispetto alla valutazione complessiva è pari al 20%.
+Gli indicatori attinenti a questa area sono 3 e di seguito riportati.
+© UNI
+25
+
+
+
+**[TABELLA]**
+| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |
+| --- | --- | --- | --- | --- |
+| 7. Percentuale di donne presenti nell'organizzazione con delega su un budget di spesa/investimento NOTA Considerare nel calcolo la %di donne con delega di spesa o facenti parte della prima linea di riporto al vertice, come previsto dall'indicatore 5 per i/le responsabili di unità organizzative rispetto al numero totale di persone facenti parte di questi gruppi. | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una differenza almeno pari a + 10 punti% (pp) rispetto al valore medio %di donne con qualifica di dirigente nell'industry di appartenenza e comunque in crescita anno su anno fino al raggiungimento della parità | Interna | 10 |
+| NOTA I punti percentuali, indicati con l'abbreviazione 'p.p.', indicano l'incremento numerico assoluto di un numero espresso percentualmente: - se dal 3% si passa al 13%, c'è un incremento di 10 p.p. | NOTA I punti percentuali, indicati con l'abbreviazione 'p.p.', indicano l'incremento numerico assoluto di un numero espresso percentualmente: - se dal 3% si passa al 13%, c'è un incremento di 10 p.p. | NOTA I punti percentuali, indicati con l'abbreviazione 'p.p.', indicano l'incremento numerico assoluto di un numero espresso percentualmente: - se dal 3% si passa al 13%, c'è un incremento di 10 p.p. | NOTA I punti percentuali, indicati con l'abbreviazione 'p.p.', indicano l'incremento numerico assoluto di un numero espresso percentualmente: - se dal 3% si passa al 13%, c'è un incremento di 10 p.p. | NOTA I punti percentuali, indicati con l'abbreviazione 'p.p.', indicano l'incremento numerico assoluto di un numero espresso percentualmente: - se dal 3% si passa al 13%, c'è un incremento di 10 p.p. |
+
+================================================================================
+CHUNK 4
+CHUNK SUB 11
+SEZIONE: 5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+PAGINE: 18-29
+CARATTERI: 24328
+PAROLE: 3795
+PAGE: 28
+PAGINA CARATTERI: 1684
+PAGINA PAROLE: 274
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+Prospetto 7 - Equità remunerativa per genere
+Per  le  organizzazioni  appartenenti  alla fascia  dimensionale  1  e  2 è  considerato  necessario l'indicatore numero 1.
+© UNI
+26
+
+
+
+**[TABELLA]**
+| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |
+| --- | --- | --- | --- | --- |
+| 1. Percentuale di differenza retributiva per medesimo livello inquadramentale per genere e a parità di competenze NOTA Sono da escludere dal computo le corresponsioni legate a maggiori o diverse prestazioni (es. straordinario, indennità e rimborsi vari). | QUANTITATIVO | Il KPI viene considerato raggiunto quando il delta tra retribuzione media maschile e femminile a parità di mansione/ ruolo è inferiore al 10% e come per ogni indicatore decrescente negli anni successivi | Interna | 40 |
+| 2. Percentuale promozioni donne su base annua | QUANTITATIVO | Il KPI si considera raggiunto quando la% di donne promosse rispetto al totale di donne in organico è pari alla %di uomini promossi rispetto il totale di uomini in organico, prendendo in considerazione i diversi livelli funzionali e non in valore assoluto | Interna | 30 |
+| 3. Percentuale donne con remunerazione variabile per assicurare la corresponsione del salario variabile in maniera equa, rendendo note ai lavoratori e alle lavoratrici le procedure e i criteri seguiti nell'attuazione delle politiche retributive per quel che riguarda la parte variabile del salario | QUANTITATIVO | Il KPI si considera raggiunto quando la% di donne con variabile target rispetto al totale di donne in organico è pari alla %di uomini con variabile target rispetto il totale di uomini in organico | Interna | 30 |
+
+================================================================================
+CHUNK 4
+CHUNK SUB 12
+SEZIONE: 5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI
+PAGINE: 18-29
+CARATTERI: 24328
+PAROLE: 3795
+PAGE: 29
+PAGINA CARATTERI: 1825
+PAGINA PAROLE: 290
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+5.7 AREA TUTELA DELLA GENITORIALITÀ E CONCILIAZIONE VITA-LAVORO
+Area volta a misurare il grado di maturità delle organizzazioni in relazione alla presenza di politiche a  sostegno  della  genitorialità  nelle  diverse  forme  e  l'adozione  di  procedure  che  facilitino  e supportino la presenza anche di donne con figli e figlie in età prescolare.
+Il peso dell'Area rispetto alla valutazione complessiva è pari al 20%.
+Gli indicatori attinenti a questa area sono 5 e di seguito riportati.
+Prospetto 8 - Tutela della genitorialità e conciliazione vita-lavoro
+© UNI
+27
+
+
+
+**[TABELLA]**
+| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |
+| --- | --- | --- | --- | --- |
+| 1. Presenza servizi dedicati al rientro post maternità/paternità (ad esempio: procedure/attività per il back to work , coaching , part-time su richiesta temporaneo e reversibile, smart working , piano welfare ad hoc, asilo nido aziendale) | QUALITATIVO | SÌ/NO | Interna | 20 |
+| 2. Presenza di policy, oltre il CCNL di riferimento, dedicate alla tutela della maternità/ paternità e servizi per favorire la conciliazione dei tempi di vita personale e lavorativa (ad esempio: congedo di paternità oltre il CCNL, procedure/attività per il back to work , coaching , part-time reversibile, smart working, piano welfare ad hoc, asilo nido aziendale, programmi di engagement, su base volontaria, durante il congedo di maternità) | QUALITATIVO | SÌ/NO | Interna | 35 |
+| 3. Presenza di policy per il mantenimento di benefits e iniziative che valorizzino l'esperienza della genitorialità come momento di acquisizione di nuove competenze a favore della persona e dell'organizzazione e che tutelino la relazione tra persona e azienda prima, durante e dopo la maternità/paternità | QUALITATIVO | SÌ/NO | Interna | 25 |
+
+================================================================================
+CHUNK 5
+CHUNK SUB 1
+SEZIONE: 6 POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, E SISTEMA DI GESTIONE
+PAGINE: 30-37
+CARATTERI: 20318
+PAROLE: 2807
+PAGE: 30
+PAGINA CARATTERI: 2457
+PAGINA PAROLE: 373
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.
+6 POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, E SISTEMA DI GESTIONE
+6.1 POLITICHE DI PARITÀ DI GENERE
+Le  organizzazioni  che  adottano  una  politica  di  parità  di  genere  globale  che  si  proponga  di valorizzare e tutelare la diversità e le pari opportunità sul luogo di lavoro, devono definire un piano di  azione  per  la  sua  attuazione,  impostando  un  modello  gestionale  che  garantisca  nel  tempo  il mantenimento  dei  requisiti  definiti  ed  attuati,  misurando  gli  stati  di  avanzamento  dei  risultati attraverso la predisposizione di specifici KPI di cui rendono conto nei documenti del sistema di gestione, attraverso il quale mantengono e verificano le azioni pianificate.
+La politica globale deve contenere riferimenti a politiche collegate relative almeno alla gestione del personale e delle carriere ed alla comunicazione (comprese le attività di marketing e pubblicità) che devono  dichiarare  in  modo  trasparente  la  volontà  dell'organizzazione  di  perseguire  la  parità  di genere, valorizzare le diversità e supportare l'empowerment femminile.
+La  politica  generale  e  quelle  collegate  alla  parità  di  genere  possono  fare  parte  di  un  unico documento del sistema, e devono essere riconfermate o aggiornate al momento della revisione periodica, come parte della verifica e del miglioramento del sistema di gestione.
+I KPI di cui al punto 5 della presente UNI/PdR, costituiscono una parte importante delle informazioni necessarie per determinare e spiegare come un'organizzazione (azienda, ente, PA) progredisce verso gli obiettivi prefissati.
+© UNI
+28
+
+
+
+**[TABELLA]**
+| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |
+| --- | --- | --- | --- | --- |
+| 4. Rapporto tra il numero dei beneficiari uomini effettivi sul totale dei beneficiari potenziali dei congedi di paternità nei primi dodici anni di vita del bambino obbligatori | QUANTITATIVO | I KPI si considerano progressivamente raggiunti quanto più si avvicinano al 100% | INPS + Interna | 10 |
+| 5. Rapporto tra n. di giorni medio di congedo di paternità obbligatorio fruiti e il totale di n. gg potenziale previsto dalla legge | QUANTITATIVO | I KPI si considerano progressivamente raggiunti quanto più si avvicinano al 100% | INPS + Interna | 10 |
+
+================================================================================
+CHUNK 5
+CHUNK SUB 2
+SEZIONE: 6 POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, E SISTEMA DI GESTIONE
+PAGINE: 30-37
+CARATTERI: 20318
+PAROLE: 2807
+PAGE: 31
+PAGINA CARATTERI: 2594
+PAGINA PAROLE: 352
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+La politica di parità di genere aziendale, deve essere:
+definita dall'Alta Direzione, in coordinamento con il comitato guida;
+comunicata e diffusa all'interno dell'organizzazione ed alle proprie parti interessate;
+oggetto di formazione e sensibilizzazione al management aziendale,
+revisionata o confermata periodicamente in fase di revisione sulla base degli accadimenti, dei cambiamenti e dei risultati dei monitoraggi e delle verifiche;
+coordinata  da  una  figura  responsabile,  designata  dal  management  e  in  possesso  di competenze organizzative e di genere.
+La politica di parità deve essere resa disponibile sul sito dell'organizzazione.
+La politica deve contenere i principi e le indicazioni guida che definiscono l'impegno dell'organizzazione  nei  confronti  dei  temi  relativi  alla  parità  di  genere,  la  valorizzazione  delle diversità e l'empowerment femminile.
+La direzione assegna risorse (budget), responsabilità ed autorità adeguate per la persecuzione, il raggiungimento ed il mantenimento degli obiettivi di parità di genere stabiliti.
+La direzione, in relazione alla dimensione aziendale, deve nominare un comitato guida per l'efficace adozione e la continua ed efficace applicazione della politica per la parità di genere (generale e correlate). Il comitato guida, in base alle dimensioni dell'organizzazione, deve essere composto almeno dall'amministratore delegato, o da un delegato dalla proprietà, e dal direttore del personale, o altra figura equivalente.
+6.2 PIANIFICAZIONE
+Il  comitato guida deve redigere il piano strategico che definisce per ogni tema identificato dalla politica (generale e collegate) obbiettivi semplici, misurabili, raggiungibili, realistici, pianificati nel tempo ed assegnati come responsabilità di attuazione.
+Il piano strategico per l'attuazione deve essere composto dalle seguenti fasi, tipiche dei processi di pianificazione:
+identificazione dei processi aziendali correlati ai temi relativi alla parità di genere individuati;
+identificazione dei punti di forza e di quelli di debolezza rispetto ai temi;
+definizione degli obiettivi;
+definizione delle azioni decise per colmare i gap;
+definizione, frequenza e responsabilità di monitoraggio dei KPI definiti (vedere punto 5).
+Il piano strategico deve essere condiviso dalla direzione e mantenuto aggiornato nel tempo.
+In  base alla dimensione dell'organizzazione, il piano strategico può avere una maggior o minor complessità, ferma restando la necessità che siano individuate le frequenze di monitoraggio dei KPI applicabili, come definiti al punto 5.
+© UNI
+29
+
+================================================================================
+CHUNK 5
+CHUNK SUB 3
+SEZIONE: 6 POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, E SISTEMA DI GESTIONE
+PAGINE: 30-37
+CARATTERI: 20318
+PAROLE: 2807
+PAGE: 32
+PAGINA CARATTERI: 2643
+PAGINA PAROLE: 368
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+6.3 ATTUAZIONE DELLE AZIONI DEL PIANO STRATEGICO E MONITORAGGIO
+6.3.1 GENERALITÀ
+L'organizzazione deve attuare le azioni ed i monitoraggi definiti nel piano, in particolare fornendo:
+istruzioni scritte sulle modalità di attuazione e di monitoraggio, ove applicabile;
+formazione generale e specifica, a tutti i livelli, inclusi quelli contro i pregiudizi e gli stereotipi legati al genere.
+Devono essere predisposti corsi di formazione sui principi etici, sui temi e sulle modalità operative adottati dall'organizzazione, per garantire l'efficacia della politica per la parità di genere. Tali corsi sono indirizzati a tutto il personale, come opportuno; in particolare per le persone che occupano posizioni  manageriali  devono  riguardare  i  principi,  i  temi  e  gli  obbiettivi  che  ricadono  sotto  le specifiche responsabilità.
+I temi principali oggetto del piano strategico ed i relativi requisiti minimi sono riportati nel seguente punto 6.3.2.
+6.3.2 TEMI OGGETTO DEL PIANO STRATEGICO
+6.3.2.1 SELEZIONE ED ASSUNZIONE (RECRUITMENT)
+In relazione alle proprie politiche e risorse, l'organizzazione deve:
+predisporre procedure di selezione ed assunzione che definiscano regole atte a prevenire la disparità di genere, in particolare idonee a contrastare i bias, ad esempio contattare in modo equo i profili candidati sulla base del genere;
+predisporre in maniera che le descrizioni della mansione da assumere siano neutre rispetto al genere ed il processo di reclutamento sia rivolto sia agli uomini che alle donne;
+non  permettere  che,  durante  i  colloqui,  siano  effettuate  richieste  relative  ai  temi  del matrimonio, della gravidanza o delle responsabilità di cura.
+6.3.2.2 GESTIONE DELLA CARRIERA
+In relazione alle proprie politiche e risorse, l'organizzazione deve:
+definire processi finalizzati ad assicurare la non discriminazione e le pari opportunità nello sviluppo professionale e nelle promozioni, basandole esclusivamente sulle capacità ed i livelli professionali;
+tendere al bilanciamento di genere nelle posizioni di leadership aziendale, in correlazione con il settore specifico e le specifiche mansioni;
+rivolgere le opportunità di carriera ed i programmi per lo sviluppo professionale a tutto lo staff;
+rendere disponibili i dati relativi: allo stato delle assunzioni, alla situazione per genere, alla situazione  maschile  per  ognuna  delle  professioni,  alla  formazione,  alla  promozione professionale, ai livelli, ai passaggi di categoria o di qualifica, ad altri fenomeni di mobilità, all'intervento  della  CIG,  ai  licenziamenti,  ai  prepensionamenti  e  pensionamenti,  alla
+© UNI
+30
+
+================================================================================
+CHUNK 5
+CHUNK SUB 4
+SEZIONE: 6 POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, E SISTEMA DI GESTIONE
+PAGINE: 30-37
+CARATTERI: 20318
+PAROLE: 2807
+PAGE: 33
+PAGINA CARATTERI: 2602
+PAGINA PAROLE: 351
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+retribuzione effettivamente corrisposta (obbligo per aziende pubbliche e private con > 50 dipendenti ex art.46 del decreto legislativo 11 aprile 2006, n. 198, così come modificato dalla legge 162/2021);
+creare un ambiente lavorativo che favorisca la diversity e tuteli  il  benessere  psico-fisico dei/delle dipendenti;
+pianificare attività di monitoraggio in grado di rilevare i dati di cui alla lettera d);
+prevedere opportunità di formazione specificamente rivolte allo sviluppo e al miglioramento delle competenze professionali di leadership per affrontare gli ostacoli alla carriera riscontrati dal genere meno rappresentato, laddove rilevati dal monitoraggio di cui alla lettera f).
+6.3.2.3 EQUITÀ SALARIALE
+In relazione alle proprie politiche e risorse, l'organizzazione deve:
+dotarsi  di  mansionario  della  singola  impresa  che  completi  e  dettagli  quello  generico  dei CCNL, per la segnalazione da parte dei/delle dipendenti di eventuali disparità retributive;
+predisporre un meccanismo di controllo per evitare pratiche che non corrispondano alle politiche non discriminatorie dichiarate, comprendendo stipendi, benefit, bonus, programmi di welfare;
+informare periodicamente i/le dipendenti delle politiche retributive adottate in azienda anche con riferimento a benefit, bonus, programmi di welfare;
+ove esistente, il programma di welfare deve considerare le esigenze delle persone di ogni genere ed età.
+6.3.2.4 GENITORIALITÀ, CURA
+In relazione alle proprie politiche e risorse, l'organizzazione deve:
+predisporre programmi specifici per i congedi di maternità o di paternità (es. programmi di formazione  per  il  re-inserimento)  e  una  modalità  di  informazione  circa  gli  eventuali cambiamenti importanti che avvengono sul luogo di lavoro durante il congedo;
+predisporre un piano per la gestione delle diverse fasi della maternità (prima, durante e dopo);
+attuare  meccanismi di informazione finalizzati a  incentivare  la  richiesta  del  congedo  per paternità;
+pianificare iniziative specifiche per supportare i/le dipendenti al loro rientro da un congedo genitoriale (formazione, supporto), inclusi eventuali piani di 'engagement' da proporre su base volontaria alle donne in congedo di maternità;
+includere nell'ambito del programma di welfare aziendale, ove esistente, iniziative specifiche per supportare i/le dipendenti nelle loro attività genitoriali e di caregiver;
+offrire  servizi  specifici  quali  asili  nido  aziendale,  dopo  scuola  per  i  bambini  o  durante  le vacanze scolastiche, voucher per attività sportive dei figli, ecc.
+© UNI
+31
+
+================================================================================
+CHUNK 5
+CHUNK SUB 5
+SEZIONE: 6 POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, E SISTEMA DI GESTIONE
+PAGINE: 30-37
+CARATTERI: 20318
+PAROLE: 2807
+PAGE: 34
+PAGINA CARATTERI: 2663
+PAGINA PAROLE: 359
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+6.3.2.5 CONCILIAZIONE DEI TEMPI VITA-LAVORO (WORK-LIFE BALANCE)
+In relazione alle proprie politiche e risorse, l'organizzazione deve:
+dotarsi di misure per garantire l'equilibrio vita-lavoro ( work-life balance ) rivolte a tutti/e i/le dipendenti;
+stabilire/promuovere  accordi  specifici  per  consentire  il  lavoro  part-time  a  chi  ne  faccia richiesta;
+offrire  flessibilità  di  orario,  stabilendo  e  comunicando  regole  e  procedure  semplici  ed accessibili per usufruirne;
+effettuare una revisione periodica delle esigenze di flessibilità dei/delle dipendenti;
+offrire la possibilità di smart working/telelavoro o di altre forme di lavoro flessibile, e orario elastico;
+garantire che le riunioni di lavoro siano tenute in orari compatibili con la conciliazione dei tempi di vita familiare e personale;
+garantire che alle riunioni di lavoro possano partecipare anche i lavoratori e le lavoratrici a part-time e con contratti di lavoro flessibili, discontinui, ecc.
+6.3.2.6 ATTIVITÀ DI PREVENZIONE DI OGNI FORMA DI ABUSO FISICO, VERBALE, DIGITALE (MOLESTIA) SUI LUOGHI DI LAVORO
+In  relazione  alle  proprie  politiche  e  risorse,  l'organizzazione  deve  dare  piena  attuazione  alle previsioni  di  legge  e  agli  accordi  collettivi,  sottoscritti  dalle  organizzazioni  imprenditoriali  cui aderisce, in materia di contrasto alle molestie sui luoghi di lavoro.
+In particolare, l'organizzazione deve:
+individuare il rischio di ogni forma di abuso fisico, verbale, digitale (molestia) alla luce della Salute e Sicurezza sul Luogo di Lavoro;
+preparare un Piano per la prevenzione e gestione delle molestie sul lavoro;
+prevedere una specifica formazione a tutti i livelli, con frequenza definita, sulla 'tolleranza zero' rispetto ad ogni forma di violenza nei confronti dei/delle dipendenti, incluse le molestie sessuali ( sexual harassment ) in ogni forma;
+prevedere una metodologia di segnalazione anonima di questa tipologia di accadimenti a tutela dei/delle dipendenti che segnalano;
+pianificare  e  attuare  delle  verifiche  (survey)  presso  i/le  dipendenti,  indagando  se  hanno vissuto  personalmente  esperienze  di  atteggiamenti  di  questo  tipo,  che  hanno  provocato disagio o turbamento,  all'interno o nello svolgimento  del  proprio  lavoro  all'esterno (atteggiamenti sessisti, comportamenti o situazioni di mancanza di rispetto);
+valutare gli ambienti di lavoro anche da questo punto di vista;
+prevedere una valutazione dei rischi e analisi eventi avversi segnalati;
+assicurare una costante attenzione al linguaggio utilizzato, sensibilizzando una comunicazione il più possibile gentile e neutrale.
+© UNI
+32
+
+================================================================================
+CHUNK 5
+CHUNK SUB 6
+SEZIONE: 6 POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, E SISTEMA DI GESTIONE
+PAGINE: 30-37
+CARATTERI: 20318
+PAROLE: 2807
+PAGE: 35
+PAGINA CARATTERI: 2472
+PAGINA PAROLE: 342
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+6.4 SISTEMA DI GESTIONE
+6.4.1 GENERALITÀ
+Di seguito i principali aspetti che il sistema di gestione di un'organizzazione deve prevedere per garantire il mantenimento nel tempo dei requisiti definiti nella presente UNI/PdR.
+6.4.2 DOCUMENTAZIONE DEL SISTEMA
+In relazione alle proprie politiche e risorse, l'organizzazione deve:
+gestire la documentazione del sistema in modo da assicurare che le versioni in vigore siano note agli utilizzatori, chiaramente identificate, preparate, approvate e modificate da chi ne ha l'autorità;
+identificare  i  requisiti  normativi  specifici  rispetto  al  tema  della  parità  di  genere  in  ambito lavorativo, elencarli mantenendoli aggiornati e comunicarli al proprio interno alle funzioni responsabili della valutazione del loro impatto, della loro presa in carico ed attuazione;
+raccogliere e analizzare i dati disaggregati per genere.
+6.4.3 MONITORAGGIO DEGLI INDICATORI
+In relazione alle proprie politiche e risorse, l'organizzazione deve:
+raccogliere ed analizzare i KPI generali e specifici relativi all'attuazione del piano strategico;
+valutare l'andamento dei KPI con frequenza idonea, come previsto dal piano strategico, e attuare azioni di correzione a fronte di deviazioni.
+Gli indicatori devono essere coerenti con la tipologia di organizzazione, la sua dimensione, il settore di riferimento e il contesto, e le parti interessate.
+6.4.4 COMUNICAZIONE INTERNA ED ESTERNA
+In relazione alle proprie politiche e risorse, l'organizzazione deve:
+predisporre e diffondere alle proprie parti interessate (stakeholder) un piano di comunicazione relativo al proprio impegno sui temi della parità di genere (o più in generale sui temi DEI);
+ basare la propria comunicazione interna ed esterna (marketing, pubblicità) sulla responsabilità (evitando nelle azioni pubblicitarie lo stereotipo di genere, assicurando una revisione periodica dei materiali e delle strategie di marketing, impegnandosi a diffondere un'immagine  positiva  di  donne  e  ragazze,  utilizzando  un  linguaggio  rispettoso  delle differenze di genere);
+identificare le parti interessate con le quali instaurare una comunicazione rispetto ai temi della parità di genere, in particolare in ambito lavorativo;
+garantire che la comunicazione sia coerente con i principi della politica e con gli obbiettivi stabiliti e attuati attraverso il piano strategico;
+allineare la comunicazione interna ed esterna ai valori e alla cultura aziendale.
+© UNI
+33
+
+================================================================================
+CHUNK 5
+CHUNK SUB 7
+SEZIONE: 6 POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, E SISTEMA DI GESTIONE
+PAGINE: 30-37
+CARATTERI: 20318
+PAROLE: 2807
+PAGE: 36
+PAGINA CARATTERI: 2590
+PAGINA PAROLE: 347
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+6.4.5 AUDIT INTERNI (SISTEMA DI VERIFICA INTERNO DI CONFORMITÀ ALLA UNI/PdR)
+In relazione alle proprie politiche e risorse, l'organizzazione deve pianificare, attuare e documentare un sistema di audit interni indirizzati alla verifica della reale ed efficace applicazione della politica e delle  direttive  aziendali  sulla  parità  di  genere,  nonché  del  rispetto  delle  istruzioni  e  procedure definite a tal fine. Gli audit sono attuati secondo le modalità definite dalla UNI EN ISO 19011, con team indipendenti rispetto alle attività verificate, competenti sulla base di requisiti definiti dal sistema (es. corso UNI EN ISO 19011, esperienza minima in azienda, formazione sulla presente UNI/PdR e  sul  sistema  di  gestione  aziendale)  e  bilanciati  in  termini  di  genere.  Gli  audit  devono  essere pianificati, comunicati e finalizzati a raccogliere le evidenze oggettive della conformità, segnalate le deviazioni, che devono essere gestite secondo le regole definite al punto 6.4.5.1.
+6.4.5.1 VERIFICA DI CONFORMITÀ ALLA PRESENTE UNI/PdR: TIPOLOGIE DI EVIDENZE QUANTITATIVE E QUALITATIVE
+L'audit interno (verifica del sistema) è un'attività che fornisce evidenza del rispetto dei requisiti del sistema di gestione e della presente UNI/PdR. L'audit è condotto secondo quanto previsto dalla UNI EN ISO 19011: deve raccogliere evidenze oggettive che dimostrino lo stato di conformità di quanto  attuato,  le  evidenze  oggettive  che  possono  essere  di  tipo  quantitativo  (ossia  misurabili oggettivamente: es. KPI, attività svolte o non svolte, trend e misurazioni varie) o qualitativo (ossia valutabili, preferibilmente sulla base di criteri condivisi: documenti dichiarativi di politiche, obbiettivi, comunicazione interna ed esterna, coinvolgimento stakeholder, ecc.).
+Di seguito esempi di evidenze riconducibili ai requisiti del presente punto:
+i. Evidenze Quantitative
+-Report monitoraggio KPI
+-Budget dedicato alle iniziative sulla parità di genere
+-Report monitoraggio situazioni non conformi
+-Piani formativi su parità di genere e sistema di gestione relativo
+-Check list di riferimento correttamente compilate ed utilizzate
+-Eventuale contenzioso sulla tematica
+ii. Evidenze Qualitative
+-Politiche aggiornate
+-Piano strategico aggiornato
+-Comunicazione interna ed esterna
+-Coinvolgimento stakeholder (associazioni, enti pubblici, università, rappresentanze, ecc.)
+-Attività di diffusione interne della cultura della parità di genere
+-Eventuale partecipazione ad iniziative esterne per la diffusione della cultura della parità di genere
+© UNI
+34
+
+================================================================================
+CHUNK 5
+CHUNK SUB 8
+SEZIONE: 6 POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, E SISTEMA DI GESTIONE
+PAGINE: 30-37
+CARATTERI: 20318
+PAROLE: 2807
+PAGE: 37
+PAGINA CARATTERI: 2179
+PAGINA PAROLE: 299
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+6.4.6 GESTIONE DELLE SITUAZIONI NON CONFORMI
+In relazione alle proprie politiche e risorse, l'organizzazione deve:
+definire una modalità di raccolta, gestione e documentazione delle situazioni non conformi, ovvero definire una modalità di raccolta dei KPI non in linea (deviazioni rispetto ai requisiti individuati nella presente UNI/PdR, segnalazioni interne, reclami, incidenti rispetto ai temi della parità di genere o alle politiche - ad esempio in un report -, con evidenza delle azioni attuate  per  risolvere  le  cause  degli  accadimenti  -  es.  violazione  politiche  di  selezione  e assunzione,  reclami  rispetto  ai  temi,  analisi  eventuali  meccanismi  di whistle-blowing , incidenti o segnalazioni di violenze o sopraffazioni, KPI non in linea, ecc.);
+garantire che vengano attivati i meccanismi di comunicazione, regolati secondo la presente UNI/PdR,  all'interno  dell'organizzazione  o  al  suo  esterno  quando  la  situazione  è  non conforme ai KPI e vengano attuate azioni al fine di rimuovere le cause dell'accadimento.
+6.4.7 REVISIONE PERIODICA
+In relazione alle proprie politiche e risorse, l'organizzazione deve pianificare, attuare e mantenere registrazione di una revisione periodica del sistema da parte dell'Alta Direzione con coinvolgimento del comitato guida e delle funzioni responsabili dei temi individuati nel piano, con frequenza almeno annuale; la revisione deve valutare come elementi in ingresso: i risultati delle attività di cui al punto 6, la continua congruità del piano strategico, la necessità di aggiornamenti e modifiche, anche a seguito di cambiamenti normativi significativi e le ulteriori esigenze formative.
+6.4.8 MIGLIORAMENTO
+A seguito dei risultati della revisione l'organizzazione può identificare obiettivi ulteriori, che siano specifici, misurabili, raggiungibili, realistici e definiti temporalmente. Questi obiettivi devono essere integrati nel piano strategico o in altri documenti del sistema.
+6.4.9 NOTE FINALI
+La  presente  UNI/PdR  è  pensata  come  riferimento  per  una  certificazione  di  parte  terza,  le  cui modalità operative e caratteristiche sono indicate nell'appendice A.
+© UNI
+35
+
+================================================================================
+CHUNK 6
+CHUNK SUB 1
+SEZIONE: APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+PAGINE: 38-40
+CARATTERI: 7355
+PAROLE: 1109
+PAGE: 38
+PAGINA CARATTERI: 2597
+PAGINA PAROLE: 390
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il  presente  prospetto  definisce  schematicamente  gli  elementi  necessari,  per  un  Organismo  di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.
+Prospetto A.1 - Regole di certificazione
+© UNI
+36
+
+
+
+**[TABELLA]**
+| REGOLE DI CERTIFICAZIONE | REGOLE DI CERTIFICAZIONE |
+| --- | --- |
+| Norma di Accreditamento | UNI CEI EN ISO/IEC 17021-1 |
+| UNI/PdR di certificazione | La presente UNI/PdR. |
+| Soggetti che possono richiedere la certificazione | La certificazione ai sensi della presente UNI/PdR può essere richiesta da qualunque tipo di organizzazione, di qualsiasi dimensione e forma giuridica, operante nel settore pubblico o privato. |
+| Possibili esclusioni | La certificazione viene rilasciata a una entità giuridica ( legal entity ) o, con le precisazioni di seguito descritte, a 'un gruppo di società', e deve considerare tutti i siti, filiali, sedi secondarie, attività e processi effettivamente svolti dall'organizzazione. È possibile rilasciare una certificazione di 'gruppo' che ricomprenda diverse entità giuridiche, ma solo in presenza di una struttura organizzativa 'centralizzata' che gestisce e controlla la compliance per tutte le società del gruppo (si veda IAF MD01). Non sono ammesse esclusioni di processi/funzioni, mentre è possibile escludere, in una certificazione di gruppo, delle singole legal entity . Considerato infine il contesto normativo e occupazionale, che può cambiare tra Stato e Stato, è possibile limitare la certificazione ad una sola Nazione. |
+| Requisiti strutturali dell'OdC | In aggiunta a quanto previsto dal punto 6.1 della UNI CEI EN ISO/IEC 17021-1, l'OdC deve a sua volta implementare un sistema di gestione conforme alla presente UNI/PdR. |
+| Criteri di competenza del Gruppo di verifica | Nel gruppo di audit le competenze si ritengono soddisfatte quando, tenendo conto delle competenze complessive del gruppo (auditor ed eventuali esperti/e tecnici/che) sia presente: - almeno un/una componente qualificato/a per le valutazioni di sistemi di gestione per la qualità ai sensi della norma UNI EN ISO 9001. Tale componente deve altresì dimostrare la conoscenza approfondita e documentata della presente UNI/PdR e della linea guida UNI ISO 30415 Gestione delle risorse umane - Diversità e inclusione. |
+
+================================================================================
+CHUNK 6
+CHUNK SUB 2
+SEZIONE: APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+PAGINE: 38-40
+CARATTERI: 7355
+PAROLE: 1109
+PAGE: 39
+PAGINA CARATTERI: 2671
+PAGINA PAROLE: 398
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+© UNI
+37
+
+
+
+**[TABELLA]**
+| REGOLE DI CERTIFICAZIONE | REGOLE DI CERTIFICAZIONE |
+| --- | --- |
+|  | Nel gruppo di verifica, in aggiunta alle competenze sui sistemi di gestione e alla gestione degli audit, devono essere presenti: - un/una avvocato/a giuslavorista o un/una consulente del lavoro purché iscritti da almeno 5 anni al relativo albo professionale; oppure - altro/altra professionista che dimostri significativa e consolidata esperienza documentata nel settore specifico, oggetto della presente UNI/PdR, del Paese dell'organizzazione auditata e conoscenza della normativa applicabile. Nel team di verifica possono partecipare anche altri/e esperti/e, scelti di volta in volta in base al contesto di riferimento e tenendo in considerazione le 6 aree di riferimento che devono essere sottoposte a valutazione. La presenza di altri/e esperti/e non è obbligatoria ma eventualmente necessaria per completare le competenze del gruppo di audit se non già soddisfatte. |
+| Criteri di competenza del comitato di delibera (o del decision maker ) | I requisiti di competenza del comitato di delibera si ritengono soddisfatti quando siano presenti uno o più membri che nel loro insieme rispondano ai requisiti di competenza necessari per la valutazione di una certificazione UNI EN ISO 9001 e possono dimostrare la conoscenza della presente UNI/PdR. |
+| Tempi di audit e periodicità degli audit di terza parte | Si applicano i requisiti applicabili della UNI CEI EN ISO/IEC 17021-1. Si applica il documento IAF MD05: Table QMS1-Quality Management Systems Low Risk Il tempo impiegato dagli/dalle esperti/e (esperti/e tecnici/che e avvocati/e), ai fini della durata dell'audit, può essere conteggiato al 50%. La presenza dell'esperto/a è necessaria quando vengono valutati gli indicatori aziendali previsti nella presente UNI/PdR. |
+| Modalità di svolgimento dell'audit | La documentazione di audit deve riportare, fra le altre registrazioni, anche quanto segue: - il perimetro e l'applicabilità della presente UNI/PdR, con la definizione degli indirizzi legali e operativi della/e sede/i dell'organizzazione, - la mappatura dei processi (interni ed esterni) e l'elenco delle relative leggi, norme e regolamenti applicabili riferibili alla parità di genere, - l'analisi degli episodi o delle minacce di violazione dei diritti riferibili alla parità di genere nonché le contromisure adottate, - le cause giudiziarie riferite a episodi di violazione dei diritti di genere in cui è eventualmente coinvolta l'organizzazione, - la registrazione delle evidenze in apposite check list/documenti di supporto per il gruppo di audit. Tale documentazione deve tenere |
+
+================================================================================
+CHUNK 6
+CHUNK SUB 3
+SEZIONE: APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+PAGINE: 38-40
+CARATTERI: 7355
+PAROLE: 1109
+PAGE: 40
+PAGINA CARATTERI: 2043
+PAGINA PAROLE: 315
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+© UNI
+38
+
+
+
+**[TABELLA]**
+| REGOLE DI CERTIFICAZIONE | REGOLE DI CERTIFICAZIONE |
+| --- | --- |
+|  | conto del grado di applicazione dei requisiti definiti nella presente UNI/PdR, - requisiti sistemici come ad esempio: la definizione della politica, degli obiettivi, del piano strategico e del risultato del monitoraggio del sistema, - requisiti operativi: la definizione, le modalità e la frequenza di misurazione degli indicatori qualitativi e quantitativi. |
+| Scopo del certificato | I criteri per la formulazione dello scopo del certificato sono gli stessi già applicati per la UNI EN ISO 9001, con particolare attenzione al campo di applicazione del sistema di gestione, che deve menzionare le 'Misure per garantire la parità di genere nel contesto lavorativo'. |
+| Documenti IAF applicabili | Trovano applicazione tutti i documenti IAF relativi ai sistemi di gestione, fatto salvo quanto chiarito in precedenza sul documento IAF MD 05. |
+| Riferimento alla certificazione e utilizzo del Marchio UNI | In aggiunta a quanto previsto dal punto 8.3 della UNI CEI EN ISO/IEC 17021-1, l'OdC deve disporre di regole che consentano all'organizzazione di dichiarare la propria conformità alla presente UNI/PdR nel modo seguente: Organizzazione ….... ( nome o marca ) con sistema di gestione per la parità di genere certificato ai sensi della UNI/PdR 125:2022 dall'Organismo di Certificazione …... ( nome dell'OdC ) con Marchio UNI. L'OdC deve pertanto disporre di regole per la concessione della licenza d'uso del proprio marchio di certificazione di sistemi di gestione che ne preveda l'utilizzo combinato al Marchio UNI 'Organizzazioni'. L'utilizzo combinato del marchio dell'OdC e del Marchio UNI 'Organizzazioni', deve essere permesso a partire dalla data di emissione del certificato da parte dell'organismo. NOTAIl Marchio di conformità UNI 'Organizzazioni' ha lo scopo di attestare che i requisiti di un sistema di gestione certificato siano stabiliti dall'UNI tramite la pubblicazione di norme o prassi di riferimento. |
+
+================================================================================
+CHUNK 7
+CHUNK SUB 1
+SEZIONE: APPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE
+PAGINE: 41-41
+CARATTERI: 1723
+PAROLE: 341
+PAGE: 41
+PAGINA CARATTERI: 1711
+PAGINA PAROLE: 339
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+APPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE
+Il prospetto B1 riportato qui di seguito fornisce degli esempi di KPI riferiti ai diversi settori industriali identificati tramite codice ATECO.
+Prospetto B.1 - ESEMPIO DI KPI PER SETTORE INDUSTRIALE
+© UNI
+39
+
+
+
+**[TABELLA]**
+| ATTIVITÀ ECONOMICA (CODICE ATECO DI APPARTENENZA) | ATTIVITÀ ECONOMICA (CODICE ATECO DI APPARTENENZA) | ATTIVITÀ ECONOMICA (CODICE ATECO DI APPARTENENZA) | %DONNE CON CONTRATTO A TEMPO INDETERMINATO RISPETTO AL TOTALE DEI DIPENDENTI (ANNO 2017) | %DONNE DIRIGENTI RISPETTO AL TOTALE DEI DIPENDENTI DIRIGENTI, PER OGNI INDUSTRY (ANNO 2017) | DIFFERENZIALE RETRIBUTIVO DI GENERE CALCOLATO COME DIFFERENZA PERCENTUALE TRA LA RETRIBUZIONE MEDIA ANNUA DI UOMINI E DONNE RAPPORTATA A QUELLA MASCHILE (ANNO 2018) |
+| --- | --- | --- | --- | --- | --- |
+| LETTERE | CODICE | ETICHETTA |  |  |  |
+| A | 1 | Agricoltura, silvicoltura e pesca | N.A. | N.A. |  |
+| B-E | 2 | Industria in senso stretto | 25% | 12% | -9% |
+| F | 3 | Costruzioni | 10% | 7% | -2% |
+| G | 4 | Commercio | 41% | 17% | -17% |
+| H | 5 | Trasporto e magazzinaggio | 20% | 13% | -5% |
+| I | 6 | Alberghi e ristoranti | 34% | 19% | -7% |
+| J | 7 | Servizi di informazione e comunicazione | 38% | 17% | -17% |
+| K | 8 | Attività finanziarie e assicurative | 49% | 15% | -29% |
+| L-N | 9 | Attività immobiliari, servizi alle imprese e altre attività professionali e imprenditoriali | 41% | 20% | -19% |
+| O | 10 | Amministrazione pubblica e difesa assicurazione sociale obbligatoria | N.A. | N.A. | N.A. |
+| P-Q | 11 | Istruzione, sanità ed altri servizi sociali | 66% | 44% | -19% |
+| R-U | 12 | Altri servizi collettivi e personali | 49% | 19% | -35% |
+
+================================================================================
+CHUNK 8
+CHUNK SUB 1
+SEZIONE: BIBLIOGRAFIA
+PAGINE: 42-48
+CARATTERI: 3720
+PAROLE: 476
+PAGE: 42
+PAGINA CARATTERI: 2582
+PAGINA PAROLE: 362
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+BIBLIOGRAFIA
+Risoluzione adottata dall'Assemblea Generale ONU il 25 settembre 2015, 'Trasformare il  nostro mondo: l'Agenda 2030 per lo Sviluppo Sostenibile', obiettivo 5 'Raggiungere l'uguaglianza di genere ed emancipare tutte le donne e le ragazze'
+Trattato sull'Unione europea, articolo 2 e articolo 3, paragrafo 3
+Trattato sul funzionamento dell'Unione europea (TFUE)
+Risoluzione del Parlamento europeo del 21 gennaio 2021 sulla strategia dell'UE per la parità di genere (2019/2169(INI))
+Carta dei diritti fondamentali dell'Unione europea, articoli 21 e 23
+Direttive adottate dal 1975 in poi sui diversi aspetti della parità di trattamento tra uomini e  donne  (direttiva  79/7/CEE1,  direttiva  86/613/CEE2,  direttiva  92/85/CEE3,  direttiva 2004/113/CE1, direttiva 2006/54/CE2, direttiva 2010/18/UE3 e direttiva 2010/41/UE4)
+Direttiva  2006/54/CE  del  Parlamento  europeo  e  del  Consiglio,  del  5  luglio  2006, riguardante l'attuazione del principio delle pari opportunità e della parità di trattamento fra uomini e donne in materia di occupazione e impiego (GU L 204 del 26.7.2006, pag. 23)
+Direttiva  2010/18/UE  del  Consiglio,  dell'8  marzo  2010,  che  attua  l'accordo  quadro riveduto in materia di congedo parentale concluso da BUSINESSEUROPE, UEAPME, CEEP e CES e abroga la direttiva 96/34/CE (GU L 68 del 18.3.2010, pag. 13)
+Convenzione n. 100 dell'Organizzazione internazionale del lavoro (OIL) sulla parità di retribuzione del 1951
+Raccomandazione della Commissione del 7 marzo 2014 sul potenziamento del principio della parità retributiva tra donne e uomini tramite la trasparenza
+Pilastro europeo dei diritti sociali, in particolare i principi 1, 2, 3, 6, 9, 11, 12 e 15
+Comunicazione della Commissione del 5 marzo 2020 dal titolo "Un'Unione dell'uguaglianza: la strategia per la parità di genere 2020-2025" (COM(2020)0152)
+Breaking gender stereotypes - Building good business: tips and tools for smart managers, Association of European Chambers of Commerce and Industry OIT. Centre International de FormationRegione Lazio, Proposta di legge n. 182 concernente "Disposizioni per la promozione della parità retributiva tra i sessi, il sostegno dell'occupazione e dell'imprenditoria  femminile di  qualità,  nonché  per  la  valorizzazione  delle  competenze delle  donne",  approvata  dal  Consiglio  regionale  il  19  maggio  2021,  in  corso  di pubblicazione
+Report  statistiche  ISTAT,  CONTI  ECONOMICI  DELLE  IMPRESE  E  DEI  GRUPPI  DI IMPRESA | ANNO 2019, 2 novembre 2021
+UNI ISO 31000 Gestione del rischio - Linee Guida
+© UNI
+40
+
+================================================================================
+CHUNK 8
+CHUNK SUB 2
+SEZIONE: BIBLIOGRAFIA
+PAGINE: 42-48
+CARATTERI: 3720
+PAROLE: 476
+PAGE: 43
+PAGINA CARATTERI: 752
+PAGINA PAROLE: 71
+--------------------------------------------------------------------------------
+
+UNI/PdR 125:2022
+UNI EN ISO 9004 Gestione per la qualità - Qualità di un'organizzazione - Linee guida per conseguire il successo durevole
+Profeta, Paola. Parità di genere e politiche pubbliche , EGEA, 2020
+Mc Kinsey & Company, Diversity wins: how inclusion matters , 2020 https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-howinclusion-matters
+Mc Kinsey& Company, Women matter: Ten years of insight on gender diversity , 2013 https://www.mckinsey.com/featured-insights/gender-equality/women-matter-ten-yearsof-insights-on-gender-diversity
+Catalyst, Why diversity matters , 2013 https://www.catalyst.org/research/why-diversity-matters/
+https://eige.europa.eu/gender-mainstreaming/toolkits/gender-impact-assessment
+© UNI
+41
+
+================================================================================
+CHUNK 8
+CHUNK SUB 3
+SEZIONE: BIBLIOGRAFIA
+PAGINE: 42-48
+CARATTERI: 3720
+PAROLE: 476
+PAGE: 48
+PAGINA CARATTERI: 344
+PAGINA PAROLE: 37
+--------------------------------------------------------------------------------
+
+Membro italiano ISO e CEN www.uni.com www.youtube.com/normeuni www.twitter.com/normeuni www.twitter.com/formazioneuni www.linkedin.com/company/normeuni www.facebook.com/unmondofattobene
+Sede di Milano Via Sannio, 2 - 20137 Milano tel 02700241, uni@uni.com
+Via del Collegio Capranica, 4 - 00186 Roma tel 0669923074, uni.roma@uni.com
+Sede di Roma
+
+
+================================================================================
+RIEPILOGO:
+Chunk Totali (Sezioni): 9
+Sub-chunk Totali (Pagine): 42

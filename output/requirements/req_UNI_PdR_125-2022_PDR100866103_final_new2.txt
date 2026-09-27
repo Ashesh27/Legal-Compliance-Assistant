@@ -1,0 +1,9 @@
+REQUISITI ESTRATTI
+Totale requisiti: 144
+================================================================================
+
+REQUISITO 1
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve integrare i principi di parità di genere e di rispetto delle diversità negli obiettivi strategici aziendali.

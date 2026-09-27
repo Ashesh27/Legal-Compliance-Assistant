@@ -1,0 +1,1500 @@
+[
+  {
+    "requirement_id": null,
+    "requirement_text": "[PAGE 3]\n\n\nUNI/PdR 125:2022\nPREMESSA\nLa presente prassi di riferimento UNI/PdR 125:2022 non è una norma nazionale, ma è un documento pubblicato da UNI, come previsto dal Regolamento UE n.1025/2012 che riflette gli esiti del confronto svoltosi nel Tavolo di lavoro sulla certificazione di genere delle imprese previsto dal PNRR Missione 5, coordinato dal Dipartimento per le Pari Opportunità e a cui hanno partecipato il Dipartimento per le politiche  della  famiglia,  il  Ministero  dell'Economia  e  delle  Finanze,  il  Ministero  del  Lavoro  e  delle Politiche Sociali, il Ministero dello Sviluppo Economico e la Consigliera Nazionale di Parità.\nLa  presente  prassi  di  riferimento  raccoglie  prescrizioni  relative  a  prassi  condivise  all'interno  dei soggetti rappresentanti il mercato e la società civile, firmatari di un accordo di collaborazione con UNI, rappresentati nel Tavolo 'Parità di genere' condotto da UNI.\nLa presente prassi di rifermento è stata elaborata con linguaggio neutro rispetto al genere.\nLa presente prassi di riferimento è stata ratificata dal Presidente dell'UNI ed entra in vigore il 16 marzo 2022.\nLe prassi di riferimento, adottate esclusivamente in ambito nazionale, rientrano fra i 'prodotti della normazione  europea',  come  previsti  dal  Regolamento  UE  n.1025/2012,  e  sono  documenti  che introducono prescrizioni tecniche, elaborati sulla base di un rapido processo ristretto a chi ne è autore, sotto la conduzione operativa di UNI.\nLe prassi di riferimento sono disponibili per un periodo non superiore a 5 anni, tempo massimo dalla loro  pubblicazione  entro  il  quale  possono  essere  trasformate  in  un  documento  normativo  (UNI, UNI/TS, UNI/TR) oppure devono essere ritirate.\nChiunque ritenesse, a seguito dell'applicazione della presente prassi di riferimento, di poter fornire suggerimenti per un suo miglioramento è pregato di inviare i propri contributi all'UNI, Ente Italiano di Normazione, che li terrà in considerazione.\n© UNI\n1\n\n\n[PAGE 4]\n\n\nUNI/PdR 125:2022\nSOMMARIO\n© UNI\n2\n\n\n\n**[TABELLA]**\n| 0 | INTRODUZIONE...................................................................................................................... 4 |\n| --- | --- |\n| 0.1 | CONTESTO............................................................................................................................. 4 |\n| 0.2 | NECESSITÀ DEL RIEQUILIBRIO DI GENERE...................................................................... 7 |\n| 0.3 | OBIETTIVI E STRUMENTI...................................................................................................... 9 |\n| 1 | SCOPO E CAMPO DI APPLICAZIONE................................................................................ 11 |\n| 2 | RIFERIMENTI NORMATIVI E LEGISLATIVI ........................................................................ 11 |\n| 3 | TERMINI E DEFINIZIONI....................................................................................................... 12 |\n| 4 | PRINCIPIO............................................................................................................................. 15 |\n| 5 | INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI................................. 16 |\n| 5.1 | GENERALITÀ ........................................................................................................................................16 |\n| 5.2 | AREA CULTURA E STRATEGIA..........................................................................................................18 |\n| 5.3 | AREA GOVERNANCE...........................................................................................................................20 |\n| 5.4 | AREA PROCESSI HR............................................................................................................................22 |\n| 5.5 | AREA OPPORTUNITÀ DI CRESCITA ED INCLUSIONE DELLE DONNE IN AZIENDA....................23 |\n| 5.6 | AREA EQUITÀ REMUNERATIVA PER GENERE................................................................................25 |\n| 5.7 | AREA TUTELA DELLA GENITORIALITÀ E CONCILIAZIONE VITA-LAVORO.................................27 |\n| 6 | POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, |\n| E SISTEMA DI GESTIONE .............................................................................................................. 28 | E SISTEMA DI GESTIONE .............................................................................................................. 28 |\n| 6.1 | POLITICHE DI PARITÀ DI GENERE.....................................................................................................28 |\n| 6.2 | PIANIFICAZIONE...................................................................................................................................29 |\n| 6.3 | ATTUAZIONE DELLE AZIONI DEL PIANO STRATEGICO E MONITORAGGIO...............................30 |\n| 6.3.1 | GENERALITÀ ....................................................................................................................................30 |\n| 6.3.2 | TEMI OGGETTO DEL PIANO STRATEGICO...................................................................................30 |\n| 6.4 SISTEMA DI GESTIONE........................................................................................................................33 | 6.4 SISTEMA DI GESTIONE........................................................................................................................33 |\n| 6.4.1 | GENERALITÀ ....................................................................................................................................33 |\n| 6.4.2 | DOCUMENTAZIONE DEL SISTEMA................................................................................................33 |\n| 6.4.3 | MONITORAGGIO DEGLI INDICATORI.............................................................................................33 |\n| 6.4.4 | COMUNICAZIONE INTERNA ED ESTERNA....................................................................................33 |\n\n\n\n[PAGE 5]\n\n\nUNI/PdR 125:2022\n© UNI\n3\n\n\n\n**[TABELLA]**\n| 6.4.5 | AUDIT INTERNI (SISTEMA DI VERIFICA INTERNO DI CONFORMITÀ ALLA UNI/PdR)..............34 |\n| --- | --- |\n| 6.4.6 | GESTIONE DELLE SITUAZIONI NON CONFORMI.........................................................................35 |\n| 6.4.7 | REVISIONE PERIODICA...................................................................................................................35 |\n| 6.4.8 | MIGLIORAMENTO.............................................................................................................................35 |\n| 6.4.9 | NOTE FINALI .....................................................................................................................................35 |\n| APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE......................................... 36 | APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE......................................... 36 |\n| APPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE ................................................. 39 | APPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE ................................................. 39 |\n| BIBLIOGRAFIA................................................................................................................................ 40 | BIBLIOGRAFIA................................................................................................................................ 40 |",
+    "matches": [
+      {
+        "chunk_id": 146,
+        "chunk_text": "Di seguito sono indicate le abbreviazioni utilizzate all'interno del documento. Si veda il Glossario per le definizioni di uso comune. GDPR, DEFINIZIONE = Regolamento UE 2016/679 e sm. COO, DEFINIZIONE = Chief Operating Officer. HR, DEFINIZIONE = Human Resources. RG, DEFINIZIONE = Responsabile Gerarchico. FCPC, DEFINIZIONE = Funzione di Conformità per la Prevenzione della Corruzione. HSE, DEFINIZI",
+        "dense_score": 0.9417747418914291,
+        "tfidf_score": 1.0,
+        "section_boost": 0.05,
+        "graph_score": 0.9999999999999999,
+        "final_score": 0.8917098967565716,
+        "rank": 1,
+        "concepts": [
+          "glossario per le",
+          "regolamento ue",
+          "chief operating officer",
+          "human resources",
+          "responsabile gerarchico",
+          "funzione di",
+          "prevenzione della corruzione",
+          "health safety"
+        ]
+      },
+      {
+        "chunk_id": 213,
+        "chunk_text": "lgs 24/2023 -i  diritti,  gli  interessi  legittimi  e  la riservatezza del segnalante saranno comunque rispettati e protetti, così come quelli delle persone eventualmente coinvolte, in applicazione di quanto previsto dal sistema di Responsabilità Sociale conforme alla SA8000 e dal Sistema di Gestione per la Parità di Genere, implementati dalla Società e rispettivamente, in particolare, dal MRS-00",
+        "dense_score": 0.6569451793517633,
+        "tfidf_score": 0.9637577061002888,
+        "section_boost": 0.0,
+        "graph_score": 0.7348758996175164,
+        "final_score": 0.6988805634942952,
+        "rank": 2,
+        "concepts": [
+          "sociale conforme alla",
+          "sistema di gestione",
+          "genere",
+          "manuale sistema di",
+          "gestione",
+          "sociale",
+          "manuale del sistema"
+        ]
+      },
+      {
+        "chunk_id": 150,
+        "chunk_text": "stato  matrimoniale  o  di  famiglia  o  di gravidanza, nonché di maternità o paternità, anche adottive, e su qualsiasi altra caratteristica protetta, in tutti i livelli della gerarchia professionale. Nell'ambito di tale complessivo processo - premesso che i principali aspetti e le modalità di gestione delle attività di formazione sono specificate nella procedura PSQ-004 Gestione della Formazione ",
+        "dense_score": 0.7635852195720657,
+        "tfidf_score": 0.7679653778175946,
+        "section_boost": 0.0,
+        "graph_score": 0.7387049537655055,
+        "final_score": 0.6835646919272058,
+        "rank": 3,
+        "concepts": [
+          "nell",
+          "gestione della formazione",
+          "resource manager",
+          "practice leader",
+          "capability leader",
+          "key performance indicator"
+        ]
+      },
+      {
+        "chunk_id": 212,
+        "chunk_text": "300) Qualora una segnalazione avesse ad oggetto una contestazione, rivendicazione o richieste legate ad un interesse di carattere personale della persona segnalante che attengono esclusivamente ai propri rapporti individuali di lavoro ovvero con le figure gerarchicamente sovraordinate -escluse dal perimetro oggettivo di applicabilità delle tutele previste dal D. lgs 24/2023 -i  diritti,\n\nente ai p",
+        "dense_score": 0.6979877360631054,
+        "tfidf_score": 0.7536906607824129,
+        "section_boost": 0.0,
+        "graph_score": 0.738484457673575,
+        "final_score": 0.652999184194681,
+        "rank": 4,
+        "concepts": [
+          "qualora una segnalazione",
+          "sociale conforme alla",
+          "sistema di gestione",
+          "genere",
+          "manuale sistema di",
+          "gestione",
+          "sociale",
+          "manuale del sistema"
+        ]
+      },
+      {
+        "chunk_id": 143,
+        "chunk_text": "Lo scopo del presente documento è quello di descrivere le procedure applicate da Lutech in alcune delle diverse fasi del processo di gestione delle risorse umane. Il documento include, in particolare, i criteri di valutazione delle risorse umane, con riguardo alla definizione dei principali profili che influenzano la qualità dei servizi forniti da Lutech ed alla valutazione complessiva della loro ",
+        "dense_score": 0.7676831329404192,
+        "tfidf_score": 0.8443422791080853,
+        "section_boost": 0.0,
+        "graph_score": 0.36807232586722716,
+        "final_score": 0.6339904020820387,
+        "rank": 5,
+        "concepts": [
+          "lutech in alcune",
+          "lutech ed alla",
+          "lutech"
+        ]
+      },
+      {
+        "chunk_id": 151,
+        "chunk_text": "A tal fine, vengono applicati strumenti di rilevazione e monitoraggio in linea con i Key Performance Indicator (KPI)  previsti  dalla  UNI/PdR  125,  al  fine  di  garantire  il  rispetto  degli  obiettivi  di  parità  di  genere,  equità retributiva, accesso equilibrato alla formazione e sviluppo professionale. Le decisioni relative a progressioni di  carriera,  assegnazioni  e  percorsi  di  cre",
+        "dense_score": 0.7932705641801051,
+        "tfidf_score": 0.7758890184130076,
+        "section_boost": 0.0,
+        "graph_score": 0.21741696454508946,
+        "final_score": 0.5935583241049622,
+        "rank": 6,
+        "concepts": [
+          "key performance indicator"
+        ]
+      },
+      {
+        "chunk_id": 177,
+        "chunk_text": "In  sede  di  assunzione  a  tutti/e  i/le  neoassunti/e,  senza  alcuna  distinzione  di  genere,  età  provenienza  o qualsiasi  altra  condizione,  viene  consegnata  la  documentazione  cartacea  o  elettronica  (riferimento  alla intranet aziendale), relativa ai seguenti temi di carattere trasversale: - ❑ contratto di lavoro\n- ❑ sicurezza sul lavoro\n- ❑ codice etico ex Dlgs 231/01, integrato ",
+        "dense_score": 0.7393945542350376,
+        "tfidf_score": 0.6940633601099613,
+        "section_boost": 0.0,
+        "graph_score": 0.22612995204802777,
+        "final_score": 0.5492028201366089,
+        "rank": 7,
+        "concepts": [
+          "dlgs",
+          "politica per la",
+          "prevenzione della corruzion",
+          "sistema disciplinare iso",
+          "genere",
+          "tali  argomenti  saranno",
+          "gestione della formazione"
+        ]
+      },
+      {
+        "chunk_id": 37,
+        "chunk_text": "LUTECH simpegna garantire la conformità, ai requisiti prescritti dalla legislazione vigente in materia di Lavoro e contrattuali stabiliti con i Clienti. Il continuo aggiornamento e la conoscenza della normativa e della legislazione applicabile sono requisitindispensabili per le attività svolte dall'Azienda e per garantire ai Clienti la fornitura di servizi conformi. Il Sistema di Gestione della Re",
+        "dense_score": 0.9129402761343216,
+        "tfidf_score": 0.4196307468910199,
+        "section_boost": 0.0,
+        "graph_score": 0.22316976773732952,
+        "final_score": 0.5356992880685005,
+        "rank": 8,
+        "concepts": [
+          "lavoro",
+          "clienti",
+          "azienda",
+          "clienti la fornitura",
+          "sistema di gestione",
+          "sociale",
+          "information system on",
+          "international labour standards"
+        ]
+      },
+      {
+        "chunk_id": 43,
+        "chunk_text": "[29], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Salute sicurezza dei lavoratori. [30], DOCUMENTO = SA8000:2014. [30], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Responsabilità Sociale.. [31], DOCUMENTO = ISO 19011:2018. [31], TITOLO = Norma contenente i Requisiti relativi all'esecuzione degli Audit interni ai Sistemi di Gestione di un'Organi",
+        "dense_score": 0.9870120864366067,
+        "tfidf_score": 0.3656383284809414,
+        "section_boost": 0.0,
+        "graph_score": 0.14074785961392253,
+        "final_score": 0.5326459050417096,
+        "rank": 9,
+        "concepts": [
+          "norma contenente",
+          "sistemi di gestione",
+          "salute sicurezza dei",
+          "sociale",
+          "requisiti relativi all",
+          "audit interni ai",
+          "organizzazione",
+          "informazione documentata dis"
+        ]
+      },
+      {
+        "chunk_id": 220,
+        "chunk_text": "La responsabilità per la gestione delle segnalazioni attinenti alle violazioni di disposizioni normative diverse dalle condotte illecite ai sensi del D. lgs 231/01 (ad esempio violazione dei principi di cui agli standard SA8000 o UNI/PDR 125-2022) o violazioni del Modello di Organizzazione Gestione e controllo (art. 2 comma 1 lett. A n. 2) sono di competenza del l' Ufficio Compliance di Gruppo.",
+        "dense_score": 0.7551859901337903,
+        "tfidf_score": 0.6895433060550331,
+        "section_boost": 0.0,
+        "graph_score": 0.10370927963036695,
+        "final_score": 0.5296792437960994,
+        "rank": 10,
+        "concepts": [
+          "modello di organizzazione",
+          "gestione",
+          "ufficio compliance di",
+          "gruppo"
+        ]
+      }
+    ],
+    "coverage_percent": 100.0
+  },
+  {
+    "requirement_id": null,
+    "requirement_text": "[PAGE 6]\n\n\nUNI/PdR 125:2022\n0 INTRODUZIONE\n0.1 CONTESTO 1\nSecondo l'ultimo rapporto sulla parità di genere del World Economic Forum (WEF, 2021), nessun Paese al mondo ha colmato i divari di genere. I Paesi più avanzati in tema di parità di genere (Islanda, Finlandia, Norvegia, Svezia) hanno chiuso un po' più dell'80% del divario. Considerando la parità di genere attraverso quattro dimensioni - economia, istruzione, salute e politica, il WEF stima che nel mondo si è chiuso il 96% del divario in salute, il 95% del divario in istruzione, il 58% del  divario  in  opportunità  e  partecipazione  economica  e  solo  il  22%  del  divario  in  politica  e rappresentanza. In questa classifica globale, che copre 156 Paesi, l'Italia si posiziona al 63esimo posto  e,  se  restringiamo  l'attenzione  alla  sola  componente  economica,  al  114esimo.  La partecipazione economica emerge come la dimensione più critica per il nostro Paese 2 .Il dato più noto  e  che  più  caratterizza  l'Italia  è  il  basso  tasso  di occupazione  femminile .  Nel  2018 (popolazione 15-64 anni) è stato pari al 49,5% (Istat), un valore quasi stabile nell'ultimo decennio. Il corrispondente tasso maschile è pari al 67,6%. L'occupazione varia molto all'interno del Paese, passando dal 59,7% del Nord, al 55,9% del Centro e solo il 32,8% del Sud. Con questi valori l'Italia si colloca agli ultimi posti in Europa, seguita solo da Grecia e Malta. La situazione migliora tra le più giovani: tra le 25-34enni italiane, il tasso di occupazione è il 53,3% (69,9% per gli uomini) ma resta solo il 34% al Sud.\nIl basso tasso di occupazione contrasta con i risultati nell' istruzione . Le donne italiane sono oggi più istruite degli uomini: secondo il Censis (2019), le laureate in Italia sono pari al 56% del totale. Le donne sono la maggioranza anche negli studi post-laurea: rappresentano il 59,3% delle persone iscritte a dottorati di ricerca, corsi di specializzazione o master. Sono però ancora in minoranza nei percorsi  di  laurea  STEM  (scienza,  tecnologia,  ingegneria,  matematica).  Secondo  il  rapporto AlmaLaurea 2018 sul profilo delle persone laureate, gli uomini che hanno conseguito nell'anno 2017 un titolo universitario in un percorso STEM rappresentano il 59%, con proporzioni particolarmente elevate nei gruppi ingegneria (74%) e scientifico (68,4%). Tra chi è laureato non STEM prevalgono le donne (sono quasi due su tre).\nIn  generale,  quando  lavorano,  le  donne  sono  un  soggetto  debole  sul  mercato  del  lavoro.  Vari indicatori sottolineano questo aspetto, tra cui il salario e la tipologia di lavoro. Secondo l'Eurostat, confrontando il salario lordo orario medio maschile e femminile, le donne europee guadagnano circa il 16% in meno degli uomini. In Italia la differenza è minore, sotto il 10%. Tuttavia, questo dato è fuorviante: quando il tasso di occupazione è basso, come in Italia, la selezione nel mercato del lavoro è maggiore, con la conseguenza che lavorano solo le donne più istruite e con redditi più elevati.  Gli  studi  infatti,  per  considerare  correttamente  questo  dato,  operano  una  correzione statistica per l'effetto selezione, a seguito della quale il dato italiano si riallinea con quello della media europea. Nel 2018, il 32,4% delle donne italiane occupate (15-64 anni, Istat) lavora parttime contro solo l'8% degli uomini. L'Istat stima che il 60% del part-time sia involontario .\nLe donne che lavorano a tempo determinato sono il 17,3% del totale delle lavoratrici.\n1 Si  segnala  che  i  dati  riportati  si  riferiscono  a  quanto  disponibile  al  momento  della  pubblicazione  della UNI/PdR e che potrebbero variare anche significativamente nel tempo.\n2 Profeta, Paola, Parità di genere e politiche pubbliche , EGEA, 2020.\n© UNI\n4\n\n\n[PAGE 7]\n\n\nUNI/PdR 125:2022\nLa maternità rimane un ostacolo nel percorso di raggiungimento della parità di genere nel mercato del lavoro, poiché la scelta di avere un figlio ha effetti fortemente asimmetrici su uomini e donne. Innanzitutto, la maternità comporta una riduzione nella partecipazione femminile al mercato del lavoro: secondo i dati Istat (2019), in Italia il tasso di occupazione delle madri (25-64 anni) è 54,5%, contro l'83,5% dei padri. In secondo luogo, anche le madri che continuano a partecipare al mercato del lavoro, soffrono una sensibile riduzione nei redditi, a fronte di una sostanziale invarianza di quelli dei padri, una crescente letteratura ha evidenziato come la cosiddetta child penalty - il costo sul mercato del lavoro della nascita di un figlio - sia un fenomeno diffuso in diversi Paesi sviluppati, che colpisce le madri, ma non i padri.\nSecondo uno studio INPS del 2020 3 , in Italia la nascita di un figlio determina per la donna una riduzione della probabilità di continuare a lavorare e una perdita reddituale nei 24 mesi successivi alla nascita rispetto a quanto sarebbe accaduto se non avesse avuto il figlio.\nLa penalità è molto pronunciata nel breve periodo - in particolare nell'anno del congedo e in quello successivo - ma permane anche a diversi anni di distanza dalla nascita. A quindici anni dalla maternità, i salari lordi annuali delle madri sono di 5.700 euro inferiori a quelli delle donne senza figli rispetto al periodo antecedente la nascita.\nNel contesto italiano, esistono settori occupazionali tipicamente maschili, come l'industria e le costruzioni  (rispettivamente  71%  e  89%  di  uomini),  e settori  con  prevalenza  di  occupazione femminile , i servizi e in particolare sanità, istruzione, alloggio e ristorazione e attività artistiche (la percentuale di donne occupate in questi settori è circa il 50%). Le donne sono meno presenti nei settori che risultano più remunerativi.\nIl  processo  di  de-specializzazione  che  ha  interessato  l'Italia  a  partire  dal  1993  ha  favorito  la partecipazione  femminile  al  mercato  del  lavoro.  Un'analisi  più  attenta  dei  dati  (Ateco  5  digit) evidenzia  però  che,  nell'ambito  di  questi  settori, le  donne  spesso  non  ricoprono  ruoli  di responsabilità . Nell'ambito del settore Attività Professionali Scientifiche e Tecniche (Ateco M) la maggior presenza femminile si concentra nei servizi forniti agli studi professionali, mentre in ambito sanitario (Ateco Q Sanità ed Assistenza Sociale) le donne sono prevalentemente presenti in settori quali i servizi di assistenza sociale residenziale e non residenziale. In conclusione, se da un lato il processo di de-specializzazione ha favorito le donne, incrementando il peso dei settori produttivi in cui la partecipazione  femminile  è  più  elevata  in  tutte  le  regioni  d'Italia, dall'altro  questa partecipazione si caratterizza per lo più per figure professionali di profilo intermedio che spesso sono di supporto ad altre attività. La presenza delle donne si concentra in settori a basso valore aggiunto,  in  organizzazioni  di  piccole  e  piccolissime  dimensioni  o  in  organizzazioni  di  grandi dimensioni ma con figure professionali medio basse (operaie-impiegate).\nL'ulteriore elemento di contesto da considerare è quello legato alla carriera delle donne. Le donne in posizioni managerial i in Italia sono circa il 27% (Istat) del totale. Il glass ceiling, o soffitto di vetro - gli  ostacoli  che  le  donne  lavoratrici  incontrano  nella  loro  carriera  per  raggiungere  posizioni  di vertice - è ancora un fenomeno molto diffuso. Nelle posizioni manageriali le differenze di genere relative al reddito sono più elevate, pari a circa il 23% (Istat).\n3 Fonte:\nhttps://www.inps.it/docallegatiNP/Mig/Allegati/03_XIX%20Rapporto%20INPS%2024.10.2020_ver3_compre ssed.pdf pp. 330-333\n© UNI\n5\n\n\n[PAGE 8]\n\n\nUNI/PdR 125:2022\nNon da meno, è la metafora del pavimento appiccicoso sticky floor - utilizzata per far riflettere sulla segregazione verticale che vede le donne costrette in posizioni medio basse e, conseguentemente, meno remunerate.\nUn elemento di cambiamento in questo ambito è rappresentato dalla presenza delle donne nei consigli di amministrazione e collegi sindacali delle società quotate, che è balzata dal 7% del 2011 all'attuale 39%. Questo cambiamento, il più significativo nel contesto italiano delle statistiche di  genere e uno dei più significativi tra i Paesi europei, è stato raggiunto grazie all'introduzione nell'agosto 2011 di quote di rappresentanza di genere (Legge Golfo-Mosca 120/2011), rafforzata ed estesa temporalmente a partire dal gennaio 2020 (Legge di Bilancio 160/2019). Purtroppo, come evidenziato sopra, questo risultato non si è tradotto in uno sviluppo parallelo della presenza delle donne nelle posizioni di vertice (CEO/AD) e Executive Committee.\nLa pandemia  Covid-19 è  scoppiata  in  una  situazione  di  contesto  particolarmente  difficile  per l'occupazione femminile italiana e rischia di accentuare i divari. Sono ormai numerosi gli studi che mostrano  che  i  divari  di  genere  rischiano  di  amplificarsi  durante  la  pandemia  Le  donne rappresentano un elemento debole sul mercato del lavoro e le crisi colpiscono soprattutto le parti più deboli. A differenza della crisi finanziaria del 2008, che ha colpito settori tipicamente maschili quali industria e costruzioni, lo shock determinato dal Covid-19 ha colpito anche i servizi, settore con prevalenza di occupazione al femminile. Lo shock del 2008 ha provocato una ' Man-cession ' durante la quale l'occupazione maschile decresceva ma quella femminile aumentava. Proprio a seguito  dello  shock  economico-finanziario  del  2008,  molte  donne  hanno  deciso  di  entrare  nel mercato del  lavoro,  passando  dalla  situazione  di  inattive  a  quella  di  attive  (attive  =  occupati  + disoccupati). La lettura congiunta dell'andamento dei dati relativi al mercato del lavoro degli uomini e delle donne evidenzia alcune criticità. Mentre lo shock economico faceva perdere il lavoro agli uomini, le donne entravano nel mercato del lavoro per cercare di sostenere la famiglia. La necessità di  lavorare  le  ha  però  spinte  ad  accettare  spesso  lavori  meno  qualificati  o  part-time.  La  crisi pandemica invece si identifica come una 'She-cession' . Le donne rappresentano la maggioranza delle persone occupate in settori lavorativi come la sanità e l'istruzione, che espongono a elevati rischi  di  contagio.  Sono  occupate  soprattutto  nel  settore  dei  servizi  messi  a  dura  prova  dalla pandemia. Inoltre, sulle donne rischia di gravare la maggior parte dell'aumento del lavoro domestico e di cura generato dalla pandemia.\nAccanto ad interventi  micro,  volti  ad  agire  sul  DNA  aziendale,  rivolti  al  riequilibrio  di  genere,  è necessario prendere in considerazione anche la Valutazione di Impatto di Genere delle politiche pubbliche .\nL'Unione Europea, nel marzo del 2020, ha predisposto il documento ' Un'Unione dell'uguaglianza: la  strategia  per  la  parità  di  genere  2020-2025 '  definendo  obiettivi  politici  e  azioni  chiave  per raggiungere  la  parità  di  genere  entro  il  2025.  La  strategia  prevede  la  realizzazione  di  misure specifiche  volte  a  conseguire  la  parità  di  genere,  combinate  a  una  maggior  integrazione  della dimensione di genere ' inserendo sistematicamente una prospettiva di genere in ogni fase dell'elaborazione delle politiche in tutti i settori di azione dell'UE, sia interni che esterni' . La strategia sarà attuata nel pieno rispetto del principio della intersezionalità così come è definito dallo European  Institute  for  Gender  Equality  (EIGE)  come  uno  \" strumento  analitico  per  studiare, comprendere e rispondere ai modi in cui sesso e genere si intersecano con altre caratteristiche/identità  personali  e  i  modi  in  cui  tali  intersezioni  contribuiscono  a  determinare esperienze di discriminazione specifiche \".\n© UNI\n6\n\n\n[PAGE 9]\n\n\nUNI/PdR 125:2022\nTra le azioni che l'Europa propone nell'ambito del gender mainstream , assume particolare rilevanza la valutazione dei progetti in termini di genere, il Gender Impact Assessment (GIA) definito dall'UE come segue: ' La valutazione di impatto di genere è il processo di confronto e valutazione, secondo criteri di genere rilevanti, della situazione attuale e delle tendenze future con gli sviluppi attesi risultanti dall'introduzione della misura proposta ' 4 .\nIl GIA viene promosso per stimare i diversi effetti (positivi e negativi) di qualsiasi politica, in corso di attuazione o attuata, in termini di parità di genere. Di conseguenza, essa tiene conto dei diversi bisogni, delle caratteristiche, delle priorità e dei comportamenti degli individui a cui le politiche sono in definitiva rivolte (Commissione Europea, 2003). Le sfide poste da questa analisi sono molteplici e riguardano: l'identificazione degli impatti potenziali su donne e uomini e sulle relazioni di genere; l'acquisizione  di  informazione  statistica,  ovvero  di  dati  disaggregati  per  genere  e  sufficienti  a valutare  l'impatto  dell'azione  proposta  dalla  politica;  la  scelta  di  indicatori  per  misurare  il cambiamento  nei  ruoli  e  nelle  relazioni  di  genere.  A  differenza  della  Gender  Analysis,  che  è finalizzata a cogliere le differenze di genere e le diverse condizioni in termini di accesso alle risorse, alle attività e ai processi decisionali, il GIA va oltre poiché fornisce informazioni sugli effetti di qualsiasi politica o azione proposta, chiede informazione statistica di qualità su cui basare le decisioni politiche e intende aumentare il livello e la qualità della partecipazione di donne e uomini a tutti i livelli della società.\nLe politiche, in accordo con il GIA vengono valutate non solo per la loro efficacia ma anche rispetto al mantenimento di equilibrio tra uomini e donne, sia in termini occupazionali, che in termini sociali. Quest'ultima dimensione rappresenta un elemento particolarmente importante in quanto le ricadute sociali derivanti dall'esclusione delle donne dalla vita produttiva del Paese possono generare la cosiddetta poverty trap .\nSi evidenzia infine che nel mese di luglio 2021 l'Italia ha predisposto, tramite la Ministra per le Pari opportunità,  la  Strategia  Nazionale  sulla  Parità  di  Genere  2021-2025,  che  si  ispira  alla  Gender Equality Strategy 2020-2025 dell'Unione Europea, ed è strettamente correlata al PNRR, di cui uno dei dispositivi legislativi è la Legge 5 novembre 2021 n. 162 sulla parità salariale. La legge introduce rilevanti novità, tra cui la modifica della nozione di 'discriminazione indiretta' per includere atti di natura organizzativa o che incidano sull'orario di lavoro, la trasparenza nei dati, l'ampliamento delle aziende  tenute  alla  presentazione  ogni  due  anni  del  rapporto  sul  personale  e  soprattutto  la CERTIFICAZIONE di parità di genere, per le aziende virtuose, cui corrispondono sgravi contributivi e premialità nella valutazione dei bandi pubblici.\n0.2 NECESSITÀ DEL RIEQUILIBRIO DI GENERE\nIl terzo dei Millennium Development Goals (MDGs) proposti dalle Nazione Unite (UN) è ' to promote gender  equality  and  empower  women '  ossia  promuovere  la  parità  di  genere  e  la  leadership femminile.\nTra i 17 Obiettivi per lo Sviluppo Sostenibile - Sustainable Development Goals, SDGs - dell'Agenda 2030, il goal 5 si prefissa l'obiettivo di raggiungere l'uguaglianza di genere ed emancipare tutte le\n4 ' Gender impact assessment is the process of comparing and assessing, according to gender relevant criteria, the current situation and trend with the expected development resulting from the introduction of the proposed policy'.\n© UNI\n7\n\n\n[PAGE 10]\n\n\nUNI/PdR 125:2022\ndonne e le ragazze. E più in generale, con il goal 10 si vuole ridurre l'ineguaglianza all'interno e fra le Nazioni.\nNOTA A supporto del conseguimento degli obiettivi  ONU  dell'Agenda 2030, anche  il sistema  nazionale, europeo e internazionale della normazione tecnica sta lavorando affinché il tema della parità di genere sia elemento chiave sia nei documenti tecnici che nei processi di sviluppo delle norme. In questo contesto UNI ha firmato la Dichiarazione UNECE Gender Responsive Standards Declaration 5 , documento elaborato da UNECE United Nations Economic Commission for Europe che ha come scopo di dare maggiore potere e valore  alle  donne,  rendendo  concreta  ed  efficace  la  parità  di  genere,  anche  attraverso  un  processo  di normazione che punti a realizzare standard che prestino sempre maggiore attenzione alla diversità di genere.\nÈ  noto  come  la  parità  di  genere  sia  motore  di  crescita  economica  e  di  sviluppo 6 .  Poiché  la distribuzione  dei  talenti  e  delle  capacità  tra  uomini  e  donne  è  la  stessa  e  le  donne  in  media detengono un capitale umano e una produttività non inferiore a quella  degli  uomini,  una  piena valorizzazione del talento femminile diventa elemento fondamentale nella creazione della crescita economica. Inoltre, il lavoro femminile rappresenta un contributo diretto alla formazione di PIL e alla creazione  di  crescita  economica,  come  misurato  da  molteplici  organizzazioni  internazionali: secondo le stime del Fondo Monetario Internazionale se le lavoratrici fossero numericamente pari ai lavoratori, in Italia il PIL aumenterebbe dell'11%. Infine, la partecipazione delle donne alla vita economica e alle decisioni economiche e politiche comporta un allargamento di prospettive che è essenziale per spingere l'innovazione e la performance .\nLa letteratura recente sottolinea che le aziende più inclusive sono in grado di creare un valore più  elevato .  Da  decenni  sono  numerose  le  evidenze  non-accademiche  che  identificano  la correlazione positiva tra la presenza di donne in posizioni decisionali e le performance aziendali 7 . Queste evidenze, sia pur suggestive, non sono in grado di identificare se la performance aumenta perché ci sono più donne oppure se le donne aumentano in aziende che performano meglio, o ancora se sia la presenza di donne, sia la performance migliorano a causa di un fattore esterno che le determina, per esempio la cultura più favorevole o un mercato del lavoro più dinamico. Abbiamo però oggi studi rigorosi in grado di stimare l'effetto causale che una leadership femminile ha sui risultati economici. Per l'Italia, sono significativi gli studi condotti con riferimento all'introduzione di quote  di  genere,  un  fattore  esogeno  che  aumenta  il  numero  di  donne  in  posizioni  decisionali\n5  https://unece.org/trade/wp6/thermatic-areas/gender-resp-stds-decl\n6 Sugli  impatti  positivi  della  parità  di  genere  per  l'economia  sono  d'accordo  tutte  le  organizzazioni internazionali, che da decenni stimano l'impatto positivo e significativo della parità di genere sul PIL. Si veda Profeta, Paola, Parità di genere e politiche pubbliche , EGEA, 2020, per un'analisi degli effetti diretti e indiretti della relazione tra occupazione femminile e crescita economica.\n7  Mc Kinsey & Company, Diversity wins: how inclusion matters , 2020.\nhttps://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters\nMc Kinsey& Company, Women matter: Ten years of insight on gender diversity , 2013.\nhttps://www.mckinsey.com/featured-insights/gender-equality/women-matter-ten-years-of-insights-ongender-diversity\nCatalyst, Why diversity matters , 2013\nhttps://www.catalyst.org/research/why-diversity-matters/\n© UNI\n8\n\n\n[PAGE 11]\n\n\nUNI/PdR 125:2022\nindipendentemente da altri fattori 8  e che quindi permette di identificare in modo rigoroso il rapporto di causa-effetto. I risultati positivi sono confermati. Quali sono i canali che li spiegano?\nIn  parte  la  relazione  positiva  dipende  dalle  caratteristiche  individuali  specifiche  delle  donne (avversione  al  rischio,  capacità  di  negoziare,  visione  di  lungo  periodo,  sensibilità  ai  temi  di sostenibilità), dalle modalità di relazionarsi, dalla capacità di interagire in gruppi, e in generale da quello che viene definito lo stile di leadership femminile , più inclusivo e orientato all'innovazione di  quello  maschile.  In  parte,  la  relazione  positiva  può  essere  vista  come  il  risultato  di  una competizione benefica che si innesca quando le donne prendono parte al processo di selezione: quando le posizioni di leadership si aprono a uomini e a donne e la platea dei candidati si allarga, il livello  di  qualità migliora  e  la  selezione  diventa  più  efficace.  Il  risultato  è  che  le  posizioni decisionali saranno occupate da persone più qualificate che opereranno scelte portatrici di maggior valore.  Infine,  gli  studi  esistenti  mostrano  che  la  presenza  di  donne  in  posizioni  decisionali  si accompagna alla definizione di una nuova agenda , dove temi come l'inclusione, la sostenibilità, il work-life  balance diventano  prioritari.  Si  tratta  di  temi  con  un  forte  impatto  propulsivo  sulla produttività  e  sul  valore  del  business,  a  conferma  che  la  parità  di  genere  può  innescare  circoli virtuosi che portano benefici per l'azienda, per la società e per l'economia.\n0.3 OBIETTIVI E STRUMENTI\nL'obiettivo della parità di genere ormai assunto a livello istituzionale, nazionale e internazionale, a partire dall'Agenda ONU 2030 fino alle linee guida europee, richiede interventi radicali per superare gli stereotipi di genere, sia in riferimento al contesto lavorativo che familiare, e scardinare le fonti di disuguaglianza. Inoltre, l'impatto economico e sociale della pandemia da Covid-19, impone alle realtà  aziendali  un  cambio  di  paradigma  nell'organizzazione  del  lavoro  e  rende  prioritaria  ed essenziale l'inclusione a tutti i livelli del 51% del Paese: le donne.\nPer realizzare un vero cambiamento di paradigma è necessario che i principi di parità di genere e di  rispetto  delle  diversità  siano  integrati  negli obiettivi  aziendali ed  è  quindi  necessario  per  le organizzazioni dotarsi di adeguati strumenti attraverso i quali:\n-porre l'attenzione e fissare precisi obiettivi per ogni fase lavorativa delle donne all'interno delle organizzazioni,\n-misurare in modo chiaro e standardizzato i progressi realizzati,\n-certificare i risultati raggiunti seguendo processi qualificati e trasparenti.\nLe  organizzazioni  si  impegnano  a  recepire  i  principi  di gender  equality ,  articolati  sull'intero percorso  professionale  e  fasi  di  vita  delle  lavoratrici,  dal  momento  del  recruiting  fino  al pensionamento,  con  l'obiettivo  non  solo  di  aumentare  la  presenza  femminile  all'interno  del contesto lavorativo ma anche di garantire pari opportunità di carriera, fino ai più importanti ruoli apicali, pari trattamento economico, condizioni di work-life balance adeguate alle diverse fasi di vita e proattive nel riequilibrio dei carichi familiari tra uomini e donne, nonché un ambiente di lavoro che rifiuti stereotipi, discriminazioni, ogni forma di abuso fisico, verbale, digitale e proponga invece una cultura della diversità e dell'inclusione.\n8  Ferraro Valeria; Ferrari Giulia; Profeta Paola; Pronzato Chiara, 'Do board gender quotas matter? Selection, performance and stock market effects. Management Science, forthcoming', 2021.\n© UNI\n9\n\n\n[PAGE 12]\n\n\nUNI/PdR 125:2022\nL'adozione e il perseguimento di un sistema di gestione per la parità di genere, che potrà portare anche alla 'Certificazione di parità di genere' per le organizzazioni che lo adotteranno, si propone di promuovere e tutelare la diversità e le pari opportunità sul luogo di lavoro, misurandone gli stati di avanzamento e i risultati attraverso la predisposizione di specifici KPI di cui si rende conto nei documenti ufficiali.\nPoiché il sistema economico funziona per incentivi, è necessario immaginare un meccanismo di premialità nei confronti delle organizzazioni che adottino un sistema di gestione per la parità di genere, con l'obiettivo di traghettare le organizzazioni italiane verso un modello che promuove la parità tra i sessi e la creazione di maggiore valore sostenibile .\nNel contesto italiano, abbiamo evidenziato alcuni elementi specifici di particolare attenzione, che ci portano  ad  identificare  i  seguenti  aspetti  critici  del comportamento  delle  organizzazioni nei confronti del lavoro femminile:\n-Retribuzioni  e  carriere. Le  donne  sono  penalizzate  nella  retribuzione  e  nei  percorsi  di crescita professionale, occupano livelli professionali inferiori e in settori meno remunerativi. Questi divari di genere non possono essere pienamente spiegati in base alle caratteristiche osservabili di uomini e donne, né alle libere scelte individuali delle donne o delle famiglie, né al contesto istituzionale. Sono invece frutto di fattori che hanno le loro radici in una cultura aziendale  poco  aperta  alla  parità  di  genere  e  che  non  vede  penalizzata  la  sua  scarsa attenzione  alla  parità  di  genere.  Incentivi  a  valorizzare  la  parità  di  genere,  sono  misure efficaci per scardinare questa criticità.\n-Genitorialità e cura della famiglia. Nonostante la puntuale e completa tutela legislativa presente  nel  Paese,  la  genitorialità  è  ancora  elemento  scoraggiante  per  l'occupazione femminile, poiché ad essa le organizzazioni attribuiscono un costo elevato e asimmetrico rispetto a quello legato alla paternità. Sulla base di processi di discriminazione statistica, le organizzazioni attribuiscono alle madri mediamente un maggior coinvolgimento dei padri nella gestione della famiglia e della casa (evidenza provata dai dati) e quindi preferiscono assumere  e  promuovere  uomini  a  cui  non  attribuiscono  tali  carichi.  Di  conseguenza all'interno della coppia ci sarà un vero incentivo per la donna a dedicarsi maggiormente al lavoro di cura e al lavoro domestico e all'uomo a investire nel lavoro e nella carriera. Questo vale sia per la cura di figli/figlie che per altri compiti familiari, come la cura degli anziani o di altri individui fragili nel proprio nucleo familiare. Si genera dunque  un equilibrio discriminatorio da cui è difficile uscire, senza misure specifiche disegnate per lo scopo.\n-Bias gestionali e processi di gestione. I  processi gestionali non sono neutri rispetto al genere. L'esistenza di bias espliciti ma anche impliciti all'interno delle organizzazioni è stata misurata da un'ampia letteratura economica. Anche i processi di selezione non sono neutri: un gruppo di valutatori completamente maschile sarà meno in grado di valutare le capacità di  una  lavoratrice  donna.  Il  risultato,  tuttavia,  non  è  efficiente,  poiché  può  portare  alla selezione di profili candidati non sulla base del merito e quindi della futura performance, ma sulla  base  di  altre  caratteristiche.  In  altri  termini,  la  presenza  dei bias è  molto  costosa. Rimuovere i bias è estremamente difficile. Il primo passo è il riconoscimento della loro stessa esistenza, grazie ad indicatori oggettivi di misurazione. Gestire i processi aziendali diventerà più efficiente.\n© UNI\n10",
+    "matches": [
+      {
+        "chunk_id": 160,
+        "chunk_text": "Nel  corso  delle  interviste  vengono  anche  definite  da  Talent  Acquisition  le  condizioni  di  massima  della proposta contrattuale ed economica per l'assunzione. Durante le interviste Lutech si impegna a non raccogliere informazioni relative a matrimonio e gravidanza e responsabilità familiari. Inoltre, garantisce che le candidature non contengano informazioni relative allo stato  di  fami",
+        "dense_score": 0.8823694215322999,
+        "tfidf_score": 0.7880090570119154,
+        "section_boost": 0.0,
+        "graph_score": 1.0,
+        "final_score": 0.7893504857164946,
+        "rank": 1,
+        "concepts": [
+          "nel  corso  delle",
+          "talent  acquisition  le",
+          "durante le interviste",
+          "lutech si impegna",
+          "inoltre",
+          "curricula inviati dai",
+          "durante  la  fase",
+          "lutech  tiene  conto"
+        ]
+      },
+      {
+        "chunk_id": 150,
+        "chunk_text": "stato  matrimoniale  o  di  famiglia  o  di gravidanza, nonché di maternità o paternità, anche adottive, e su qualsiasi altra caratteristica protetta, in tutti i livelli della gerarchia professionale. Nell'ambito di tale complessivo processo - premesso che i principali aspetti e le modalità di gestione delle attività di formazione sono specificate nella procedura PSQ-004 Gestione della Formazione ",
+        "dense_score": 0.7811794285748301,
+        "tfidf_score": 0.7641987241649842,
+        "section_boost": 0.0,
+        "graph_score": 0.8255125228396456,
+        "final_score": 0.7068338932473566,
+        "rank": 2,
+        "concepts": [
+          "nell",
+          "gestione della formazione",
+          "resource manager",
+          "practice leader",
+          "capability leader",
+          "key performance indicator"
+        ]
+      },
+      {
+        "chunk_id": 48,
+        "chunk_text": "In Italia i giovani lavoratori, compresi tra i 16 e i 18 anni, possono essere impiegatin condizioni di lavoro specifiche che non comportino dei rischi di salute sicurezza elevati. LUTECH, data la natura tecnica delle sue attività, assumesclusivamente personale diplomato e/o laureato. Il controllo dell'età vieneffettuato tramite unattenta verifica dei dati anagrafici delavoratore, del suo codice fi",
+        "dense_score": 0.9686635409785141,
+        "tfidf_score": 0.5540055366904941,
+        "section_boost": 0.0,
+        "graph_score": 0.6687981018693315,
+        "final_score": 0.6874266977724203,
+        "rank": 3,
+        "concepts": [
+          "italia",
+          "clienti",
+          "fornitori",
+          "associati",
+          "ove in prima",
+          "fornitori dovessemergere la"
+        ]
+      },
+      {
+        "chunk_id": 151,
+        "chunk_text": "A tal fine, vengono applicati strumenti di rilevazione e monitoraggio in linea con i Key Performance Indicator (KPI)  previsti  dalla  UNI/PdR  125,  al  fine  di  garantire  il  rispetto  degli  obiettivi  di  parità  di  genere,  equità retributiva, accesso equilibrato alla formazione e sviluppo professionale. Le decisioni relative a progressioni di  carriera,  assegnazioni  e  percorsi  di  cre",
+        "dense_score": 0.9660171975899454,
+        "tfidf_score": 0.7377598534445041,
+        "section_boost": 0.0,
+        "graph_score": 0.2501353923781084,
+        "final_score": 0.6577619135449512,
+        "rank": 4,
+        "concepts": [
+          "key performance indicator"
+        ]
+      },
+      {
+        "chunk_id": 62,
+        "chunk_text": "LUTECH ritiene parte integrante del proprio ruolo imprenditoriale sia la tutela delle condizioni di lavoro sia la protezione dell'integrità fisica e morale delavoratore. L'Aziendattribuisce la massima importanza quanti prestano la loro attività lavorativa, ai quali viene riconosciuto il fondamentale ruolo di sviluppare garantire servizi nonché la creazione di valore. I processi di selezione assunz",
+        "dense_score": 0.9039411890969273,
+        "tfidf_score": 0.6519816921546571,
+        "section_boost": 0.0,
+        "graph_score": 0.3491546470395163,
+        "final_score": 0.6270019126930713,
+        "rank": 5,
+        "concepts": [
+          "aziendattribuisce la massima",
+          "human resource con",
+          "azienda non interferisce"
+        ]
+      },
+      {
+        "chunk_id": 37,
+        "chunk_text": "LUTECH simpegna garantire la conformità, ai requisiti prescritti dalla legislazione vigente in materia di Lavoro e contrattuali stabiliti con i Clienti. Il continuo aggiornamento e la conoscenza della normativa e della legislazione applicabile sono requisitindispensabili per le attività svolte dall'Azienda e per garantire ai Clienti la fornitura di servizi conformi. Il Sistema di Gestione della Re",
+        "dense_score": 1.0,
+        "tfidf_score": 0.4517021368008988,
+        "section_boost": 0.0,
+        "graph_score": 0.12546919553958527,
+        "final_score": 0.5606044801481868,
+        "rank": 6,
+        "concepts": [
+          "lavoro",
+          "clienti",
+          "azienda",
+          "clienti la fornitura",
+          "sistema di gestione",
+          "sociale",
+          "information system on",
+          "international labour standards"
+        ]
+      },
+      {
+        "chunk_id": 161,
+        "chunk_text": "L'esito dell'intervista viene condiviso \n\ncandidature,  Lutech  tiene  conto  della  necessità  di  garantire  una rappresentanza equilibrata delle donne e degli uomini all'interno dell'organizzazione. L'esito dell'intervista viene condiviso con i richiedenti e archiviata su TOO-037 Gestione Recruitment . Una volta individuato il/la candidato/a adatto/a, previa conferma del Capability Leader richi",
+        "dense_score": 0.716102032605861,
+        "tfidf_score": 0.7957496943676603,
+        "section_boost": 0.0,
+        "graph_score": 0.17496534993208845,
+        "final_score": 0.5601587913390602,
+        "rank": 7,
+        "concepts": [
+          "lutech  tiene  conto",
+          "gestione recruitment",
+          "una volta individuato",
+          "capability leader richiedente",
+          "talent acquisition procede",
+          "autocertificazione insussistenza di",
+          "lgs",
+          "dipendenti"
+        ]
+      },
+      {
+        "chunk_id": 159,
+        "chunk_text": "13 del GDPR per il trattamento dei dati personali come da normativa vigente); le candidature sono messe così a disposizione sia di Talent Acquisition - che le esamina e verifica l'assenza di vincoli od ostacoli all'eventuale assunzione  (ad  esempio,  se  il/la  candidato/a  al  momento  è  impiegato/a  presso  un  partner  o  un  cliente Lutech) -che delle persone interne che hanno richiesto il p",
+        "dense_score": 0.7546829418312387,
+        "tfidf_score": 0.5789899264443087,
+        "section_boost": 0.0,
+        "graph_score": 0.29942491320479564,
+        "final_score": 0.5354551373067472,
+        "rank": 8,
+        "concepts": [
+          "talent acquisition",
+          "lutech",
+          "quindi si procede",
+          "talent acquisition che",
+          "platform di appartenenza",
+          "nel  corso  delle",
+          "talent  acquisition  le"
+        ]
+      },
+      {
+        "chunk_id": 157,
+        "chunk_text": "Sono comprese le risorse intercettate sul mercato dal Recruiting o segnalate dal personale interno (come previsto dalla Policy referral)  le  cui  caratteristiche  generano  nuove  opportunità  di  business. In  questo  caso  la  posizione  viene  aperta  sul Requester Portal successivamente alla valutazione di assunzione del/la candidato/a. merito, le competenze e la professionalità delle risorse",
+        "dense_score": 0.6400221078191274,
+        "tfidf_score": 0.9077212628306918,
+        "section_boost": 0.0,
+        "graph_score": 0.026880135565695448,
+        "final_score": 0.5337012490899976,
+        "rank": 9,
+        "concepts": [
+          "sono comprese le",
+          "recruiting",
+          "policy referral",
+          "requester portal successivamente",
+          "lutech"
+        ]
+      },
+      {
+        "chunk_id": 53,
+        "chunk_text": "r scolastico (sia in modo diretto che mediante sollecitazione di enti pubblici) - ❑ verifica del rispetto delle condizioni previste dalla normativa in materia di salute sicurezza nei luoghi di lavoro. Nell'ottica del miglioramento continuo di un Sistema di Gestione sulla responsabilità sociale, è fondamentale migliorare la sensibilità su queste tematiche sia internamente all'Azienda sia dei Fornit",
+        "dense_score": 0.6981876969195481,
+        "tfidf_score": 0.6539792412776578,
+        "section_boost": 0.0,
+        "graph_score": 0.24443163346659827,
+        "final_score": 0.5243551778444362,
+        "rank": 10,
+        "concepts": [
+          "nell",
+          "sistema di gestione",
+          "azienda sia dei",
+          "fornitori",
+          "direzione aziendale del",
+          "responsabile del sistema",
+          "gestione",
+          "subfornitore la esigenza"
+        ]
+      }
+    ],
+    "coverage_percent": 100.0
+  },
+  {
+    "requirement_id": null,
+    "requirement_text": "[PAGE 13]\n\n\nUNI/PdR 125:2022\n1 SCOPO E CAMPO DI APPLICAZIONE\nLa prassi di riferimento definisce le linee guida sul sistema di gestione per la parità di genere che prevede la strutturazione  e  adozione  di  un  insieme  di  indicatori  prestazionali  (KPI)  inerenti  alle politiche di parità di genere nelle organizzazioni.\nLa  prassi  di  riferimento  per  la  parità  di  genere  nelle  organizzazioni  prevede  la  misura,  la rendicontazione e la valutazione dei dati relativi al genere nelle organizzazioni con l'obiettivo di colmare i gap attualmente esistenti nonché incorporare il nuovo paradigma relativo alla parità di genere nel DNA delle organizzazioni e produrre un cambiamento sostenibile e durevole nel tempo.\nIl documento non si applica alle Partite IVA che non hanno dipendenti o addetti/e.\n2 RIFERIMENTI NORMATIVI E LEGISLATIVI\nLa presente prassi di riferimento rimanda, mediante riferimenti datati e non, a disposizioni contenute in altre pubblicazioni. Tali riferimenti normativi e legislativi sono citati nei punti appropriati del testo e sono di seguito elencati. Per quanto riguarda i riferimenti datati, successive modifiche o revisioni apportate a dette pubblicazioni valgono unicamente se introdotte nel presente documento come aggiornamento o revisione. Per i riferimenti non datati vale l'ultima edizione della pubblicazione alla quale si fa riferimento.\nDecreto Legislativo 11 aprile 2006, n.198 Codice delle pari opportunità tra uomo e donna, a norma dell'articolo 6 della legge 28 novembre 2005, n.246. (Gazzetta Ufficiale n.125 del 31-5-2006 - Suppl. Ordinario n.133)\nL. 162/2021 Modifiche al codice di cui al D.Lgs 11 aprile 2006 n.198 e altre disposizioni in materia di parità tra uomo e donna in ambito lavorativo (Gazzetta Ufficiale n.275 del 18-11-2021)\nUNI EN ISO 9000 Sistemi di gestione per la qualità - Fondamenti e vocabolario\nUNI EN ISO 9001 Sistemi di gestione per la qualità\nUNI EN ISO 19011 Linee guida per gli audit dei sistemi di gestione per la qualità e/o di gestione ambientale\nUNI  CEI  EN  ISO/IEC  17021-1  Valutazione  della  conformità  -  Requisiti  per  gli  organismi  che forniscono audit e certificazione di sistemi di gestione - Parte 1: Requisiti\nUNI EN ISO 26000 Guida alla responsabilità sociale\nUNI ISO 30415, Gestione delle risorse umane - Diversità e inclusione\n© UNI\n11",
+    "matches": [
+      {
+        "chunk_id": 213,
+        "chunk_text": "lgs 24/2023 -i  diritti,  gli  interessi  legittimi  e  la riservatezza del segnalante saranno comunque rispettati e protetti, così come quelli delle persone eventualmente coinvolte, in applicazione di quanto previsto dal sistema di Responsabilità Sociale conforme alla SA8000 e dal Sistema di Gestione per la Parità di Genere, implementati dalla Società e rispettivamente, in particolare, dal MRS-00",
+        "dense_score": 0.6557520143607254,
+        "tfidf_score": 1.0,
+        "section_boost": 0.0,
+        "graph_score": 0.9671573785865334,
+        "final_score": 0.7557322814615969,
+        "rank": 1,
+        "concepts": [
+          "sociale conforme alla",
+          "sistema di gestione",
+          "genere",
+          "manuale sistema di",
+          "gestione",
+          "sociale",
+          "manuale del sistema"
+        ]
+      },
+      {
+        "chunk_id": 43,
+        "chunk_text": "[29], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Salute sicurezza dei lavoratori. [30], DOCUMENTO = SA8000:2014. [30], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Responsabilità Sociale.. [31], DOCUMENTO = ISO 19011:2018. [31], TITOLO = Norma contenente i Requisiti relativi all'esecuzione degli Audit interni ai Sistemi di Gestione di un'Organi",
+        "dense_score": 0.7642830134650902,
+        "tfidf_score": 0.8007426489577667,
+        "section_boost": 0.0,
+        "graph_score": 0.9999999999999999,
+        "final_score": 0.745936000073366,
+        "rank": 2,
+        "concepts": [
+          "norma contenente",
+          "sistemi di gestione",
+          "salute sicurezza dei",
+          "sociale",
+          "requisiti relativi all",
+          "audit interni ai",
+          "organizzazione",
+          "informazione documentata dis"
+        ]
+      },
+      {
+        "chunk_id": 212,
+        "chunk_text": "300) Qualora una segnalazione avesse ad oggetto una contestazione, rivendicazione o richieste legate ad un interesse di carattere personale della persona segnalante che attengono esclusivamente ai propri rapporti individuali di lavoro ovvero con le figure gerarchicamente sovraordinate -escluse dal perimetro oggettivo di applicabilità delle tutele previste dal D. lgs 24/2023 -i  diritti,\n\nente ai p",
+        "dense_score": 0.702857767942564,
+        "tfidf_score": 0.6898650008381647,
+        "section_boost": 0.0,
+        "graph_score": 0.9708791666702418,
+        "final_score": 0.6822784407625233,
+        "rank": 3,
+        "concepts": [
+          "qualora una segnalazione",
+          "sociale conforme alla",
+          "sistema di gestione",
+          "genere",
+          "manuale sistema di",
+          "gestione",
+          "sociale",
+          "manuale del sistema"
+        ]
+      },
+      {
+        "chunk_id": 150,
+        "chunk_text": "stato  matrimoniale  o  di  famiglia  o  di gravidanza, nonché di maternità o paternità, anche adottive, e su qualsiasi altra caratteristica protetta, in tutti i livelli della gerarchia professionale. Nell'ambito di tale complessivo processo - premesso che i principali aspetti e le modalità di gestione delle attività di formazione sono specificate nella procedura PSQ-004 Gestione della Formazione ",
+        "dense_score": 0.787332680321963,
+        "tfidf_score": 0.6717521179234853,
+        "section_boost": 0.0,
+        "graph_score": 0.8069103468508867,
+        "final_score": 0.6778407768760082,
+        "rank": 4,
+        "concepts": [
+          "nell",
+          "gestione della formazione",
+          "resource manager",
+          "practice leader",
+          "capability leader",
+          "key performance indicator"
+        ]
+      },
+      {
+        "chunk_id": 143,
+        "chunk_text": "Lo scopo del presente documento è quello di descrivere le procedure applicate da Lutech in alcune delle diverse fasi del processo di gestione delle risorse umane. Il documento include, in particolare, i criteri di valutazione delle risorse umane, con riguardo alla definizione dei principali profili che influenzano la qualità dei servizi forniti da Lutech ed alla valutazione complessiva della loro ",
+        "dense_score": 0.6845602171354099,
+        "tfidf_score": 0.9751766184145955,
+        "section_boost": 0.0,
+        "graph_score": 0.41568362218070176,
+        "final_score": 0.649513796814683,
+        "rank": 5,
+        "concepts": [
+          "lutech in alcune",
+          "lutech ed alla",
+          "lutech"
+        ]
+      },
+      {
+        "chunk_id": 84,
+        "chunk_text": "Il Sistema di Gestione per la RS di LUTECH comprende: - [ ] ❑ le Informazioni Documentate richieste dalla norma SA8000:2014 - [ ] ❑ le Informazioni Documentate necessarie per l'efficacia del Sistema di Gestione per la RS - [ ] ❑ le Informazioni Documentate necessarie ad integrare il Sistema di Gestione per la RS con gli altri Sistemi di Gestione aziendali. Manuale del Sistema di Gestione sulla Res",
+        "dense_score": 0.6654434948867779,
+        "tfidf_score": 0.8196097086778317,
+        "section_boost": 0.0,
+        "graph_score": 0.635626247430876,
+        "final_score": 0.6391855600442359,
+        "rank": 6,
+        "concepts": [
+          "sistema di gestione",
+          "informazioni documentate richieste",
+          "informazioni documentate necessarie",
+          "sistemi di gestione",
+          "manuale del sistema",
+          "gestione sulla",
+          "sociale",
+          "detta obiettivi"
+        ]
+      },
+      {
+        "chunk_id": 151,
+        "chunk_text": "A tal fine, vengono applicati strumenti di rilevazione e monitoraggio in linea con i Key Performance Indicator (KPI)  previsti  dalla  UNI/PdR  125,  al  fine  di  garantire  il  rispetto  degli  obiettivi  di  parità  di  genere,  equità retributiva, accesso equilibrato alla formazione e sviluppo professionale. Le decisioni relative a progressioni di  carriera,  assegnazioni  e  percorsi  di  cre",
+        "dense_score": 1.0,
+        "tfidf_score": 0.6173577194086337,
+        "section_boost": 0.0,
+        "graph_score": 0.24589486795910037,
+        "final_score": 0.6343862894144102,
+        "rank": 7,
+        "concepts": [
+          "key performance indicator"
+        ]
+      },
+      {
+        "chunk_id": 177,
+        "chunk_text": "In  sede  di  assunzione  a  tutti/e  i/le  neoassunti/e,  senza  alcuna  distinzione  di  genere,  età  provenienza  o qualsiasi  altra  condizione,  viene  consegnata  la  documentazione  cartacea  o  elettronica  (riferimento  alla intranet aziendale), relativa ai seguenti temi di carattere trasversale: - ❑ contratto di lavoro\n- ❑ sicurezza sul lavoro\n- ❑ codice etico ex Dlgs 231/01, integrato ",
+        "dense_score": 0.6295176689527454,
+        "tfidf_score": 0.8488206085540313,
+        "section_boost": 0.0,
+        "graph_score": 0.2439550576300889,
+        "final_score": 0.5552442616733253,
+        "rank": 8,
+        "concepts": [
+          "dlgs",
+          "politica per la",
+          "prevenzione della corruzion",
+          "sistema disciplinare iso",
+          "genere",
+          "tali  argomenti  saranno",
+          "gestione della formazione"
+        ]
+      },
+      {
+        "chunk_id": 5,
+        "chunk_text": "Lo scopo del presente Manuale è quello di presentare il Sistema di Gestione di LUTECH per la pianificazione, esecuzione, supervisione/controllo e continuo miglioramento di tutte le attività relative alla Responsabilità Sociale (di seguito per brevità RS) presso le varie sedi aziendali di LUTECH, il tutto in maniera conforme a quanto richiesto dallo standard SA8000:2014. Poich é per l'implementazio",
+        "dense_score": 0.7346083420427231,
+        "tfidf_score": 0.5919651655921248,
+        "section_boost": 0.0,
+        "graph_score": 0.3810462625015073,
+        "final_score": 0.5476421389950281,
+        "rank": 9,
+        "concepts": [
+          "manuale",
+          "sistema di gestione",
+          "sociale",
+          "poich"
+        ]
+      },
+      {
+        "chunk_id": 157,
+        "chunk_text": "Sono comprese le risorse intercettate sul mercato dal Recruiting o segnalate dal personale interno (come previsto dalla Policy referral)  le  cui  caratteristiche  generano  nuove  opportunità  di  business. In  questo  caso  la  posizione  viene  aperta  sul Requester Portal successivamente alla valutazione di assunzione del/la candidato/a. merito, le competenze e la professionalità delle risorse",
+        "dense_score": 0.7682596170329044,
+        "tfidf_score": 0.6444082083019024,
+        "section_boost": 0.0,
+        "graph_score": 0.12809635935813296,
+        "final_score": 0.526245581175359,
+        "rank": 10,
+        "concepts": [
+          "sono comprese le",
+          "recruiting",
+          "policy referral",
+          "requester portal successivamente",
+          "lutech"
+        ]
+      }
+    ],
+    "coverage_percent": 100.0
+  },
+  {
+    "requirement_id": null,
+    "requirement_text": "[PAGE 14]\n\n\nUNI/PdR 125:2022\n3 TERMINI E DEFINIZIONI\nAi fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:\n3.1 addetto/a: Persona occupata in un'unità giuridica, come lavoratore/lavoratrice indipendente o dipendente (a tempo pieno, a tempo parziale o con contratto di formazione lavoro), anche se temporaneamente assente (per servizio, ferie, malattia, sospensione dal lavoro, Cassa integrazione guadagni, ecc.). Comprende il/i titolare/i della/e impresa/e partecipante/i direttamente alla  gestione,  i  cooperatori  (soci  di  cooperative  che,  come  corrispettivo  della  loro  prestazione, percepiscono  un  compenso  proporzionato  all'opera  resa  e  una  quota  degli  utili  dell'impresa),  i coadiuvanti familiari (parenti o affini del titolare che prestano lavoro manuale senza una prefissata retribuzione contrattuale), dirigenti, quadri, impiegati, operai e apprendisti.\n[Fonte:  Report  statistiche  ISTAT,  CONTI  ECONOMICI  DELLE  IMPRESE E DEI GRUPPI DI IMPRESA | ANNO 2019, 2 novembre 2021]\n3.2 benefit: Tutti i beni e servizi che un'organizzazione offre, in varie forme (es. buoni pasto, automobile,  assicurazione  sanitaria,  asili  nido,  voucher  per  attività  sportive  dei  figli,  facilitazioni d'acquisto sui propri prodotti), al personale dipendente in aggiunta alla retribuzione.\n3.3 budget: Programmazione delle attività di un'organizzazione in vista del conseguimento di determinati obiettivi, con stanziamento della somma che si decide di spendere.\n3.4 caregiver: Chi si prende cura di un'altra persona.\n3.5 check list: Lista dei requisiti della presente UNI/PdR che occorre controllare e spuntare per verificare che le attività pianificate siano state eseguite correttamente.\n3.6 comitato guida: Comitato istituito dall'Alta Direzione per l'efficace adozione e la continua ed efficace applicazione della Politica per la Parità di Genere.\n3.7 conciliazione vita-lavoro: Capacità di equilibrare la sfera lavorativa e quella privata.\n3.8 DEI: Diversità, Equità e Inclusione.\n3.9 delega: Assegnazione  dell'esercizio  di  poteri  e  funzioni  e  della  capacità  di  agire relativamente a determinati voci di costo, investimenti, compiti.\n3.10 dipendente :  Persona  che  svolge  la  propria  attività  lavorativa  in  un'unità  giuridica  ed  è iscritta nel libro paga dell'organizzazione. Sono considerati tra i/le lavoratori/lavoratrici dipendenti:\n-le persone socie di cooperativa iscritte nel libro paga;\n-i/le dirigenti, i quadri, gli/le impiegati/e e gli/le operai/e, a tempo pieno o parziale;\n-gli/le apprendisti/e;\n-i/le lavoratori/lavoratrici a domicilio iscritti nel libro paga;\n-i/le lavoratori/lavoratrici stagionali;\n-i/le lavoratori/lavoratrici con contratto di formazione lavoro.\n© UNI\n12\n\n\n[PAGE 15]\n\n\nUNI/PdR 125:2022\n[Fonte:  Report  statistiche  ISTAT,  CONTI  ECONOMICI  DELLE  IMPRESE E DEI GRUPPI DI IMPRESA | ANNO 2019, 2 novembre 2021]\n3.11 discriminazione: Assenza  di  pari  opportunità  e  trattamento,  operata  in  seguito  a  un giudizio o a una classificazione.\nNOTA Nella presente UNI/PdR si intende principalmente discriminazione di genere.\n3.12 empowerment femminile: Processo attraverso cui una donna acquisisce competenze, autonomia e potere che le permettono di compiere scelte strategiche in ambito personale, sociale, politico ed economico e quindi di avere il controllo sulla propria vita. Tale processo, sostenuto da politiche che favoriscono la parità di genere, riconosce i bisogni e le esperienze specifiche delle donne, permettendo loro di vivere relazioni paritarie e di esercitare il diritto di accedere al mercato del lavoro e ai servizi pubblici rilevanti (es. welfare, salute, istruzione).\n3.13 formazione: Processo  attraverso  cui  le  persone  acquisiscono  conoscenze  e  capacità, tecniche e manageriali, che abilitano la piena partecipazione e contribuzione rispetto al proprio ruolo all'interno dell'organizzazione.\n3.14 gender diversity: Diversità di genere.\n3.15 governance: Sistema di governo attraverso il quale un'organizzazione prende e attua le decisioni nel perseguimento dei suoi obiettivi.\n3.16 HR : Risorse Umane.\n3.17 inclusione: Inserimento  stabile  e  funzionale  in  un  sistema  o  gruppo  per  favorire  pari opportunità e non discriminazione creando valore per le persone, per le organizzazioni e il contesto sociale.\n3.18 Key  Performance  Indicator  (KPI): Indicatori  chiave  di  prestazione,  utilizzati  per  il monitoraggio degli obiettivi stabiliti dalla politica di parità di genere e descritti nel piano strategico.\n3.19 molestia (molestia sessuale) : Comportamento indesiderato avente lo scopo o l'effetto di rendere un ambiente di lavoro offensivo, umiliante o degradante.\n3.20 parità di genere: Parità di genere tra sessi.\n3.21 piano strategico: Documento formale nel quale l'organizzazione definisce gli obiettivi da perseguire, stabilisce risorse, responsabilità, metodi e frequenze di monitoraggio.\n3.22 politica di parità di genere: Documento formale nel quale l'organizzazione definisce il quadro generale all'interno del quale devono essere individuate le strategie e gli obiettivi riguardanti l'uguaglianza di genere.\n3.23 promozione: Passaggio a una qualifica o livello contrattuale o organizzativo superiore.\n3.24 recruiting: Selezione del personale.\n3.25 retribuzione : Importo della retribuzione  complessiva  corrisposta,  delle  componenti accessorie del salario, anche collegate alle premialità del risultato, dei bonus e di ogni altro beneficio\n© UNI\n13\n\n\n[PAGE 16]\n\n\nUNI/PdR 125:2022\nriconosciuti  al  personale,  in  base  a  quanto  previsto  dai  contratti  collettivi  sottoscritti  dalle organizzazioni sindacali comparativamente più rappresentative a livello nazionale per il settore di riferimento.\nNOTA La retribuzione si compone di una parte fissa a cui possono aggiungersi una parte variabile (monetaria e/o finanziaria) ed eventuali benefit (tipicamente non monetari).\n3.26 selezione: Processo volto al reperimento, alla scelta e all'inserimento nell'organizzazione di nuove risorse.\n3.27 smart working o lavoro agile o lavoro flessibile: Modalità di esecuzione del rapporto di lavoro subordinato caratterizzato dall'assenza di vincoli orari o spaziali e un'organizzazione per fasi, cicli e obiettivi, stabilita mediante accordo tra dipendente e datore di lavoro; una modalità che aiuta il  lavoratore  a  conciliare  i  tempi  di  vita  e  lavoro  e,  al  contempo,  favorire  la  crescita  della  sua produttività.\n[Fonte: Definizione tratta dalla Legge n. 81/2017]\n3.28 staff: Gruppo di persone addette a un particolare compito, di solito sotto la guida di una persona responsabile che coordina.\n3.29 stereotipi di genere: Insieme rigido di credenze condivise e trasmesse socialmente, su quelli che sono e devono essere i comportamenti, il ruolo, le occupazioni, i tratti, l'apparenza fisica di una persona, in relazione alla sua appartenenza di genere.\n3.30 sviluppo: Sistema  integrato  di  attività  tramite  il  quale  il  personale  migliora  le  proprie competenze e abilità e ne impara di nuove, in modo da svolgere il lavoro in modo più efficace ed efficiente (formazione, coaching, job rotation, ecc.).\n3.31 talent development: Processo di sviluppo del talento del personale e del suo potenziale.\n3.32 target: Obiettivo  che  un'organizzazione  si  propone  di  raggiungere,  espresso  in  termini quantitativi.\n3.33 telelavoro: Lavoro  effettuato a distanza grazie all'utilizzo di sistemi telematici di comunicazione.\n3.34 valori: Elementi  chiave  della  cultura  di un'organizzazione  che  rafforzano  l'identità nell'organizzazione stessa, che indirizzano i comportamenti attesi dalle risorse e che e al tempo stesso la contraddistinguono da tutte le altre organizzazioni.\n3.35 vertice: Top Management o Alta Direzione (es. Country Manager).\n3.36 welfare  aziendale: Insieme  delle azioni volte a migliorare il benessere  dei/delle lavoratori/lavoratrici e delle loro famiglie con un approccio di 'corso di vita'. I/le lavoratori/lavoratrici sono consumatori di servizi e prodotti di welfare aziendale e devono essere partecipi (soggetti attivi) delle azioni decise. Il piano di welfare aziendale deve essere integrativo e complementare con il welfare  pubblico  e  coerente  con  il  contesto  locale  dell'organizzazione.  Le  somme,  i  beni,  le prestazioni, le opere e i servizi hanno finalità di rilevanza sociale e per questo sono escluse, in tutto o in parte, da reddito di lavoro.\n© UNI\n14\n\n\n[PAGE 17]\n\n\nUNI/PdR 125:2022\n[FONTE: UNI/PdR 103:2021]\n3.37 well-being : Benessere fisico, psicologico e sociale.\n3.38 whistle-blowing: Denuncia, di solito anonima, presentata dal personale di un'organizzazione alle autorità pubbliche, ai mezzi d'informazione, a gruppi di interesse pubblico, di attività non etiche o illecite commesse all'interno dell'organizzazione stessa. Termine utilizzato anche per le denunce al Sistema interno di Responsabilità Sociale.\n4 PRINCIPIO\nLa presente UNI/PdR ha l'obiettivo di inserirsi in un contesto più ampio rappresentato da alcuni pilastri descritti  di  seguito  la  cui  azione  congiunta  è  volta  ad  avviare  quel  percorso  sistemico di cambiamento culturale nelle organizzazioni e nella Società tutta al fine di raggiungere una più equa parità di genere.\nTale contesto è dettato dalla necessità di massimizzare obiettivi specifici in materia di occupazione e rappresentanza femminile nelle aziende pubbliche e private in Italia.\nSi supera in questo modo la visione stereotipata dei ruoli, attivando la grande risorsa dei talenti femminili per stimolare la crescita economica e sociale del Paese agendo sui seguenti driver:\nrispetto dei principi costituzionali di parità ed uguaglianza;\nadozione di politiche e misure per favorire l'occupazione femminile -  specie quella delle giovani donne e quella qualificata - e le imprese femminili, anche con incentivi per l'accesso al credito e al mercato ed agevolazioni fiscali;\nadozione di misure che favoriscano l'effettiva parità tra uomini e donne nel mondo del lavoro, tra  cui:  pari  opportunità  nell'accesso  al  lavoro,  parità  reddituale,  pari  accesso  alle opportunità di carriera e di formazione, piena attuazione del congedo di paternità in linea con le migliori pratiche europee;\npromozione di politiche di welfare a sostegno del 'lavoro silenzioso' di chi si dedica alla cura della famiglia, nel rispetto del co. 1 art. 3 della Costituzione (uguaglianza formale);\nadozione di misure specifiche a favore delle pari opportunità, in linea con quanto stabilito dal co. 2 art. 3 della Costituzione (uguaglianza sostanziale);\nintegrazione del principio dell'equità di genere nella normativa nazionale  affinché la sua adozione volontaria diventi riferimento qualora fosse richiesto alle organizzazioni pubbliche e private di ogni settore e dimensione di certificare la sostenibilità e l'adozione di politiche di genere, giustificata a ragione di specifiche esigenze e finalità produttive, in contesti quali, ad esempio, gare di appalto, rilascio di contributi pubblici oppure da un sistema di premialità allineato ai principi di libero mercato.\n© UNI\n15\n\n\n[PAGE 18]\n\n\nUNI/PdR 125:2022\nL'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:\n-opportunità di crescita in azienda e parità di retribuzioni;\n-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;\n-politiche di gestione dei processi aziendali.\nIl documento si completa con: una Appendice A relativa alle raccomandazioni per la valutazione di conformità di terza parte (certificazione) alla presente UNI/PdR per le organizzazioni che hanno implementato un sistema di gestione atto a garantire la parità di genere; una Appendice B relativa ad esempi di KPI per settore industriale.\n5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI\n5.1 GENERALITÀ\nÈ  fondamentale  che  l'efficacia  delle  azioni  intraprese  dall'organizzazione  al  fine  di  creare  un ambiente di lavoro inclusivo delle diversità, in linea con quanto previsto nella UNI EN ISO 26000 sulla  responsabilità  sociale  delle  organizzazioni  e  come  suggerito  nella  UNI  ISO  30415,  e  che sostenga  la  parità  di  genere,  venga  misurato  rispetto  a  un  insieme  di  indicatori  caratterizzati dall'essere  percorribili,  pertinenti  e  confrontabili  e  in  grado  di  guidare  il  cambiamento  e  di rappresentare il continuo miglioramento messo in atto dalle organizzazioni stesse.\nLo sviluppo di un ambiente di lavoro inclusivo richiede difatti un impegno costante e un contributo di  tutta  l'organizzazione  in  termini  di  linguaggio,  politiche,  processi,  pratiche  organizzative,  e comportamenti consci e inconsci delle singole persone.\nAl fine di garantire una misurazione olistica del livello di maturità delle singole organizzazioni, sono state individuate 6 Aree di indicatori attinenti alle differenti variabili che possono contraddistinguere un'organizzazione inclusiva e rispettosa della parità di genere quali:\nCultura e strategia (5.2);\nGovernance (5.3);\nProcessi HR (5.4);\nOpportunità di crescita ed inclusione delle donne in azienda (5.5);\nEquità remunerativa per genere (5.6);\nTutela della genitorialità e conciliazione vita-lavoro (5.7).\nOgni Area è contraddistinta da un peso % (fatto 100 il totale del peso delle differenti Aree) che contribuisce alla misurazione del livello as-is dell'organizzazione e rispetto al quale sono misurati gli stati di avanzamento costanti nel tempo.\nPer ciascuna Area di valutazione sono stati identificati degli specifici KPI attraverso i quali misurare il grado di maturità dell'organizzazione attraverso un monitoraggio annuale e una verifica ogni due anni, per dare evidenza del miglioramento ottenuto grazie alla varietà degli interventi messi in atto o del remediation plan attivato.\n© UNI\n16\n\n\n[PAGE 19]\n\n\nUNI/PdR 125:2022\nAl fine di assicurare l'opportuna coerenza con le diverse realtà organizzative che rappresentano il Sistema Paese inteso quale intero apparato economico-produttivo della nazione, si prevede che gli indicatori afferenti alle 6 Aree sopracitate, siano applicabili secondo un principio di proporzionalità che  ne  definisce  un'applicazione  proporzionale  e  graduale  in  ragione  del  profilo  dimensionale dell'organizzazione considerata quale sintesi della differente articolazione e complessità organizzativa.\nSono escluse dall'applicazione del presente documento le Partite IVA che non hanno dipendenti o addetti/e.\nÈ  auspicabile  che  consorzi,  Reti  di  Impresa  o  General  Contractor  che  intendano  adottare  la presente  UNI/PdR,  definiscano  una  formula  di  selezione  e  qualifica,  all'interno  del  processo  di selezione dei propri consorziati/imprese/outsourcer, che richieda agli stessi l'adozione della prassi di riferimento.\nIn  coerenza  con  la  tassonomia  Istat,  sono  state  identificate  4  fasce  o  cluster  attraverso  cui classificare le organizzazioni (private, pubbliche, enti, ecc.):\nProspetto 1 - Fasce/Cluster di classificazione delle organizzazioni\nA fronte della classificazione in una delle quattro fasce, viene definito il set di indicatori considerati i  presidi  target  in  tema  di  diversità  coerenti  alla  dimensione  dell'organizzazione.  Sono  previste semplificazioni per le organizzazioni appartenenti alla fascia 1 (micro-organizzazione) e fascia 2 (piccola organizzazione), mentre  per le organizzazioni appartenenti alla fascia 3 (media organizzazione) e alla fascia 4 (grande organizzazione) sono applicati la totalità degli indicatori.\nGli indicatori sono di natura quantitativa e qualitativa.\nGli indicatori di natura qualitativa sono misurati in termini di presenza o non presenza, mentre gli indicatori  di  natura  quantitativa  sono  misurati  in  termini  di  delta  %  rispetto  a  un  valore  interno aziendale o al valore medio di riferimento nazionale o del tipo di attività economica (codice ATECO di appartenenza) come dalla seguente aggregazione:\n© UNI\n17\n\n\n\n**[TABELLA]**\n| FASCIA | CLUSTER | NUMERO ADDETTI/E |\n| --- | --- | --- |\n| 1 | MICRO | 1-9 |\n| 2 | PICCOLA | 10-49 |\n| 3 | MEDIA | 50-249 |\n| 4 | GRANDE | 250 e oltre |\n\n\n\n[PAGE 20]\n\n\nUNI/PdR 125:2022\nProspetto 2 - Classificazione ATECO delle organizzazioni\nOgni singolo indicatore è associato a un punteggio il cui raggiungimento o meno viene ponderato per il peso dell'Area di appartenenza.\nÈ previsto il raggiungimento dello score minimo di sintesi complessivo del 60% per determinare l'accesso alla certificazione da parte dell'organizzazione. In tal modo, l'attribuzione di una verifica di conformità in base allo score finale consente agli stakeholder di riconoscere la validità e l'efficacia dei processi implementati internamente, con ricadute positive in termini reputazionali del brand ed economici.\nLa  certificazione  viene  rilasciata  al  momento  della  rilevazione  degli  indicatori,  se  esistono  già  i requisiti relativi al conseguimento del punteggio minimo stabilito attraverso i KPI. Ogni due anni tale certificazione  viene  rivalutata  e  rinnovata  se  sui  gap  rilevati  sono  stati  messi  in  atto  piani  di mitigazione e miglioramento.\nIl  modello di calcolo è da considerarsi dinamico, cioè l'algoritmo si aggiorna ogni anno con una nuova media sulla base dei dati ricevuti per l'anno precedente per ogni categoria (codice ATECO).\n5.2 AREA CULTURA E STRATEGIA\nArea volta a misurare che i principi e gli obiettivi di inclusione, parità di genere e attenzione alla gender  diversity dell'organizzazione  siano  coerenti  con  la  sua  visione,  le  finalità  e  i  valori  che caratterizzano l'ambiente di lavoro.\nIl peso dell'Area rispetto alla valutazione complessiva è pari al 15%.\nGli indicatori attinenti a questa area sono 7 e di seguito riportati.\n© UNI\n18\n\n\n\n**[TABELLA]**\n| LETTERE | CODICE | ETICHETTA |\n| --- | --- | --- |\n| A | 01 | Agricoltura, silvicoltura e pesca |\n| B-E | 02 | Industria in senso stretto |\n| F | 03 | Costruzioni |\n| G | 04 | Commercio |\n| I | 05 | Alberghi e ristoranti |\n| H | 06 | Trasporto e magazzinaggio |\n| J | 07 | Servizi di informazione e comunicazione |\n| K | 08 | Attività finanziarie e assicurative |\n| L-N | 09 | Attività immobiliari, servizi alle imprese e altre attività professionali e imprenditoriali |\n| O | 10 | Amministrazione pubblica e difesa assicurazione sociale obbligatoria |\n| P-Q | 11 | Istruzione, sanità e altri servizi sociali |\n| R-U | 12 | Altri servizi collettivi e personali |\n\n\n\n[PAGE 21]\n\n\nUNI/PdR 125:2022\nProspetto 3 - Cultura e strategia\n© UNI\n19\n\n\n\n**[TABELLA]**\n| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |\n| --- | --- | --- | --- | --- |\n| 1. Formalizzazione e implementazione di un piano strategico come definito al punto 6.3 che possa favorire e sostenere lo sviluppo di un ambiente di lavoro inclusivo e preveda valori aziendali coerenti con una cultura inclusiva | QUALITATIVO | SÌ/NO | Interna | 20 |\n| 2. Presenza di procedure interne che consentono alle risorse di esprimere, anche in modalità anonima, le proprie opinioni e dare suggerimenti per il cambiamento nell'organizzazione e favorire il dialogo e il confronto NOTA Sono da intendersi, oltre alle procedure in senso stretto, anche iniziative, progetti e valori stabiliti dall'azienda il cui fine sia il medesimo, ovvero consentire alle persone di esprimere opinioni e creare un ambiente aperto al confronto e al dialogo. | QUALITATIVO | SÌ/NO | Interna | 10 |\n| 3. Presenza di attività di comunicazione interna e di sensibilizzazione che promuovano l'utilizzo di comportamenti e di un linguaggio in grado di garantire un ambiente di lavoro inclusivo e rispettoso delle diversità di genere | QUALITATIVO | SÌ/NO | Interna | 20 |\n| 4. Presenza di politiche che garantiscano che i generi siano equamente rappresentati tra i relatori del panel di tavole rotonde, eventi, convegni o altro evento anche di carattere scientifico | QUALITATIVO | SÌ/NO | Interna | 10 |\n| 5. Realizzazione nell'ultimo biennio di interventi formativi a tutti i livelli, compresi i vertici, sulla differenza di genere e suo valore, gli stereotipi e gli unconscious bias | QUALITATIVO | SÌ/NO | Interna | 10 |\n\n\n\n[PAGE 22]\n\n\nUNI/PdR 125:2022\nPer  le  organizzazioni  appartenenti  alla fascia  dimensionale  1 è  considerato  necessario  il raggiungimento dell'indicatore numero 1, per le organizzazioni appartenenti alla fascia dimensionale 2 sono considerati necessari solo gli indicatori numero 1, 3 e 5.\n5.3 AREA GOVERNANCE\nArea volta a misurare il grado di maturità del modello di governance dell'organizzazione volto a definire  gli  adeguati  presidi  organizzativi  e  la  presenza  del  genere  di  minoranza  negli  organi  di indirizzo e controllo dell'organizzazione nonché la presenza di processi volti a identificare e porre rimedio a qualsiasi evento di non inclusione.\nIl peso dell'Area rispetto alla valutazione complessiva è pari al 15%.\nGli indicatori attinenti a questa area sono 5 e di seguito riportati.\n© UNI\n20\n\n\n\n**[TABELLA]**\n| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |\n| --- | --- | --- | --- | --- |\n| 6. Realizzazione di interventi finalizzati all'analisi della percezione delle/dei dipendenti sulle pari opportunità nell'ultimo anno | QUALITATIVO | SÌ/NO | Interna | 20 |\n| 7. Realizzazione di interventi finalizzati a promuovere le pari opportunità fuori dal proprio contesto organizzativo nell'ultimo biennio, che includano, tra altre, attività di comunicazione e coinvolgimento dei diversi stakeholder sui temi dell'inclusione, della parità di genere e della integrazione | QUALITATIVO | SÌ/NO | Interna | 10 |\n\n\n\n[PAGE 23]\n\n\nUNI/PdR 125:2022\nProspetto 4 - Governance\nPer  le  organizzazioni  appartenenti  alla fascia  dimensionale  1 è  considerato  necessario  il raggiungimento dell'indicatore numero 1; per le organizzazioni appartenenti alla fascia dimensionale 2 sono considerati necessari gli indicatori numero 1 e 2.\n© UNI\n21\n\n\n\n**[TABELLA]**\n| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |\n| --- | --- | --- | --- | --- |\n| 1. Definizione nella governance dell'organizzazione di un presidio (comitato, unità o funzione, ruolo organizzativo, ecc.) volto alla gestione e monitoraggio delle tematiche legate all'inclusione, alla parità di genere e integrazione NOTA Il tipo di presidio per la gestione e monitoraggio dei temi di genere può variare in relazione alle dimensioni e alla complessità dell'organizzazione. Per le organizzazioni di fascia dimensionale 1 è | QUALITATIVO | SÌ/NO | Interna | 25 |\n| 2. Presenza di processi per identificare, approfondire e gestire qualsiasi forma di non inclusività | QUALITATIVO | SÌ/NO | Interna | 25 |\n| 3. Presenza di un budget dell'organizzazione per lo sviluppo di attività a supporto dell'inclusione, della parità di genere e dell'integrazione | QUALITATIVO | SÌ/NO | Interna | 15 |\n| 4. Definizione di obiettivi legati alla parità di genere e loro attribuzione ai vertici e al management, per i quali saranno valutati | QUALITATIVO | SÌ/NO | Interna | 15 |\n| 5. Presenza di esponenti del sesso meno rappresentato nell'organo amministrativo e di controllo della organizzazione | QUANTITATIVO | Numero assoluto delle quote di genere rispetto a requisiti normativi di riferimento o pari comunque a 1/3 della composizione complessiva del consiglio di amministrazione | Normativa vigente o Regolamentazi one interna | 20 |\n\n\n\n[PAGE 24]\n\n\nUNI/PdR 125:2022\n5.4 AREA PROCESSI HR\nArea volta a misurare il grado di maturità dei principali processi in ambito HR, relativi ai diversi stadi che caratterizzano il ciclo di vita di una risorsa nell'organizzazione e che si dovrebbero basare su principi di inclusione e rispetto delle diversità.\nIl peso dell'Area rispetto alla valutazione complessiva è pari al 10%.\nGli indicatori attinenti a questa area sono 6 e di seguito riportati.\nProspetto 5 - Processi Human Resources (HR)\nPer  le  organizzazioni  appartenenti  alla fascia  dimensionale  1 è  considerato  necessario  il raggiungimento  degli  indicatori  numero  1  e  6;  per  le  organizzazioni  appartenenti  alla fascia dimensionale 2 sono considerati necessari gli indicatori numero 1, 4 e 6.\n© UNI\n22\n\n\n\n**[TABELLA]**\n| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |\n| --- | --- | --- | --- | --- |\n| 1. Definizione di processi di gestione e sviluppo delle risorse umane a favore dell'inclusione, della parità di genere e dell'integrazione, quali selezione, condizioni generali di contratto, on-boarding neutrali, valutazioni prestazioni | QUALITATIVO | SÌ/NO | Interna | 25 |\n| 2. Presenza di meccanismi di analisi del Turnover in base al genere | QUALITATIVO | SÌ/NO | Interna | 15 |\n| 3. Presenza di politiche in grado di garantire la partecipazione equa e paritaria a percorsi di formazione e di valorizzazione, con la presenza di entrambi i sessi, inclusi corsi sulla leadership | QUALITATIVO | SÌ/NO | Interna | 15 |\n| 4. Presenza di politiche di mobilità interna e di successione a posizioni manageriali coerenti con i principi di un'organizzazione inclusiva e rispettosa della parità di genere | QUALITATIVO | SÌ/NO | Interna | 20 |\n| 5. Presenza di meccanismi di protezione del posto di lavoro e di garanzia del medesimo livello retributivo nel post-maternità | QUALITATIVO | SÌ/NO | Interna | 15 |\n| 6. Presenza di referenti e prassi aziendali a tutela dell'ambiente di lavoro, con particolare riferimento ed episodi di molestie o mobbing | QUALITATIVO | SÌ/NO | Interna | 10 |\n\n\n\n[PAGE 25]\n\n\nUNI/PdR 125:2022\n5.5 AREA OPPORTUNITÀ DI CRESCITA ED INCLUSIONE DELLE DONNE IN AZIENDA\nArea volta a misurare il grado di maturità delle organizzazioni in relazione all'accesso neutrale dei generi ai percorsi di carriera e di crescita interni e la relativa accelerazione.\nIl peso dell'Area rispetto alla valutazione complessiva è pari al 20%.\nGli indicatori attinenti a questa area sono 7 e di seguito riportati.\nProspetto 6 - Opportunità di crescita ed inclusione delle donne in azienda\n© UNI\n23\n\n\n\n**[TABELLA]**\n| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |\n| --- | --- | --- | --- | --- |\n| 1. INDICATORE APPLICABILE SOLO ALLE ORGANIZZAZIONI DI FASCIA 1 E 2 Percentuale di donne nell'organizzazione rispetto alla totalità dell'organico NOTA Considerare nel calcolo le varie altre forme di collaborazione. | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una differenza almeno pari a +10 punti% (pp) rispetto al valore del biennio precedente fino al raggiungimento della parità | Interna | 25 |\n| 2. INDICATORE APPLICABILE SOLO PER ORGANIZZAZIONI DI FASCIA 3 E 4 Percentuale di donne nell'organizzazione rispetto alla totalità dell'organico rispetto al benchmark dell'industria di riferimento NOTA Considerare nel calcolo le varie altre forme di collaborazione. | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una differenza almeno pari a +10 punti% (pp) rispetto al valore medio dell'industry di appartenenza e comunque in crescita anno su anno fino al raggiungimento della parità. NOTA La fonte dati da utilizzare per quantificare %èquella rispetto al codice ATECO, in particolare fare riferimento al codice ATECO più disaggregato. | Istat, Rilevazione sulle Forze di lavoro. | 25 |\n| 3. INDICATORE APPLICABILE SOLO ALLE ORGANIZZAZIONI DI FASCIA 2 | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una differenza almeno pari a +10 punti% (pp) rispetto al valore | Interna | 25 |\n\n\n\n[PAGE 26]\n\n\nUNI/PdR 125:2022\n© UNI\n24\n\n\n\n**[TABELLA]**\n| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |\n| --- | --- | --- | --- | --- |\n| Percentuale di donne nell'organizzazione con qualifica di dirigente ( in caso di impresa familiare considerare anche le donne con ruoli dirigenziali espressione della proprietà) |  | del biennio precedente fino al raggiungimento della parità |  |  |\n| 4. INDICATORE APPLICABILE SOLO PER ORGANIZZAZIONI DI FASCIA 3 E 4 Percentuale di donne nell'organizzazione con qualifica di dirigente (per le imprese familiari considerare solo donne non espressione della proprietà ) | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una differenza almeno pari a +10 punti% (pp) rispetto al valore medio dell'industry di appartenenza e comunque in crescita anno su anno fino al raggiungimento della parità | Istat, Rilevazione sulle Forze di lavoro. | 25 |\n| 5. Percentuale di donne nell'organizzazione responsabili di una o più unità organizzative rispetto al totale della popolazione di riferimento | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una quota almeno pari al 40% rispetto al totale responsabili e comunque in crescita anno su anno fino al raggiungimento della parità | Interna | 20 |\n| 6. Percentuale di donne presenti nella prima linea di riporto al Vertice | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una differenza almeno pari a +10 punti% (pp) rispetto al valore medio %di donne con qualifica di dirigente nell'industry di appartenenza e comunque in crescita anno su anno fino al raggiungimento della parità | Interna | 20 |\n\n\n\n[PAGE 27]\n\n\nUNI/PdR 125:2022\nPer  le  organizzazioni  appartenenti  alla fascia  dimensionale  1 è  considerato  necessario  il raggiungimento dell'indicatore numero 1; per le organizzazioni appartenenti alla fascia dimensionale 2 sono considerati necessari solo gli indicatori numero 1 e 3.\nNOTA L'Appendice B riporta degli esempi di KPI per settori industriali come da settori ATECO individuati nel prospetto 2.\n5.6 AREA EQUITÀ REMUNERATIVA PER GENERE\nArea volta a misurare il grado di maturità delle organizzazioni in relazione al differenziale retributivo in logica di total reward comprendente quindi anche compensi non monetari quali sistemi di welfare e well-being .\nIl peso dell'Area rispetto alla valutazione complessiva è pari al 20%.\nGli indicatori attinenti a questa area sono 3 e di seguito riportati.\n© UNI\n25\n\n\n\n**[TABELLA]**\n| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |\n| --- | --- | --- | --- | --- |\n| 7. Percentuale di donne presenti nell'organizzazione con delega su un budget di spesa/investimento NOTA Considerare nel calcolo la %di donne con delega di spesa o facenti parte della prima linea di riporto al vertice, come previsto dall'indicatore 5 per i/le responsabili di unità organizzative rispetto al numero totale di persone facenti parte di questi gruppi. | QUANTITATIVO | Il KPI si considera raggiunto quando si registra una differenza almeno pari a + 10 punti% (pp) rispetto al valore medio %di donne con qualifica di dirigente nell'industry di appartenenza e comunque in crescita anno su anno fino al raggiungimento della parità | Interna | 10 |\n| NOTA I punti percentuali, indicati con l'abbreviazione 'p.p.', indicano l'incremento numerico assoluto di un numero espresso percentualmente: - se dal 3% si passa al 13%, c'è un incremento di 10 p.p. | NOTA I punti percentuali, indicati con l'abbreviazione 'p.p.', indicano l'incremento numerico assoluto di un numero espresso percentualmente: - se dal 3% si passa al 13%, c'è un incremento di 10 p.p. | NOTA I punti percentuali, indicati con l'abbreviazione 'p.p.', indicano l'incremento numerico assoluto di un numero espresso percentualmente: - se dal 3% si passa al 13%, c'è un incremento di 10 p.p. | NOTA I punti percentuali, indicati con l'abbreviazione 'p.p.', indicano l'incremento numerico assoluto di un numero espresso percentualmente: - se dal 3% si passa al 13%, c'è un incremento di 10 p.p. | NOTA I punti percentuali, indicati con l'abbreviazione 'p.p.', indicano l'incremento numerico assoluto di un numero espresso percentualmente: - se dal 3% si passa al 13%, c'è un incremento di 10 p.p. |\n\n\n\n[PAGE 28]\n\n\nUNI/PdR 125:2022\nProspetto 7 - Equità remunerativa per genere\nPer  le  organizzazioni  appartenenti  alla fascia  dimensionale  1  e  2 è  considerato  necessario l'indicatore numero 1.\n© UNI\n26\n\n\n\n**[TABELLA]**\n| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |\n| --- | --- | --- | --- | --- |\n| 1. Percentuale di differenza retributiva per medesimo livello inquadramentale per genere e a parità di competenze NOTA Sono da escludere dal computo le corresponsioni legate a maggiori o diverse prestazioni (es. straordinario, indennità e rimborsi vari). | QUANTITATIVO | Il KPI viene considerato raggiunto quando il delta tra retribuzione media maschile e femminile a parità di mansione/ ruolo è inferiore al 10% e come per ogni indicatore decrescente negli anni successivi | Interna | 40 |\n| 2. Percentuale promozioni donne su base annua | QUANTITATIVO | Il KPI si considera raggiunto quando la% di donne promosse rispetto al totale di donne in organico è pari alla %di uomini promossi rispetto il totale di uomini in organico, prendendo in considerazione i diversi livelli funzionali e non in valore assoluto | Interna | 30 |\n| 3. Percentuale donne con remunerazione variabile per assicurare la corresponsione del salario variabile in maniera equa, rendendo note ai lavoratori e alle lavoratrici le procedure e i criteri seguiti nell'attuazione delle politiche retributive per quel che riguarda la parte variabile del salario | QUANTITATIVO | Il KPI si considera raggiunto quando la% di donne con variabile target rispetto al totale di donne in organico è pari alla %di uomini con variabile target rispetto il totale di uomini in organico | Interna | 30 |\n\n\n\n[PAGE 29]\n\n\nUNI/PdR 125:2022\n5.7 AREA TUTELA DELLA GENITORIALITÀ E CONCILIAZIONE VITA-LAVORO\nArea volta a misurare il grado di maturità delle organizzazioni in relazione alla presenza di politiche a  sostegno  della  genitorialità  nelle  diverse  forme  e  l'adozione  di  procedure  che  facilitino  e supportino la presenza anche di donne con figli e figlie in età prescolare.\nIl peso dell'Area rispetto alla valutazione complessiva è pari al 20%.\nGli indicatori attinenti a questa area sono 5 e di seguito riportati.\nProspetto 8 - Tutela della genitorialità e conciliazione vita-lavoro\n© UNI\n27\n\n\n\n**[TABELLA]**\n| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |\n| --- | --- | --- | --- | --- |\n| 1. Presenza servizi dedicati al rientro post maternità/paternità (ad esempio: procedure/attività per il back to work , coaching , part-time su richiesta temporaneo e reversibile, smart working , piano welfare ad hoc, asilo nido aziendale) | QUALITATIVO | SÌ/NO | Interna | 20 |\n| 2. Presenza di policy, oltre il CCNL di riferimento, dedicate alla tutela della maternità/ paternità e servizi per favorire la conciliazione dei tempi di vita personale e lavorativa (ad esempio: congedo di paternità oltre il CCNL, procedure/attività per il back to work , coaching , part-time reversibile, smart working, piano welfare ad hoc, asilo nido aziendale, programmi di engagement, su base volontaria, durante il congedo di maternità) | QUALITATIVO | SÌ/NO | Interna | 35 |\n| 3. Presenza di policy per il mantenimento di benefits e iniziative che valorizzino l'esperienza della genitorialità come momento di acquisizione di nuove competenze a favore della persona e dell'organizzazione e che tutelino la relazione tra persona e azienda prima, durante e dopo la maternità/paternità | QUALITATIVO | SÌ/NO | Interna | 25 |",
+    "matches": [
+      {
+        "chunk_id": 150,
+        "chunk_text": "stato  matrimoniale  o  di  famiglia  o  di gravidanza, nonché di maternità o paternità, anche adottive, e su qualsiasi altra caratteristica protetta, in tutti i livelli della gerarchia professionale. Nell'ambito di tale complessivo processo - premesso che i principali aspetti e le modalità di gestione delle attività di formazione sono specificate nella procedura PSQ-004 Gestione della Formazione ",
+        "dense_score": 0.8201546964864499,
+        "tfidf_score": 0.8540372693992183,
+        "section_boost": 0.0,
+        "graph_score": 0.938199186322124,
+        "final_score": 0.7719128966787703,
+        "rank": 1,
+        "concepts": [
+          "nell",
+          "gestione della formazione",
+          "resource manager",
+          "practice leader",
+          "capability leader",
+          "key performance indicator"
+        ]
+      },
+      {
+        "chunk_id": 146,
+        "chunk_text": "Di seguito sono indicate le abbreviazioni utilizzate all'interno del documento. Si veda il Glossario per le definizioni di uso comune. GDPR, DEFINIZIONE = Regolamento UE 2016/679 e sm. COO, DEFINIZIONE = Chief Operating Officer. HR, DEFINIZIONE = Human Resources. RG, DEFINIZIONE = Responsabile Gerarchico. FCPC, DEFINIZIONE = Funzione di Conformità per la Prevenzione della Corruzione. HSE, DEFINIZI",
+        "dense_score": 0.8504155735283183,
+        "tfidf_score": 0.706877850754137,
+        "section_boost": 0.05,
+        "graph_score": 0.9929794204588996,
+        "final_score": 0.7658254687293484,
+        "rank": 2,
+        "concepts": [
+          "glossario per le",
+          "regolamento ue",
+          "chief operating officer",
+          "human resources",
+          "responsabile gerarchico",
+          "funzione di",
+          "prevenzione della corruzione",
+          "health safety"
+        ]
+      },
+      {
+        "chunk_id": 177,
+        "chunk_text": "In  sede  di  assunzione  a  tutti/e  i/le  neoassunti/e,  senza  alcuna  distinzione  di  genere,  età  provenienza  o qualsiasi  altra  condizione,  viene  consegnata  la  documentazione  cartacea  o  elettronica  (riferimento  alla intranet aziendale), relativa ai seguenti temi di carattere trasversale: - ❑ contratto di lavoro\n- ❑ sicurezza sul lavoro\n- ❑ codice etico ex Dlgs 231/01, integrato ",
+        "dense_score": 0.8487001112714491,
+        "tfidf_score": 0.6717501395219351,
+        "section_boost": 0.0,
+        "graph_score": 1.0,
+        "final_score": 0.7410050863651603,
+        "rank": 3,
+        "concepts": [
+          "dlgs",
+          "politica per la",
+          "prevenzione della corruzion",
+          "sistema disciplinare iso",
+          "genere",
+          "tali  argomenti  saranno",
+          "gestione della formazione"
+        ]
+      },
+      {
+        "chunk_id": 143,
+        "chunk_text": "Lo scopo del presente documento è quello di descrivere le procedure applicate da Lutech in alcune delle diverse fasi del processo di gestione delle risorse umane. Il documento include, in particolare, i criteri di valutazione delle risorse umane, con riguardo alla definizione dei principali profili che influenzano la qualità dei servizi forniti da Lutech ed alla valutazione complessiva della loro ",
+        "dense_score": 0.6376003181314994,
+        "tfidf_score": 1.0,
+        "section_boost": 0.0,
+        "graph_score": 0.43502610092505256,
+        "final_score": 0.6420453474376103,
+        "rank": 4,
+        "concepts": [
+          "lutech in alcune",
+          "lutech ed alla",
+          "lutech"
+        ]
+      },
+      {
+        "chunk_id": 52,
+        "chunk_text": "GIOVANI LAVORATORI (presso la propria Azienda o presso quella di Fornitori/appaltatori) : - ❑ nel caso in cui venisse utilizzato un giovane lavoratore: organizzare/o verificare l'organizzazione dell'attività lavorativa del giovane lavoratore in modo tale che non coincida con il normale orario scolastico - ❑ organizzare/o verificare l'organizzazione dell'attività in modo che la somma delle ore di l",
+        "dense_score": 0.8222765967387135,
+        "tfidf_score": 0.6521906325976399,
+        "section_boost": 0.0,
+        "graph_score": 0.2207842601811263,
+        "final_score": 0.5687246805110026,
+        "rank": 5,
+        "concepts": [
+          "azienda",
+          "fornitori"
+        ]
+      },
+      {
+        "chunk_id": 188,
+        "chunk_text": "INIZIONE = rendere di pubblico dominio informazioni sulle violazioni tramite la stampa o mezzi elettronici o comunque tramite mezzi di diffusione in grado di raggiungere un numero elevato di persone.. PERSONA SEGNALANTE, DEFINIZIONE = persona fisica che effettua la segnalazione o la divulgazione pubblica di informazioni sulle violazioni acquisite nell'ambito del proprio contesto lavorativo.. FACIL",
+        "dense_score": 0.8285787984131152,
+        "tfidf_score": 0.4919333117598356,
+        "section_boost": 0.25,
+        "graph_score": 0.0029441888081758257,
+        "final_score": 0.5546003506548319,
+        "rank": 6,
+        "concepts": [
+          "persona",
+          "informazioni",
+          "sulle",
+          "violazioni",
+          "definizione",
+          "segnalazione",
+          "contesto",
+          "lavorativo"
+        ]
+      },
+      {
+        "chunk_id": 152,
+        "chunk_text": "L'esigenza  di  nuove  assunzioni  (rapporti  di  lavoro  subordinato  o  parasubordinato)  nasce  all'interno  dei singoli reparti, anche su indicazioni inoltrate dai commerciali e dai/dalle responsabile delle strutture di staff. Le richieste vengono suddivise in due tipologie:\n- ❑ Delivery 1 (richiesta di risorse tecniche da parte delle Capability) La  richiesta  deve  essere  trasmessa  acceden",
+        "dense_score": 0.8593879171006867,
+        "tfidf_score": 0.398641595131111,
+        "section_boost": 0.25,
+        "graph_score": 0.0069356815542944775,
+        "final_score": 0.5397347816904668,
+        "rank": 7,
+        "concepts": [
+          "delivery",
+          "capability",
+          "requester  portal",
+          "portale resource management",
+          "hiring",
+          "subco",
+          "talent acquisition",
+          "workforce management"
+        ]
+      },
+      {
+        "chunk_id": 55,
+        "chunk_text": "LUTECH non ricorre né sostiene l'utilizzo delavoro forzatobbligato e non richiede al personale di lasciare 'depositi' in denaro documenti d'identità al momento dell'inizio del rapporto di lavoro. Qualora il dipendente decida di dimettersi può farlo nei modi previsti dal CCNL vigente. Il dipendente non è in alcun modo vincolato costretto, tramite minaccia o la possibilità di essere soggetto a sanzi",
+        "dense_score": 0.8418134767644904,
+        "tfidf_score": 0.4059074681390327,
+        "section_boost": 0.25,
+        "graph_score": 0.0006137395594759638,
+        "final_score": 0.5336203790594011,
+        "rank": 8,
+        "concepts": [
+          "qualora il dipendente"
+        ]
+      },
+      {
+        "chunk_id": 151,
+        "chunk_text": "A tal fine, vengono applicati strumenti di rilevazione e monitoraggio in linea con i Key Performance Indicator (KPI)  previsti  dalla  UNI/PdR  125,  al  fine  di  garantire  il  rispetto  degli  obiettivi  di  parità  di  genere,  equità retributiva, accesso equilibrato alla formazione e sviluppo professionale. Le decisioni relative a progressioni di  carriera,  assegnazioni  e  percorsi  di  cre",
+        "dense_score": 0.6593330161669322,
+        "tfidf_score": 0.7746903623739214,
+        "section_boost": 0.0,
+        "graph_score": 0.14755726002317995,
+        "final_score": 0.5256517671835853,
+        "rank": 9,
+        "concepts": [
+          "key performance indicator"
+        ]
+      },
+      {
+        "chunk_id": 214,
+        "chunk_text": "I  soggetti  sottoelencati  possono  effettuare  segnalazione  di  violazioni  di  cui  sono  venute  a  conoscenza nell'ambito del proprio contesto lavorativo: Lavoratori subordinati, DESCRIZIONE = - Lavoratori il cui rapporto di lavoro è disciplinato dal d.lgs. n. 81/2015. Si tratta, ad esempio, di rapporti di lavoro a tempo parziale, intermittente, tempo determinato, somministrazione, apprendis",
+        "dense_score": 0.9268386384129748,
+        "tfidf_score": 0.47895577304488685,
+        "section_boost": 0.0,
+        "graph_score": 0.001962111683485284,
+        "final_score": 0.514814609615353,
+        "rank": 10,
+        "concepts": [
+          "lavoratori subordinati",
+          "lavoratori il cui",
+          "lavoratori che svolgono",
+          "lavoratori autonomi",
+          "prestatori",
+          "questi includono"
+        ]
+      }
+    ],
+    "coverage_percent": 100.0
+  },
+  {
+    "requirement_id": null,
+    "requirement_text": "[PAGE 30]\n\n\nUNI/PdR 125:2022\nPer le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.\n6 POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, E SISTEMA DI GESTIONE\n6.1 POLITICHE DI PARITÀ DI GENERE\nLe  organizzazioni  che  adottano  una  politica  di  parità  di  genere  globale  che  si  proponga  di valorizzare e tutelare la diversità e le pari opportunità sul luogo di lavoro, devono definire un piano di  azione  per  la  sua  attuazione,  impostando  un  modello  gestionale  che  garantisca  nel  tempo  il mantenimento  dei  requisiti  definiti  ed  attuati,  misurando  gli  stati  di  avanzamento  dei  risultati attraverso la predisposizione di specifici KPI di cui rendono conto nei documenti del sistema di gestione, attraverso il quale mantengono e verificano le azioni pianificate.\nLa politica globale deve contenere riferimenti a politiche collegate relative almeno alla gestione del personale e delle carriere ed alla comunicazione (comprese le attività di marketing e pubblicità) che devono  dichiarare  in  modo  trasparente  la  volontà  dell'organizzazione  di  perseguire  la  parità  di genere, valorizzare le diversità e supportare l'empowerment femminile.\nLa  politica  generale  e  quelle  collegate  alla  parità  di  genere  possono  fare  parte  di  un  unico documento del sistema, e devono essere riconfermate o aggiornate al momento della revisione periodica, come parte della verifica e del miglioramento del sistema di gestione.\nI KPI di cui al punto 5 della presente UNI/PdR, costituiscono una parte importante delle informazioni necessarie per determinare e spiegare come un'organizzazione (azienda, ente, PA) progredisce verso gli obiettivi prefissati.\n© UNI\n28\n\n\n\n**[TABELLA]**\n| INDICATORI | TIPOLOGIA INDICATORE | MODALITÀ DI MISURAZIONE | FONTE | PUNTI |\n| --- | --- | --- | --- | --- |\n| 4. Rapporto tra il numero dei beneficiari uomini effettivi sul totale dei beneficiari potenziali dei congedi di paternità nei primi dodici anni di vita del bambino obbligatori | QUANTITATIVO | I KPI si considerano progressivamente raggiunti quanto più si avvicinano al 100% | INPS + Interna | 10 |\n| 5. Rapporto tra n. di giorni medio di congedo di paternità obbligatorio fruiti e il totale di n. gg potenziale previsto dalla legge | QUANTITATIVO | I KPI si considerano progressivamente raggiunti quanto più si avvicinano al 100% | INPS + Interna | 10 |\n\n\n\n[PAGE 31]\n\n\nUNI/PdR 125:2022\nLa politica di parità di genere aziendale, deve essere:\ndefinita dall'Alta Direzione, in coordinamento con il comitato guida;\ncomunicata e diffusa all'interno dell'organizzazione ed alle proprie parti interessate;\noggetto di formazione e sensibilizzazione al management aziendale,\nrevisionata o confermata periodicamente in fase di revisione sulla base degli accadimenti, dei cambiamenti e dei risultati dei monitoraggi e delle verifiche;\ncoordinata  da  una  figura  responsabile,  designata  dal  management  e  in  possesso  di competenze organizzative e di genere.\nLa politica di parità deve essere resa disponibile sul sito dell'organizzazione.\nLa politica deve contenere i principi e le indicazioni guida che definiscono l'impegno dell'organizzazione  nei  confronti  dei  temi  relativi  alla  parità  di  genere,  la  valorizzazione  delle diversità e l'empowerment femminile.\nLa direzione assegna risorse (budget), responsabilità ed autorità adeguate per la persecuzione, il raggiungimento ed il mantenimento degli obiettivi di parità di genere stabiliti.\nLa direzione, in relazione alla dimensione aziendale, deve nominare un comitato guida per l'efficace adozione e la continua ed efficace applicazione della politica per la parità di genere (generale e correlate). Il comitato guida, in base alle dimensioni dell'organizzazione, deve essere composto almeno dall'amministratore delegato, o da un delegato dalla proprietà, e dal direttore del personale, o altra figura equivalente.\n6.2 PIANIFICAZIONE\nIl  comitato guida deve redigere il piano strategico che definisce per ogni tema identificato dalla politica (generale e collegate) obbiettivi semplici, misurabili, raggiungibili, realistici, pianificati nel tempo ed assegnati come responsabilità di attuazione.\nIl piano strategico per l'attuazione deve essere composto dalle seguenti fasi, tipiche dei processi di pianificazione:\nidentificazione dei processi aziendali correlati ai temi relativi alla parità di genere individuati;\nidentificazione dei punti di forza e di quelli di debolezza rispetto ai temi;\ndefinizione degli obiettivi;\ndefinizione delle azioni decise per colmare i gap;\ndefinizione, frequenza e responsabilità di monitoraggio dei KPI definiti (vedere punto 5).\nIl piano strategico deve essere condiviso dalla direzione e mantenuto aggiornato nel tempo.\nIn  base alla dimensione dell'organizzazione, il piano strategico può avere una maggior o minor complessità, ferma restando la necessità che siano individuate le frequenze di monitoraggio dei KPI applicabili, come definiti al punto 5.\n© UNI\n29\n\n\n[PAGE 32]\n\n\nUNI/PdR 125:2022\n6.3 ATTUAZIONE DELLE AZIONI DEL PIANO STRATEGICO E MONITORAGGIO\n6.3.1 GENERALITÀ\nL'organizzazione deve attuare le azioni ed i monitoraggi definiti nel piano, in particolare fornendo:\nistruzioni scritte sulle modalità di attuazione e di monitoraggio, ove applicabile;\nformazione generale e specifica, a tutti i livelli, inclusi quelli contro i pregiudizi e gli stereotipi legati al genere.\nDevono essere predisposti corsi di formazione sui principi etici, sui temi e sulle modalità operative adottati dall'organizzazione, per garantire l'efficacia della politica per la parità di genere. Tali corsi sono indirizzati a tutto il personale, come opportuno; in particolare per le persone che occupano posizioni  manageriali  devono  riguardare  i  principi,  i  temi  e  gli  obbiettivi  che  ricadono  sotto  le specifiche responsabilità.\nI temi principali oggetto del piano strategico ed i relativi requisiti minimi sono riportati nel seguente punto 6.3.2.\n6.3.2 TEMI OGGETTO DEL PIANO STRATEGICO\n6.3.2.1 SELEZIONE ED ASSUNZIONE (RECRUITMENT)\nIn relazione alle proprie politiche e risorse, l'organizzazione deve:\npredisporre procedure di selezione ed assunzione che definiscano regole atte a prevenire la disparità di genere, in particolare idonee a contrastare i bias, ad esempio contattare in modo equo i profili candidati sulla base del genere;\npredisporre in maniera che le descrizioni della mansione da assumere siano neutre rispetto al genere ed il processo di reclutamento sia rivolto sia agli uomini che alle donne;\nnon  permettere  che,  durante  i  colloqui,  siano  effettuate  richieste  relative  ai  temi  del matrimonio, della gravidanza o delle responsabilità di cura.\n6.3.2.2 GESTIONE DELLA CARRIERA\nIn relazione alle proprie politiche e risorse, l'organizzazione deve:\ndefinire processi finalizzati ad assicurare la non discriminazione e le pari opportunità nello sviluppo professionale e nelle promozioni, basandole esclusivamente sulle capacità ed i livelli professionali;\ntendere al bilanciamento di genere nelle posizioni di leadership aziendale, in correlazione con il settore specifico e le specifiche mansioni;\nrivolgere le opportunità di carriera ed i programmi per lo sviluppo professionale a tutto lo staff;\nrendere disponibili i dati relativi: allo stato delle assunzioni, alla situazione per genere, alla situazione  maschile  per  ognuna  delle  professioni,  alla  formazione,  alla  promozione professionale, ai livelli, ai passaggi di categoria o di qualifica, ad altri fenomeni di mobilità, all'intervento  della  CIG,  ai  licenziamenti,  ai  prepensionamenti  e  pensionamenti,  alla\n© UNI\n30\n\n\n[PAGE 33]\n\n\nUNI/PdR 125:2022\nretribuzione effettivamente corrisposta (obbligo per aziende pubbliche e private con > 50 dipendenti ex art.46 del decreto legislativo 11 aprile 2006, n. 198, così come modificato dalla legge 162/2021);\ncreare un ambiente lavorativo che favorisca la diversity e tuteli  il  benessere  psico-fisico dei/delle dipendenti;\npianificare attività di monitoraggio in grado di rilevare i dati di cui alla lettera d);\nprevedere opportunità di formazione specificamente rivolte allo sviluppo e al miglioramento delle competenze professionali di leadership per affrontare gli ostacoli alla carriera riscontrati dal genere meno rappresentato, laddove rilevati dal monitoraggio di cui alla lettera f).\n6.3.2.3 EQUITÀ SALARIALE\nIn relazione alle proprie politiche e risorse, l'organizzazione deve:\ndotarsi  di  mansionario  della  singola  impresa  che  completi  e  dettagli  quello  generico  dei CCNL, per la segnalazione da parte dei/delle dipendenti di eventuali disparità retributive;\npredisporre un meccanismo di controllo per evitare pratiche che non corrispondano alle politiche non discriminatorie dichiarate, comprendendo stipendi, benefit, bonus, programmi di welfare;\ninformare periodicamente i/le dipendenti delle politiche retributive adottate in azienda anche con riferimento a benefit, bonus, programmi di welfare;\nove esistente, il programma di welfare deve considerare le esigenze delle persone di ogni genere ed età.\n6.3.2.4 GENITORIALITÀ, CURA\nIn relazione alle proprie politiche e risorse, l'organizzazione deve:\npredisporre programmi specifici per i congedi di maternità o di paternità (es. programmi di formazione  per  il  re-inserimento)  e  una  modalità  di  informazione  circa  gli  eventuali cambiamenti importanti che avvengono sul luogo di lavoro durante il congedo;\npredisporre un piano per la gestione delle diverse fasi della maternità (prima, durante e dopo);\nattuare  meccanismi di informazione finalizzati a  incentivare  la  richiesta  del  congedo  per paternità;\npianificare iniziative specifiche per supportare i/le dipendenti al loro rientro da un congedo genitoriale (formazione, supporto), inclusi eventuali piani di 'engagement' da proporre su base volontaria alle donne in congedo di maternità;\nincludere nell'ambito del programma di welfare aziendale, ove esistente, iniziative specifiche per supportare i/le dipendenti nelle loro attività genitoriali e di caregiver;\noffrire  servizi  specifici  quali  asili  nido  aziendale,  dopo  scuola  per  i  bambini  o  durante  le vacanze scolastiche, voucher per attività sportive dei figli, ecc.\n© UNI\n31\n\n\n[PAGE 34]\n\n\nUNI/PdR 125:2022\n6.3.2.5 CONCILIAZIONE DEI TEMPI VITA-LAVORO (WORK-LIFE BALANCE)\nIn relazione alle proprie politiche e risorse, l'organizzazione deve:\ndotarsi di misure per garantire l'equilibrio vita-lavoro ( work-life balance ) rivolte a tutti/e i/le dipendenti;\nstabilire/promuovere  accordi  specifici  per  consentire  il  lavoro  part-time  a  chi  ne  faccia richiesta;\noffrire  flessibilità  di  orario,  stabilendo  e  comunicando  regole  e  procedure  semplici  ed accessibili per usufruirne;\neffettuare una revisione periodica delle esigenze di flessibilità dei/delle dipendenti;\noffrire la possibilità di smart working/telelavoro o di altre forme di lavoro flessibile, e orario elastico;\ngarantire che le riunioni di lavoro siano tenute in orari compatibili con la conciliazione dei tempi di vita familiare e personale;\ngarantire che alle riunioni di lavoro possano partecipare anche i lavoratori e le lavoratrici a part-time e con contratti di lavoro flessibili, discontinui, ecc.\n6.3.2.6 ATTIVITÀ DI PREVENZIONE DI OGNI FORMA DI ABUSO FISICO, VERBALE, DIGITALE (MOLESTIA) SUI LUOGHI DI LAVORO\nIn  relazione  alle  proprie  politiche  e  risorse,  l'organizzazione  deve  dare  piena  attuazione  alle previsioni  di  legge  e  agli  accordi  collettivi,  sottoscritti  dalle  organizzazioni  imprenditoriali  cui aderisce, in materia di contrasto alle molestie sui luoghi di lavoro.\nIn particolare, l'organizzazione deve:\nindividuare il rischio di ogni forma di abuso fisico, verbale, digitale (molestia) alla luce della Salute e Sicurezza sul Luogo di Lavoro;\npreparare un Piano per la prevenzione e gestione delle molestie sul lavoro;\nprevedere una specifica formazione a tutti i livelli, con frequenza definita, sulla 'tolleranza zero' rispetto ad ogni forma di violenza nei confronti dei/delle dipendenti, incluse le molestie sessuali ( sexual harassment ) in ogni forma;\nprevedere una metodologia di segnalazione anonima di questa tipologia di accadimenti a tutela dei/delle dipendenti che segnalano;\npianificare  e  attuare  delle  verifiche  (survey)  presso  i/le  dipendenti,  indagando  se  hanno vissuto  personalmente  esperienze  di  atteggiamenti  di  questo  tipo,  che  hanno  provocato disagio o turbamento,  all'interno o nello svolgimento  del  proprio  lavoro  all'esterno (atteggiamenti sessisti, comportamenti o situazioni di mancanza di rispetto);\nvalutare gli ambienti di lavoro anche da questo punto di vista;\nprevedere una valutazione dei rischi e analisi eventi avversi segnalati;\nassicurare una costante attenzione al linguaggio utilizzato, sensibilizzando una comunicazione il più possibile gentile e neutrale.\n© UNI\n32\n\n\n[PAGE 35]\n\n\nUNI/PdR 125:2022\n6.4 SISTEMA DI GESTIONE\n6.4.1 GENERALITÀ\nDi seguito i principali aspetti che il sistema di gestione di un'organizzazione deve prevedere per garantire il mantenimento nel tempo dei requisiti definiti nella presente UNI/PdR.\n6.4.2 DOCUMENTAZIONE DEL SISTEMA\nIn relazione alle proprie politiche e risorse, l'organizzazione deve:\ngestire la documentazione del sistema in modo da assicurare che le versioni in vigore siano note agli utilizzatori, chiaramente identificate, preparate, approvate e modificate da chi ne ha l'autorità;\nidentificare  i  requisiti  normativi  specifici  rispetto  al  tema  della  parità  di  genere  in  ambito lavorativo, elencarli mantenendoli aggiornati e comunicarli al proprio interno alle funzioni responsabili della valutazione del loro impatto, della loro presa in carico ed attuazione;\nraccogliere e analizzare i dati disaggregati per genere.\n6.4.3 MONITORAGGIO DEGLI INDICATORI\nIn relazione alle proprie politiche e risorse, l'organizzazione deve:\nraccogliere ed analizzare i KPI generali e specifici relativi all'attuazione del piano strategico;\nvalutare l'andamento dei KPI con frequenza idonea, come previsto dal piano strategico, e attuare azioni di correzione a fronte di deviazioni.\nGli indicatori devono essere coerenti con la tipologia di organizzazione, la sua dimensione, il settore di riferimento e il contesto, e le parti interessate.\n6.4.4 COMUNICAZIONE INTERNA ED ESTERNA\nIn relazione alle proprie politiche e risorse, l'organizzazione deve:\npredisporre e diffondere alle proprie parti interessate (stakeholder) un piano di comunicazione relativo al proprio impegno sui temi della parità di genere (o più in generale sui temi DEI);\n basare la propria comunicazione interna ed esterna (marketing, pubblicità) sulla responsabilità (evitando nelle azioni pubblicitarie lo stereotipo di genere, assicurando una revisione periodica dei materiali e delle strategie di marketing, impegnandosi a diffondere un'immagine  positiva  di  donne  e  ragazze,  utilizzando  un  linguaggio  rispettoso  delle differenze di genere);\nidentificare le parti interessate con le quali instaurare una comunicazione rispetto ai temi della parità di genere, in particolare in ambito lavorativo;\ngarantire che la comunicazione sia coerente con i principi della politica e con gli obbiettivi stabiliti e attuati attraverso il piano strategico;\nallineare la comunicazione interna ed esterna ai valori e alla cultura aziendale.\n© UNI\n33\n\n\n[PAGE 36]\n\n\nUNI/PdR 125:2022\n6.4.5 AUDIT INTERNI (SISTEMA DI VERIFICA INTERNO DI CONFORMITÀ ALLA UNI/PdR)\nIn relazione alle proprie politiche e risorse, l'organizzazione deve pianificare, attuare e documentare un sistema di audit interni indirizzati alla verifica della reale ed efficace applicazione della politica e delle  direttive  aziendali  sulla  parità  di  genere,  nonché  del  rispetto  delle  istruzioni  e  procedure definite a tal fine. Gli audit sono attuati secondo le modalità definite dalla UNI EN ISO 19011, con team indipendenti rispetto alle attività verificate, competenti sulla base di requisiti definiti dal sistema (es. corso UNI EN ISO 19011, esperienza minima in azienda, formazione sulla presente UNI/PdR e  sul  sistema  di  gestione  aziendale)  e  bilanciati  in  termini  di  genere.  Gli  audit  devono  essere pianificati, comunicati e finalizzati a raccogliere le evidenze oggettive della conformità, segnalate le deviazioni, che devono essere gestite secondo le regole definite al punto 6.4.5.1.\n6.4.5.1 VERIFICA DI CONFORMITÀ ALLA PRESENTE UNI/PdR: TIPOLOGIE DI EVIDENZE QUANTITATIVE E QUALITATIVE\nL'audit interno (verifica del sistema) è un'attività che fornisce evidenza del rispetto dei requisiti del sistema di gestione e della presente UNI/PdR. L'audit è condotto secondo quanto previsto dalla UNI EN ISO 19011: deve raccogliere evidenze oggettive che dimostrino lo stato di conformità di quanto  attuato,  le  evidenze  oggettive  che  possono  essere  di  tipo  quantitativo  (ossia  misurabili oggettivamente: es. KPI, attività svolte o non svolte, trend e misurazioni varie) o qualitativo (ossia valutabili, preferibilmente sulla base di criteri condivisi: documenti dichiarativi di politiche, obbiettivi, comunicazione interna ed esterna, coinvolgimento stakeholder, ecc.).\nDi seguito esempi di evidenze riconducibili ai requisiti del presente punto:\ni. Evidenze Quantitative\n-Report monitoraggio KPI\n-Budget dedicato alle iniziative sulla parità di genere\n-Report monitoraggio situazioni non conformi\n-Piani formativi su parità di genere e sistema di gestione relativo\n-Check list di riferimento correttamente compilate ed utilizzate\n-Eventuale contenzioso sulla tematica\nii. Evidenze Qualitative\n-Politiche aggiornate\n-Piano strategico aggiornato\n-Comunicazione interna ed esterna\n-Coinvolgimento stakeholder (associazioni, enti pubblici, università, rappresentanze, ecc.)\n-Attività di diffusione interne della cultura della parità di genere\n-Eventuale partecipazione ad iniziative esterne per la diffusione della cultura della parità di genere\n© UNI\n34\n\n\n[PAGE 37]\n\n\nUNI/PdR 125:2022\n6.4.6 GESTIONE DELLE SITUAZIONI NON CONFORMI\nIn relazione alle proprie politiche e risorse, l'organizzazione deve:\ndefinire una modalità di raccolta, gestione e documentazione delle situazioni non conformi, ovvero definire una modalità di raccolta dei KPI non in linea (deviazioni rispetto ai requisiti individuati nella presente UNI/PdR, segnalazioni interne, reclami, incidenti rispetto ai temi della parità di genere o alle politiche - ad esempio in un report -, con evidenza delle azioni attuate  per  risolvere  le  cause  degli  accadimenti  -  es.  violazione  politiche  di  selezione  e assunzione,  reclami  rispetto  ai  temi,  analisi  eventuali  meccanismi  di whistle-blowing , incidenti o segnalazioni di violenze o sopraffazioni, KPI non in linea, ecc.);\ngarantire che vengano attivati i meccanismi di comunicazione, regolati secondo la presente UNI/PdR,  all'interno  dell'organizzazione  o  al  suo  esterno  quando  la  situazione  è  non conforme ai KPI e vengano attuate azioni al fine di rimuovere le cause dell'accadimento.\n6.4.7 REVISIONE PERIODICA\nIn relazione alle proprie politiche e risorse, l'organizzazione deve pianificare, attuare e mantenere registrazione di una revisione periodica del sistema da parte dell'Alta Direzione con coinvolgimento del comitato guida e delle funzioni responsabili dei temi individuati nel piano, con frequenza almeno annuale; la revisione deve valutare come elementi in ingresso: i risultati delle attività di cui al punto 6, la continua congruità del piano strategico, la necessità di aggiornamenti e modifiche, anche a seguito di cambiamenti normativi significativi e le ulteriori esigenze formative.\n6.4.8 MIGLIORAMENTO\nA seguito dei risultati della revisione l'organizzazione può identificare obiettivi ulteriori, che siano specifici, misurabili, raggiungibili, realistici e definiti temporalmente. Questi obiettivi devono essere integrati nel piano strategico o in altri documenti del sistema.\n6.4.9 NOTE FINALI\nLa  presente  UNI/PdR  è  pensata  come  riferimento  per  una  certificazione  di  parte  terza,  le  cui modalità operative e caratteristiche sono indicate nell'appendice A.\n© UNI\n35",
+    "matches": [
+      {
+        "chunk_id": 150,
+        "chunk_text": "stato  matrimoniale  o  di  famiglia  o  di gravidanza, nonché di maternità o paternità, anche adottive, e su qualsiasi altra caratteristica protetta, in tutti i livelli della gerarchia professionale. Nell'ambito di tale complessivo processo - premesso che i principali aspetti e le modalità di gestione delle attività di formazione sono specificate nella procedura PSQ-004 Gestione della Formazione ",
+        "dense_score": 0.7927976106975257,
+        "tfidf_score": 0.9601385591999696,
+        "section_boost": 0.0,
+        "graph_score": 0.8199662093368496,
+        "final_score": 0.7691538539063711,
+        "rank": 1,
+        "concepts": [
+          "nell",
+          "gestione della formazione",
+          "resource manager",
+          "practice leader",
+          "capability leader",
+          "key performance indicator"
+        ]
+      },
+      {
+        "chunk_id": 213,
+        "chunk_text": "lgs 24/2023 -i  diritti,  gli  interessi  legittimi  e  la riservatezza del segnalante saranno comunque rispettati e protetti, così come quelli delle persone eventualmente coinvolte, in applicazione di quanto previsto dal sistema di Responsabilità Sociale conforme alla SA8000 e dal Sistema di Gestione per la Parità di Genere, implementati dalla Società e rispettivamente, in particolare, dal MRS-00",
+        "dense_score": 0.7715839275647255,
+        "tfidf_score": 0.8886430485967531,
+        "section_boost": 0.0,
+        "graph_score": 0.8567891996926207,
+        "final_score": 0.7465843255434403,
+        "rank": 2,
+        "concepts": [
+          "sociale conforme alla",
+          "sistema di gestione",
+          "genere",
+          "manuale sistema di",
+          "gestione",
+          "sociale",
+          "manuale del sistema"
+        ]
+      },
+      {
+        "chunk_id": 53,
+        "chunk_text": "r scolastico (sia in modo diretto che mediante sollecitazione di enti pubblici) - ❑ verifica del rispetto delle condizioni previste dalla normativa in materia di salute sicurezza nei luoghi di lavoro. Nell'ottica del miglioramento continuo di un Sistema di Gestione sulla responsabilità sociale, è fondamentale migliorare la sensibilità su queste tematiche sia internamente all'Azienda sia dei Fornit",
+        "dense_score": 0.8238372838070832,
+        "tfidf_score": 0.7163044611388099,
+        "section_boost": 0.0,
+        "graph_score": 1.0,
+        "final_score": 0.7444262518644762,
+        "rank": 3,
+        "concepts": [
+          "nell",
+          "sistema di gestione",
+          "azienda sia dei",
+          "fornitori",
+          "direzione aziendale del",
+          "responsabile del sistema",
+          "gestione",
+          "subfornitore la esigenza"
+        ]
+      },
+      {
+        "chunk_id": 151,
+        "chunk_text": "A tal fine, vengono applicati strumenti di rilevazione e monitoraggio in linea con i Key Performance Indicator (KPI)  previsti  dalla  UNI/PdR  125,  al  fine  di  garantire  il  rispetto  degli  obiettivi  di  parità  di  genere,  equità retributiva, accesso equilibrato alla formazione e sviluppo professionale. Le decisioni relative a progressioni di  carriera,  assegnazioni  e  percorsi  di  cre",
+        "dense_score": 1.0,
+        "tfidf_score": 0.818032624784379,
+        "section_boost": 0.0,
+        "graph_score": 0.21989130973369492,
+        "final_score": 0.6893880493820528,
+        "rank": 4,
+        "concepts": [
+          "key performance indicator"
+        ]
+      },
+      {
+        "chunk_id": 212,
+        "chunk_text": "300) Qualora una segnalazione avesse ad oggetto una contestazione, rivendicazione o richieste legate ad un interesse di carattere personale della persona segnalante che attengono esclusivamente ai propri rapporti individuali di lavoro ovvero con le figure gerarchicamente sovraordinate -escluse dal perimetro oggettivo di applicabilità delle tutele previste dal D. lgs 24/2023 -i  diritti,\n\nente ai p",
+        "dense_score": 0.7355746939743845,
+        "tfidf_score": 0.740214468282697,
+        "section_boost": 0.0,
+        "graph_score": 0.8600397193568403,
+        "final_score": 0.688302161945931,
+        "rank": 5,
+        "concepts": [
+          "qualora una segnalazione",
+          "sociale conforme alla",
+          "sistema di gestione",
+          "genere",
+          "manuale sistema di",
+          "gestione",
+          "sociale",
+          "manuale del sistema"
+        ]
+      },
+      {
+        "chunk_id": 143,
+        "chunk_text": "Lo scopo del presente documento è quello di descrivere le procedure applicate da Lutech in alcune delle diverse fasi del processo di gestione delle risorse umane. Il documento include, in particolare, i criteri di valutazione delle risorse umane, con riguardo alla definizione dei principali profili che influenzano la qualità dei servizi forniti da Lutech ed alla valutazione complessiva della loro ",
+        "dense_score": 0.755995434857156,
+        "tfidf_score": 1.0,
+        "section_boost": 0.0,
+        "graph_score": 0.347742207637154,
+        "final_score": 0.6719466154702932,
+        "rank": 6,
+        "concepts": [
+          "lutech in alcune",
+          "lutech ed alla",
+          "lutech"
+        ]
+      },
+      {
+        "chunk_id": 77,
+        "chunk_text": "La Direzione della Azienda ha implementato un Sistema di Gestione conforme alla norma SA8000:2014, al fine di raggiungere mantenere i seguenti obiettivi di carattere generale: - ❑ coinvolgere tutto il personale interno nella realizzazione nel mantenimento del Sistema SA8000:2014 mediante continua e crescente sensibilizzazione alla Responsabilità Sociale sul proprio Luogo di Lavoro in riferimento a",
+        "dense_score": 0.7238686276692455,
+        "tfidf_score": 0.6430550901329914,
+        "section_boost": 0.25,
+        "graph_score": 0.32838021208384693,
+        "final_score": 0.623140020524365,
+        "rank": 7,
+        "concepts": [
+          "direzione della azienda",
+          "sistema di gestione",
+          "sistema",
+          "sociale sul proprio",
+          "luogo di lavoro",
+          "clienti",
+          "fornitori",
+          "partner sulle problematiche"
+        ]
+      },
+      {
+        "chunk_id": 78,
+        "chunk_text": "La Direzione della Azienda ha implementato un Sistema di Gestione conforme alla norma SA8000:2014, al fine di raggiungere mantenere i seguenti obiettivi di carattere generale: - ❑ coinvolgere tutto il personale interno nella realizzazione nel mantenimento del Sistema SA8000:2014 mediante continua e crescente sensibilizzazione alla Responsabilità Sociale sul proprio Luogo di Lavoro in riferimento a",
+        "dense_score": 0.7238686276692455,
+        "tfidf_score": 0.5705057841338411,
+        "section_boost": 0.25,
+        "graph_score": 0.32838021208384693,
+        "final_score": 0.6013752287246199,
+        "rank": 8,
+        "concepts": [
+          "direzione della azienda",
+          "sistema di gestione",
+          "sistema",
+          "sociale sul proprio",
+          "luogo di lavoro",
+          "clienti",
+          "fornitori",
+          "partner sulle problematiche"
+        ]
+      },
+      {
+        "chunk_id": 37,
+        "chunk_text": "LUTECH simpegna garantire la conformità, ai requisiti prescritti dalla legislazione vigente in materia di Lavoro e contrattuali stabiliti con i Clienti. Il continuo aggiornamento e la conoscenza della normativa e della legislazione applicabile sono requisitindispensabili per le attività svolte dall'Azienda e per garantire ai Clienti la fornitura di servizi conformi. Il Sistema di Gestione della Re",
+        "dense_score": 0.9319058279396919,
+        "tfidf_score": 0.44856983423228486,
+        "section_boost": 0.0,
+        "graph_score": 0.31587098285370446,
+        "final_score": 0.5705074780163031,
+        "rank": 9,
+        "concepts": [
+          "lavoro",
+          "clienti",
+          "azienda",
+          "clienti la fornitura",
+          "sistema di gestione",
+          "sociale",
+          "information system on",
+          "international labour standards"
+        ]
+      },
+      {
+        "chunk_id": 5,
+        "chunk_text": "Lo scopo del presente Manuale è quello di presentare il Sistema di Gestione di LUTECH per la pianificazione, esecuzione, supervisione/controllo e continuo miglioramento di tutte le attività relative alla Responsabilità Sociale (di seguito per brevità RS) presso le varie sedi aziendali di LUTECH, il tutto in maniera conforme a quanto richiesto dallo standard SA8000:2014. Poich é per l'implementazio",
+        "dense_score": 0.8672671068051556,
+        "tfidf_score": 0.5330399646512992,
+        "section_boost": 0.0,
+        "graph_score": 0.30419556355785093,
+        "final_score": 0.5676579448290222,
+        "rank": 10,
+        "concepts": [
+          "manuale",
+          "sistema di gestione",
+          "sociale",
+          "poich"
+        ]
+      }
+    ],
+    "coverage_percent": 100.0
+  },
+  {
+    "requirement_id": null,
+    "requirement_text": "[PAGE 38]\n\n\nUNI/PdR 125:2022\nAPPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE\nIl  presente  prospetto  definisce  schematicamente  gli  elementi  necessari,  per  un  Organismo  di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.\nProspetto A.1 - Regole di certificazione\n© UNI\n36\n\n\n\n**[TABELLA]**\n| REGOLE DI CERTIFICAZIONE | REGOLE DI CERTIFICAZIONE |\n| --- | --- |\n| Norma di Accreditamento | UNI CEI EN ISO/IEC 17021-1 |\n| UNI/PdR di certificazione | La presente UNI/PdR. |\n| Soggetti che possono richiedere la certificazione | La certificazione ai sensi della presente UNI/PdR può essere richiesta da qualunque tipo di organizzazione, di qualsiasi dimensione e forma giuridica, operante nel settore pubblico o privato. |\n| Possibili esclusioni | La certificazione viene rilasciata a una entità giuridica ( legal entity ) o, con le precisazioni di seguito descritte, a 'un gruppo di società', e deve considerare tutti i siti, filiali, sedi secondarie, attività e processi effettivamente svolti dall'organizzazione. È possibile rilasciare una certificazione di 'gruppo' che ricomprenda diverse entità giuridiche, ma solo in presenza di una struttura organizzativa 'centralizzata' che gestisce e controlla la compliance per tutte le società del gruppo (si veda IAF MD01). Non sono ammesse esclusioni di processi/funzioni, mentre è possibile escludere, in una certificazione di gruppo, delle singole legal entity . Considerato infine il contesto normativo e occupazionale, che può cambiare tra Stato e Stato, è possibile limitare la certificazione ad una sola Nazione. |\n| Requisiti strutturali dell'OdC | In aggiunta a quanto previsto dal punto 6.1 della UNI CEI EN ISO/IEC 17021-1, l'OdC deve a sua volta implementare un sistema di gestione conforme alla presente UNI/PdR. |\n| Criteri di competenza del Gruppo di verifica | Nel gruppo di audit le competenze si ritengono soddisfatte quando, tenendo conto delle competenze complessive del gruppo (auditor ed eventuali esperti/e tecnici/che) sia presente: - almeno un/una componente qualificato/a per le valutazioni di sistemi di gestione per la qualità ai sensi della norma UNI EN ISO 9001. Tale componente deve altresì dimostrare la conoscenza approfondita e documentata della presente UNI/PdR e della linea guida UNI ISO 30415 Gestione delle risorse umane - Diversità e inclusione. |\n\n\n\n[PAGE 39]\n\n\nUNI/PdR 125:2022\n© UNI\n37\n\n\n\n**[TABELLA]**\n| REGOLE DI CERTIFICAZIONE | REGOLE DI CERTIFICAZIONE |\n| --- | --- |\n|  | Nel gruppo di verifica, in aggiunta alle competenze sui sistemi di gestione e alla gestione degli audit, devono essere presenti: - un/una avvocato/a giuslavorista o un/una consulente del lavoro purché iscritti da almeno 5 anni al relativo albo professionale; oppure - altro/altra professionista che dimostri significativa e consolidata esperienza documentata nel settore specifico, oggetto della presente UNI/PdR, del Paese dell'organizzazione auditata e conoscenza della normativa applicabile. Nel team di verifica possono partecipare anche altri/e esperti/e, scelti di volta in volta in base al contesto di riferimento e tenendo in considerazione le 6 aree di riferimento che devono essere sottoposte a valutazione. La presenza di altri/e esperti/e non è obbligatoria ma eventualmente necessaria per completare le competenze del gruppo di audit se non già soddisfatte. |\n| Criteri di competenza del comitato di delibera (o del decision maker ) | I requisiti di competenza del comitato di delibera si ritengono soddisfatti quando siano presenti uno o più membri che nel loro insieme rispondano ai requisiti di competenza necessari per la valutazione di una certificazione UNI EN ISO 9001 e possono dimostrare la conoscenza della presente UNI/PdR. |\n| Tempi di audit e periodicità degli audit di terza parte | Si applicano i requisiti applicabili della UNI CEI EN ISO/IEC 17021-1. Si applica il documento IAF MD05: Table QMS1-Quality Management Systems Low Risk Il tempo impiegato dagli/dalle esperti/e (esperti/e tecnici/che e avvocati/e), ai fini della durata dell'audit, può essere conteggiato al 50%. La presenza dell'esperto/a è necessaria quando vengono valutati gli indicatori aziendali previsti nella presente UNI/PdR. |\n| Modalità di svolgimento dell'audit | La documentazione di audit deve riportare, fra le altre registrazioni, anche quanto segue: - il perimetro e l'applicabilità della presente UNI/PdR, con la definizione degli indirizzi legali e operativi della/e sede/i dell'organizzazione, - la mappatura dei processi (interni ed esterni) e l'elenco delle relative leggi, norme e regolamenti applicabili riferibili alla parità di genere, - l'analisi degli episodi o delle minacce di violazione dei diritti riferibili alla parità di genere nonché le contromisure adottate, - le cause giudiziarie riferite a episodi di violazione dei diritti di genere in cui è eventualmente coinvolta l'organizzazione, - la registrazione delle evidenze in apposite check list/documenti di supporto per il gruppo di audit. Tale documentazione deve tenere |\n\n\n\n[PAGE 40]\n\n\nUNI/PdR 125:2022\n© UNI\n38\n\n\n\n**[TABELLA]**\n| REGOLE DI CERTIFICAZIONE | REGOLE DI CERTIFICAZIONE |\n| --- | --- |\n|  | conto del grado di applicazione dei requisiti definiti nella presente UNI/PdR, - requisiti sistemici come ad esempio: la definizione della politica, degli obiettivi, del piano strategico e del risultato del monitoraggio del sistema, - requisiti operativi: la definizione, le modalità e la frequenza di misurazione degli indicatori qualitativi e quantitativi. |\n| Scopo del certificato | I criteri per la formulazione dello scopo del certificato sono gli stessi già applicati per la UNI EN ISO 9001, con particolare attenzione al campo di applicazione del sistema di gestione, che deve menzionare le 'Misure per garantire la parità di genere nel contesto lavorativo'. |\n| Documenti IAF applicabili | Trovano applicazione tutti i documenti IAF relativi ai sistemi di gestione, fatto salvo quanto chiarito in precedenza sul documento IAF MD 05. |\n| Riferimento alla certificazione e utilizzo del Marchio UNI | In aggiunta a quanto previsto dal punto 8.3 della UNI CEI EN ISO/IEC 17021-1, l'OdC deve disporre di regole che consentano all'organizzazione di dichiarare la propria conformità alla presente UNI/PdR nel modo seguente: Organizzazione ….... ( nome o marca ) con sistema di gestione per la parità di genere certificato ai sensi della UNI/PdR 125:2022 dall'Organismo di Certificazione …... ( nome dell'OdC ) con Marchio UNI. L'OdC deve pertanto disporre di regole per la concessione della licenza d'uso del proprio marchio di certificazione di sistemi di gestione che ne preveda l'utilizzo combinato al Marchio UNI 'Organizzazioni'. L'utilizzo combinato del marchio dell'OdC e del Marchio UNI 'Organizzazioni', deve essere permesso a partire dalla data di emissione del certificato da parte dell'organismo. NOTAIl Marchio di conformità UNI 'Organizzazioni' ha lo scopo di attestare che i requisiti di un sistema di gestione certificato siano stabiliti dall'UNI tramite la pubblicazione di norme o prassi di riferimento. |",
+    "matches": [
+      {
+        "chunk_id": 146,
+        "chunk_text": "Di seguito sono indicate le abbreviazioni utilizzate all'interno del documento. Si veda il Glossario per le definizioni di uso comune. GDPR, DEFINIZIONE = Regolamento UE 2016/679 e sm. COO, DEFINIZIONE = Chief Operating Officer. HR, DEFINIZIONE = Human Resources. RG, DEFINIZIONE = Responsabile Gerarchico. FCPC, DEFINIZIONE = Funzione di Conformità per la Prevenzione della Corruzione. HSE, DEFINIZI",
+        "dense_score": 0.9668446645571386,
+        "tfidf_score": 0.9752933510363186,
+        "section_boost": 0.05,
+        "graph_score": 1.0,
+        "final_score": 0.8943258711337512,
+        "rank": 1,
+        "concepts": [
+          "glossario per le",
+          "regolamento ue",
+          "chief operating officer",
+          "human resources",
+          "responsabile gerarchico",
+          "funzione di",
+          "prevenzione della corruzione",
+          "health safety"
+        ]
+      },
+      {
+        "chunk_id": 43,
+        "chunk_text": "[29], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Salute sicurezza dei lavoratori. [30], DOCUMENTO = SA8000:2014. [30], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Responsabilità Sociale.. [31], DOCUMENTO = ISO 19011:2018. [31], TITOLO = Norma contenente i Requisiti relativi all'esecuzione degli Audit interni ai Sistemi di Gestione di un'Organi",
+        "dense_score": 1.0,
+        "tfidf_score": 0.5260241867831308,
+        "section_boost": 0.0,
+        "graph_score": 0.8089212438542648,
+        "final_score": 0.7195915048057921,
+        "rank": 2,
+        "concepts": [
+          "norma contenente",
+          "sistemi di gestione",
+          "salute sicurezza dei",
+          "sociale",
+          "requisiti relativi all",
+          "audit interni ai",
+          "organizzazione",
+          "informazione documentata dis"
+        ]
+      },
+      {
+        "chunk_id": 220,
+        "chunk_text": "La responsabilità per la gestione delle segnalazioni attinenti alle violazioni di disposizioni normative diverse dalle condotte illecite ai sensi del D. lgs 231/01 (ad esempio violazione dei principi di cui agli standard SA8000 o UNI/PDR 125-2022) o violazioni del Modello di Organizzazione Gestione e controllo (art. 2 comma 1 lett. A n. 2) sono di competenza del l' Ufficio Compliance di Gruppo.",
+        "dense_score": 0.8213367127372382,
+        "tfidf_score": 1.0,
+        "section_boost": 0.0,
+        "graph_score": 0.45280603372384104,
+        "final_score": 0.7190958918396635,
+        "rank": 3,
+        "concepts": [
+          "modello di organizzazione",
+          "gestione",
+          "ufficio compliance di",
+          "gruppo"
+        ]
+      },
+      {
+        "chunk_id": 143,
+        "chunk_text": "Lo scopo del presente documento è quello di descrivere le procedure applicate da Lutech in alcune delle diverse fasi del processo di gestione delle risorse umane. Il documento include, in particolare, i criteri di valutazione delle risorse umane, con riguardo alla definizione dei principali profili che influenzano la qualità dei servizi forniti da Lutech ed alla valutazione complessiva della loro ",
+        "dense_score": 0.7826683847613705,
+        "tfidf_score": 0.9139417808248091,
+        "section_boost": 0.0,
+        "graph_score": 0.3775776063548482,
+        "final_score": 0.6627654094229606,
+        "rank": 4,
+        "concepts": [
+          "lutech in alcune",
+          "lutech ed alla",
+          "lutech"
+        ]
+      },
+      {
+        "chunk_id": 150,
+        "chunk_text": "stato  matrimoniale  o  di  famiglia  o  di gravidanza, nonché di maternità o paternità, anche adottive, e su qualsiasi altra caratteristica protetta, in tutti i livelli della gerarchia professionale. Nell'ambito di tale complessivo processo - premesso che i principali aspetti e le modalità di gestione delle attività di formazione sono specificate nella procedura PSQ-004 Gestione della Formazione ",
+        "dense_score": 0.7981160409747391,
+        "tfidf_score": 0.7326571943109812,
+        "section_boost": 0.0,
+        "graph_score": 0.6114505997255819,
+        "final_score": 0.6613336946283064,
+        "rank": 5,
+        "concepts": [
+          "nell",
+          "gestione della formazione",
+          "resource manager",
+          "practice leader",
+          "capability leader",
+          "key performance indicator"
+        ]
+      },
+      {
+        "chunk_id": 84,
+        "chunk_text": "Il Sistema di Gestione per la RS di LUTECH comprende: - [ ] ❑ le Informazioni Documentate richieste dalla norma SA8000:2014 - [ ] ❑ le Informazioni Documentate necessarie per l'efficacia del Sistema di Gestione per la RS - [ ] ❑ le Informazioni Documentate necessarie ad integrare il Sistema di Gestione per la RS con gli altri Sistemi di Gestione aziendali. Manuale del Sistema di Gestione sulla Res",
+        "dense_score": 0.809050649369216,
+        "tfidf_score": 0.6096932569891684,
+        "section_boost": 0.0,
+        "graph_score": 0.2375870996878621,
+        "final_score": 0.5540456567820093,
+        "rank": 6,
+        "concepts": [
+          "sistema di gestione",
+          "informazioni documentate richieste",
+          "informazioni documentate necessarie",
+          "sistemi di gestione",
+          "manuale del sistema",
+          "gestione sulla",
+          "sociale",
+          "detta obiettivi"
+        ]
+      },
+      {
+        "chunk_id": 5,
+        "chunk_text": "Lo scopo del presente Manuale è quello di presentare il Sistema di Gestione di LUTECH per la pianificazione, esecuzione, supervisione/controllo e continuo miglioramento di tutte le attività relative alla Responsabilità Sociale (di seguito per brevità RS) presso le varie sedi aziendali di LUTECH, il tutto in maniera conforme a quanto richiesto dallo standard SA8000:2014. Poich é per l'implementazio",
+        "dense_score": 0.9251792017497933,
+        "tfidf_score": 0.5232718420270215,
+        "section_boost": 0.0,
+        "graph_score": 0.11560645594054017,
+        "final_score": 0.5501745244961318,
+        "rank": 7,
+        "concepts": [
+          "manuale",
+          "sistema di gestione",
+          "sociale",
+          "poich"
+        ]
+      },
+      {
+        "chunk_id": 138,
+        "chunk_text": "Con la certificazione SA8000 e con il progetto di miglioramento continuo ad essa connesso, la Direzione ha formalmente assunto la responsabilità in quanto ai seguentimpegni: - ❑ rispettare le leggi nazionali, quelle comunitarie quelle internazionalin materia di lavoro e di diritti dei lavoratori, ottemperando alle disposizioni contenute nei documenti ufficiali ed alle loro interpretazioni; - ❑ man",
+        "dense_score": 0.8908830575554061,
+        "tfidf_score": 0.5445374074696395,
+        "section_boost": 0.0,
+        "graph_score": 0.10824855845602592,
+        "final_score": 0.5413641569542595,
+        "rank": 8,
+        "concepts": [
+          "con la certificazione",
+          "direzione ha formalmente",
+          "sociale",
+          "impresanche attraverso la",
+          "bilancio sociale",
+          "politica per la",
+          "direzione periodicamente riesaminata"
+        ]
+      },
+      {
+        "chunk_id": 213,
+        "chunk_text": "lgs 24/2023 -i  diritti,  gli  interessi  legittimi  e  la riservatezza del segnalante saranno comunque rispettati e protetti, così come quelli delle persone eventualmente coinvolte, in applicazione di quanto previsto dal sistema di Responsabilità Sociale conforme alla SA8000 e dal Sistema di Gestione per la Parità di Genere, implementati dalla Società e rispettivamente, in particolare, dal MRS-00",
+        "dense_score": 0.7035035955320607,
+        "tfidf_score": 0.6955455969111612,
+        "section_boost": 0.0,
+        "graph_score": 0.2385486539891994,
+        "final_score": 0.5377748480840125,
+        "rank": 9,
+        "concepts": [
+          "sociale conforme alla",
+          "sistema di gestione",
+          "genere",
+          "manuale sistema di",
+          "gestione",
+          "sociale",
+          "manuale del sistema"
+        ]
+      },
+      {
+        "chunk_id": 221,
+        "chunk_text": "La responsabilità per la gestione delle segnalazioni attinenti alle condotte illecite ai sensi del D. lgs 231/01 o violazioni del Modello di Organizzazione Gestione e controllo (art. 2 comma 1 lett. A n. 2) sono di competenza dell'Organismo di Vigilanza ai sensi e per gli effetti di quanto previsto dal cap. 4.7 del MOG-000A Modello di organizzazione, Gestione e Controllo ex D. Lgs. 231/01 - Parte ",
+        "dense_score": 0.8198935811687276,
+        "tfidf_score": 0.526823392360147,
+        "section_boost": 0.0,
+        "graph_score": 0.238854136786535,
+        "final_score": 0.5337752775328422,
+        "rank": 10,
+        "concepts": [
+          "modello di organizzazione",
+          "gestione",
+          "organismo di vigilanza",
+          "controllo ex",
+          "lgs",
+          "parte generale"
+        ]
+      }
+    ],
+    "coverage_percent": 100.0
+  },
+  {
+    "requirement_id": null,
+    "requirement_text": "[PAGE 41]\n\n\nUNI/PdR 125:2022\nAPPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE\nIl prospetto B1 riportato qui di seguito fornisce degli esempi di KPI riferiti ai diversi settori industriali identificati tramite codice ATECO.\nProspetto B.1 - ESEMPIO DI KPI PER SETTORE INDUSTRIALE\n© UNI\n39\n\n\n\n**[TABELLA]**\n| ATTIVITÀ ECONOMICA (CODICE ATECO DI APPARTENENZA) | ATTIVITÀ ECONOMICA (CODICE ATECO DI APPARTENENZA) | ATTIVITÀ ECONOMICA (CODICE ATECO DI APPARTENENZA) | %DONNE CON CONTRATTO A TEMPO INDETERMINATO RISPETTO AL TOTALE DEI DIPENDENTI (ANNO 2017) | %DONNE DIRIGENTI RISPETTO AL TOTALE DEI DIPENDENTI DIRIGENTI, PER OGNI INDUSTRY (ANNO 2017) | DIFFERENZIALE RETRIBUTIVO DI GENERE CALCOLATO COME DIFFERENZA PERCENTUALE TRA LA RETRIBUZIONE MEDIA ANNUA DI UOMINI E DONNE RAPPORTATA A QUELLA MASCHILE (ANNO 2018) |\n| --- | --- | --- | --- | --- | --- |\n| LETTERE | CODICE | ETICHETTA |  |  |  |\n| A | 1 | Agricoltura, silvicoltura e pesca | N.A. | N.A. |  |\n| B-E | 2 | Industria in senso stretto | 25% | 12% | -9% |\n| F | 3 | Costruzioni | 10% | 7% | -2% |\n| G | 4 | Commercio | 41% | 17% | -17% |\n| H | 5 | Trasporto e magazzinaggio | 20% | 13% | -5% |\n| I | 6 | Alberghi e ristoranti | 34% | 19% | -7% |\n| J | 7 | Servizi di informazione e comunicazione | 38% | 17% | -17% |\n| K | 8 | Attività finanziarie e assicurative | 49% | 15% | -29% |\n| L-N | 9 | Attività immobiliari, servizi alle imprese e altre attività professionali e imprenditoriali | 41% | 20% | -19% |\n| O | 10 | Amministrazione pubblica e difesa assicurazione sociale obbligatoria | N.A. | N.A. | N.A. |\n| P-Q | 11 | Istruzione, sanità ed altri servizi sociali | 66% | 44% | -19% |\n| R-U | 12 | Altri servizi collettivi e personali | 49% | 19% | -35% |",
+    "matches": [
+      {
+        "chunk_id": 40,
+        "chunk_text": "[12], TITOLO = Convenzione sulla Salute Sicurezza sulavoro Raccomandazione sulla salute sicurezza sulavoro. [13], DOCUMENTO = ILO C159. [13], TITOLO = Convenzione sul reinserimento professionale occupazionale (persone disabili). [14], DOCUMENTO = ILO C177. [14], TITOLO = Convenzione sulavoro a domicilio. [15], DOCUMENTO = ILO C181. [15], TITOLO = Convenzione sulle agenzie per l'impiego private [16",
+        "dense_score": 0.9075668415793509,
+        "tfidf_score": 1.0,
+        "section_boost": 0.0,
+        "graph_score": 0.9999999999999999,
+        "final_score": 0.8630267366317403,
+        "rank": 1,
+        "concepts": [
+          "convenzione sulla salute",
+          "sicurezza sulavoro raccomandazione",
+          "convenzione sul reinserimento",
+          "convenzione sulavoro",
+          "convenzione sulle agenzie",
+          "convenzione sulle forme",
+          "convenzione sulla protezione",
+          "codice di condotta"
+        ]
+      },
+      {
+        "chunk_id": 146,
+        "chunk_text": "Di seguito sono indicate le abbreviazioni utilizzate all'interno del documento. Si veda il Glossario per le definizioni di uso comune. GDPR, DEFINIZIONE = Regolamento UE 2016/679 e sm. COO, DEFINIZIONE = Chief Operating Officer. HR, DEFINIZIONE = Human Resources. RG, DEFINIZIONE = Responsabile Gerarchico. FCPC, DEFINIZIONE = Funzione di Conformità per la Prevenzione della Corruzione. HSE, DEFINIZI",
+        "dense_score": 0.980047288403729,
+        "tfidf_score": 0.746050087731086,
+        "section_boost": 0.05,
+        "graph_score": 0.8752317959476832,
+        "final_score": 0.8058803008703541,
+        "rank": 2,
+        "concepts": [
+          "glossario per le",
+          "regolamento ue",
+          "chief operating officer",
+          "human resources",
+          "responsabile gerarchico",
+          "funzione di",
+          "prevenzione della corruzione",
+          "health safety"
+        ]
+      },
+      {
+        "chunk_id": 79,
+        "chunk_text": "e Codice documento MRS-000 Versione 00 Versione 00 - ❑ incentivare il bilanciamento in modo equilibrato delavoro e della vita personale della riduzione dello stress generato dalle attività lavorative. Peraggiungere questi obiettivi l'Azienda ritiene indispensabile: - ❑ l'applicazione di tecniche metodologie proprie dei Sistemi di Gestione, intese come mezzo per gestire in forma controllata tutte l",
+        "dense_score": 0.8702711615007132,
+        "tfidf_score": 0.723478755274225,
+        "section_boost": 0.0,
+        "graph_score": 0.8095729035692648,
+        "final_score": 0.7270666718964057,
+        "rank": 3,
+        "concepts": [
+          "codice documento mrs",
+          "versione",
+          "peraggiungere questi obiettivi",
+          "azienda ritiene indispensabile",
+          "sistemi di gestione",
+          "azienda",
+          "sistema di gestione",
+          "sociale al fine"
+        ]
+      },
+      {
+        "chunk_id": 14,
+        "chunk_text": "L'Azienda conservappropriate Informazioni Documentate comevidenza dei risultati di monitoraggio. Si vedano infatti: - o glindicatori periodici calcolati, vedi 'KPI -000 Elenco Key Performance Indicator' e 'KPI -001 Elenco KPI SA8000' - o registrazioni di audit, analisi, etc., archiviate in 'TOO -040 Repository \n\nti: - o glindicatori periodici calcolati, vedi 'KPI -000 Elenco Key Performance Indica",
+        "dense_score": 0.7900577738716767,
+        "tfidf_score": 0.7881157417484499,
+        "section_boost": 0.0,
+        "graph_score": 0.8201912118239875,
+        "final_score": 0.7164960744380031,
+        "rank": 4,
+        "concepts": [
+          "azienda conservappropriate informazioni",
+          "documentate comevidenza dei",
+          "elenco key performance",
+          "indicator",
+          "elenco kpi",
+          "repository   ti",
+          "repository gruppo compliance",
+          "gestione"
+        ]
+      },
+      {
+        "chunk_id": 80,
+        "chunk_text": "Peraggiungere questi obiettivi l'Azienda ritiene indispensabile: - ❑ l'applicazione di tecniche metodologie proprie dei Sistemi di Gestione, intese come mezzo per gestire in forma controllata tutte le attività svolte nei processi coinvolti - ❑ l'organica e chiara definizione dei compiti e delle responsabilità di tutto il personale impiegato in tutti processi operativi dell'Azienda - ❑ il coinvolgi",
+        "dense_score": 0.6891570998294341,
+        "tfidf_score": 0.7076172505610695,
+        "section_boost": 0.0,
+        "graph_score": 0.6274408598268909,
+        "final_score": 0.6134361870654726,
+        "rank": 5,
+        "concepts": [
+          "peraggiungere questi obiettivi",
+          "azienda ritiene indispensabile",
+          "sistemi di gestione",
+          "azienda",
+          "sistema di gestione",
+          "sociale al fine",
+          "insieme agli obiettivi",
+          "direzione valutanno per"
+        ]
+      },
+      {
+        "chunk_id": 151,
+        "chunk_text": "A tal fine, vengono applicati strumenti di rilevazione e monitoraggio in linea con i Key Performance Indicator (KPI)  previsti  dalla  UNI/PdR  125,  al  fine  di  garantire  il  rispetto  degli  obiettivi  di  parità  di  genere,  equità retributiva, accesso equilibrato alla formazione e sviluppo professionale. Le decisioni relative a progressioni di  carriera,  assegnazioni  e  percorsi  di  cre",
+        "dense_score": 0.9026628412058281,
+        "tfidf_score": 0.737060168529047,
+        "section_boost": 0.0,
+        "graph_score": 0.10622777955096796,
+        "final_score": 0.6034287429512389,
+        "rank": 6,
+        "concepts": [
+          "key performance indicator"
+        ]
+      },
+      {
+        "chunk_id": 43,
+        "chunk_text": "[29], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Salute sicurezza dei lavoratori. [30], DOCUMENTO = SA8000:2014. [30], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Responsabilità Sociale.. [31], DOCUMENTO = ISO 19011:2018. [31], TITOLO = Norma contenente i Requisiti relativi all'esecuzione degli Audit interni ai Sistemi di Gestione di un'Organi",
+        "dense_score": 0.9980876592914654,
+        "tfidf_score": 0.5067935239855944,
+        "section_boost": 0.0,
+        "graph_score": 0.15938479846606662,
+        "final_score": 0.5831500806054779,
+        "rank": 7,
+        "concepts": [
+          "norma contenente",
+          "sistemi di gestione",
+          "salute sicurezza dei",
+          "sociale",
+          "requisiti relativi all",
+          "audit interni ai",
+          "organizzazione",
+          "informazione documentata dis"
+        ]
+      },
+      {
+        "chunk_id": 34,
+        "chunk_text": "Il campo di applicazione del Sistema di Gestione della Responsabilità Sociale applicato da LUTECH, descritto in questo Manuale nelle procedure richiamate, è il seguente: Servizi di supporto al governo di progetti ICT (Demand & Project Management, analisi e progettazione di soluzioni di business integration). Servizi di progettazione, sviluppo, parametrizzazione, produzione, installazione, test e m",
+        "dense_score": 0.6949811773447042,
+        "tfidf_score": 0.9083741521647528,
+        "section_boost": 0.0,
+        "graph_score": 0.12246285909247115,
+        "final_score": 0.5749972884058018,
+        "rank": 8,
+        "concepts": [
+          "sistema di gestione",
+          "sociale applicato da",
+          "manuale nelle procedure",
+          "servizi di supporto",
+          "demand",
+          "project management",
+          "servizi di progettazione",
+          "servizi di assistenza"
+        ]
+      },
+      {
+        "chunk_id": 56,
+        "chunk_text": "LUTECH garantisce un ambiente di lavoro sicuro e salubre adottando efficaci misure per prevenire potenzialincidenti e danni alla salute dei lavoratori che possano verificarsi durante lo svolgimento delavoro, minimizzando, per quanto sia ragionevolmente praticabile, le cause di pericolo ascrivibili Codice documento MRS-000 Versione 00 all'ambiente di lavoro e tenendo presente lo stato delle conosce",
+        "dense_score": 0.9278349191189029,
+        "tfidf_score": 0.4226275893361204,
+        "section_boost": 0.0,
+        "graph_score": 0.34380503835077003,
+        "final_score": 0.5666832521185513,
+        "rank": 9,
+        "concepts": [
+          "codice documento mrs",
+          "versione",
+          "aziendassicura tutto il",
+          "talistruzioni devono essere",
+          "sistema di gestione",
+          "salute sicurezza in"
+        ]
+      },
+      {
+        "chunk_id": 204,
+        "chunk_text": "190/2012 e smi), delle procedure previste dal Modello 231 (ad es. semplificativo i) il mancato rispetto della Politica per la Prevenzione della Corruzione (ISO 37001); delle leggi anticorruzione (l.n. 190/2012 e smi), delle procedure previste dal Modello 231 (ad es. procedure della Società predisposte in conformità agli standard ISO 27001, ISO 14001, ISO 45001, ISO 9001, SA8000, UNI/PDR 125-2022, ",
+        "dense_score": 0.9237586644132391,
+        "tfidf_score": 0.5562169484169396,
+        "section_boost": 0.0,
+        "graph_score": 0.1160225694567891,
+        "final_score": 0.5595730641817352,
+        "rank": 10,
+        "concepts": [
+          "modello",
+          "politica per la",
+          "prevenzione della corruzione"
+        ]
+      }
+    ],
+    "coverage_percent": 100.0
+  },
+  {
+    "requirement_id": null,
+    "requirement_text": "[PAGE 42]\n\n\nUNI/PdR 125:2022\nBIBLIOGRAFIA\nRisoluzione adottata dall'Assemblea Generale ONU il 25 settembre 2015, 'Trasformare il  nostro mondo: l'Agenda 2030 per lo Sviluppo Sostenibile', obiettivo 5 'Raggiungere l'uguaglianza di genere ed emancipare tutte le donne e le ragazze'\nTrattato sull'Unione europea, articolo 2 e articolo 3, paragrafo 3\nTrattato sul funzionamento dell'Unione europea (TFUE)\nRisoluzione del Parlamento europeo del 21 gennaio 2021 sulla strategia dell'UE per la parità di genere (2019/2169(INI))\nCarta dei diritti fondamentali dell'Unione europea, articoli 21 e 23\nDirettive adottate dal 1975 in poi sui diversi aspetti della parità di trattamento tra uomini e  donne  (direttiva  79/7/CEE1,  direttiva  86/613/CEE2,  direttiva  92/85/CEE3,  direttiva 2004/113/CE1, direttiva 2006/54/CE2, direttiva 2010/18/UE3 e direttiva 2010/41/UE4)\nDirettiva  2006/54/CE  del  Parlamento  europeo  e  del  Consiglio,  del  5  luglio  2006, riguardante l'attuazione del principio delle pari opportunità e della parità di trattamento fra uomini e donne in materia di occupazione e impiego (GU L 204 del 26.7.2006, pag. 23)\nDirettiva  2010/18/UE  del  Consiglio,  dell'8  marzo  2010,  che  attua  l'accordo  quadro riveduto in materia di congedo parentale concluso da BUSINESSEUROPE, UEAPME, CEEP e CES e abroga la direttiva 96/34/CE (GU L 68 del 18.3.2010, pag. 13)\nConvenzione n. 100 dell'Organizzazione internazionale del lavoro (OIL) sulla parità di retribuzione del 1951\nRaccomandazione della Commissione del 7 marzo 2014 sul potenziamento del principio della parità retributiva tra donne e uomini tramite la trasparenza\nPilastro europeo dei diritti sociali, in particolare i principi 1, 2, 3, 6, 9, 11, 12 e 15\nComunicazione della Commissione del 5 marzo 2020 dal titolo \"Un'Unione dell'uguaglianza: la strategia per la parità di genere 2020-2025\" (COM(2020)0152)\nBreaking gender stereotypes - Building good business: tips and tools for smart managers, Association of European Chambers of Commerce and Industry OIT. Centre International de FormationRegione Lazio, Proposta di legge n. 182 concernente \"Disposizioni per la promozione della parità retributiva tra i sessi, il sostegno dell'occupazione e dell'imprenditoria  femminile di  qualità,  nonché  per  la  valorizzazione  delle  competenze delle  donne\",  approvata  dal  Consiglio  regionale  il  19  maggio  2021,  in  corso  di pubblicazione\nReport  statistiche  ISTAT,  CONTI  ECONOMICI  DELLE  IMPRESE  E  DEI  GRUPPI  DI IMPRESA | ANNO 2019, 2 novembre 2021\nUNI ISO 31000 Gestione del rischio - Linee Guida\n© UNI\n40\n\n\n[PAGE 43]\n\n\nUNI/PdR 125:2022\nUNI EN ISO 9004 Gestione per la qualità - Qualità di un'organizzazione - Linee guida per conseguire il successo durevole\nProfeta, Paola. Parità di genere e politiche pubbliche , EGEA, 2020\nMc Kinsey & Company, Diversity wins: how inclusion matters , 2020 https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-howinclusion-matters\nMc Kinsey& Company, Women matter: Ten years of insight on gender diversity , 2013 https://www.mckinsey.com/featured-insights/gender-equality/women-matter-ten-yearsof-insights-on-gender-diversity\nCatalyst, Why diversity matters , 2013 https://www.catalyst.org/research/why-diversity-matters/\nhttps://eige.europa.eu/gender-mainstreaming/toolkits/gender-impact-assessment\n© UNI\n41\n\n\n[PAGE 48]\n\n\nMembro italiano ISO e CEN www.uni.com www.youtube.com/normeuni www.twitter.com/normeuni www.twitter.com/formazioneuni www.linkedin.com/company/normeuni www.facebook.com/unmondofattobene\nSede di Milano Via Sannio, 2 - 20137 Milano tel 02700241, uni@uni.com\nVia del Collegio Capranica, 4 - 00186 Roma tel 0669923074, uni.roma@uni.com\nSede di Roma",
+    "matches": [
+      {
+        "chunk_id": 182,
+        "chunk_text": "Con  il  decreto  legislativo  n. 24/2023  è  stata  data  attuazione  nel  nostro  ordinamento  alla  direttiva  (UE) 2019/1937 riguardante la protezione delle persone che segnalano violazioni del diritto dell'Unione di cui siano venute a conoscenza in un contesto lavorativo pubblico o privato (cd. direttiva Whistleblowing). L'obiettivo della direttiva è quello di prevedere regole di armonizzazio",
+        "dense_score": 0.9951055412717682,
+        "tfidf_score": 1.0,
+        "section_boost": 0.0,
+        "graph_score": 0.3696794598060304,
+        "final_score": 0.7719781084699133,
+        "rank": 1,
+        "concepts": [
+          "con  il  decreto",
+          "unione di cui",
+          "whistleblowing",
+          "stati ue una"
+        ]
+      },
+      {
+        "chunk_id": 41,
+        "chunk_text": "[19], TITOLO = Dichiarazione Universale dei Diritti Umani. [20], DOCUMENTO = Patto. [20], TITOLO = Patto internazionale sui diritti economici, sociali e culturali. [21], DOCUMENTO = Patto. [21], TITOLO = Patto internazionale sui diritti civili e politici. [22], DOCUMENTO = Convenzione. [22], TITOLO = Convenzione delle Nazioni Unite sui diritti del bambino. [23], DOCUMENTO = Convenzione. [23], TITO",
+        "dense_score": 1.0,
+        "tfidf_score": 0.5074680673345079,
+        "section_boost": 0.0,
+        "graph_score": 0.9921605234064066,
+        "final_score": 0.7506725248816337,
+        "rank": 2,
+        "concepts": [
+          "dichiarazione universale dei",
+          "diritti umani",
+          "patto",
+          "patto internazionale sui",
+          "convenzione",
+          "convenzione delle nazioni",
+          "unite sui diritti",
+          "unite sull"
+        ]
+      },
+      {
+        "chunk_id": 42,
+        "chunk_text": "[24], DOCUMENTO = Convenzione. [24], TITOLO = Convenzione delle Nazioni Unite sull'eliminazione di tutte le forme di discriminazione razziale. [25], DOCUMENTO = Principi. [25], TITOLO = Principi guida delle Nazioni Unite su Business e Diritti Umani. [26], DOCUMENTO = CCNL Commercio. [26], TITOLO = Contratto Collettivo settore Terziario. [27], DOCUMENTO = CCNL Metalmeccanico. [27], TITOLO = Contrat",
+        "dense_score": 0.9777887192422778,
+        "tfidf_score": 0.47123772078232373,
+        "section_boost": 0.0,
+        "graph_score": 0.9999999999999999,
+        "final_score": 0.7324868039316083,
+        "rank": 3,
+        "concepts": [
+          "convenzione",
+          "convenzione delle nazioni",
+          "unite sull",
+          "principi",
+          "principi guida delle",
+          "nazioni unite su",
+          "business",
+          "diritti umani"
+        ]
+      },
+      {
+        "chunk_id": 213,
+        "chunk_text": "lgs 24/2023 -i  diritti,  gli  interessi  legittimi  e  la riservatezza del segnalante saranno comunque rispettati e protetti, così come quelli delle persone eventualmente coinvolte, in applicazione di quanto previsto dal sistema di Responsabilità Sociale conforme alla SA8000 e dal Sistema di Gestione per la Parità di Genere, implementati dalla Società e rispettivamente, in particolare, dal MRS-00",
+        "dense_score": 0.7710928618147876,
+        "tfidf_score": 0.842939944015227,
+        "section_boost": 0.0,
+        "graph_score": 0.5413289680230233,
+        "final_score": 0.6695849215350879,
+        "rank": 4,
+        "concepts": [
+          "sociale conforme alla",
+          "sistema di gestione",
+          "genere",
+          "manuale sistema di",
+          "gestione",
+          "sociale",
+          "manuale del sistema"
+        ]
+      },
+      {
+        "chunk_id": 202,
+        "chunk_text": "Illeciti commessi in violazione della normativa dell'UE indicata nell'Allegato 1 al d.lgs. n. 24/2023 e di tutte le disposizioni nazionali che ne danno attuazione 2\nAtti od omissioni che ledono gli interessi finanziari dell'Unione Europea (art. 325 del TFUE lotta contro la frode  e  le  attività  illegali  che  ledono  gli  interessi  finanziari  dell'UE)  come  individuati  nei  regolamenti, dire",
+        "dense_score": 0.9136168262066324,
+        "tfidf_score": 0.6217763317817202,
+        "section_boost": 0.0,
+        "graph_score": 0.4488179677994771,
+        "final_score": 0.6417432235770644,
+        "rank": 5,
+        "concepts": [
+          "illeciti commessi in",
+          "allegato",
+          "atti od omissioni",
+          "unione europea",
+          "sono ricomprese le",
+          "stato"
+        ]
+      },
+      {
+        "chunk_id": 212,
+        "chunk_text": "300) Qualora una segnalazione avesse ad oggetto una contestazione, rivendicazione o richieste legate ad un interesse di carattere personale della persona segnalante che attengono esclusivamente ai propri rapporti individuali di lavoro ovvero con le figure gerarchicamente sovraordinate -escluse dal perimetro oggettivo di applicabilità delle tutele previste dal D. lgs 24/2023 -i  diritti,\n\nente ai p",
+        "dense_score": 0.6293785912812715,
+        "tfidf_score": 0.6249519789322517,
+        "section_boost": 0.0,
+        "graph_score": 0.543933480797735,
+        "final_score": 0.5480237263517311,
+        "rank": 6,
+        "concepts": [
+          "qualora una segnalazione",
+          "sociale conforme alla",
+          "sistema di gestione",
+          "genere",
+          "manuale sistema di",
+          "gestione",
+          "sociale",
+          "manuale del sistema"
+        ]
+      },
+      {
+        "chunk_id": 146,
+        "chunk_text": "Di seguito sono indicate le abbreviazioni utilizzate all'interno del documento. Si veda il Glossario per le definizioni di uso comune. GDPR, DEFINIZIONE = Regolamento UE 2016/679 e sm. COO, DEFINIZIONE = Chief Operating Officer. HR, DEFINIZIONE = Human Resources. RG, DEFINIZIONE = Responsabile Gerarchico. FCPC, DEFINIZIONE = Funzione di Conformità per la Prevenzione della Corruzione. HSE, DEFINIZI",
+        "dense_score": 0.6682914840169932,
+        "tfidf_score": 0.8586600040482504,
+        "section_boost": 0.05,
+        "graph_score": 0.004901470588539621,
+        "final_score": 0.5408948889389804,
+        "rank": 7,
+        "concepts": [
+          "glossario per le",
+          "regolamento ue",
+          "chief operating officer",
+          "human resources",
+          "responsabile gerarchico",
+          "funzione di",
+          "prevenzione della corruzione",
+          "health safety"
+        ]
+      },
+      {
+        "chunk_id": 203,
+        "chunk_text": "Sono ricomprese le violazioni delle norme dell'UE in materia di concorrenza e di aiuti di Stato, di imposta sulle società e i meccanismi il cui fine  è  ottenere  un  vantaggio  fiscale  che  vanifica  l'oggetto  o  la  finalità  della  normativa  applicabile  in materia di imposta sulle società (art. 2, co. 1, lett. a) n. 5). Atti  o  comportamenti  che  vanificano  l'oggetto  o  la  finalità  de",
+        "dense_score": 0.6894326501423779,
+        "tfidf_score": 0.6551034256209474,
+        "section_boost": 0.0,
+        "graph_score": 0.24819610658091182,
+        "final_score": 0.5219433090594178,
+        "rank": 8,
+        "concepts": [
+          "sono ricomprese le",
+          "stato",
+          "atti",
+          "unione  europea  nei",
+          "corte di giustizia",
+          "unione europea",
+          "tra cui",
+          "politica per la"
+        ]
+      },
+      {
+        "chunk_id": 143,
+        "chunk_text": "Lo scopo del presente documento è quello di descrivere le procedure applicate da Lutech in alcune delle diverse fasi del processo di gestione delle risorse umane. Il documento include, in particolare, i criteri di valutazione delle risorse umane, con riguardo alla definizione dei principali profili che influenzano la qualità dei servizi forniti da Lutech ed alla valutazione complessiva della loro ",
+        "dense_score": 0.6649982148057642,
+        "tfidf_score": 0.849087843816664,
+        "section_boost": 0.0,
+        "graph_score": 0.0002742142258742126,
+        "final_score": 0.5207804819124797,
+        "rank": 9,
+        "concepts": [
+          "lutech in alcune",
+          "lutech ed alla",
+          "lutech"
+        ]
+      },
+      {
+        "chunk_id": 184,
+        "chunk_text": "La presente procedura intende definire le modalità operative e le responsabilità per garantire la corretta gestione dei canali di segnalazione interna e per la corretta gestione delle eventuali segnalazioni di violazioni delle disposizioni normative o dell'Unione Europea che ledono l'interesse pubblico o privato ai sensi e per gli effetti del D. lgs 24/2023, nel rispetto di quanto previsto dalle: ",
+        "dense_score": 0.7808891392079538,
+        "tfidf_score": 0.6380319905094683,
+        "section_boost": 0.0,
+        "graph_score": 0.03343153621682169,
+        "final_score": 0.5104515600793864,
+        "rank": 10,
+        "concepts": [
+          "unione europea che",
+          "linee guida in",
+          "unione",
+          "delibera",
+          "guida operativa per",
+          "enti privati",
+          "confindustria"
+        ]
+      }
+    ],
+    "coverage_percent": 100.0
+  }
+]

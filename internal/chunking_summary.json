@@ -1,0 +1,16 @@
+{
+  "total_files": 5,
+  "total_chunks": 235,
+  "parameters": {
+    "chunk_size": 800,
+    "overlap": 200,
+    "min_chunk_size": 100
+  },
+  "files_processed": [
+    "internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt",
+    "internal_0_PO-020_v17_chunks.txt",
+    "internal_0_PSQ-025_v23_chunks.txt",
+    "internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt",
+    "internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "file": "req_SA8000_Standard2014_ITA.pdf",
+  "method": "dynamic_v2",
+  "sections": [
+    {
+      "title": "I. Introduzione",
+      "start_page": 4,
+      "end_page": 4
+    },
+    {
+      "title": "II. Elementi normativi e loro interpretazione",
+      "start_page": 5,
+      "end_page": 5
+    },
+    {
+      "title": "III. Definizioni (organizzate per ordine alfabetico o logico)",
+      "start_page": 6,
+      "end_page": 7
+    },
+    {
+      "title": "IV. Requisiti di responsabilità sociale",
+      "start_page": 8,
+      "end_page": 16
+    }
+  ]
+}

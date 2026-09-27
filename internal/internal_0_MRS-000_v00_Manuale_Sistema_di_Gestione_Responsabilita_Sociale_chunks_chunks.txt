@@ -1,0 +1,1778 @@
+CHUNKS - internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+================================================================================
+
+CHUNK 1
+----------------------------------------
+Sezione: 1.1 Scopo e Campo di Applicazione
+Livello: 2
+Pagina: 3
+Dimensione: 700 caratteri
+
+TESTO:
+Lo scopo del presente Manuale è quello di presentare il Sistema di Gestione di LUTECH per la pianificazione, esecuzione, supervisione/controllo e continuo miglioramento di tutte le attività relative alla Responsabilità Sociale (di seguito per brevità RS) presso le varie sedi aziendali di LUTECH, il tutto in maniera conforme a quanto richiesto dallo standard SA8000:2014. Poich é per l'implementazione del Sistema di Gestione per la Responsabilità Sociale (SGRS) è necessario il contributo di tutti coloro che sono coinvolti nelle attività aziendali, questo documento devessere diffuso a tutti coloro che svolgono un incarico professionale con o per conto di LUTECH, anche se solo in via temporanea.
+
+================================================================================
+
+CHUNK 2
+----------------------------------------
+Sezione: 1.2 Contesto dell'Organizzazione
+Livello: 2
+Pagina: 3
+Dimensione: 1012 caratteri
+
+TESTO:
+Il Gruppo LUTECH conta numerose società che uniscono le attività di system integration e application management a competenze di settore specializzate in ambiti tecnologici come IoT, CRM, AI, Big Data, Fintech eHealth, supportando la digital transformation dei Clienti attraverso un'offerta end -to-end. Nel 2023 il Gruppo LUTECH hacquisito Atos Italia diventando così il terzo player italiano per la digital transformation. La Mission del Gruppo LUTECH è quella di offrire tecnologia, un approccio End-to-End e competenze specifiche su soluzioni e mercato in modo dabilitare i Clienti a lavorare più facilmente, raggiungere i propri obiettivi ed evolvere il proprio business anche attraverso le tecnologie informatiche digitali. La Vision del Gruppo LUTECH è: - ❑ essere protagonistin Europa della Digital Evolution; - ❑ credere nelle proprie Persone investire neloro talento, nella loro leadership e nella loro passione; - ❑ integrare le più innovative tecnologie per offrire le migliori prestazioni ai Clienti.
+
+CONTESTO PRECEDENTE:
+iche su soluzioni e mercato in modo dabilitare i Clienti a lavorare più facilmente, raggiungere i propri obiettivi ed evolvere il proprio business anche attraverso le tecnologie informatiche digitali.
+
+CONTESTO SUCCESSIVO:
+Il Gruppo LUTECH opera con competenze distintive su mercati verticali, offrendo prodotti proprietari, servizi digitalinnovativi e soluzioni tecnologiche di ultima generazione, garantendo un esclusivo 
+
+================================================================================
+
+CHUNK 3
+----------------------------------------
+Sezione: 1.2 Contesto dell'Organizzazione
+Livello: 2
+Pagina: 3
+Dimensione: 645 caratteri
+
+TESTO:
+La Vision del Gruppo LUTECH è: - ❑ essere protagonistin Europa della Digital Evolution; - ❑ credere nelle proprie Persone investire neloro talento, nella loro leadership e nella loro passione; - ❑ integrare le più innovative tecnologie per offrire le migliori prestazioni ai Clienti. Il Gruppo LUTECH opera con competenze distintive su mercati verticali, offrendo prodotti proprietari, servizi digitalinnovativi e soluzioni tecnologiche di ultima generazione, garantendo un esclusivo approccio end-to-end. I mercati di riferimento sono: - ❑ Financial Services & Insurance; - ❑ Public Service & Healthcare; - ❑ Telecom & Media; - ❑ Manufacturing;
+
+================================================================================
+
+CHUNK 4
+----------------------------------------
+Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 4,13,19,21,24,26,29
+Dimensione: 1856 caratteri
+
+TESTO:
+- ❑ Energy, Utilities & Transportation; - ❑ Fashion, Retail & Travel. Unendo competenze tecnologiche innovative ad un'ampia conoscenza dei mercati, il Gruppo LUTECH è in grado di offrire ai propri Clienti le seguenti linee di offerta: LUTECHCONSULTING LUTECHSOLUTIONS LUTECHDIGITALUTECHCYBERSECURITY LUTECHSERVICES LUTECHCLOUD - ❑ LUTECH Consulting : specializzata nella gestione dei programmi di trasformazione digitalend-to-end e di miglioramento delle performance aziendali - ❑ LUTECH Solutions : offerta di soluzioni e prodotti proprietari per lesigenze caratteristiche distintive di ogni Industry. La conoscenza dei processi specifici di ogni settore dei bisogni daffrontare sono alla base delle analisi e degli sviluppi di prodotto - ❑ LUTECH Digital : supporto ai Clienti top nazionali per dare valore a dati, prodotti e performance aziendali, per costruire un percorso di digital transformation a supporto del business - ❑ LUTECH Cybersecurity : specializzata nella realizzazione di progettin contesti business critical, eterogenei e complessi, dando supporto come Trusted Advisor nella scelta delle migliori soluzioni dadottare in funzione dello specifico contestoperativo per garantire la difesa del patrimonio informativo, delle persone, degli asset e dei brandalle crescenti minacce del mondo cyber - ❑ LUTECH Services : fornisce un ampio catalogo di servizi flessibili, modulabili e totalmente personalizzabili sulla base delle necessità del Cliente - ❑ LUTECH Cloud: specializzata nella progettazione, realizzazione, messa in sicurezza e gestione di soluzioni di Hybrid Cloud, individua
+
+lmente personalizzabili sulla base delle necessità del Cliente - ❑ LUTECH Cloud: specializzata nella progettazione, realizzazione, messa in sicurezza e gestione di soluzioni di Hybrid Cloud, individuando le architetture più agili, scalabili e resilienti.
+
+CONTESTO PRECEDENTE:
+ormazione digitalend-to-end e di miglioramento delle performance aziendali - ❑ LUTECH Solutions : offerta di soluzioni e prodotti proprietari per lesigenze caratteristiche distintive di ogni Industry.
+
+CONTESTO SUCCESSIVO:
+Il Gruppo LUTECH ha sedin tutta Italia ed un'ampia presenza internazionale. Le competenze tecnologiche, la solida esperienzaziendale le referenze acquisite collocano LUTECH tra le aziende leader in It
+
+================================================================================
+
+CHUNK 5
+----------------------------------------
+Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 4,13,19,21,24,26,29
+Dimensione: 1329 caratteri
+
+TESTO:
+La conoscenza dei processi specifici di ogni settore dei bisogni daffrontare sono alla base delle analisi e degli sviluppi di prodotto - ❑ LUTECH Digital : supporto ai Clienti top nazionali per dare valore a dati, prodotti e performance aziendali, per costruire un percorso di digital transformation a supporto del business - ❑ LUTECH Cybersecurity : specializzata nella realizzazione di progettin contesti business critical, eterogenei e complessi, dando supporto come Trusted Advisor nella scelta delle migliori soluzioni dadottare in funzione dello specifico contestoperativo per garantire la difesa del patrimonio informativo, delle persone, degli asset e dei brandalle crescenti minacce del mondo cyber - ❑ LUTECH Services : fornisce un ampio catalogo di servizi flessibili, modulabili e totalmente personalizzabili sulla base delle necessità del Cliente - ❑ LUTECH Cloud: specializzata nella progettazione, realizzazione, messa in sicurezza e gestione di soluzioni di Hybrid Cloud, individua
+
+lmente personalizzabili sulla base delle necessità del Cliente - ❑ LUTECH Cloud: specializzata nella progettazione, realizzazione, messa in sicurezza e gestione di soluzioni di Hybrid Cloud, individuando le architetture più agili, scalabili e resilienti. Il Gruppo LUTECH ha sedin tutta Italia ed un'ampia presenza internazionale.
+
+CONTESTO PRECEDENTE:
+ Cliente - ❑ LUTECH Cloud: specializzata nella progettazione, realizzazione, messa in sicurezza e gestione di soluzioni di Hybrid Cloud, individuando le architetture più agili, scalabili e resilienti.
+
+CONTESTO SUCCESSIVO:
+Le competenze tecnologiche, la solida esperienzaziendale le referenze acquisite collocano LUTECH tra le aziende leader in Italia nel settore ICT. LUTECH Spa (di seguito solo LUTECH) - società a capo d
+
+================================================================================
+
+CHUNK 6
+----------------------------------------
+Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 4,13,19,21,24,26,29
+Dimensione: 979 caratteri
+
+TESTO:
+Il Gruppo LUTECH ha sedin tutta Italia ed un'ampia presenza internazionale. Le competenze tecnologiche, la solida esperienzaziendale le referenze acquisite collocano LUTECH tra le aziende leader in Italia nel settore ICT. LUTECH Spa (di seguito solo LUTECH) - società a capo del Gruppo LUTECH - fornisce servizi di alta qualità assicurando la conformità con leggi e regolamenti e le principali normative internazionali: ISO 9001, ISO 20000-1, ISO 27001, ISO 37001, ISO 14001, ISO 14064-1 e ISO 45001. A novembre 2022 LUTECH ha pubblicato il suo primo bilancio di sostenibilità, uno strumento imprescindibile, sia per tenere conto a livello sociale ambientale dell'impatto di LUTECH sulla comunità e sull'ecosistema sia per massimizzare le opportunità di business. Codice documento MRS-000 - ❑ adottare criteri di merito e di competenza per qualunque decisione relativad un lavoratore - ❑ adoperarsi per garantire un ambiente di lavoro nel quale non si sviluppino discriminazioni.
+
+CONTESTO PRECEDENTE:
+sostenibilità, uno strumento imprescindibile, sia per tenere conto a livello sociale ambientale dell'impatto di LUTECH sulla comunità e sull'ecosistema sia per massimizzare le opportunità di business.
+
+CONTESTO SUCCESSIVO:
+Codice documento MRS-000 Versione 00 - ❑ siano controllati relativi cambiamenti (per esempio dal controllo delle versioni) - ❑ siano conservated eliminate. La procedura PSQ-001 Gestione delle informaz
+
+================================================================================
+
+CHUNK 7
+----------------------------------------
+Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 4,13,19,21,24,26,29
+Dimensione: 804 caratteri
+
+TESTO:
+Codice documento MRS-000 - ❑ adottare criteri di merito e di competenza per qualunque decisione relativad un lavoratore - ❑ adoperarsi per garantire un ambiente di lavoro nel quale non si sviluppino discriminazioni. Codice documento MRS-000 Versione 00 - ❑ siano controllati relativi cambiamenti (per esempio dal controllo delle versioni) - ❑ siano conservated eliminate. La procedura PSQ-001 Gestione delle informazioni documentate definisce le modalità di controllo necessarie per l'identificazione, l'archiviazione, la protezione, il reperimento, la conservazione l'eliminazione
+
+ura PSQ-001 Gestione delle informazioni documentate definisce le modalità di controllo necessarie per l'identificazione, l'archiviazione, la protezione, il reperimento, la conservazione l'eliminazione delle registrazioni.
+
+CONTESTO PRECEDENTE:
+nel quale non si sviluppino discriminazioni. Codice documento MRS-000 Versione 00 - ❑ siano controllati relativi cambiamenti (per esempio dal controllo delle versioni) - ❑ siano conservated eliminate.
+
+CONTESTO SUCCESSIVO:
+Le modalità applicate sono specificate in DIS-005 Criteri di Conservazione Documenti e Registrazioni . Le informazioni di originesterna, che l'organizzazione ritiene necessarie per il SGRS, sono ident
+
+================================================================================
+
+CHUNK 8
+----------------------------------------
+Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 4,13,19,21,24,26,29
+Dimensione: 875 caratteri
+
+TESTO:
+La procedura PSQ-001 Gestione delle informazioni documentate definisce le modalità di controllo necessarie per l'identificazione, l'archiviazione, la protezione, il reperimento, la conservazione l'eliminazione
+
+ura PSQ-001 Gestione delle informazioni documentate definisce le modalità di controllo necessarie per l'identificazione, l'archiviazione, la protezione, il reperimento, la conservazione l'eliminazione delle registrazioni. Le modalità applicate sono specificate in DIS-005 Criteri di Conservazione Documenti e Registrazioni . Le informazioni di originesterna, che l'organizzazione ritiene necessarie per il SGRS, sono identificate controllate nella DIS-000 Elenco documenti di originesterna e al paragrafo 2 Elementi normativi e loro interpretazione del presente documento. Codice documento MRS-000 Versione 00 Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = INF-905.
+
+CONTESTO PRECEDENTE:
+zazione ritiene necessarie per il SGRS, sono identificate controllate nella DIS-000 Elenco documenti di originesterna e al paragrafo 2 Elementi normativi e loro interpretazione del presente documento.
+
+CONTESTO SUCCESSIVO:
+Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = Informativa salute sicurezza smartworking - lavoro agile. Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = LG-900.
+
+================================================================================
+
+CHUNK 9
+----------------------------------------
+Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 4,13,19,21,24,26,29
+Dimensione: 811 caratteri
+
+TESTO:
+Codice documento MRS-000 Versione 00 Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = INF-905. Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = Informativa salute sicurezza smartworking - lavoro agile. Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = LG-900. Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = Linee Guida Smart Working-Salute Sicurezza sul Lavoro Le responsabilità, glinput e gli output dei processi e le correlazioni tra di essi sonopportunamente specificati nelle procedure che li descrivono. Codice documento MRS-000 Versione 00 Per quanto riguarda invece Il processo in generale sopra descritto, questo è ampiamente formalizzato nella Informazione Documentata 'PSQ -021 Misurazione Miglioramento Continuo' . L'Azienda conservappropriate Informazioni Documentate comevidenza dei risultati di monitoraggio.
+
+CONTESTO PRECEDENTE:
+ MRS-000 Versione 00 Per quanto riguarda invece Il processo in generale sopra descritto, questo è ampiamente formalizzato nella Informazione Documentata 'PSQ -021 Misurazione Miglioramento Continuo' .
+
+CONTESTO SUCCESSIVO:
+Si vedano infatti: - o glindicatori periodici calcolati, vedi 'KPI -000 Elenco Key Performance Indicator' e 'KPI -001 Elenco KPI SA8000' - o registrazioni di audit, analisi, etc., archiviate in 'TOO -
+
+================================================================================
+
+CHUNK 10
+----------------------------------------
+Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 4,13,19,21,24,26,29
+Dimensione: 1149 caratteri
+
+TESTO:
+L'Azienda conservappropriate Informazioni Documentate comevidenza dei risultati di monitoraggio. Si vedano infatti: - o glindicatori periodici calcolati, vedi 'KPI -000 Elenco Key Performance Indicator' e 'KPI -001 Elenco KPI SA8000' - o registrazioni di audit, analisi, etc., archiviate in 'TOO -040 Repository 
+
+ti: - o glindicatori periodici calcolati, vedi 'KPI -000 Elenco Key Performance Indicator' e 'KPI -001 Elenco KPI SA8000' - o registrazioni di audit, analisi, etc., archiviate in 'TOO -040 Repository Gruppo Compliance' - o KPI calcolatin automatico dal tool web 'TOO -044 Gestione Attività Compliance' - o 'Rapporto Annuale sui Sistemi di Gestione' - o le analisi periodiche fatte da HSE Office sugli Infortuni/Incidenti/Near-Miss. Codice documento MRS-000 Versione 00 - o informazioni di vitaziendale - o procedure organizzative - o report sui risultati degli audit interni, suglindicatori, sulla soddisfazione dei Clienti - ❑ NEWSLETTERS/ LUTECH ALL HANDS L'Organizzazione periodicamente invia delle newsletter che riportano le informazioni di maggiorilevanza su cambi organizzativi, partecipazione a forum e congressi, acquisizioni.
+
+CONTESTO PRECEDENTE:
+olatin automatico dal tool web 'TOO -044 Gestione Attività Compliance' - o 'Rapporto Annuale sui Sistemi di Gestione' - o le analisi periodiche fatte da HSE Office sugli Infortuni/Incidenti/Near-Miss.
+
+CONTESTO SUCCESSIVO:
+Nell'ambito della condivisione delle informazioni sono presenti delle newsletter dedicate a tematiche specifiche quali: - o Tematiche ESG e Compliance - o Tematiche HSE - o Newsletter con le quali a D
+
+================================================================================
+
+CHUNK 11
+----------------------------------------
+Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 4,13,19,21,24,26,29
+Dimensione: 958 caratteri
+
+TESTO:
+Codice documento MRS-000 Versione 00 - o informazioni di vitaziendale - o procedure organizzative - o report sui risultati degli audit interni, suglindicatori, sulla soddisfazione dei Clienti - ❑ NEWSLETTERS/ LUTECH ALL HANDS L'Organizzazione periodicamente invia delle newsletter che riportano le informazioni di maggiorilevanza su cambi organizzativi, partecipazione a forum e congressi, acquisizioni. Nell'ambito della condivisione delle informazioni sono presenti delle newsletter dedicate a tematiche specifiche quali: - o Tematiche ESG e Compliance - o Tematiche HSE - o Newsletter con le quali a Direzione condivide informazioni ed obiettivi con il personale - o PROUD TO BE LUTECH per tematiche relative al wellbeing ed inclusività - [ ] ❑ COMMUNITY INTERNE Sulla piattaforma YAMMER sono state create delle community per dare modo a dipendenti dinteragire su tematiche dinteresse comune (es: cybersecurity, inclusività, sport, tematiche tecnichecc…).
+
+CONTESTO PRECEDENTE:
+TERS/ LUTECH ALL HANDS L'Organizzazione periodicamente invia delle newsletter che riportano le informazioni di maggiorilevanza su cambi organizzativi, partecipazione a forum e congressi, acquisizioni.
+
+CONTESTO SUCCESSIVO:
+Altri strumenti/strutture disponibili per la comunicazione interna sono: - [ ] ❑ posta elettronica; - [ ] ❑ applicazioni specifiche; - [ ] ❑ share di rete; - [ ] ❑ sale riunioni attrezzate; - [ ] ❑ ac
+
+================================================================================
+
+CHUNK 12
+----------------------------------------
+Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 4,13,19,21,24,26,29
+Dimensione: 1007 caratteri
+
+TESTO:
+Nell'ambito della condivisione delle informazioni sono presenti delle newsletter dedicate a tematiche specifiche quali: - o Tematiche ESG e Compliance - o Tematiche HSE - o Newsletter con le quali a Direzione condivide informazioni ed obiettivi con il personale - o PROUD TO BE LUTECH per tematiche relative al wellbeing ed inclusività - [ ] ❑ COMMUNITY INTERNE Sulla piattaforma YAMMER sono state create delle community per dare modo a dipendenti dinteragire su tematiche dinteresse comune (es: cybersecurity, inclusività, sport, tematiche tecnichecc…). Altri strumenti/strutture disponibili per la comunicazione interna sono: - [ ] ❑ posta elettronica; - [ ] ❑ applicazioni specifiche; - [ ] ❑ share di rete; - [ ] ❑ sale riunioni attrezzate; - [ ] ❑ account soc
+
+umenti/strutture disponibili per la comunicazione interna sono: - [ ] ❑ posta elettronica; - [ ] ❑ applicazioni specifiche; - [ ] ❑ share di rete; - [ ] ❑ sale riunioni attrezzate; - [ ] ❑ account social aziendali; - [ ] ❑ eventin streaming.
+
+CONTESTO PRECEDENTE:
+INTERNE Sulla piattaforma YAMMER sono state create delle community per dare modo a dipendenti dinteragire su tematiche dinteresse comune (es: cybersecurity, inclusività, sport, tematiche tecnichecc…).
+
+CONTESTO SUCCESSIVO:
+Inoltre, LUTECH comunicall'esterno informazioni pertinenti al Sistema di Gestione per la RS, come stabilito dai processi di comunicazione aziendali e tenendo in considerazione i propri Requisiti Legal
+
+================================================================================
+
+CHUNK 13
+----------------------------------------
+Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 4,13,19,21,24,26,29
+Dimensione: 987 caratteri
+
+TESTO:
+Altri strumenti/strutture disponibili per la comunicazione interna sono: - [ ] ❑ posta elettronica; - [ ] ❑ applicazioni specifiche; - [ ] ❑ share di rete; - [ ] ❑ sale riunioni attrezzate; - [ ] ❑ account soc
+
+umenti/strutture disponibili per la comunicazione interna sono: - [ ] ❑ posta elettronica; - [ ] ❑ applicazioni specifiche; - [ ] ❑ share di rete; - [ ] ❑ sale riunioni attrezzate; - [ ] ❑ account social aziendali; - [ ] ❑ eventin streaming. Inoltre, LUTECH comunicall'esterno informazioni pertinenti al Sistema di Gestione per la RS, come stabilito dai processi di comunicazione aziendali e tenendo in considerazione i propri Requisiti Legali e Altri Requisiti. Per fare ciò, la comunicazionesterna è svoltattraverso il Sito Istituzionale (Sezione Responsabilità) e i social (LinkedIn, Instagram, Facebook e Twitter), tramite campagne di marketing, partecipazione ad eventi del settore, iscrizione/compilazione di portali dedicati alla materia del presente manuale, PEC, etc.
+
+CONTESTO PRECEDENTE:
+nicall'esterno informazioni pertinenti al Sistema di Gestione per la RS, come stabilito dai processi di comunicazione aziendali e tenendo in considerazione i propri Requisiti Legali e Altri Requisiti.
+
+CONTESTO SUCCESSIVO:
+Codice documento MRS-000 Versione 00 Inoltre, è stato definito un piano di formazione per tutto il personale, al fine di garantire l'efficace applicazione della norma SA8000, anche in base ai risultat
+
+================================================================================
+
+CHUNK 14
+----------------------------------------
+Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 4,13,19,21,24,26,29
+Dimensione: 580 caratteri
+
+TESTO:
+Per fare ciò, la comunicazionesterna è svoltattraverso il Sito Istituzionale (Sezione Responsabilità) e i social (LinkedIn, Instagram, Facebook e Twitter), tramite campagne di marketing, partecipazione ad eventi del settore, iscrizione/compilazione di portali dedicati alla materia del presente manuale, PEC, etc. Codice documento MRS-000 Versione 00 Inoltre, è stato definito un piano di formazione per tutto il personale, al fine di garantire l'efficace applicazione della norma SA8000, anche in base ai risultati delle valutazioni dei rischi e ai risultati degli audit interni.
+
+================================================================================
+
+CHUNK 15
+----------------------------------------
+Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 5,12,15,20,22,27
+Dimensione: 871 caratteri
+
+TESTO:
+Codice documento MRS-000 Versione 00 LUTECH investe fortemente in partnership con i principali player del mercato ICT, adottando un approccio strategico costruito suna visione coordinata del mercato e mirato a veicolare soluzioni competitived innovative, ampliando ulteriormente il proprio portfolio Servizi. Oltre alle certificazioni e partnership aziendali, LUTECH opera un programma qualificato di formazione certificazione delle proprie Risorse, coprendo sia l'ambito prettamente tecnologico (conumerose certificazioni correlate ai vendor sopra citati) sia l' ambito di IT Governance, conumerose risorse certificate nei principali framework metodologici. Codice documento MRS-000 Versione 00 Garantisce, inoltre, che i rappresentanti dei lavoratori non siano soggetti a discriminazione che tali rappresentanti possano comunicare con i propriscritti neluogo di lavoro.
+
+CONTESTO PRECEDENTE:
+ sia l'ambito prettamente tecnologico (conumerose certificazioni correlate ai vendor sopra citati) sia l' ambito di IT Governance, conumerose risorse certificate nei principali framework metodologici.
+
+CONTESTO SUCCESSIVO:
+LUTECH applica nella conduzione dei rapporti contrattuali con tutti propri collaboratori le linee di gestione definite nei CCNL e negli eventuali contratti di secondo livello, tutte le prescrizioni st
+
+================================================================================
+
+CHUNK 16
+----------------------------------------
+Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 5,12,15,20,22,27
+Dimensione: 919 caratteri
+
+TESTO:
+Codice documento MRS-000 Versione 00 Garantisce, inoltre, che i rappresentanti dei lavoratori non siano soggetti a discriminazione che tali rappresentanti possano comunicare con i propriscritti neluogo di lavoro. LUTECH applica nella conduzione dei rapporti contrattuali con tutti propri collaboratori le linee di gestione definite nei CCNL e negli eventuali contratti di secondo livello, tutte le prescrizioni stabilite dalla legislazione cogente applicabile in merito ai rapporti contrattuali con i dipendenti e collaboratori. LUTECH sostieneventuali momenti di riunione del personale, qualora il personale stesso ne faccia esplicita domanda, a condizione che la domanda venga inoltrata in tempi che consentano all'Organizzazione la gestione delle normali attività lavorative. Nel corso di tali riunioni non partecipano rappresentanti della direzione aziendale a meno che il personale none faccia esplicita richiesta.
+
+CONTESTO PRECEDENTE:
+ersonale, qualora il personale stesso ne faccia esplicita domanda, a condizione che la domanda venga inoltrata in tempi che consentano all'Organizzazione la gestione delle normali attività lavorative.
+
+CONTESTO SUCCESSIVO:
+ganizzazione la gestione delle normali attività lavorative. Nel corso di tali riunioni non partecipano rappresentanti della direzione aziendale a meno che il personale none faccia esplicita richiesta.
+
+================================================================================
+
+CHUNK 17
+----------------------------------------
+Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 5,12,15,20,22,27
+Dimensione: 829 caratteri
+
+TESTO:
+Nel corso di tali riunioni non partecipano rappresentanti della direzione aziendale a meno che il personale none faccia esplicita richiesta. ganizzazione la gestione delle normali attività lavorative. Nel corso di tali riunioni non partecipano rappresentanti della direzione aziendale a meno che il personale none faccia esplicita richiesta. Codice documento MRS-000 Versione 00 recepire talinformazioni ed attivarsi per approfondirle in modo tale dattuare le opportune azioni di rimedio e/o correttive. Per il calcolo della retribuzione dei dipendenti ci si attiene ai seguenti elementi - [ ] ❑ tipo di contratto (determinato / indeterminato / a progetto) - [ ] ❑ collocazione (mansioni da ricoprire / curriculum vitae) - [ ] ❑ prescrizioni del CCNL e documentazione cogente applicabile in materia contrattuale con i lavoratori.
+
+CONTESTO PRECEDENTE:
+onale none faccia esplicita richiesta. Codice documento MRS-000 Versione 00 recepire talinformazioni ed attivarsi per approfondirle in modo tale dattuare le opportune azioni di rimedio e/o correttive.
+
+CONTESTO SUCCESSIVO:
+L'Azienda garantisce che le trattenute sul salario non siano dovute a scopi disciplinari. Eccezioni a tale regola si applicano solo in due casi: - [ ] ❑ Trattenute sul salario a scopo disciplinare per
+
+================================================================================
+
+CHUNK 18
+----------------------------------------
+Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 5,12,15,20,22,27
+Dimensione: 909 caratteri
+
+TESTO:
+Per il calcolo della retribuzione dei dipendenti ci si attiene ai seguenti elementi - [ ] ❑ tipo di contratto (determinato / indeterminato / a progetto) - [ ] ❑ collocazione (mansioni da ricoprire / curriculum vitae) - [ ] ❑ prescrizioni del CCNL e documentazione cogente applicabile in materia contrattuale con i lavoratori. L'Azienda garantisce che le trattenute sul salario non siano dovute a scopi disciplinari. Eccezioni a tale regola si applicano solo in due casi: - [ ] ❑ Trattenute sul salario a scopo disciplinare permesse dalla legge nazionale - [ ] ❑ È in vigore un accordo derivante dalla libera contrattazione collettiva. Tutto ilavoro straordinario è retribuito con una maggiorazione come definito dai CCNL di riferimento. Le buste paga sono rese disponibilin formato elettronico da Human Resource gli stipendi sono accreditati a mezzo bonifico bancario con valuta dell'ultimo giorno lavorativo.
+
+CONTESTO PRECEDENTE:
+a legge nazionale - [ ] ❑ È in vigore un accordo derivante dalla libera contrattazione collettiva. Tutto ilavoro straordinario è retribuito con una maggiorazione come definito dai CCNL di riferimento.
+
+CONTESTO SUCCESSIVO:
+Codice documento MRS-000 Versione 00 - ❑ opportunità per migliorare l'integrazione del Sistema di Gestione per la RS con altri processi di business - ❑ qualsiasimplicazione per glindirizzi strategici 
+
+================================================================================
+
+CHUNK 19
+----------------------------------------
+Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 5,12,15,20,22,27
+Dimensione: 815 caratteri
+
+TESTO:
+Le buste paga sono rese disponibilin formato elettronico da Human Resource gli stipendi sono accreditati a mezzo bonifico bancario con valuta dell'ultimo giorno lavorativo. Codice documento MRS-000 Versione 00 - ❑ opportunità per migliorare l'integrazione del Sistema di Gestione per la RS con altri processi di business - ❑ qualsiasimplicazione per glindirizzi strategici dell'azienda. La Direzione comunica i risultati rilevanti del riesame di direzione ai lavoratori, tramite riunioni periodiche c
+
+processi di business - ❑ qualsiasimplicazione per glindirizzi strategici dell'azienda. La Direzione comunica i risultati rilevanti del riesame di direzione ai lavoratori, tramite riunioni periodiche con il SPT. L'Azienda conserva Informazioni Documentate di ogni riesame di direzione comevidenze di tale processo.
+
+CONTESTO PRECEDENTE:
+i business - ❑ qualsiasimplicazione per glindirizzi strategici dell'azienda. La Direzione comunica i risultati rilevanti del riesame di direzione ai lavoratori, tramite riunioni periodiche con il SPT.
+
+CONTESTO SUCCESSIVO:
+Quanto sopra descritto è formalizzato all'interno della 'PSQ -021 Misurazione Miglioramento Continuo' . Codice documento MRS-000 Versione 00 procedura PSQ-000H Struttura Organizzativa: Salute Sicurezz
+
+================================================================================
+
+CHUNK 20
+----------------------------------------
+Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 5,12,15,20,22,27
+Dimensione: 1019 caratteri
+
+TESTO:
+L'Azienda conserva Informazioni Documentate di ogni riesame di direzione comevidenze di tale processo. Quanto sopra descritto è formalizzato all'interno della 'PSQ -021 Misurazione Miglioramento Continuo' . Codice documento MRS-000 Versione 00 procedura PSQ-000H Struttura Organizzativa: Salute Sicurezza sul Lavoro , ai quali si rimanda per ulteriori dettagli. Codice documento MRS-000 Versione 00 - ❑ via posta ordinaria inviando una lettera indirizzatal Chief People Officer e/o al Chief Compliance Officer; - [ ] ❑ piattaforma LUTECH di Whistleblowing (dove è previstanche la formanonima) (vedi link) Il reclamo può essere inviato da tutte le partinteressate, compresi lavoratori, anche a: - [ ] ❑ Organismo di Certificazione -mail: info@ciseonweb.it - [ ] ❑ SAAS -mail: saas@saasaccreditation.org Per i dettagli sulle modalità dindagine, gestione comunicazione dei risultati si applica quanto previsto dalla politica PSQ-501 Politica whistleblowing - Gestione delle Segnalazioni di eventuali fattilleciti ex D.lgs.
+
+CONTESTO PRECEDENTE:
+SQ -021 Misurazione Miglioramento Continuo' . Codice documento MRS-000 Versione 00 procedura PSQ-000H Struttura Organizzativa: Salute Sicurezza sul Lavoro , ai quali si rimanda per ulteriori dettagli.
+
+CONTESTO SUCCESSIVO:
+24/2023, mentre per una trattazione più generale sulla gestione dei reclami si rimandal documento PSQ-007 Gestione Non Conformità e Reclami .
+
+================================================================================
+
+CHUNK 21
+----------------------------------------
+Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 5,12,15,20,22,27
+Dimensione: 799 caratteri
+
+TESTO:
+Codice documento MRS-000 Versione 00 - ❑ via posta ordinaria inviando una lettera indirizzatal Chief People Officer e/o al Chief Compliance Officer; - [ ] ❑ piattaforma LUTECH di Whistleblowing (dove è previstanche la formanonima) (vedi link) Il reclamo può essere inviato da tutte le partinteressate, compresi lavoratori, anche a: - [ ] ❑ Organismo di Certificazione -mail: info@ciseonweb.it - [ ] ❑ SAAS -mail: saas@saasaccreditation.org Per i dettagli sulle modalità dindagine, gestione comunicazione dei risultati si applica quanto previsto dalla politica PSQ-501 Politica whistleblowing - Gestione delle Segnalazioni di eventuali fattilleciti ex D.lgs. 24/2023, mentre per una trattazione più generale sulla gestione dei reclami si rimandal documento PSQ-007 Gestione Non Conformità e Reclami .
+
+CONTESTO PRECEDENTE:
+lle modalità dindagine, gestione comunicazione dei risultati si applica quanto previsto dalla politica PSQ-501 Politica whistleblowing - Gestione delle Segnalazioni di eventuali fattilleciti ex D.lgs.
+
+================================================================================
+
+CHUNK 22
+----------------------------------------
+Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+Livello: 2
+Pagina: 5,12,15,20,22,27
+Dimensione: 141 caratteri
+
+TESTO:
+24/2023, mentre per una trattazione più generale sulla gestione dei reclami si rimandal documento PSQ-007 Gestione Non Conformità e Reclami .
+
+================================================================================
+
+CHUNK 23
+----------------------------------------
+Sezione: 1.2.1 Comprendere l'Organizzazione il suo Contesto
+Livello: 3
+Pagina: 5
+Dimensione: 988 caratteri
+
+TESTO:
+LUTECH ha definito e rivede costantemente i fattorinterni ed esterni -pertinenti e rilevanti per le sue finalità e i suoi obiettivi- relativi alla Responsabilità Sociale, con particolare attenzione a quelli che possono permettere di evitare pericoli e/o ridurre i rischi per i lavoratori. Sono state individuate le seguenti aree, per ognuna di esse, i fattori che possono influire sulla Responsabilità Sociale: RISORSE UMANE, FATTORI NTERNI = ❑ Consapevolezza delle risorse interne/esterne del proprio ruolo e delle proprie responsabilità nella gestione della Salute Sicurezza sul Lavoro ❑ Comprensione delle ovvie conseguenze derivanti dal presentarsi dinfortuni sul posto di lavoro ❑ Conoscenza processi aziendali ❑ Esperienza professionale ❑ Realizzazione professionale prospettive di crescita ❑ Accesso a percorsi di formazione ❑ Cultura e valori aziendali ❑ Certificazioni personali ❑ Soddisfazioneconomica ❑ adeguate ❑ Accesso ❑ Condizioni di ❑ Normativa lavoro, ❑ Norme Autorità ❑.
+
+CONTESTO PRECEDENTE:
+anti per le sue finalità e i suoi obiettivi- relativi alla Responsabilità Sociale, con particolare attenzione a quelli che possono permettere di evitare pericoli e/o ridurre i rischi per i lavoratori.
+
+CONTESTO SUCCESSIVO:
+RISORSE UMANE, FATTORI ESTERNI = Disponibilità risorse con competenze all'assunzione a finanziamenti per contratti di assunzione per formazione medie retributive, contrattuali e crescita dei competito
+
+================================================================================
+
+CHUNK 24
+----------------------------------------
+Sezione: 1.2.1 Comprendere l'Organizzazione il suo Contesto
+Livello: 3
+Pagina: 5
+Dimensione: 1072 caratteri
+
+TESTO:
+Sono state individuate le seguenti aree, per ognuna di esse, i fattori che possono influire sulla Responsabilità Sociale: RISORSE UMANE, FATTORI NTERNI = ❑ Consapevolezza delle risorse interne/esterne del proprio ruolo e delle proprie responsabilità nella gestione della Salute Sicurezza sul Lavoro ❑ Comprensione delle ovvie conseguenze derivanti dal presentarsi dinfortuni sul posto di lavoro ❑ Conoscenza processi aziendali ❑ Esperienza professionale ❑ Realizzazione professionale prospettive di crescita ❑ Accesso a percorsi di formazione ❑ Cultura e valori aziendali ❑ Certificazioni personali ❑ Soddisfazioneconomica ❑ adeguate ❑ Accesso ❑ Condizioni di ❑ Normativa lavoro, ❑ Norme Autorità ❑. RISORSE UMANE, FATTORI ESTERNI = Disponibilità risorse con competenze all'assunzione a finanziamenti per contratti di assunzione per formazione medie retributive, contrattuali e crescita dei competitor giuslavoristica (contratti di statuto dei lavoratori, etc.) (anche provvisorie) emesse dalle per la gestione di situazioni di emergenza Emergenza sanitaria e/o pandemica.
+
+CONTESTO PRECEDENTE:
+crescita ❑ Accesso a percorsi di formazione ❑ Cultura e valori aziendali ❑ Certificazioni personali ❑ Soddisfazioneconomica ❑ adeguate ❑ Accesso ❑ Condizioni di ❑ Normativa lavoro, ❑ Norme Autorità ❑.
+
+CONTESTO SUCCESSIVO:
+ali e crescita dei competitor giuslavoristica (contratti di statuto dei lavoratori, etc.) (anche provvisorie) emesse dalle per la gestione di situazioni di emergenza Emergenza sanitaria e/o pandemica.
+
+================================================================================
+
+CHUNK 25
+----------------------------------------
+Sezione: 1.2.1 Comprendere l'Organizzazione il suo Contesto
+Livello: 3
+Pagina: 5
+Dimensione: 943 caratteri
+
+TESTO:
+RISORSE UMANE, FATTORI ESTERNI = Disponibilità risorse con competenze all'assunzione a finanziamenti per contratti di assunzione per formazione medie retributive, contrattuali e crescita dei competitor giuslavoristica (contratti di statuto dei lavoratori, etc.) (anche provvisorie) emesse dalle per la gestione di situazioni di emergenza Emergenza sanitaria e/o pandemica. ali e crescita dei competitor giuslavoristica (contratti di statuto dei lavoratori, etc.) (anche provvisorie) emesse dalle per la gestione di situazioni di emergenza Emergenza sanitaria e/o pandemica. FATTORI ECONOMICI, FATTORI NTERNI = ❑ Capacità di attrarre trattenere talenti ❑ Investimentinterni ❑ Costo delle risorse ❑ Penali derivanti dai servizi erogati ❑ Necessità di risorse finanziarie per alimentare la crescita ❑ Accesso al credito ❑ Presenza di competitor nell'accesso risorse ❑ Cambio Dollaro/Euro ❑ Tempi di pagamento da parte dei ❑ Finanziamenti esterni.
+
+CONTESTO PRECEDENTE:
+ali e crescita dei competitor giuslavoristica (contratti di statuto dei lavoratori, etc.) (anche provvisorie) emesse dalle per la gestione di situazioni di emergenza Emergenza sanitaria e/o pandemica.
+
+CONTESTO SUCCESSIVO:
+FATTORI ECONOMICI, FATTORI ESTERNI = alle Clienti.. EVOLUZIONE ORGANIZZAZIONE, FATTORI NTERNI = ❑ Acquisizione di nuove aziende ❑ Integrazione nel gruppo delle diverse aziende ❑ Condivisione risorse, 
+
+================================================================================
+
+CHUNK 26
+----------------------------------------
+Sezione: 1.2.1 Comprendere l'Organizzazione il suo Contesto
+Livello: 3
+Pagina: 5
+Dimensione: 826 caratteri
+
+TESTO:
+FATTORI ECONOMICI, FATTORI NTERNI = ❑ Capacità di attrarre trattenere talenti ❑ Investimentinterni ❑ Costo delle risorse ❑ Penali derivanti dai servizi erogati ❑ Necessità di risorse finanziarie per alimentare la crescita ❑ Accesso al credito ❑ Presenza di competitor nell'accesso risorse ❑ Cambio Dollaro/Euro ❑ Tempi di pagamento da parte dei ❑ Finanziamenti esterni. FATTORI ECONOMICI, FATTORI ESTERNI = alle Clienti.. EVOLUZIONE ORGANIZZAZIONE, FATTORI NTERNI = ❑ Acquisizione di nuove aziende ❑ Integrazione nel gruppo delle diverse aziende ❑ Condivisione risorse, cultura e valori aziendali ❑ Opportunità di Cross-Selling ❑ Nuovi requisiti ❑ Nuovi mercati ❑ Nuovi Clienti ❑ Nuovi competitor. EVOLUZIONE ORGANIZZAZIONE, FATTORI ESTERNI = e vincoli a cui ottemperare.. COMPLIANCE, FATTORI NTERNI = ❑ Sistemi di Gestione ❑.
+
+CONTESTO PRECEDENTE:
+ltura e valori aziendali ❑ Opportunità di Cross-Selling ❑ Nuovi requisiti ❑ Nuovi mercati ❑ Nuovi Clienti ❑ Nuovi competitor. EVOLUZIONE ORGANIZZAZIONE, FATTORI ESTERNI = e vincoli a cui ottemperare..
+
+CONTESTO SUCCESSIVO:
+COMPLIANCE, FATTORI ESTERNI = ❑ Vincoli cogentin ambito D.Lgs. 231/01, D.Lgs.
+
+================================================================================
+
+CHUNK 27
+----------------------------------------
+Sezione: 1.2.1 Comprendere l'Organizzazione il suo Contesto
+Livello: 3
+Pagina: 5
+Dimensione: 393 caratteri
+
+TESTO:
+COMPLIANCE, FATTORI NTERNI = ❑ Sistemi di Gestione ❑. COMPLIANCE, FATTORI ESTERNI = ❑ Vincoli cogentin ambito D.Lgs. 231/01, D.Lgs. 81/08, D.Lgs. 152/06, anticorruzione, privacy, gare, etc. ❑ Norme standard volontari applicabili alle attività aziendali (ISO, SA, etc.) ❑ Norme (anche provvisorie) emesse dalle Autorità per gestione di situazioni di emergenza Accordi contrattuali con i Clienti
+
+================================================================================
+
+CHUNK 28
+----------------------------------------
+Sezione: 1.2.2 Comprendere le Esigenze le Aspettative dei Lavoratori e delle altre Parti Interessate
+Livello: 3
+Pagina: 6
+Dimensione: 858 caratteri
+
+TESTO:
+LUTECH ha identificato le partinteressate interned esterne che sono rilevanti per il SGRS raggruppandole nelle seguenti categorie: - ❑ Clienti - ❑ Investitori - ❑ Altre società del Gruppo - ❑ Partner commerciali - ❑ Lavoratori ed i relativi Rappresentanti - ❑ Sindacati - ❑ Fornitori - ❑ Comunità locali - ❑ Autorità - ❑ Enti regolatori 1 - ❑ Società di Rating. Lesigenzed aspettative di tutte le partinteressate sopra elencate sono riconducibili alavorare in un ambiente confortevole durante le proprie attività ed averne la relativa garanzia con la messa in atto, da parte dell'azienda, di tutti quei controlli e quelle misure necessarie a prevenire malattie professionali e/o infortuni. Le Autorità e gli Enti regolatori, in aggiunta, si aspettano il rispetto delle norme cogenti e/o volontarie la completa collaborazione in caso dispezioni e/o verifiche.
+
+CONTESTO PRECEDENTE:
+nte le proprie attività ed averne la relativa garanzia con la messa in atto, da parte dell'azienda, di tutti quei controlli e quelle misure necessarie a prevenire malattie professionali e/o infortuni.
+
+CONTESTO SUCCESSIVO:
+Quanto sopra descritto verrà considerato come uno più obblighi di conformità per LUTECH; pertanto, saranno considerati comelementin ingresso per SGRS.
+
+================================================================================
+
+CHUNK 29
+----------------------------------------
+Sezione: 1.2.2 Comprendere le Esigenze le Aspettative dei Lavoratori e delle altre Parti Interessate
+Livello: 3
+Pagina: 6
+Dimensione: 319 caratteri
+
+TESTO:
+Le Autorità e gli Enti regolatori, in aggiunta, si aspettano il rispetto delle norme cogenti e/o volontarie la completa collaborazione in caso dispezioni e/o verifiche. Quanto sopra descritto verrà considerato come uno più obblighi di conformità per LUTECH; pertanto, saranno considerati comelementin ingresso per SGRS.
+
+================================================================================
+
+CHUNK 30
+----------------------------------------
+Sezione: 1.2.3 Determinare il Campo di Applicazione del Sistema di Gestione per la RS
+Livello: 3
+Pagina: 6,7
+Dimensione: 886 caratteri
+
+TESTO:
+Il campo di applicazione del Sistema di Gestione della Responsabilità Sociale applicato da LUTECH, descritto in questo Manuale nelle procedure richiamate, è il seguente: Servizi di supporto al governo di progetti ICT (Demand & Project Management, analisi e progettazione di soluzioni di business integration). Servizi di progettazione, sviluppo, parametrizzazione, produzione, installazione, test e manutenzione di prodotti software soluzioni applicative. Servizi di supporto specialistico agli utenti finali. Servizi di assistenza e gestione applicativa e delle basi dati. Servizi di progettazione, configurazione, installazione delle componenti hardware software delle infrastrutture ICT integrate o iperconvergenti, sia in modalità on-premise sia cloud. Servizi di progettazione, configurazione, installazione di soluzioni e infrastrutture per lo storage dei dati e la cybersecurity.
+
+CONTESTO PRECEDENTE:
+ delle basi dati. Servizi di progettazione, configurazione, installazione delle componenti hardware software delle infrastrutture ICT integrate o iperconvergenti, sia in modalità on-premise sia cloud.
+
+CONTESTO SUCCESSIVO:
+Servizi di conduzione, gestione, monitoraggio, manutenzione assistenza tecnica delle componenti hardware software delle infrastrutture ICT, anche da remoto e/o in modalità cloud. Erogazione di servizi
+
+================================================================================
+
+CHUNK 31
+----------------------------------------
+Sezione: 1.2.3 Determinare il Campo di Applicazione del Sistema di Gestione per la RS
+Livello: 3
+Pagina: 6,7
+Dimensione: 946 caratteri
+
+TESTO:
+Servizi di progettazione, configurazione, installazione di soluzioni e infrastrutture per lo storage dei dati e la cybersecurity. Servizi di conduzione, gestione, monitoraggio, manutenzione assistenza tecnica delle componenti hardware software delle infrastrutture ICT, anche da remoto e/o in modalità cloud. Erogazione di servizi di gestione della sicurezza perimetrale delle infrastrutture ICT. 1 Per dettagli consultare LG-011 Regolamenti esterni e gestione dei marchi Non sono previste/possibili esclusioni di requisiti della norma di riferimento SA8000:2014. L'Ambito di applicazione del SGRS specifica quali sono le Funzioni Aziendali responsabili dei Processi Aziendali che sonoggetto del Sistema di Gestione della Responsabilità Sociale. mento SA8000:2014. L'Ambito di applicazione del SGRS specifica quali sono le Funzioni Aziendali responsabili dei Processi Aziendali che sonoggetto del Sistema di Gestione della Responsabilità Sociale.
+
+CONTESTO PRECEDENTE:
+L'Ambito di applicazione del SGRS specifica quali sono le Funzioni Aziendali responsabili dei Processi Aziendali che sonoggetto del Sistema di Gestione della Responsabilità Sociale. mento SA8000:2014.
+
+CONTESTO SUCCESSIVO:
+All'interno di tale Ambito, il Perimetro specifica nel dettaglio tutte le componenti soggette al SGRS, con particolare riferimento a: - ❑ Personale - ❑ Siti fisici - ❑ Attrezzature Le sedi comprese ne
+
+================================================================================
+
+CHUNK 32
+----------------------------------------
+Sezione: 1.2.3 Determinare il Campo di Applicazione del Sistema di Gestione per la RS
+Livello: 3
+Pagina: 6,7
+Dimensione: 427 caratteri
+
+TESTO:
+L'Ambito di applicazione del SGRS specifica quali sono le Funzioni Aziendali responsabili dei Processi Aziendali che sonoggetto del Sistema di Gestione della Responsabilità Sociale. All'interno di tale Ambito, il Perimetro specifica nel dettaglio tutte le componenti soggette al SGRS, con particolare riferimento a: - ❑ Personale - ❑ Siti fisici - ❑ Attrezzature Le sedi comprese nel perimetro della certificazione sono: tutte.
+
+================================================================================
+
+CHUNK 33
+----------------------------------------
+Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+Livello: 1
+Pagina: 7,8
+Dimensione: 814 caratteri
+
+TESTO:
+LUTECH simpegna garantire la conformità, ai requisiti prescritti dalla legislazione vigente in materia di Lavoro e contrattuali stabiliti con i Clienti. Il continuo aggiornamento e la conoscenza della normativa e della legislazione applicabile sono requisitindispensabili per le attività svolte dall'Azienda e per garantire ai Clienti la fornitura di servizi conformi. Il Sistema di Gestione della Responsabilità Sociale è impostato nel rispetto, oltre che della norma SA8000 e delle normative ILO sotto riportate (disponibili al sito NORMLEX - Information System on International Labour Standards ), delle norme legislative dei regolamenti cogenti applicabili. [01], DOCUMENTO = ILO C1 ILOR116. [01], TITOLO = Convenzione sulla durata del Lavoro - Industria Raccomandazioni sulla r iduzione dell'orario di lavoro.
+
+CONTESTO PRECEDENTE:
+LO sotto riportate (disponibili al sito NORMLEX - Information System on International Labour Standards ), delle norme legislative dei regolamenti cogenti applicabili. [01], DOCUMENTO = ILO C1 ILOR116.
+
+CONTESTO SUCCESSIVO:
+[02], DOCUMENTO = ILO C29. [02], TITOLO = Convenzione sul Lavoro forzato.
+
+================================================================================
+
+CHUNK 34
+----------------------------------------
+Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+Livello: 1
+Pagina: 7,8
+Dimensione: 805 caratteri
+
+TESTO:
+[01], TITOLO = Convenzione sulla durata del Lavoro - Industria Raccomandazioni sulla r iduzione dell'orario di lavoro. [02], DOCUMENTO = ILO C29. [02], TITOLO = Convenzione sul Lavoro forzato. [03], DOCUMENTO = ILO C87. [03], TITOLO = Convenzione sulla libertà sindacale la protezione del diritto sindacale. [04], DOCUMENTO = ILO C98. [04], TITOLO = Convenzione sul diritto di organizzazione di negoziazione collettiva. [05], DOCUMENTO = ILO C100. [05], TITOLO = Convenzione sull'uguaglianza e la retribuzione. [06], DOCUMENTO = ILO C102. [06], TITOLO = Sicurezza Sociale - norme minime. [07], DOCUMENTO = ILO C105. [07], TITOLO = Convenzione sull'abolizione delavoro forzato. [08], DOCUMENTO = ILO C111. [08], TITOLO = Convenzione sulla discriminazione (Impiego e professione). [09], DOCUMENTO = ILO 131.
+
+CONTESTO PRECEDENTE:
+[08], DOCUMENTO = ILO C111. [08], TITOLO = Convenzione sulla discriminazione (Impiego e professione).
+
+CONTESTO SUCCESSIVO:
+[09], TITOLO = Convenzione sulla fissazione del salario minimo. [10], DOCUMENTO = ILO C135.
+
+================================================================================
+
+CHUNK 35
+----------------------------------------
+Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+Livello: 1
+Pagina: 7,8
+Dimensione: 862 caratteri
+
+TESTO:
+[08], DOCUMENTO = ILO C111. [08], TITOLO = Convenzione sulla discriminazione (Impiego e professione). [09], DOCUMENTO = ILO 131. [09], TITOLO = Convenzione sulla fissazione del salario minimo. [10], DOCUMENTO = ILO C135. O C111. [08], TITOLO = Convenzione sulla discriminazione (Impiego e professione). [09], DOCUMENTO = ILO 131. [09], TITOLO = Convenzione sulla fissazione del salario minimo. [10], DOCUMENTO = ILO C135. [10], TITOLO = Convenzione sui rappresentanti dei lavoratori. [11], DOCUMENTO = ILO C138 ILO R146. [11], TITOLO = Convenzione sull'età minima Raccomandazione sull'età minima. [12], DOCUMENTO = ILO C155 ILO R164. [12], TITOLO = Convenzione sulla Salute Sicurezza sulavoro Raccomandazione sulla salute sicurezza sulavoro. [13], DOCUMENTO = ILO C159. [13], TITOLO = Convenzione sul reinserimento professionale occupazionale (persone disabili).
+
+CONTESTO PRECEDENTE:
+[12], TITOLO = Convenzione sulla Salute Sicurezza sulavoro Raccomandazione sulla salute sicurezza sulavoro. [13], DOCUMENTO = ILO C159.
+
+CONTESTO SUCCESSIVO:
+[14], DOCUMENTO = ILO C177. [14], TITOLO = Convenzione sulavoro a domicilio.
+
+================================================================================
+
+CHUNK 36
+----------------------------------------
+Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+Livello: 1
+Pagina: 7,8
+Dimensione: 874 caratteri
+
+TESTO:
+[12], TITOLO = Convenzione sulla Salute Sicurezza sulavoro Raccomandazione sulla salute sicurezza sulavoro. [13], DOCUMENTO = ILO C159. [13], TITOLO = Convenzione sul reinserimento professionale occupazionale (persone disabili). [14], DOCUMENTO = ILO C177. [14], TITOLO = Convenzione sulavoro a domicilio. [15], DOCUMENTO = ILO C181. [15], TITOLO = Convenzione sulle agenzie per l'impiego private [16], DOCUMENTO = ILO C182. [16], TITOLO = Convenzione sulle forme peggiori di lavoro minorile. [17], DOCUMENTO = ILO C183. [17], TITOLO = Convenzione sulla protezione della maternità. [18], DOCUMENTO = Codice di condotta. [18], TITOLO = L'HIV/AIDS e il mondo delavoro. [19], DOCUMENTO = Dichiarazione Universale. [19], TITOLO = Dichiarazione Universale dei Diritti Umani. [20], DOCUMENTO = Patto. [20], TITOLO = Patto internazionale sui diritti economici, sociali e culturali.
+
+CONTESTO PRECEDENTE:
+[19], TITOLO = Dichiarazione Universale dei Diritti Umani. [20], DOCUMENTO = Patto.
+
+CONTESTO SUCCESSIVO:
+[21], DOCUMENTO = Patto. [21], TITOLO = Patto internazionale sui diritti civili e politici.
+
+================================================================================
+
+CHUNK 37
+----------------------------------------
+Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+Livello: 1
+Pagina: 7,8
+Dimensione: 853 caratteri
+
+TESTO:
+[19], TITOLO = Dichiarazione Universale dei Diritti Umani. [20], DOCUMENTO = Patto. [20], TITOLO = Patto internazionale sui diritti economici, sociali e culturali. [21], DOCUMENTO = Patto. [21], TITOLO = Patto internazionale sui diritti civili e politici. [22], DOCUMENTO = Convenzione. [22], TITOLO = Convenzione delle Nazioni Unite sui diritti del bambino. [23], DOCUMENTO = Convenzione. [23], TITOLO = Convenzione delle Nazioni Unite sull'eliminazione di tutte le forme di 
+
+nvenzione. [22], TITOLO = Convenzione delle Nazioni Unite sui diritti del bambino. [23], DOCUMENTO = Convenzione. [23], TITOLO = Convenzione delle Nazioni Unite sull'eliminazione di tutte le forme di discriminazione contro le donne. [24], DOCUMENTO = Convenzione. [24], TITOLO = Convenzione delle Nazioni Unite sull'eliminazione di tutte le forme di discriminazione razziale.
+
+CONTESTO PRECEDENTE:
+[23], TITOLO = Convenzione delle Nazioni Unite sull'eliminazione di tutte le forme di discriminazione contro le donne. [24], DOCUMENTO = Convenzione.
+
+CONTESTO SUCCESSIVO:
+[25], DOCUMENTO = Principi. [25], TITOLO = Principi guida delle Nazioni Unite su Business e Diritti Umani.
+
+================================================================================
+
+CHUNK 38
+----------------------------------------
+Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+Livello: 1
+Pagina: 7,8
+Dimensione: 897 caratteri
+
+TESTO:
+[24], DOCUMENTO = Convenzione. [24], TITOLO = Convenzione delle Nazioni Unite sull'eliminazione di tutte le forme di discriminazione razziale. [25], DOCUMENTO = Principi. [25], TITOLO = Principi guida delle Nazioni Unite su Business e Diritti Umani. [26], DOCUMENTO = CCNL Commercio. [26], TITOLO = Contratto Collettivo settore Terziario. [27], DOCUMENTO = CCNL Metalmeccanico. [27], TITOLO = Contratto Collettivo Metalmeccanico Industria. [28], DOCUMENTO = D.Lgs. 81/08. [28], TITOLO = Attuazione dell'articolo 1 della legge 3 agosto 2007, n. 123, in materia di tutela della salute della sicurezza nei luoghi di lavoro. [29], DOCUMENTO = ISO 45001:2023. [29], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Salute sicurezza dei lavoratori. [30], DOCUMENTO = SA8000:2014. [30], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Responsabilità Sociale..
+
+CONTESTO PRECEDENTE:
+[29], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Salute sicurezza dei lavoratori. [30], DOCUMENTO = SA8000:2014.
+
+CONTESTO SUCCESSIVO:
+[31], DOCUMENTO = ISO 19011:2018. [31], TITOLO = Norma contenente i Requisiti relativi all'esecuzione degli Audit interni ai Sistemi di Gestione di un'Organizzazione.
+
+================================================================================
+
+CHUNK 39
+----------------------------------------
+Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+Livello: 1
+Pagina: 7,8
+Dimensione: 970 caratteri
+
+TESTO:
+[29], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Salute sicurezza dei lavoratori. [30], DOCUMENTO = SA8000:2014. [30], TITOLO = Norma contenente i requisiti per i Sistemi di Gestione per la Responsabilità Sociale.. [31], DOCUMENTO = ISO 19011:2018. [31], TITOLO = Norma contenente i Requisiti relativi all'esecuzione degli Audit interni ai Sistemi di Gestione di un'Organizzazione. LUTECH mantiene aggiornata l'Informazione Documentata DIS-000 Elenco Documenti di Origine Esterna , nella quale riporta tutti requisiti legali come le leggi e gli adempimenti a carattereuropeo, nazionale locale applicabili alle attività dell'azienda, e gli altri requisiti come la norma SA8000:2014 e l
+
+lla quale riporta tutti requisiti legali come le leggi e gli adempimenti a carattereuropeo, nazionale locale applicabili alle attività dell'azienda, e gli altri requisiti come la norma SA8000:2014 e le altre norme ad adozione volontariapplicate in Azienda.
+
+CONTESTO PRECEDENTE:
+[31], DOCUMENTO = ISO 19011:2018. [31], TITOLO = Norma contenente i Requisiti relativi all'esecuzione degli Audit interni ai Sistemi di Gestione di un'Organizzazione.
+
+================================================================================
+
+CHUNK 40
+----------------------------------------
+Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+Livello: 1
+Pagina: 7,8
+Dimensione: 560 caratteri
+
+TESTO:
+LUTECH mantiene aggiornata l'Informazione Documentata DIS-000 Elenco Documenti di Origine Esterna , nella quale riporta tutti requisiti legali come le leggi e gli adempimenti a carattereuropeo, nazionale locale applicabili alle attività dell'azienda, e gli altri requisiti come la norma SA8000:2014 e l
+
+lla quale riporta tutti requisiti legali come le leggi e gli adempimenti a carattereuropeo, nazionale locale applicabili alle attività dell'azienda, e gli altri requisiti come la norma SA8000:2014 e le altre norme ad adozione volontariapplicate in Azienda.
+
+================================================================================
+
+CHUNK 41
+----------------------------------------
+Sezione: 3 DEFINIZIONI
+Livello: 1
+Pagina: 8,9
+Dimensione: 836 caratteri
+
+TESTO:
+Di seguito sono indicate le definizioni e abbreviazioni di termini utilizati all'interno del documento. CCNL, DEFINIZIONE = Contratto Collettivo Nazionale del Lavoro. CO, DEFINIZIONE = Compliance Office. DDL, DEFINIZIONE = Datore di Lavoro. Ruolo definito nel D.Lgs. 81/08. Direzione, DEFINIZIONE = Chief Executive Officer (CEO) e sue prime linee. DPI, DEFINIZIONE = Dispositivo Dispositivi di Protezione Individuale. DUVRI, DEFINIZIONE = Documento Unico per la Valutazione dei Rischi da Interferenze. Richiesto dal D.Lgs. 81/08. DVR, DEFINIZIONE = Documento di Valutazione del Rischio. Richiesto dal D.Lgs. 81/08. HSE, DEFINIZIONE = Health, Safety & Environment. Incidente, DEFINIZIONE = Evento che ha fatto accadere un Infortunio. Infortunio, DEFINIZIONE = Conseguenza negativa sul fisico, mente o condizione cognitiva di una persona.
+
+CONTESTO PRECEDENTE:
+HSE, DEFINIZIONE = Health, Safety & Environment. Incidente, DEFINIZIONE = Evento che ha fatto accadere un Infortunio.
+
+CONTESTO SUCCESSIVO:
+LUTECH, DEFINIZIONE = LUTECH S.p.A., Capo Gruppo del Gruppo LUTECH. MC, DEFINIZIONE = Medico Competente.
+
+================================================================================
+
+CHUNK 42
+----------------------------------------
+Sezione: 3 DEFINIZIONI
+Livello: 1
+Pagina: 8,9
+Dimensione: 838 caratteri
+
+TESTO:
+HSE, DEFINIZIONE = Health, Safety & Environment. Incidente, DEFINIZIONE = Evento che ha fatto accadere un Infortunio. Infortunio, DEFINIZIONE = Conseguenza negativa sul fisico, mente o condizione cognitiva di una persona. LUTECH, DEFINIZIONE = LUTECH S.p.A., Capo Gruppo del Gruppo LUTECH. MC, DEFINIZIONE = Medico Competente. Ruolo definito nel D.Lgs. 81/08. Near-Miss, DEFINIZIONE = Un evento che ha quasi fatto accadere un Infortunio (ma che alla fine non si è presentato). PDCA, DEFINIZIONE = Ciclo Plan - Do - Check - Act. RLS, DEFINIZIONE = Rappresentante dei Lavoratori per la Sicurezza. Ruolo definito nel D.Lgs. 81/08 RS, DEFINIZIONE = Responsabilità Sociale. RSPP, DEFINIZIONE = Responsabile Servizio Prevenzione Protezione. Ruolo definito nel D.Lgs. 81/08. SGRS, DEFINIZIONE = Sistema di Gestione per la Responsabilità Sociale.
+
+CONTESTO PRECEDENTE:
+Ruolo definito nel D.Lgs. 81/08.
+
+CONTESTO SUCCESSIVO:
+SPT, DEFINIZIONE = Social Performance Team. SSL, DEFINIZIONE = Salute Sicurezza sul Lavoro
+
+================================================================================
+
+CHUNK 43
+----------------------------------------
+Sezione: 3 DEFINIZIONI
+Livello: 1
+Pagina: 8,9
+Dimensione: 194 caratteri
+
+TESTO:
+Ruolo definito nel D.Lgs. 81/08. SGRS, DEFINIZIONE = Sistema di Gestione per la Responsabilità Sociale. SPT, DEFINIZIONE = Social Performance Team. SSL, DEFINIZIONE = Salute Sicurezza sul Lavoro
+
+================================================================================
+
+CHUNK 44
+----------------------------------------
+Sezione: 4.1 Lavoro infantile
+Livello: 2
+Pagina: 9
+Dimensione: 907 caratteri
+
+TESTO:
+In Italia i giovani lavoratori, compresi tra i 16 e i 18 anni, possono essere impiegatin condizioni di lavoro specifiche che non comportino dei rischi di salute sicurezza elevati. LUTECH, data la natura tecnica delle sue attività, assumesclusivamente personale diplomato e/o laureato. Il controllo dell'età vieneffettuato tramite unattenta verifica dei dati anagrafici delavoratore, del suo codice fiscale del documento didentità. LUTECH promuove la formazione sostiene, anche tra i propri Clienti/Fornitori/Associati, la lotta contro l'utilizzo di lavoro infantile, nonché la conformità alle norme di legge circa l'utilizzo di giovani lavoratori. Ove in prima valutazione o in un successivo monitoraggio periodico dei propri Fornitori dovessemergere la presenza di lavoro infantile o di giovani lavoratori, LUTECH provvederà ad applicare specifiche azioni correttive o richieste di monitoraggio specifiche.
+
+CONTESTO PRECEDENTE:
+la formazione sostiene, anche tra i propri Clienti/Fornitori/Associati, la lotta contro l'utilizzo di lavoro infantile, nonché la conformità alle norme di legge circa l'utilizzo di giovani lavoratori.
+
+CONTESTO SUCCESSIVO:
+Dette azioni correttive o di monitoraggio e miglioramento sono correlate alla tipologia di evidenza riscontrata:
+
+================================================================================
+
+CHUNK 45
+----------------------------------------
+Sezione: 4.1 Lavoro infantile
+Livello: 2
+Pagina: 9
+Dimensione: 372 caratteri
+
+TESTO:
+Ove in prima valutazione o in un successivo monitoraggio periodico dei propri Fornitori dovessemergere la presenza di lavoro infantile o di giovani lavoratori, LUTECH provvederà ad applicare specifiche azioni correttive o richieste di monitoraggio specifiche. Dette azioni correttive o di monitoraggio e miglioramento sono correlate alla tipologia di evidenza riscontrata:
+
+================================================================================
+
+CHUNK 46
+----------------------------------------
+Sezione: LAVORO INFANTILE riscontrato in Azienda
+Livello: 2
+Pagina: 9
+Dimensione: 500 caratteri
+
+TESTO:
+: - ❑ verificare immediatamente lo stato di salute del bambino coinvolgendo i medici competenti e le strutture sanitarie competenti - ❑ accertamento delle cause che ne hanno permesso l'assunzione/l'impiego e procedere alla denuncialle Autorità nei casi previsti dalla legge - ❑ provvedere, anche tramite Autorità locali e l'utilizzo di professionisti specifici (psicologo, assistenza sociale, ecc.), al ripristino della situazione iniziale il reintegro del bambino nella normale vita di tutti giorni.
+
+================================================================================
+
+CHUNK 47
+----------------------------------------
+Sezione: LAVORO INFANTILE riscontrato presso i Fornitori :
+Livello: 2
+Pagina: 9,10
+Dimensione: 1584 caratteri
+
+TESTO:
+- ❑ richiesta immediata dinterrompere l'impiego del bambino - ❑ invio di diffida da parte dell'ufficio legale all'utilizzo di queste pratiche di avviare tutte le misure a tutela del bambino, dando adeguata evidenza - ❑ accertamento delle cause che ne hanno permesso l'assunzione/l'impiego e procedere alla denuncialle autorità nei casi previsti dalla legge. GIOVANI LAVORATORI (presso la propria Azienda o presso quella di Fornitori/appaltatori) : - ❑ nel caso in cui venisse utilizzato un giovane lavoratore: organizzare/o verificare l'organizzazione dell'attività lavorativa del giovane lavoratore in modo tale che non coincida con il normale orario scolastico - ❑ organizzare/o verificare l'organizzazione dell'attività in modo che la somma delle ore di lavoro, di permanenza presso l'istituto scolastico e quelle da e per ilavoro e da e per l'istituto non eccedano le 10 ore/giorno - ❑ verificare la presenza di un sistema di trasporto che consental giovane lavoratore di muoversi agevolmented in modo sicuro tra l'abitazione, iluogo di lavoro e l'istituto scolastico, nel caso non presente attivarsi o attivare la parte interessata oggetto delavoro (Fornitori, appaltatori, ecc.) al fine di promuovere un possibile congruo sistema di trasporto - ❑ supporto al giovane lavoratore (e/o alla sua famiglia) per l'ottenimento degli strumenti (es.: testi di studio) necessari per l'iter scolastico (sia in modo diretto che mediante sollecitazione di enti pubblici) - ❑ verifica del rispetto delle condizioni previste dalla normativa in materia di salute sicurezza nei luoghi di lavoro.
+
+CONTESTO PRECEDENTE:
+e le misure a tutela del bambino, dando adeguata evidenza - ❑ accertamento delle cause che ne hanno permesso l'assunzione/l'impiego e procedere alla denuncialle autorità nei casi previsti dalla legge.
+
+CONTESTO SUCCESSIVO:
+r scolastico (sia in modo diretto che mediante sollecitazione di enti pubblici) - ❑ verifica del rispetto delle condizioni previste dalla normativa in materia di salute sicurezza nei luoghi di lavoro.
+
+================================================================================
+
+CHUNK 48
+----------------------------------------
+Sezione: LAVORO INFANTILE riscontrato presso i Fornitori :
+Livello: 2
+Pagina: 9,10
+Dimensione: 1427 caratteri
+
+TESTO:
+GIOVANI LAVORATORI (presso la propria Azienda o presso quella di Fornitori/appaltatori) : - ❑ nel caso in cui venisse utilizzato un giovane lavoratore: organizzare/o verificare l'organizzazione dell'attività lavorativa del giovane lavoratore in modo tale che non coincida con il normale orario scolastico - ❑ organizzare/o verificare l'organizzazione dell'attività in modo che la somma delle ore di lavoro, di permanenza presso l'istituto scolastico e quelle da e per ilavoro e da e per l'istituto non eccedano le 10 ore/giorno - ❑ verificare la presenza di un sistema di trasporto che consental giovane lavoratore di muoversi agevolmented in modo sicuro tra l'abitazione, iluogo di lavoro e l'istituto scolastico, nel caso non presente attivarsi o attivare la parte interessata oggetto delavoro (Fornitori, appaltatori, ecc.) al fine di promuovere un possibile congruo sistema di trasporto - ❑ supporto al giovane lavoratore (e/o alla sua famiglia) per l'ottenimento degli strumenti (es.: testi di studio) necessari per l'iter scolastico (sia in modo diretto che mediante sollecitazione di enti pubblici) - ❑ verifica del rispetto delle condizioni previste dalla normativa in materia di salute sicurezza nei luoghi di lavoro. r scolastico (sia in modo diretto che mediante sollecitazione di enti pubblici) - ❑ verifica del rispetto delle condizioni previste dalla normativa in materia di salute sicurezza nei luoghi di lavoro.
+
+CONTESTO PRECEDENTE:
+r scolastico (sia in modo diretto che mediante sollecitazione di enti pubblici) - ❑ verifica del rispetto delle condizioni previste dalla normativa in materia di salute sicurezza nei luoghi di lavoro.
+
+CONTESTO SUCCESSIVO:
+Nell'ottica del miglioramento continuo di un Sistema di Gestione sulla responsabilità sociale, è fondamentale migliorare la sensibilità su queste tematiche sia internamente all'Azienda sia dei Fornito
+
+================================================================================
+
+CHUNK 49
+----------------------------------------
+Sezione: LAVORO INFANTILE riscontrato presso i Fornitori :
+Livello: 2
+Pagina: 9,10
+Dimensione: 919 caratteri
+
+TESTO:
+r scolastico (sia in modo diretto che mediante sollecitazione di enti pubblici) - ❑ verifica del rispetto delle condizioni previste dalla normativa in materia di salute sicurezza nei luoghi di lavoro. Nell'ottica del miglioramento continuo di un Sistema di Gestione sulla responsabilità sociale, è fondamentale migliorare la sensibilità su queste tematiche sia internamente all'Azienda sia dei Fornitori. A tal fine è responsabilità della Direzione aziendale del Responsabile del Sistema di Gestione SA8000, trasmettere a tutti Fornitori e Subfornitore la esigenza di non utilizzare lavoro infantile di verificare la correttezza delavoro giovanile. Il non utilizzo di lavoro infantile è una delle condizioni basilari per il mantenimento di un rapporto contrattuale con i Fornitori. A fronte della mancanza di un piano di miglioramento e della suattuazione il Fornitore vienescluso dalla lista dei Fornitori qualificati.
+
+CONTESTO PRECEDENTE:
+e lavoro infantile di verificare la correttezza delavoro giovanile. Il non utilizzo di lavoro infantile è una delle condizioni basilari per il mantenimento di un rapporto contrattuale con i Fornitori.
+
+================================================================================
+
+CHUNK 50
+----------------------------------------
+Sezione: LAVORO INFANTILE riscontrato presso i Fornitori :
+Livello: 2
+Pagina: 9,10
+Dimensione: 137 caratteri
+
+TESTO:
+A fronte della mancanza di un piano di miglioramento e della suattuazione il Fornitore vienescluso dalla lista dei Fornitori qualificati.
+
+================================================================================
+
+CHUNK 51
+----------------------------------------
+Sezione: 4.2 Lavoro forzatobbligato
+Livello: 2
+Pagina: 10
+Dimensione: 736 caratteri
+
+TESTO:
+LUTECH non ricorre né sostiene l'utilizzo delavoro forzatobbligato e non richiede al personale di lasciare 'depositi' in denaro documenti d'identità al momento dell'inizio del rapporto di lavoro. Qualora il dipendente decida di dimettersi può farlo nei modi previsti dal CCNL vigente. Il dipendente non è in alcun modo vincolato costretto, tramite minaccia o la possibilità di essere soggetto a sanzioni, a svolgere incarichi diversi da quelli previsti e concordati. LUTECH condanna l'utilizzo di traffico di esseri umani, pratica universalmente riconosciuta come deplorevole. LUTECH non eroga prestiti al proprio personale, proprio al fine di evitare che gli stessi vengano intesi come una forma di obbligo a rimanere presso l'azienda.
+
+================================================================================
+
+CHUNK 52
+----------------------------------------
+Sezione: 4.3 Salute Sicurezza
+Livello: 2
+Pagina: 10,11
+Dimensione: 937 caratteri
+
+TESTO:
+LUTECH garantisce un ambiente di lavoro sicuro e salubre adottando efficaci misure per prevenire potenzialincidenti e danni alla salute dei lavoratori che possano verificarsi durante lo svolgimento delavoro, minimizzando, per quanto sia ragionevolmente praticabile, le cause di pericolo ascrivibili Codice documento MRS-000 Versione 00 all'ambiente di lavoro e tenendo presente lo stato delle conoscenze prevalenti del settore di ogni specifico rischio. L'Aziendassicura tutto il personalefficacistruzioni sulla salute sicurezza, incluse istruzioni suluogo di lavoro e, dove necessario, istruzioni specifiche per la mansione. Talistruzioni devono essere ripetute al personale nuovo assegnato a nuove mansioni, nonché in caso di avvenutinfortuni. Al fine di ottemperare al meglio a quanto sopra specificato, LUTECH ha implementato e mantiene aggiornato nel tempo un Sistema di Gestione Salute Sicurezza in conformità alla norma ISO 45001.
+
+CONTESTO PRECEDENTE:
+oni suluogo di lavoro e, dove necessario, istruzioni specifiche per la mansione. Talistruzioni devono essere ripetute al personale nuovo assegnato a nuove mansioni, nonché in caso di avvenutinfortuni.
+
+CONTESTO SUCCESSIVO:
+Il Sistema di Gestione Salute Sicurezza è verificato da un organismo di certificazione indipendente, che ne valuta la conformità e la coerenzalla norma ed alla legislazione applicabile. Maggiori detta
+
+================================================================================
+
+CHUNK 53
+----------------------------------------
+Sezione: 4.3 Salute Sicurezza
+Livello: 2
+Pagina: 10,11
+Dimensione: 828 caratteri
+
+TESTO:
+Al fine di ottemperare al meglio a quanto sopra specificato, LUTECH ha implementato e mantiene aggiornato nel tempo un Sistema di Gestione Salute Sicurezza in conformità alla norma ISO 45001. Il Sistema di Gestione Salute Sicurezza è verificato da un organismo di certificazione indipendente, che ne valuta la conformità e la coerenzalla norma ed alla legislazione applicabile. Maggiori dettaglin merito a detto requisito si trovano nei documenti del Sistema di Gestione SSL e nei documenti legislativi cogenti, come ad esempio il DVR per le singole sedi ed i DUVRI per la gestione dei rischinterferenziali con gli appaltatori. ovano nei documenti del Sistema di Gestione SSL e nei documenti legislativi cogenti, come ad esempio il DVR per le singole sedi ed i DUVRI per la gestione dei rischinterferenziali con gli appaltatori.
+
+CONTESTO PRECEDENTE:
+ovano nei documenti del Sistema di Gestione SSL e nei documenti legislativi cogenti, come ad esempio il DVR per le singole sedi ed i DUVRI per la gestione dei rischinterferenziali con gli appaltatori.
+
+CONTESTO SUCCESSIVO:
+Viene creato e mantenuto attivo, inoltre, un Comitato per la Salute Sicurezza, composto dal Datore di Lavoro, o un suo delegato, dal RSPP, dal Medico Competente, dal Responsabile del Sistema di Gestio
+
+================================================================================
+
+CHUNK 54
+----------------------------------------
+Sezione: 4.3 Salute Sicurezza
+Livello: 2
+Pagina: 10,11
+Dimensione: 1567 caratteri
+
+TESTO:
+ovano nei documenti del Sistema di Gestione SSL e nei documenti legislativi cogenti, come ad esempio il DVR per le singole sedi ed i DUVRI per la gestione dei rischinterferenziali con gli appaltatori. Viene creato e mantenuto attivo, inoltre, un Comitato per la Salute Sicurezza, composto dal Datore di Lavoro, o un suo delegato, dal RSPP, dal Medico Competente, dal Responsabile del Sistema di Gestione SSL e SA8000 e dagli RLS. Detto comitato coincide con il gruppo di lavoro che svolge a cadenzannuale la riunione periodica di cui all'articolo 35 del D.Lgs. 81/2008 e s.m.i. I compiti e le responsabilità principali del Comitato sono: - ❑ sorveglianza dei fattori dell'ambiente di lavoro e delle pratiche di lavoro che possono incidere sulla salute delavoratore, compresi glimpianti sanitari, le mense i dormitori (se previsti) - ❑ consulenza sulla pianificazione organizzazione delavoro, compresa la progettazione deluogo di lavoro, dei macchinari e altre attrezzature sostanze - ❑ partecipazione allo sviluppo di programmi per il miglioramento delle pratiche di lavoro; test e valutazioni degli aspetti sanitari delle nuove apparecchiature - ❑ consulenza in materia di salute, sicurezza e igiene sulavoro, ergonomia e dispositivi di protezione individuale - ❑ sorveglianza sulla salute dei lavoratori - ❑ collaborazione nell'informazione, formazione istruzione nei settori della salute sulavoro, igiened ergonomia - ❑ organizzare il primo soccorso e la gestione dell'emergenza - ❑ partecipazione all'analisi deglinfortuni sulavoro e delle malattie professionali.
+
+CONTESTO PRECEDENTE:
+Detto comitato coincide con il gruppo di lavoro che svolge a cadenzannuale la riunione periodica di cui all'articolo 35 del D.Lgs. 81/2008 e s.m.i.
+
+CONTESTO SUCCESSIVO:
+A seconda dei temi trattatil Com
+
+ igiened ergonomia - ❑ organizzare il primo soccorso e la gestione dell'emergenza - ❑ partecipazione all'analisi deglinfortuni sulavoro e delle malattie professionali
+
+================================================================================
+
+CHUNK 55
+----------------------------------------
+Sezione: 4.3 Salute Sicurezza
+Livello: 2
+Pagina: 10,11
+Dimensione: 1191 caratteri
+
+TESTO:
+I compiti e le responsabilità principali del Comitato sono: - ❑ sorveglianza dei fattori dell'ambiente di lavoro e delle pratiche di lavoro che possono incidere sulla salute delavoratore, compresi glimpianti sanitari, le mense i dormitori (se previsti) - ❑ consulenza sulla pianificazione organizzazione delavoro, compresa la progettazione deluogo di lavoro, dei macchinari e altre attrezzature sostanze - ❑ partecipazione allo sviluppo di programmi per il miglioramento delle pratiche di lavoro; test e valutazioni degli aspetti sanitari delle nuove apparecchiature - ❑ consulenza in materia di salute, sicurezza e igiene sulavoro, ergonomia e dispositivi di protezione individuale - ❑ sorveglianza sulla salute dei lavoratori - ❑ collaborazione nell'informazione, formazione istruzione nei settori della salute sulavoro, igiened ergonomia - ❑ organizzare il primo soccorso e la gestione dell'emergenza - ❑ partecipazione all'analisi deglinfortuni sulavoro e delle malattie professionali. A seconda dei temi trattatil Com
+
+ igiened ergonomia - ❑ organizzare il primo soccorso e la gestione dell'emergenza - ❑ partecipazione all'analisi deglinfortuni sulavoro e delle malattie professionali.
+
+CONTESTO PRECEDENTE:
+ei settori della salute sulavoro, igiened ergonomia - ❑ organizzare il primo soccorso e la gestione dell'emergenza - ❑ partecipazione all'analisi deglinfortuni sulavoro e delle malattie professionali.
+
+CONTESTO SUCCESSIVO:
+A seconda dei temi trattatil Comitato per la SSL può riunirsin forma ridotta (es.: RSPP e RLS, RSPP e MC).
+
+================================================================================
+
+CHUNK 56
+----------------------------------------
+Sezione: 4.3 Salute Sicurezza
+Livello: 2
+Pagina: 10,11
+Dimensione: 308 caratteri
+
+TESTO:
+A seconda dei temi trattatil Com
+
+ igiened ergonomia - ❑ organizzare il primo soccorso e la gestione dell'emergenza - ❑ partecipazione all'analisi deglinfortuni sulavoro e delle malattie professionali. A seconda dei temi trattatil Comitato per la SSL può riunirsin forma ridotta (es.: RSPP e RLS, RSPP e MC).
+
+================================================================================
+
+CHUNK 57
+----------------------------------------
+Sezione: 4.4 Libertà d'associazione diritto alla contrattazione collettiva
+Livello: 2
+Pagina: 11
+Dimensione: 341 caratteri
+
+TESTO:
+LUTECH rispetta il diritto di tutto il personale di formared aderire a sindacati di loro scelta e il diritto alla contrattazione collettiva. Tutto il personale ha il diritto di formare partecipare a qualsiasi organizzazione di propria scelta, senza che questo comporti alcuna conseguenza negativa o provochi ritorsioni da parte dell'azienda.
+
+================================================================================
+
+CHUNK 58
+----------------------------------------
+Sezione: 4.5 Discriminazione
+Livello: 2
+Pagina: 12,13
+Dimensione: 1138 caratteri
+
+TESTO:
+LUTECH ritiene parte integrante del proprio ruolo imprenditoriale sia la tutela delle condizioni di lavoro sia la protezione dell'integrità fisica e morale delavoratore. L'Aziendattribuisce la massima importanza quanti prestano la loro attività lavorativa, ai quali viene riconosciuto il fondamentale ruolo di sviluppare garantire servizi nonché la creazione di valore. I processi di selezione assunzione del personale sono gestiti dalla funzione Human Resource con la massima trasparenza tenendo in considerazione parametri oggettivin termini di formazione, addestramento, abilità ed esperienza, oltre che in relazione alla funzione da ricoprire. La parità di trattamento perazza, ceto, religione, affiliazione politica è principio condiviso all'interno dell'azienda. L'Azienda non interferisce con l'esercizio dei diritti personali di seguire principi o pratiche, o di soddisfare bisogni connessi a etnia, origine sociale o nazionale, religione, invalidità, genere, orientamento sessuale, responsabilità familiari, stato civile, appartenenza sindacale, opinioni politiche od ogni altra condizione che può dare origine a discriminazione.
+
+CONTESTO PRECEDENTE:
+ento, abilità ed esperienza, oltre che in relazione alla funzione da ricoprire. La parità di trattamento perazza, ceto, religione, affiliazione politica è principio condiviso all'interno dell'azienda.
+
+CONTESTO SUCCESSIVO:
+L'esercizio dei diritti personali è vincolato al pieno rispetto dellesigenze di tutto il personale dell'Azienda e delle prescrizioni stabilite dalla legislazione cogente; le necessità, anche se legitt
+
+================================================================================
+
+CHUNK 59
+----------------------------------------
+Sezione: 4.5 Discriminazione
+Livello: 2
+Pagina: 12,13
+Dimensione: 875 caratteri
+
+TESTO:
+L'Azienda non interferisce con l'esercizio dei diritti personali di seguire principi o pratiche, o di soddisfare bisogni connessi a etnia, origine sociale o nazionale, religione, invalidità, genere, orientamento sessuale, responsabilità familiari, stato civile, appartenenza sindacale, opinioni politiche od ogni altra condizione che può dare origine a discriminazione. L'esercizio dei diritti personali è vincolato al pieno rispetto dellesigenze di tutto il personale dell'Azienda e delle prescrizioni stabilite dalla legislazione cogente; le necessità, anche se legittime, di un singolo non possono pregiudicare le necessità di altri, di tutto il personale o di un gruppo. L'Azienda non sottopone il personale a test sanitari o sullo stato di salute diversi da quelli previsti dalla normativa. ssono pregiudicare le necessità di altri, di tutto il personale o di un gruppo.
+
+CONTESTO PRECEDENTE:
+ssono pregiudicare le necessità di altri, di tutto il personale o di un gruppo. L'Azienda non sottopone il personale a test sanitari o sullo stato di salute diversi da quelli previsti dalla normativa.
+
+CONTESTO SUCCESSIVO:
+L'Azienda non sottopone il personale a test sanitari o sullo stato di salute diversi da quelli previsti dalla normativa. L'assunzione è formalizzata in un apposito documento 'Lettera di assunzione' in
+
+================================================================================
+
+CHUNK 60
+----------------------------------------
+Sezione: 4.5 Discriminazione
+Livello: 2
+Pagina: 12,13
+Dimensione: 1210 caratteri
+
+TESTO:
+ssono pregiudicare le necessità di altri, di tutto il personale o di un gruppo. L'Azienda non sottopone il personale a test sanitari o sullo stato di salute diversi da quelli previsti dalla normativa. L'assunzione è formalizzata in un apposito documento 'Lettera di assunzione' in cui sono riportate, oltre alle generalità della persona dassumere, ilivello, le condizioni economiche, il riferimento al CCNL e, conseguentemente, tutte le disposizioni che regolano il contratto lavorativo. Copia del C.C.N.L. al momento vigente è messo a disposizione dall'organizzazioned esposto in azienda, nelle aree dedicate al personale. In particolare, affinché a tutti lavoratori sianofferte le medesime opportunità di lavoro senza discriminazione alcuna, in un contesto ispirato alla meritocrazia, LUTECH simpegna: - [ ] ❑ selezionare, assumere, formare, retribuire gestire i lavoratori senza discriminazione alcuna - ❑ valorizzare sviluppare le capacità e le competenze di ciascun lavoratore, affinché le stesse trovino piena espressione - ❑ predisporre programmi di aggiornamento e formazione atti a valorizzare le professionalità specifiche a conservared accrescere le competenze nel corso della collaborazione Manuale
+
+CONTESTO PRECEDENTE:
+Copia del C.C.N.L. al momento vigente è messo a disposizione dall'organizzazioned esposto in azienda, nelle aree dedicate al personale.
+
+================================================================================
+
+CHUNK 61
+----------------------------------------
+Sezione: 4.5 Discriminazione
+Livello: 2
+Pagina: 12,13
+Dimensione: 586 caratteri
+
+TESTO:
+In particolare, affinché a tutti lavoratori sianofferte le medesime opportunità di lavoro senza discriminazione alcuna, in un contesto ispirato alla meritocrazia, LUTECH simpegna: - [ ] ❑ selezionare, assumere, formare, retribuire gestire i lavoratori senza discriminazione alcuna - ❑ valorizzare sviluppare le capacità e le competenze di ciascun lavoratore, affinché le stesse trovino piena espressione - ❑ predisporre programmi di aggiornamento e formazione atti a valorizzare le professionalità specifiche a conservared accrescere le competenze nel corso della collaborazione Manuale
+
+================================================================================
+
+CHUNK 62
+----------------------------------------
+Sezione: 4.6 Pratiche disciplinari
+Livello: 2
+Pagina: 13,14
+Dimensione: 2201 caratteri
+
+TESTO:
+LUTECH dichiara, attraverso le proprie Politiche Sistemi di Gestione Integrati e del Codice Etico, di astenersi dal ricorrere o dare sostegno all'utilizzo di punizioni corporali, coercizione mentale o fisica, violenza verbale. I procedimenti disciplinari sono attuati nel rispetto della disciplina legale in materia: C.C. (artt. 2104, 2105, 2106) e L. 300/70 (meglio conosciuta come statuto dei lavoratori), nonché del C.C.N.L. 'settore metalmeccanico per le lavoratrici e i lavoratori addetti all'industria metalmeccanica privata e alla installazione dimpianti' e C.C.N.L. 'settore commercio', consultabili presso l'Uff. Personale. In sintesi, il procedimento disciplinare si sviluppa nelle seguenti fasi: - ❑ segnalazione all'Ufficio del Personale, di qualunque comportamento che abbia provocato scompensi, disagi, controversie nell'ambito aziendale, o danni economici e/o materiali - ❑ l'Ufficio del Personale verifica se la fattispecie segnalata rientra tra le fattispecie astratte richiamate dalle norme sopra citate - ❑ in caso di riscontro positivo l'Ufficio del Personale procede a contestare al dipendente, in forma scritta, i fatti rilevati e le conseguenze che questi hanno determinato (in termini di scompensi, disagi, controversie, danni economici, ecc.) richiedendo al dipendente di produrre risposta scritta entro 5 giorni dalla notifica della contestazione; - ❑ sulla base del riscontro ricevuto dal dipendente, l'Ufficio del Personale analizza la gravità del fatto e le giustificazioni/motivazioni addotte dal dipendente decidendo l'azione disciplinare da intraprendere tra quelle pr
+
+ro ricevuto dal dipendente, l'Ufficio del Personale analizza la gravità del fatto e le giustificazioni/motivazioni addotte dal dipendente decidendo l'azione disciplinare da intraprendere tra quelle previste dal C.C.N.L.: - a) richiamo verbale - b) ammonizione scritta - c) multa non superiore a tre ore di retribuzione oraria calcolata sul minimo tabellare - d) sospensione dalavoro e dalla retribuzione fino ad un massimo di tre giorni - e) licenziamento per mancanze; a seconda della gravità c'è licenziamento con preavviso senza preavviso (come previsto dal CCNL e dal Modello Organizzativo 231).
+
+CONTESTO PRECEDENTE:
+'settore commercio', consultabili presso l'Uff. Personale.
+
+CONTESTO SUCCESSIVO:
+Il procedimento disciplinare, come indicato nel Modello Organizzativo 231 di LUTECH, è previsto in forma e maniera differenziatanche per altri soggetti (dirigenti, sindaci, amministratori, collaborato
+
+================================================================================
+
+CHUNK 63
+----------------------------------------
+Sezione: 4.6 Pratiche disciplinari
+Livello: 2
+Pagina: 13,14
+Dimensione: 1794 caratteri
+
+TESTO:
+In sintesi, il procedimento disciplinare si sviluppa nelle seguenti fasi: - ❑ segnalazione all'Ufficio del Personale, di qualunque comportamento che abbia provocato scompensi, disagi, controversie nell'ambito aziendale, o danni economici e/o materiali - ❑ l'Ufficio del Personale verifica se la fattispecie segnalata rientra tra le fattispecie astratte richiamate dalle norme sopra citate - ❑ in caso di riscontro positivo l'Ufficio del Personale procede a contestare al dipendente, in forma scritta, i fatti rilevati e le conseguenze che questi hanno determinato (in termini di scompensi, disagi, controversie, danni economici, ecc.) richiedendo al dipendente di produrre risposta scritta entro 5 giorni dalla notifica della contestazione; - ❑ sulla base del riscontro ricevuto dal dipendente, l'Ufficio del Personale analizza la gravità del fatto e le giustificazioni/motivazioni addotte dal dipendente decidendo l'azione disciplinare da intraprendere tra quelle pr
+
+ro ricevuto dal dipendente, l'Ufficio del Personale analizza la gravità del fatto e le giustificazioni/motivazioni addotte dal dipendente decidendo l'azione disciplinare da intraprendere tra quelle previste dal C.C.N.L.: - a) richiamo verbale - b) ammonizione scritta - c) multa non superiore a tre ore di retribuzione oraria calcolata sul minimo tabellare - d) sospensione dalavoro e dalla retribuzione fino ad un massimo di tre giorni - e) licenziamento per mancanze; a seconda della gravità c'è licenziamento con preavviso senza preavviso (come previsto dal CCNL e dal Modello Organizzativo 231). Il procedimento disciplinare, come indicato nel Modello Organizzativo 231 di LUTECH, è previsto in forma e maniera differenziatanche per altri soggetti (dirigenti, sindaci, amministratori, collaboratori esterni e consulenti).
+
+CONTESTO PRECEDENTE:
+ione fino ad un massimo di tre giorni - e) licenziamento per mancanze; a seconda della gravità c'è licenziamento con preavviso senza preavviso (come previsto dal CCNL e dal Modello Organizzativo 231).
+
+CONTESTO SUCCESSIVO:
+Il datore di lavoro non potrà adottare alcun provvedimento disciplinare nei confronti delavoratore senzavergli preventivamente contestato l'addebito e senzaverlo sentito a sua difesa. Salvo che per il
+
+================================================================================
+
+CHUNK 64
+----------------------------------------
+Sezione: 4.6 Pratiche disciplinari
+Livello: 2
+Pagina: 13,14
+Dimensione: 965 caratteri
+
+TESTO:
+Il procedimento disciplinare, come indicato nel Modello Organizzativo 231 di LUTECH, è previsto in forma e maniera differenziatanche per altri soggetti (dirigenti, sindaci, amministratori, collaboratori esterni e consulenti). Il datore di lavoro non potrà adottare alcun provvedimento disciplinare nei confronti delavoratore senzavergli preventivamente contestato l'addebito e senzaverlo sentito a sua difesa. Salvo che per il richiamo verbale, la contestazione dovrà essereffettuata per iscritto ed i provvedimenti disciplinari non potranno essere comminati prima che siano trascorsi 5 giorni, nel corso dei qualilavoratore potrà presentare le sue giustificazioni. Se il provvedimento non verrà comminato entro i 6 giorni successivi a tali giustificazioni queste si riterranno accolte. Versione 00 Ilavoratore potrà presentare le proprie giustificazioni anche verbalmente, con l'eventuale assistenza di un rappresentante dell'Associazione sindacale a cui aderisce.
+
+CONTESTO PRECEDENTE:
+ giorni, nel corso dei qualilavoratore potrà presentare le sue giustificazioni. Se il provvedimento non verrà comminato entro i 6 giorni successivi a tali giustificazioni queste si riterranno accolte.
+
+CONTESTO SUCCESSIVO:
+La comunicazione del provvedimento
+
+lavoratore potrà presentare le proprie giustificazioni anche verbalmente, con l'eventuale assistenza di un rappresentante dell'Associazione sindacale a cui aderisce
+
+================================================================================
+
+CHUNK 65
+----------------------------------------
+Sezione: 4.6 Pratiche disciplinari
+Livello: 2
+Pagina: 13,14
+Dimensione: 800 caratteri
+
+TESTO:
+Versione 00 Ilavoratore potrà presentare le proprie giustificazioni anche verbalmente, con l'eventuale assistenza di un rappresentante dell'Associazione sindacale a cui aderisce. La comunicazione del provvedimento
+
+lavoratore potrà presentare le proprie giustificazioni anche verbalmente, con l'eventuale assistenza di un rappresentante dell'Associazione sindacale a cui aderisce. La comunicazione del provvedimento dovrà essere motivata e comunicata per iscritto. I provvedimenti disciplinari di cui sopralle lettere b), c) e d) potranno essere impugnati dalavoratore in sede sindacale, secondo le norme contrattuali applicabili. I provvedimenti disciplinari, comminati da oltre due anni, non sono tenutinessun conto, e quindi sono privi di effetto, nell'ambito di nuovi provvedimenti disciplinari .
+
+CONTESTO PRECEDENTE:
+otivata e comunicata per iscritto. I provvedimenti disciplinari di cui sopralle lettere b), c) e d) potranno essere impugnati dalavoratore in sede sindacale, secondo le norme contrattuali applicabili.
+
+CONTESTO SUCCESSIVO:
+L'evidenza dellapplicazione di quanto sopra indicato è data dai riscontri documentali contenuti nei Dossier personali dei dipendenti, nei confronti dei quali è stato attivato un procedimento disciplin
+
+================================================================================
+
+CHUNK 66
+----------------------------------------
+Sezione: 4.6 Pratiche disciplinari
+Livello: 2
+Pagina: 13,14
+Dimensione: 470 caratteri
+
+TESTO:
+I provvedimenti disciplinari, comminati da oltre due anni, non sono tenutinessun conto, e quindi sono privi di effetto, nell'ambito di nuovi provvedimenti disciplinari . L'evidenza dellapplicazione di quanto sopra indicato è data dai riscontri documentali contenuti nei Dossier personali dei dipendenti, nei confronti dei quali è stato attivato un procedimento disciplinare. L'elenco di questi dipendenti è reperibile presso l'Ufficio del Personale, così come i dossier.
+
+================================================================================
+
+CHUNK 67
+----------------------------------------
+Sezione: 4.7 Orario di Lavoro
+Livello: 2
+Pagina: 14
+Dimensione: 868 caratteri
+
+TESTO:
+L'orario di lavoro praticato in LUTECH è conforme alle leggi vigenti secondo i contratti nazionali applicatin azienda. Il presente capitolo non si applicalla gestione dell'orario dei consulentin quanto LUTECH non obbliga in alcun modo il collaboratore a sostare all'interno della strutturaziendale né, qualora ivi presente, lo costringe a una durata di permanenza stabilita. Non viene di norma richiesto al personale di lavorare in maniera continuativa per un periodo superiore alle 40 ore settimanali. Sono garantiti giorni di riposo previsti dal contratto di lavoro anche a quei dipendenti che svolgono mansioni per le quali è prevista la turnazione/o ilavoro nei giorni festivi. Il ricorso a prestazioni di lavoro straordinario è contenuto nei limiti previsti dal CCNL di categoria fatto salvo quanto previsto dall'art.5 del Decreto Legislativo 8 Aprile 2003, n.66.
+
+CONTESTO PRECEDENTE:
+e 40 ore settimanali. Sono garantiti giorni di riposo previsti dal contratto di lavoro anche a quei dipendenti che svolgono mansioni per le quali è prevista la turnazione/o ilavoro nei giorni festivi.
+
+CONTESTO SUCCESSIVO:
+Ilavoro straordinario viene conteggiato a parte compensato con le maggiorazioni previste dal contratto di categoria. È possibile usufruire di permessin conformità con quanto sancito dal CCNL e daccord
+
+================================================================================
+
+CHUNK 68
+----------------------------------------
+Sezione: 4.7 Orario di Lavoro
+Livello: 2
+Pagina: 14
+Dimensione: 580 caratteri
+
+TESTO:
+Il ricorso a prestazioni di lavoro straordinario è contenuto nei limiti previsti dal CCNL di categoria fatto salvo quanto previsto dall'art.5 del Decreto Legislativo 8 Aprile 2003, n.66. Ilavoro straordinario viene conteggiato a parte compensato con le maggiorazioni previste dal contratto di categoria. È possibile usufruire di permessin conformità con quanto sancito dal CCNL e daccordi sottoscritti dall'Azienda. L'orario di lavoro stabilito viene portato a conoscenza dei lavoratori mediante pubblicazione sulla intranet aziendale sul proprio profilo personale 'HR -Informa' .
+
+================================================================================
+
+CHUNK 69
+----------------------------------------
+Sezione: 4.8 Retribuzione
+Livello: 2
+Pagina: 14
+Dimensione: 822 caratteri
+
+TESTO:
+LUTECH garantisce per i propri dipendenti una regolare dignitosa retribuzione conforme al contratto collettivo nazionale (CCNL Metalmeccanico Privato e CCNL del Commercio), così come le trattenute, proporzionale all'esperienza ed alle competenze tale da garantirgli una "esistenza libera e dignitosa" (articolo 36 della Costituzione Italiana). LUTECH non stipulaccordi di lavoro nero e programmi di falso apprendistato accordi di sola manodopera volti ad evitare l'adempimento degli obblighi aziendali nei confronti del personale, in base alla legislazione vigente in materia di lavoro e di sicurezza sociale. Nel caso in cui vi siano informazioni/cambiamenti legislativi o di posizione/reclami che possano portare dei dubbin merito alla conformità della retribuzione ai dipendenti, è compito della funzione Human Resource
+
+CONTESTO PRECEDENTE:
+endistato accordi di sola manodopera volti ad evitare l'adempimento degli obblighi aziendali nei confronti del personale, in base alla legislazione vigente in materia di lavoro e di sicurezza sociale.
+
+================================================================================
+
+CHUNK 70
+----------------------------------------
+Sezione: 4.8 Retribuzione
+Livello: 2
+Pagina: 14
+Dimensione: 212 caratteri
+
+TESTO:
+Nel caso in cui vi siano informazioni/cambiamenti legislativi o di posizione/reclami che possano portare dei dubbin merito alla conformità della retribuzione ai dipendenti, è compito della funzione Human Resource
+
+================================================================================
+
+CHUNK 71
+----------------------------------------
+Sezione: 4.9.1 Politiche, Procedure Registrazioni
+Livello: 3
+Pagina: 16
+Dimensione: 2071 caratteri
+
+TESTO:
+La Direzione di LUTECH forniscevidenza del proprio impegno per stabilire, pianificare, attuare, condurre, monitorare, riesaminare, mantenere aggiornato e migliorare il SGRS svolgendo le seguenti attività: - ❑ assumendo la propria piena responsabilità e obbligo complessivo di rendere conto della prevenzione di eventin contrasto ai requisiti della SA8000 e correlati alavoro, nonché della predisposizione di luoghi di lavoro e attività sicuri - ❑ assicurando che siano stabiliti gli obiettivi e la politica del SGRS e che questi siano compatibili con le direttive strategiche dell'organizzazione. Si vedano infatti: - o POL-960 Politica per la Responsabilità Sociale - o MOG-001 Codice Etico - o Riesami di Direzione - ❑ assicurando l'integrazione del SGRS nei processi dell'organizzazione, tramite la PSQ-000 Struttura Organizzativa Generale la PSQ-000Struttura Organizzativa SPT e Regolamento - ❑ assicurando che siano disponibili le risorse necessarie per la gestione tutta del SGRS - ❑ comunicando l'importanza della gestioneffettiva del SGRS e la conformità ai suoi requisiti, tramite: - o informazione sulla Responsabilità Sociale - o formazione in conformità alla SA8000:2014 - o contenuti divulgati nelle modalità descritte al paragrafo 4.9.5 Coinvolgimento interno e comunicazione - ❑ assicurando che il SGRS raggiunga i suoi obiettivi tramite glindicatori e le modalità di controllo definite al paragrafo 4.9.4 Monitoraggio - [ ] ❑ dirigendo e supportando le persone in modo che contribuiscano all'efficacia del SGRS - [ ] ❑ promuovendo il miglioramento continuo e supportando il management
+
+e al paragrafo 4.9.4 Monitoraggio - [ ] ❑ dirigendo e supportando le persone in modo che contribuiscano all'efficacia del SGRS - [ ] ❑ promuovendo il miglioramento continuo e supportando il management aziendale affinché i requisiti del SGRS siano sempre più adottati e applicati efficacemented efficientemente nelle proprie aree di responsabilità - [ ] ❑ proteggendo i lavoratori dalle ritorsioni a seguito della segnalazione dincidenti, pericoli, rischi e/opportunità.
+
+CONTESTO PRECEDENTE:
+osizione di luoghi di lavoro e attività sicuri - ❑ assicurando che siano stabiliti gli obiettivi e la politica del SGRS e che questi siano compatibili con le direttive strategiche dell'organizzazione.
+
+================================================================================
+
+CHUNK 72
+----------------------------------------
+Sezione: 4.9.1 Politiche, Procedure Registrazioni
+Livello: 3
+Pagina: 16
+Dimensione: 1474 caratteri
+
+TESTO:
+Si vedano infatti: - o POL-960 Politica per la Responsabilità Sociale - o MOG-001 Codice Etico - o Riesami di Direzione - ❑ assicurando l'integrazione del SGRS nei processi dell'organizzazione, tramite la PSQ-000 Struttura Organizzativa Generale la PSQ-000Struttura Organizzativa SPT e Regolamento - ❑ assicurando che siano disponibili le risorse necessarie per la gestione tutta del SGRS - ❑ comunicando l'importanza della gestioneffettiva del SGRS e la conformità ai suoi requisiti, tramite: - o informazione sulla Responsabilità Sociale - o formazione in conformità alla SA8000:2014 - o contenuti divulgati nelle modalità descritte al paragrafo 4.9.5 Coinvolgimento interno e comunicazione - ❑ assicurando che il SGRS raggiunga i suoi obiettivi tramite glindicatori e le modalità di controllo definite al paragrafo 4.9.4 Monitoraggio - [ ] ❑ dirigendo e supportando le persone in modo che contribuiscano all'efficacia del SGRS - [ ] ❑ promuovendo il miglioramento continuo e supportando il management
+
+e al paragrafo 4.9.4 Monitoraggio - [ ] ❑ dirigendo e supportando le persone in modo che contribuiscano all'efficacia del SGRS - [ ] ❑ promuovendo il miglioramento continuo e supportando il management aziendale affinché i requisiti del SGRS siano sempre più adottati e applicati efficacemented efficientemente nelle proprie aree di responsabilità - [ ] ❑ proteggendo i lavoratori dalle ritorsioni a seguito della segnalazione dincidenti, pericoli, rischi e/opportunità.
+
+================================================================================
+
+CHUNK 73
+----------------------------------------
+Sezione: 4.9.1.1 Politica SGRS
+Livello: 4
+Pagina: 16,17
+Dimensione: 1164 caratteri
+
+TESTO:
+La Direzione della Azienda ha implementato un Sistema di Gestione conforme alla norma SA8000:2014, al fine di raggiungere mantenere i seguenti obiettivi di carattere generale: - ❑ coinvolgere tutto il personale interno nella realizzazione nel mantenimento del Sistema SA8000:2014 mediante continua e crescente sensibilizzazione alla Responsabilità Sociale sul proprio Luogo di Lavoro in riferimento anche alla prevenzione deglinfortuni e delle malattie professionali - ❑ assicurare che le proprie attività siano svolte in conformità alla legislazione vigente, in tutti gli ambitin cui deve operare, oltre che ai requisiti e alle procedure interne - ❑ coinvolgere sensibilizzare i propri Clienti, Fornitori e Partner sulle problematiche in ambito di Responsabilità Sociale, allo stesso modo di quanto viene fatto per i propri Dipendenti e Collaboratori - ❑ preservare al meglio l'immagine dell'Azienda, quale Fornitore puntuale, affidabile, competente sicuro Manuale Codice documento MRS-000 Versione 00 Versione 00 - ❑ incentivare il bilanciamento in modo equilibrato delavoro e della vita personale della riduzione dello stress generato dalle attività lavorative.
+
+CONTESTO SUCCESSIVO:
+e Codice documento MRS-000 Versione 00 Versione 00 - ❑ incentivare il bilanciamento in modo equilibrato delavoro e della vita personale della riduzione dello stress generato dalle attività lavorative.
+
+================================================================================
+
+CHUNK 74
+----------------------------------------
+Sezione: 4.9.1.1 Politica SGRS
+Livello: 4
+Pagina: 16,17
+Dimensione: 1365 caratteri
+
+TESTO:
+La Direzione della Azienda ha implementato un Sistema di Gestione conforme alla norma SA8000:2014, al fine di raggiungere mantenere i seguenti obiettivi di carattere generale: - ❑ coinvolgere tutto il personale interno nella realizzazione nel mantenimento del Sistema SA8000:2014 mediante continua e crescente sensibilizzazione alla Responsabilità Sociale sul proprio Luogo di Lavoro in riferimento anche alla prevenzione deglinfortuni e delle malattie professionali - ❑ assicurare che le proprie attività siano svolte in conformità alla legislazione vigente, in tutti gli ambitin cui deve operare, oltre che ai requisiti e alle procedure interne - ❑ coinvolgere sensibilizzare i propri Clienti, Fornitori e Partner sulle problematiche in ambito di Responsabilità Sociale, allo stesso modo di quanto viene fatto per i propri Dipendenti e Collaboratori - ❑ preservare al meglio l'immagine dell'Azienda, quale Fornitore puntuale, affidabile, competente sicuro Manuale Codice documento MRS-000 Versione 00 Versione 00 - ❑ incentivare il bilanciamento in modo equilibrato delavoro e della vita personale della riduzione dello stress generato dalle attività lavorative. e Codice documento MRS-000 Versione 00 Versione 00 - ❑ incentivare il bilanciamento in modo equilibrato delavoro e della vita personale della riduzione dello stress generato dalle attività lavorative.
+
+CONTESTO PRECEDENTE:
+e Codice documento MRS-000 Versione 00 Versione 00 - ❑ incentivare il bilanciamento in modo equilibrato delavoro e della vita personale della riduzione dello stress generato dalle attività lavorative.
+
+CONTESTO SUCCESSIVO:
+Peraggiungere questi obiettivi l'Azienda ritiene indispensabile: - ❑ l'applicazione di tecniche metodologie proprie dei Sistemi di Gestione, intese come mezzo per gestire in forma controllata tutte le
+
+================================================================================
+
+CHUNK 75
+----------------------------------------
+Sezione: 4.9.1.1 Politica SGRS
+Livello: 4
+Pagina: 16,17
+Dimensione: 1360 caratteri
+
+TESTO:
+e Codice documento MRS-000 Versione 00 Versione 00 - ❑ incentivare il bilanciamento in modo equilibrato delavoro e della vita personale della riduzione dello stress generato dalle attività lavorative. Peraggiungere questi obiettivi l'Azienda ritiene indispensabile: - ❑ l'applicazione di tecniche metodologie proprie dei Sistemi di Gestione, intese come mezzo per gestire in forma controllata tutte le attività svolte nei processi coinvolti - ❑ l'organica e chiara definizione dei compiti e delle responsabilità di tutto il personale impiegato in tutti processi operativi dell'Azienda - ❑ il coinvolgimento attivo e partecipativo di tutti dipendenti e collaboratori e dei loro rappresentanti - ❑ l'attiva sorveglianza e controlloperativo sullo svolgimento e l'efficace comunicazione delle informazioni necessarie al coordinamento delle attività in sicurezza - ❑ la completa e precisa identificazione dei rischi col fine di prevenire non conformità alla SA8000 e agli obblighi legislativi - ❑ la continua formazione informazione a tutti dipendenti sensibilizzandoli e istruendoli relativamente ad un corretto approccio nello svolgimento delle proprie attività lavorative - ❑ il continuo miglioramento del proprio Sistema di Gestione in ambito Responsabilità Sociale al fine di migliorare sempre più le condizioni di lavoro di tutte le partinteressate coinvolte.
+
+CONTESTO PRECEDENTE:
+e Codice documento MRS-000 Versione 00 Versione 00 - ❑ incentivare il bilanciamento in modo equilibrato delavoro e della vita personale della riduzione dello stress generato dalle attività lavorative.
+
+CONTESTO SUCCESSIVO:
+Insieme agli obiettivi di carattere generale, precedentemente citati, la Direzione valutanno per anno gli obiettivi specifici e misurabili che possono riferirsi ad aspetti particolari. L'Azienda con s
+
+================================================================================
+
+CHUNK 76
+----------------------------------------
+Sezione: 4.9.1.1 Politica SGRS
+Livello: 4
+Pagina: 16,17
+Dimensione: 1344 caratteri
+
+TESTO:
+Peraggiungere questi obiettivi l'Azienda ritiene indispensabile: - ❑ l'applicazione di tecniche metodologie proprie dei Sistemi di Gestione, intese come mezzo per gestire in forma controllata tutte le attività svolte nei processi coinvolti - ❑ l'organica e chiara definizione dei compiti e delle responsabilità di tutto il personale impiegato in tutti processi operativi dell'Azienda - ❑ il coinvolgimento attivo e partecipativo di tutti dipendenti e collaboratori e dei loro rappresentanti - ❑ l'attiva sorveglianza e controlloperativo sullo svolgimento e l'efficace comunicazione delle informazioni necessarie al coordinamento delle attività in sicurezza - ❑ la completa e precisa identificazione dei rischi col fine di prevenire non conformità alla SA8000 e agli obblighi legislativi - ❑ la continua formazione informazione a tutti dipendenti sensibilizzandoli e istruendoli relativamente ad un corretto approccio nello svolgimento delle proprie attività lavorative - ❑ il continuo miglioramento del proprio Sistema di Gestione in ambito Responsabilità Sociale al fine di migliorare sempre più le condizioni di lavoro di tutte le partinteressate coinvolte. Insieme agli obiettivi di carattere generale, precedentemente citati, la Direzione valutanno per anno gli obiettivi specifici e misurabili che possono riferirsi ad aspetti particolari.
+
+CONTESTO PRECEDENTE:
+avorative - ❑ il continuo miglioramento del proprio Sistema di Gestione in ambito Responsabilità Sociale al fine di migliorare sempre più le condizioni di lavoro di tutte le partinteressate coinvolte.
+
+CONTESTO SUCCESSIVO:
+L'Azienda con sistematicità ed imparzialità effettuerà
+
+erale, precedentemente citati, la Direzione valutanno per anno gli obiettivi specifici e misurabili che possono riferirsi ad aspetti particolari
+
+================================================================================
+
+CHUNK 77
+----------------------------------------
+Sezione: 4.9.1.1 Politica SGRS
+Livello: 4
+Pagina: 16,17
+Dimensione: 1042 caratteri
+
+TESTO:
+Insieme agli obiettivi di carattere generale, precedentemente citati, la Direzione valutanno per anno gli obiettivi specifici e misurabili che possono riferirsi ad aspetti particolari. L'Azienda con sistematicità ed imparzialità effettuerà
+
+erale, precedentemente citati, la Direzione valutanno per anno gli obiettivi specifici e misurabili che possono riferirsi ad aspetti particolari. L'Azienda con sistematicità ed imparzialità effettuerà degli Audit interni sulla Responsabilità Sociale al fine di verificarne l'efficacia nel raggiungere gli obiettivi e pianificherà eventuali Azioni Correttive/o di Miglioramento. La Direzione di LUTECH S.p.A. simpegna, infine, a riesaminare regolarmente la propria Politica sulla Responsabilità Sociale per accertarsi che permanga idonea e appropriatad attività e contesto dell'Azienda e a rendere tale Politica sempre disponibile a tutte le partinteressate tramite pubblicazione sul sito istituzionale/o tramite opportune richieste dinformazioninviabili all'indirizzo mail ComplianceOffice@lutech.it .
+
+CONTESTO PRECEDENTE:
+Audit interni sulla Responsabilità Sociale al fine di verificarne l'efficacia nel raggiungere gli obiettivi e pianificherà eventuali Azioni Correttive/o di Miglioramento. La Direzione di LUTECH S.p.A.
+
+CONTESTO SUCCESSIVO:
+Nella consapevolezza che tali obiettivi siano raggiungibili solo con la piena partecipazione di tutti, la Direzione chiede la collaborazione attiva dei dipendenti, dei collaboratori e di tutte le part
+
+================================================================================
+
+CHUNK 78
+----------------------------------------
+Sezione: 4.9.1.1 Politica SGRS
+Livello: 4
+Pagina: 16,17
+Dimensione: 966 caratteri
+
+TESTO:
+simpegna, infine, a riesaminare regolarmente la propria Politica sulla Responsabilità Sociale per accertarsi che permanga idonea e appropriatad attività e contesto dell'Azienda e a rendere tale Politica sempre disponibile a tutte le partinteressate tramite pubblicazione sul sito istituzionale/o tramite opportune richieste dinformazioninviabili all'indirizzo mail ComplianceOffice@lutech.it . Nella consapevolezza che tali obiettivi siano raggiungibili solo con la piena partecipazione di tutti, la Direzione chiede la collaborazione attiva dei dipendenti, dei collaboratori e di tutte le partinteressate. La politica sopra riportata è disponibile come Informazione Documentata sé stante anche nel MRS-POL Politica per la Responsabilità Sociale , disponibile a tutte le partinteressate interne all'Azienda, tramite pubblicazione sull'Intranet di LUTECH, ed esterne all'Azienda, tramite pubblicazione sul sito istituzionale di LUTECH e/o invio via mail della stessa.
+
+CONTESTO PRECEDENTE:
+evolezza che tali obiettivi siano raggiungibili solo con la piena partecipazione di tutti, la Direzione chiede la collaborazione attiva dei dipendenti, dei collaboratori e di tutte le partinteressate.
+
+CONTESTO SUCCESSIVO:
+Inoltre, la stessa viene poi riportata e ribaditanche all'interno dell'Informazione Documentata 'Rapporto Annuale sui Sistemi di Gestione' anch'essa pubblicata sull'Intranet di LUTECH.
+
+================================================================================
+
+CHUNK 79
+----------------------------------------
+Sezione: 4.9.1.1 Politica SGRS
+Livello: 4
+Pagina: 16,17
+Dimensione: 544 caratteri
+
+TESTO:
+La politica sopra riportata è disponibile come Informazione Documentata sé stante anche nel MRS-POL Politica per la Responsabilità Sociale , disponibile a tutte le partinteressate interne all'Azienda, tramite pubblicazione sull'Intranet di LUTECH, ed esterne all'Azienda, tramite pubblicazione sul sito istituzionale di LUTECH e/o invio via mail della stessa. Inoltre, la stessa viene poi riportata e ribaditanche all'interno dell'Informazione Documentata 'Rapporto Annuale sui Sistemi di Gestione' anch'essa pubblicata sull'Intranet di LUTECH.
+
+================================================================================
+
+CHUNK 80
+----------------------------------------
+Sezione: 4.9.1.2.1 Generalità
+Livello: 5
+Pagina: 18
+Dimensione: 884 caratteri
+
+TESTO:
+Il Sistema di Gestione per la RS di LUTECH comprende: - [ ] ❑ le Informazioni Documentate richieste dalla norma SA8000:2014 - [ ] ❑ le Informazioni Documentate necessarie per l'efficacia del Sistema di Gestione per la RS - [ ] ❑ le Informazioni Documentate necessarie ad integrare il Sistema di Gestione per la RS con gli altri Sistemi di Gestione aziendali. Manuale del Sistema di Gestione sulla Responsabilità Sociale. Detta obiettivi, linee guida, responsabilità, processi e regole attuative, formalizzando i requisiti minimi obbligatori derivanti da Leggi, Regolamenti, contratti, richieste cogenti esterne i requisitidonei derivanti da standard riconosciuti e metodologie consolidate per la gestione dei rischi di sicurezza entro livelli ritenuti accettabili dall'Azienda. A questo livello sono descritte le principali procedure per l'attuazione dei requisiti della norma SA8000.
+
+CONTESTO PRECEDENTE:
+tratti, richieste cogenti esterne i requisitidonei derivanti da standard riconosciuti e metodologie consolidate per la gestione dei rischi di sicurezza entro livelli ritenuti accettabili dall'Azienda.
+
+CONTESTO SUCCESSIVO:
+La Politica sulla Responsabilità Sociale . Esprime l'impegno della Direzione sulla Responsabilità Sociale attraverso la definizione di obiettivi, linee guida, responsabilità, processi e regole attuati
+
+================================================================================
+
+CHUNK 81
+----------------------------------------
+Sezione: 4.9.1.2.1 Generalità
+Livello: 5
+Pagina: 18
+Dimensione: 645 caratteri
+
+TESTO:
+A questo livello sono descritte le principali procedure per l'attuazione dei requisiti della norma SA8000. La Politica sulla Responsabilità Sociale . Esprime l'impegno della Direzione sulla Responsabilità Sociale attraverso la definizione di obiettivi, linee guida, responsabilità, processi e regole attuative. Ilivelloperativo racchiude tutte le prassi, scritte non scritte, e le istruzioni operative che traspongono i requisiti di livello strategico e tattico in operazioni pratiche da effettuarsi perispettare i requisiti dettati ad alto livello. Per maggiori dettagli consultare la procedura PSQ-001 Gestione delle Informazioni Documentate .
+
+================================================================================
+
+CHUNK 82
+----------------------------------------
+Sezione: 4.9.1.2.2 Creazioned Aggiornamento
+Livello: 5
+Pagina: 18
+Dimensione: 527 caratteri
+
+TESTO:
+LUTECH nel creared aggiornare le proprie Informazioni Documentate, assicura in manierappropriata: - [ ] ❑ l'identificazione la descrizione (per esempio titolo, data, autore, numero di riferimento) - [ ] ❑ il formato (per esempio lingua, grafica) e supporto (per esempio cartaceo, elettronico) - [ ] ❑ la revisione l'approvazione per l'idoneità e all'adeguatezza. La procedura PSQ-001 Gestione delle informazioni documentate riporta i criteri didentificazione, compilazione revisione/approvazione delle Informazioni Documentate.
+
+================================================================================
+
+CHUNK 83
+----------------------------------------
+Sezione: 4.9.1.2.3 Controllo delle Informazioni Documentate
+Livello: 5
+Pagina: 18
+Dimensione: 482 caratteri
+
+TESTO:
+Le Informazioni Documentate presenti nel Sistema di Gestione della RS sono controllate da LUTECH in modo che: - [ ] ❑ siano disponibili e aggiornate all'utilizzo, dove quando necessario - [ ] ❑ siano adeguatamente protette (per esempio dalla perdita di riservatezza, utilizzo improprio perdita dintegrità) - [ ] ❑ siano distribuite, accedute, recuperate utilizzate - [ ] ❑ siano immagazzinate protette, inclusa la preservazione della leggibilità Codice documento MRS-000 Versione 00
+
+================================================================================
+
+CHUNK 84
+----------------------------------------
+Sezione: 4.9.1.3 Riesame di Direzione
+Livello: 4
+Pagina: 19
+Dimensione: 1380 caratteri
+
+TESTO:
+La direzione (Chief Executive Officer, il Chief People Officer, il Chief Compliance Officer, il Chief HSE Officer e all'occorrenza i responsabili delle altre strutture organizzative) a intervalli pianificati (solitamente annuali) riesaminano il Sistema di Gestione per la RS, per assicurarne la continua idoneità, adeguatezza ed efficacia. Il Riesame di Direzione include considerazioni su: - [ ] ❑ stato delle azioni derivanti da precedenti riesami di direzione - ❑ cambiamenti nei fattori esterni e interni che sono pertinenti al Sistema di Gestione per la RS, inclusi: - o esigenze aspettative delle partinteressate - o requisiti Legali e Altri Requisiti - o rischi e opportunità - [ ] ❑ grado di realizzazione della politica per la RS e degli obiettivi per la RS - ❑ informazioni sulle prestazionin termini di RS, compresi gli andamenti relativi a: - o incidenti, Non Conformità, azioni correttive miglioramento continuo - o risultati del monitoraggio e della misurazione - o risultati della valutazione della conformità ai Requisiti Legali e Altri Requisiti - o risultati di audit - o consultazione partecipazione dei lavoratori - o rischi e opportunità - [ ] ❑ adeguatezza delle risorse per il mantenimento di un efficace Sistema di Gestione per la RS - [ ] ❑ comunicazioni pertinenti con le partinteressate - [ ] ❑ opportunità per il miglioramento continuo - [ ] ❑ reclami.
+
+CONTESTO PRECEDENTE:
+sabili delle altre strutture organizzative) a intervalli pianificati (solitamente annuali) riesaminano il Sistema di Gestione per la RS, per assicurarne la continua idoneità, adeguatezza ed efficacia.
+
+CONTESTO SUCCESSIVO:
+elle risorse per il mantenimento di un efficace Sistema di Gestione per la RS - [ ] ❑ comunicazioni pertinenti con le partinteressate - [ ] ❑ opportunità per il miglioramento continuo - [ ] ❑ reclami.
+
+================================================================================
+
+CHUNK 85
+----------------------------------------
+Sezione: 4.9.1.3 Riesame di Direzione
+Livello: 4
+Pagina: 19
+Dimensione: 1241 caratteri
+
+TESTO:
+Il Riesame di Direzione include considerazioni su: - [ ] ❑ stato delle azioni derivanti da precedenti riesami di direzione - ❑ cambiamenti nei fattori esterni e interni che sono pertinenti al Sistema di Gestione per la RS, inclusi: - o esigenze aspettative delle partinteressate - o requisiti Legali e Altri Requisiti - o rischi e opportunità - [ ] ❑ grado di realizzazione della politica per la RS e degli obiettivi per la RS - ❑ informazioni sulle prestazionin termini di RS, compresi gli andamenti relativi a: - o incidenti, Non Conformità, azioni correttive miglioramento continuo - o risultati del monitoraggio e della misurazione - o risultati della valutazione della conformità ai Requisiti Legali e Altri Requisiti - o risultati di audit - o consultazione partecipazione dei lavoratori - o rischi e opportunità - [ ] ❑ adeguatezza delle risorse per il mantenimento di un efficace Sistema di Gestione per la RS - [ ] ❑ comunicazioni pertinenti con le partinteressate - [ ] ❑ opportunità per il miglioramento continuo - [ ] ❑ reclami. elle risorse per il mantenimento di un efficace Sistema di Gestione per la RS - [ ] ❑ comunicazioni pertinenti con le partinteressate - [ ] ❑ opportunità per il miglioramento continuo - [ ] ❑ reclami.
+
+CONTESTO PRECEDENTE:
+elle risorse per il mantenimento di un efficace Sistema di Gestione per la RS - [ ] ❑ comunicazioni pertinenti con le partinteressate - [ ] ❑ opportunità per il miglioramento continuo - [ ] ❑ reclami.
+
+CONTESTO SUCCESSIVO:
+Gli output del Riesame di Direzione comprendono decisioni relative a: - [ ] ❑ mantenimento dell'idoneità dell'adeguatezza e dell'efficacia del Sistema di Gestione per la RS nel conseguimento dei risul
+
+================================================================================
+
+CHUNK 86
+----------------------------------------
+Sezione: 4.9.1.3 Riesame di Direzione
+Livello: 4
+Pagina: 19
+Dimensione: 585 caratteri
+
+TESTO:
+elle risorse per il mantenimento di un efficace Sistema di Gestione per la RS - [ ] ❑ comunicazioni pertinenti con le partinteressate - [ ] ❑ opportunità per il miglioramento continuo - [ ] ❑ reclami. Gli output del Riesame di Direzione comprendono decisioni relative a: - [ ] ❑ mantenimento dell'idoneità dell'adeguatezza e dell'efficacia del Sistema di Gestione per la RS nel conseguimento dei risultati attesi - [ ] ❑ opportunità di miglioramento continuo - [ ] ❑ qualsiasi esigenza di modifical Sistema di Gestione per la RS - [ ] ❑ risorse necessarie - [ ] ❑ azioni, se necessarie
+
+================================================================================
+
+CHUNK 87
+----------------------------------------
+Sezione: 4.9.1.4 Sistema di Gestione per la Responsabilità Sociale
+Livello: 4
+Pagina: 20
+Dimensione: 854 caratteri
+
+TESTO:
+LUTECH ha stabilito, implementato, mantiene migliora continuamente il SGRS includendo i processi necessari e le loro interazionin accordo a quanto definito nella norma e dalla legislazione, con il fine quindi di soddisfare tutti requisiti sulla Responsabilità Sociale. La tabella seguente riporta l'elenco dei processi che costituiscono il SGRS e delle procedure che li descrivono. Processo Direzionale, DOCUMENTI SGRS = MRS-000. Processo Direzionale, DOCUMENTI SGRS = Manuale del Sistema Responsabilità Sociale. Approvvigionamenti, DOCUMENTI SGRS = PSQ-005. Approvvigionamenti, DOCUMENTI SGRS = Qualificazione Fornitori. Approvvigionamenti, DOCUMENTI SGRS = PSQ-006. Approvvigionamenti, DOCUMENTI SGRS = Approvvigionamenti. Approvvigionamenti, DOCUMENTI SGRS = PSQ-204. Approvvigionamenti, DOCUMENTI SGRS = Gestione dispute contrattuali con i Fornitori.
+
+CONTESTO PRECEDENTE:
+Approvvigionamenti, DOCUMENTI SGRS = Approvvigionamenti. Approvvigionamenti, DOCUMENTI SGRS = PSQ-204.
+
+CONTESTO SUCCESSIVO:
+Risorse Umane, DOCUMENTI SGRS = PSQ-000. Risorse Umane, DOCUMENTI SGRS = Struttura Organizzativa Generale.
+
+================================================================================
+
+CHUNK 88
+----------------------------------------
+Sezione: 4.9.1.4 Sistema di Gestione per la Responsabilità Sociale
+Livello: 4
+Pagina: 20
+Dimensione: 854 caratteri
+
+TESTO:
+Approvvigionamenti, DOCUMENTI SGRS = PSQ-204. Approvvigionamenti, DOCUMENTI SGRS = Gestione dispute contrattuali con i Fornitori. Risorse Umane, DOCUMENTI SGRS = PSQ-000. Risorse Umane, DOCUMENTI SGRS = Struttura Organizzativa Generale. Risorse Umane, DOCUMENTI SGRS = PSQ-000S. Risorse Umane, DOCUMENTI SGRS = Social Performance Team. Risorse Umane, DOCUMENTI SGRS = PSQ-000H. Risorse Umane, DOCUMENTI SGRS = Struttura Organizzativa per la Salute Sicurezza sul Lavoro. Risorse Umane, DOCUMENTI SGRS = PSQ-004. Risorse Umane, DOCUMENTI SGRS = Gestione della Formazione. Risorse Umane, DOCUMENTI SGRS = MOG-000A. Risorse Umane, DOCUMENTI SGRS = Modello di organizzazione, Gestione Controllo ex D.Lgs. 231/01 - Parte Generale. Risorse Umane, DOCUMENTI SGRS = MOG-000B. Risorse Umane, DOCUMENTI SGRS = Modello di organizzazione, Gestione Controllo ex D.Lgs.
+
+CONTESTO PRECEDENTE:
+231/01 - Parte Generale. Risorse Umane, DOCUMENTI SGRS = MOG-000B.
+
+CONTESTO SUCCESSIVO:
+organizzazione, Gestione Controllo ex D.Lgs. 231/01 - Parte Generale.
+
+================================================================================
+
+CHUNK 89
+----------------------------------------
+Sezione: 4.9.1.4 Sistema di Gestione per la Responsabilità Sociale
+Livello: 4
+Pagina: 20
+Dimensione: 859 caratteri
+
+TESTO:
+231/01 - Parte Generale. Risorse Umane, DOCUMENTI SGRS = MOG-000B. Risorse Umane, DOCUMENTI SGRS = Modello di organizzazione, Gestione Controllo ex D.Lgs. organizzazione, Gestione Controllo ex D.Lgs. 231/01 - Parte Generale. Risorse Umane, DOCUMENTI SGRS = MOG-000B. Risorse Umane, DOCUMENTI SGRS = Modello di organizzazione, Gestione Controllo ex D.Lgs. 231/01 - Parte Speciale. Risorse Umane, DOCUMENTI SGRS = MOG-001. Risorse Umane, DOCUMENTI SGRS = Codice Etico. Risorse Umane, DOCUMENTI SGRS = PSQ-025. Risorse Umane, DOCUMENTI SGRS = Gestione delle Risorse Umane. Processo Direzionale, DOCUMENTI SGRS = MSL-000. Processo Direzionale, DOCUMENTI SGRS = Manuale del Sistema Salute Sicurezza sul Lavoro. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = PSQ-007. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = Gestione non conformità e reclami.
+
+CONTESTO PRECEDENTE:
+Processo Direzionale, DOCUMENTI SGRS = Manuale del Sistema Salute Sicurezza sul Lavoro. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = PSQ-007.
+
+CONTESTO SUCCESSIVO:
+Misurazione, analisi e miglioramento, DOCUMENTI SGRS = PSQ-008. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = Gestione audit interni del Sistema Qualità.
+
+================================================================================
+
+CHUNK 90
+----------------------------------------
+Sezione: 4.9.1.4 Sistema di Gestione per la Responsabilità Sociale
+Livello: 4
+Pagina: 20
+Dimensione: 854 caratteri
+
+TESTO:
+Processo Direzionale, DOCUMENTI SGRS = Manuale del Sistema Salute Sicurezza sul Lavoro. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = PSQ-007. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = Gestione non conformità e reclami. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = PSQ-008. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = Gestione audit interni del Sistema Qualità. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = PSQ-019. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = Gestione delle azioni. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = PSQ-021. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = Misurazione miglioramento continuo. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = KPI-000. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = Elenco Key Performance Indicator.
+
+CONTESTO PRECEDENTE:
+Misurazione, analisi e miglioramento, DOCUMENTI SGRS = Misurazione miglioramento continuo. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = KPI-000.
+
+CONTESTO SUCCESSIVO:
+Misurazione, analisi e miglioramento, DOCUMENTI SGRS = KPI-001. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = Elenco KPI SA8000.
+
+================================================================================
+
+CHUNK 91
+----------------------------------------
+Sezione: 4.9.1.4 Sistema di Gestione per la Responsabilità Sociale
+Livello: 4
+Pagina: 20
+Dimensione: 871 caratteri
+
+TESTO:
+Misurazione, analisi e miglioramento, DOCUMENTI SGRS = KPI-000. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = Elenco Key Performance Indicator. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = KPI-001. Misurazione, analisi e miglioramento, DOCUMENTI SGRS = Elenco KPI SA8000. Supporto, DOCUMENTI SGRS = PSQ-501. Supporto, DOCUMENTI SGRS = Politica whistleblowing - Gestione delle Segnalazioni di eventuali fattilleciti 
+
+isi e miglioramento, DOCUMENTI SGRS = Elenco KPI SA8000. Supporto, DOCUMENTI SGRS = PSQ-501. Supporto, DOCUMENTI SGRS = Politica whistleblowing - Gestione delle Segnalazioni di eventuali fattilleciti ex D.lgs. 24/2023. Supporto, DOCUMENTI SGRS = PSQ-001. Supporto, DOCUMENTI SGRS = Gestione delle informazioni documentate. Supporto, DOCUMENTI SGRS = PSQ-027. Supporto, DOCUMENTI SGRS = Gestione delle ispezioni della Pubblica Autorità.
+
+CONTESTO PRECEDENTE:
+Supporto, DOCUMENTI SGRS = Gestione delle informazioni documentate. Supporto, DOCUMENTI SGRS = PSQ-027.
+
+CONTESTO SUCCESSIVO:
+Supporto, DOCUMENTI SGRS = PSQ-028. Supporto, DOCUMENTI SGRS = Gestione del Rischio.
+
+================================================================================
+
+CHUNK 92
+----------------------------------------
+Sezione: 4.9.1.4 Sistema di Gestione per la Responsabilità Sociale
+Livello: 4
+Pagina: 20
+Dimensione: 717 caratteri
+
+TESTO:
+Supporto, DOCUMENTI SGRS = PSQ-027. Supporto, DOCUMENTI SGRS = Gestione delle ispezioni della Pubblica Autorità. Supporto, DOCUMENTI SGRS = PSQ-028. Supporto, DOCUMENTI SGRS = Gestione del Rischio. Supporto, DOCUMENTI SGRS = PSQ-029. Supporto, DOCUMENTI SGRS = Gestione della Comunicazione. Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = PSQ-902. Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = Procedure di Emergenza. Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = PSQ-903. Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = Piani di Evacuazione. Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = INF-900. Salute Sicurezza sul Lavoro, DOCUMENTI SGRS = Informativa Salute Sicurezza sul Lavoro e Gestione Ambientale - Ospiti LUTECH
+
+================================================================================
+
+CHUNK 93
+----------------------------------------
+Sezione: 4.9.2 Social Performance Team
+Livello: 3
+Pagina: 21
+Dimensione: 851 caratteri
+
+TESTO:
+Tutti gli Enti o Funzioni, nell'ambito delle rispettive competenze, sono responsabili della gestione delle attività finalizzate al raggiungimento degli obiettivi espressi nella politicaziendale, disponendo di risorse personale adeguati. Il responsabile del SGRS ha il compito e l'autorità per assicurare che siapplicato e mantenuto un Sistema di Gestione sulla Responsabilità Sociale conforme alla norma SA8000:2014 e che le prescrizioni del presente Manuale della norma di riferimento siano applicate mantenute. La Direzione ha costituito il Social Performance Team (SPT) impegnandosi affinché in esso vi sia una rappresentanza equilibrata di lavoratori e management. Il SPT ha il compito principale di applicare tutti gli elementi della SA8000. In ogni caso la responsabilità della conformità allo standard viene mantenuta dalla Direzione Aziendale.
+
+CONTESTO PRECEDENTE:
+ial Performance Team (SPT) impegnandosi affinché in esso vi sia una rappresentanza equilibrata di lavoratori e management. Il SPT ha il compito principale di applicare tutti gli elementi della SA8000.
+
+CONTESTO SUCCESSIVO:
+I compiti principali del SPT possono essere così riassunti: - ❑ valutazione dei rischi di responsabilità sociale - ❑ gestione documentale del sistema di responsabilità sociale - ❑ rapporti con l'ente 
+
+================================================================================
+
+CHUNK 94
+----------------------------------------
+Sezione: 4.9.2 Social Performance Team
+Livello: 3
+Pagina: 21
+Dimensione: 923 caratteri
+
+TESTO:
+In ogni caso la responsabilità della conformità allo standard viene mantenuta dalla Direzione Aziendale. I compiti principali del SPT possono essere così riassunti: - ❑ valutazione dei rischi di responsabilità sociale - ❑ gestione documentale del sistema di responsabilità sociale - ❑ rapporti con l'ente di certificazione - ❑ monitoraggio del sistema - ❑ coordinamento degli audit al sistema di responsabilità sociale - ❑ stesura del rapporto per il riesame della Direzione - ❑ funzione di supporto nella gestione delle azioni correttive - ❑ funzione di supporto alla gestione dei reclami. Parte fondamentale del Social Performance Team e del Sistema di Gestione SA8000 sono i rappresentanti dei lavoratori per la SA8000. zioni correttive - ❑ funzione di supporto alla gestione dei reclami. Parte fondamentale del Social Performance Team e del Sistema di Gestione SA8000 sono i rappresentanti dei lavoratori per la SA8000.
+
+CONTESTO PRECEDENTE:
+Parte fondamentale del Social Performance Team e del Sistema di Gestione SA8000 sono i rappresentanti dei lavoratori per la SA8000. zioni correttive - ❑ funzione di supporto alla gestione dei reclami.
+
+CONTESTO SUCCESSIVO:
+Data la presenza dei sindacati all'interno dell'organizzazione, tale rappresentanza è scelta e designata in autonomia dai sindacati stessi. In aggiunta quanto sopra definito la Direzione ha inoltre as
+
+================================================================================
+
+CHUNK 95
+----------------------------------------
+Sezione: 4.9.2 Social Performance Team
+Livello: 3
+Pagina: 21
+Dimensione: 799 caratteri
+
+TESTO:
+Parte fondamentale del Social Performance Team e del Sistema di Gestione SA8000 sono i rappresentanti dei lavoratori per la SA8000. Data la presenza dei sindacati all'interno dell'organizzazione, tale rappresentanza è scelta e designata in autonomia dai sindacati stessi. In aggiunta quanto sopra definito la Direzione ha inoltre assegnato anche il ruolo di Chief HSE Officer a capo della struttura HSE Office, avente il compito di garantire il rispetto della cogenza in abito Salute Sicurezza sul Lavoro. Le responsabilità ed i ruoli specifici per la SA8000 sono descritti all'interno della procedura PSQ-000Struttura organizzativa SPT e regolamento mentre le responsabilità ed i ruoli specifici per la gestione della Salute Sicurezza sul Lavoro dal punto di vista della cogenza definita dal D.Lgs.
+
+CONTESTO PRECEDENTE:
+ la Direzione ha inoltre assegnato anche il ruolo di Chief HSE Officer a capo della struttura HSE Office, avente il compito di garantire il rispetto della cogenza in abito Salute Sicurezza sul Lavoro.
+
+CONTESTO SUCCESSIVO:
+81/08 sono descritti nella
+
+================================================================================
+
+CHUNK 96
+----------------------------------------
+Sezione: 4.9.2 Social Performance Team
+Livello: 3
+Pagina: 21
+Dimensione: 320 caratteri
+
+TESTO:
+Le responsabilità ed i ruoli specifici per la SA8000 sono descritti all'interno della procedura PSQ-000Struttura organizzativa SPT e regolamento mentre le responsabilità ed i ruoli specifici per la gestione della Salute Sicurezza sul Lavoro dal punto di vista della cogenza definita dal D.Lgs. 81/08 sono descritti nella
+
+================================================================================
+
+CHUNK 97
+----------------------------------------
+Sezione: 4.9.3.1 Generalità
+Livello: 4
+Pagina: 22
+Dimensione: 777 caratteri
+
+TESTO:
+LUTECH per pianificare il SGRS ha tenuto in considerazione il contesto in cui opera, le aspettative/esigenze delle partinteressated i rischi ed opportunità che devono essere gestitin modo che: - [ ] ❑ il SGRS raggiunga gli obiettivi stabiliti - ❑ gli effettindesiderati siano prevenuti o ridotti - ❑ sia conseguito il miglioramento continuo. Tutte le attività relative al governo della sicurezza della RS vengono realizzate seguendo la logica del Ciclo Plan -Do -Check -Act (PDCA). Questo Ciclo è costituito da quattro fasi (Pianificazione -Attuazione -Controllo -Correzione) con l'obiettivo di sviluppare delle attività, individuare le funzioni coinvolte ottenere degli standard operativi che consentano il non ripetersi dei problemi e la massima efficienza delle prestazioni.
+
+================================================================================
+
+CHUNK 98
+----------------------------------------
+Sezione: 4.9.3.2 Identificazione dei rischi
+Livello: 4
+Pagina: 22,23
+Dimensione: 2363 caratteri
+
+TESTO:
+LUTECH ha stabilito, attua e mantiene dei processi per l'identificazione continua e proattiva dei pericoli. Tali processi tengono conto di: - ❑ come è organizzato ilavoro, dei fattori sociali (inclusil carico di lavoro, le ore di lavoro, vessazioni, molestie intimidazioni), leadership e cultura dell'azienda - ❑ attività e situazioni di routine non di routine, compresi pericoli derivanti da: - o infrastrutture, attrezzature, materiali, sostanze condizioni fisiche deluogo di lavoro - o progettazione di prodotti e servizi, ricerca, sviluppo, collaudo, ed erogazione dei servizi - o fattori umani - o come vieneseguito ilavoro - ❑ incidenti rilevanti accaduti, interni o esterni all'organizzazione, incluse lemergenze le loro cause. Talincidenti accaduti o non accaduti (i cosiddetti 'Near Miss') vengonopportunamente registrati dalla struttura dell'HSE Office - [ ] ❑ situazioni di potenzialemergenza - [ ] ❑ persone, tenendo in considerazione: - o coloro che hanno accesso aluogo di lavoro e le loro attività, inclusi lavoratori, appaltatori, visitatori e altre persone - o coloro che, nelle vicinanze deluogo di lavoro, possono essere influenzati dalle attività di LUTECH - o lavoratorin un luogo non sotto il controllo diretto di LUTECH, come ad esempio il personale presso le sedi dei Clienti, o le unità locali aperte presso aziende del Gruppo LUTECH - ❑ altri fattori, tenendo in considerazione: - o la progettazione di aree di lavoro, processi, attrezzature, procedure operative organizzazione delavoro, compreso iloro adeguamento allesigenze alle capacità dei lavoratori coinvolti Codice d
+
+one: - o la progettazione di aree di lavoro, processi, attrezzature, procedure operative organizzazione delavoro, compreso iloro adeguamento allesigenze alle capacità dei lavoratori coinvolti Codice documento MRS-000 Versione 00 - o situazioni che si verificano nelle vicinanze del posto di lavoro causate dattività correlate alavoro sotto il controllo di LUTECH - o situazioni non tenute sotto il controllo di LUTECH e che si verificano nelle vicinanze deluogo di lavoro, che possono causare lesioni e malattie a persone suluogo di lavoro - ❑ cambiamenti effettivi o proposti nell'azienda, attività operative, processi, attività nel Sistema di Gestione per la RS - ❑ cambiamenti nella conoscenza e nelle informazioni dei pericoli, in seguito alla divulgazione.
+
+CONTESTO PRECEDENTE:
+ sviluppo, collaudo, ed erogazione dei servizi - o fattori umani - o come vieneseguito ilavoro - ❑ incidenti rilevanti accaduti, interni o esterni all'organizzazione, incluse lemergenze le loro cause.
+
+================================================================================
+
+CHUNK 99
+----------------------------------------
+Sezione: 4.9.3.2 Identificazione dei rischi
+Livello: 4
+Pagina: 22,23
+Dimensione: 1628 caratteri
+
+TESTO:
+Talincidenti accaduti o non accaduti (i cosiddetti 'Near Miss') vengonopportunamente registrati dalla struttura dell'HSE Office - [ ] ❑ situazioni di potenzialemergenza - [ ] ❑ persone, tenendo in considerazione: - o coloro che hanno accesso aluogo di lavoro e le loro attività, inclusi lavoratori, appaltatori, visitatori e altre persone - o coloro che, nelle vicinanze deluogo di lavoro, possono essere influenzati dalle attività di LUTECH - o lavoratorin un luogo non sotto il controllo diretto di LUTECH, come ad esempio il personale presso le sedi dei Clienti, o le unità locali aperte presso aziende del Gruppo LUTECH - ❑ altri fattori, tenendo in considerazione: - o la progettazione di aree di lavoro, processi, attrezzature, procedure operative organizzazione delavoro, compreso iloro adeguamento allesigenze alle capacità dei lavoratori coinvolti Codice d
+
+one: - o la progettazione di aree di lavoro, processi, attrezzature, procedure operative organizzazione delavoro, compreso iloro adeguamento allesigenze alle capacità dei lavoratori coinvolti Codice documento MRS-000 Versione 00 - o situazioni che si verificano nelle vicinanze del posto di lavoro causate dattività correlate alavoro sotto il controllo di LUTECH - o situazioni non tenute sotto il controllo di LUTECH e che si verificano nelle vicinanze deluogo di lavoro, che possono causare lesioni e malattie a persone suluogo di lavoro - ❑ cambiamenti effettivi o proposti nell'azienda, attività operative, processi, attività nel Sistema di Gestione per la RS - ❑ cambiamenti nella conoscenza e nelle informazioni dei pericoli, in seguito alla divulgazione.
+
+================================================================================
+
+CHUNK 100
+----------------------------------------
+Sezione: 4.9.3.3 Valutazione dei Rischi per la RS e altri Rischi per il Sistema di Gestione per la RS
+Livello: 4
+Pagina: 23
+Dimensione: 704 caratteri
+
+TESTO:
+LUTECH ha stabilito, attua e mantiene più processi per: - ❑ valutare i rischi per la RS provenienti dai pericolidentificati, tenendo conto, al contempo, dell'efficacia dei controlli esistenti - ❑ determinare valutare gli altri rischi connessi alla costituzione, attuazione, attività operative manutenzione del Sistema di Gestione per la RS Le metodologie di LUTECH e i criteri per la valutazione dei rischi per la RS sono stati definitin relazione aloro campo di applicazione, alla loro natura ed utilizzatin modo sistematico. Tali metodologie criteri sono disponibili, mantenuti e conservati come Informazioni Documentate, in opportuni paragrafi all'interno dei documenti citati al paragrafo precedente.
+
+================================================================================
+
+CHUNK 101
+----------------------------------------
+Sezione: 4.9.3.4 Valutazione delle Opportunità per la RS e di altre Opportunità per il SGRS
+Livello: 4
+Pagina: 23
+Dimensione: 648 caratteri
+
+TESTO:
+LUTECH ha stabilito, attua e mantiene un processo per valutare le: - ❑ opportunità per la RS per migliorare le prestazionin termini di RS, tenendo conto delle modifiche pianificate in azienda, alle sue politiche, ai processi o alle sue attività, e: - opportunità di adattare ilavoro, l'organizzazione delavoro e l'ambiente di lavoro ai lavoratori - opportunità di eliminare i pericoli e ridurre i rischi per la RS - ❑ altre Opportunità di migliorare il Sistema di Gestione per la RS Quanto sopra citato è considerato all'interno dell' analisi secondo la SA8000:2014 dei Rischi e delle Opportunità per il Sistema di Gestione della RS a cura del SPT.
+
+================================================================================
+
+CHUNK 102
+----------------------------------------
+Sezione: 4.9.4.1 Generalità
+Livello: 4
+Pagina: 23
+Dimensione: 329 caratteri
+
+TESTO:
+LUTECH ha stabilito, attua e mantiene, dei processi per il monitoraggio: - [ ] ❑ della conformità allo standard SA8000 - ❑ dell'attuazione delle azioni pianificate per affrontare i rischidentificati dal SPT; e - ❑ dell'efficacia delle modalità adottate per soddisfare le politiche dell'organizzazioned i requisiti dello Standard.
+
+================================================================================
+
+CHUNK 103
+----------------------------------------
+Sezione: 4.9.4.2 Non Conformità
+Livello: 4
+Pagina: 24
+Dimensione: 854 caratteri
+
+TESTO:
+LUTECH ha stabilito, attua e mantiene dei processi per valutare la conformità ai Requisiti Legali e Altri Requisiti. Infatti: - ❑ determina la frequenza e i metodi per la valutazione della conformità. Vedi 'PSQ -008 Gestione Audit' - ❑ valuta la conformità e intraprende azioni, se necessario (vedi paragrafo 4.9.8 Azioni correttive preventive) mantiene la conoscenza e la comprensione del proprio stato di conformità ai Requisiti Legali e Altri Requisiti - ❑ conserva Informazioni Documentate dei risultati della valutazione della conformità, sotto forma di verbali di audit o minute di riunioni periodiche ai sensi del D.Lgs. 81/08, o di Riesami di Direzione. LUTECH ha stabilito, attua e mantiene più processi, compreso reporting, investigazioni e azioni da intraprendere, per determinare gestire gli Incidenti e le Non Conformità (incluso i reclami).
+
+CONTESTO PRECEDENTE:
+onserva Informazioni Documentate dei risultati della valutazione della conformità, sotto forma di verbali di audit o minute di riunioni periodiche ai sensi del D.Lgs. 81/08, o di Riesami di Direzione.
+
+CONTESTO SUCCESSIVO:
+ezione. LUTECH ha stabilito, attua e mantiene più processi, compreso reporting, investigazioni e azioni da intraprendere, per determinare gestire gli Incidenti e le Non Conformità (incluso i reclami).
+
+================================================================================
+
+CHUNK 104
+----------------------------------------
+Sezione: 4.9.4.2 Non Conformità
+Livello: 4
+Pagina: 24
+Dimensione: 1330 caratteri
+
+TESTO:
+LUTECH ha stabilito, attua e mantiene più processi, compreso reporting, investigazioni e azioni da intraprendere, per determinare gestire gli Incidenti e le Non Conformità (incluso i reclami). ezione. LUTECH ha stabilito, attua e mantiene più processi, compreso reporting, investigazioni e azioni da intraprendere, per determinare gestire gli Incidenti e le Non Conformità (incluso i reclami). Quando si verifica una Non Conformità, LUTECH: - ❑ reagisce tempestivamente all'Incidente o alla Non Conformità, e, per quanto applicabile: - o intraprende azioni per tenerli sotto controllo e correggerli - o affronta le conseguenze - ❑ valuta, con il coinvolgimento di altri partinteressate pertinenti, la necessità di azioni correttive per eliminare la causa radice dell'Incidente o della Non Conformità, in modo che non si ripetano si verifichino altrove: - o riesaminando la Non Conformità - o determinando le cause della Non Conformità - o determinando sesistano Non Conformità simili oppure se possano potenzialmente verificarsi - ❑ determina e attua ogni azione necessaria - ❑ valuta i rischi per la RS che riguardano pericoli nuovi o modificati, prima dintraprendere azioni - ❑ riesamina l'efficacia di ogni azione intrapresa, comprese le azioni correttive - ❑ effettua modifiche al Sistema di Gestione per la RS, se necessario.
+
+CONTESTO PRECEDENTE:
+ezione. LUTECH ha stabilito, attua e mantiene più processi, compreso reporting, investigazioni e azioni da intraprendere, per determinare gestire gli Incidenti e le Non Conformità (incluso i reclami).
+
+================================================================================
+
+CHUNK 105
+----------------------------------------
+Sezione: 4.9.4.2 Non Conformità
+Livello: 4
+Pagina: 24
+Dimensione: 936 caratteri
+
+TESTO:
+Quando si verifica una Non Conformità, LUTECH: - ❑ reagisce tempestivamente all'Incidente o alla Non Conformità, e, per quanto applicabile: - o intraprende azioni per tenerli sotto controllo e correggerli - o affronta le conseguenze - ❑ valuta, con il coinvolgimento di altri partinteressate pertinenti, la necessità di azioni correttive per eliminare la causa radice dell'Incidente o della Non Conformità, in modo che non si ripetano si verifichino altrove: - o riesaminando la Non Conformità - o determinando le cause della Non Conformità - o determinando sesistano Non Conformità simili oppure se possano potenzialmente verificarsi - ❑ determina e attua ogni azione necessaria - ❑ valuta i rischi per la RS che riguardano pericoli nuovi o modificati, prima dintraprendere azioni - ❑ riesamina l'efficacia di ogni azione intrapresa, comprese le azioni correttive - ❑ effettua modifiche al Sistema di Gestione per la RS, se necessario.
+
+================================================================================
+
+CHUNK 106
+----------------------------------------
+Sezione: 4.9.4.3 Audit Interno
+Livello: 4
+Pagina: 25
+Dimensione: 509 caratteri
+
+TESTO:
+SPT deve facilitare la conduzione, ad intervalli pianificati, di audit interni allo scopo di fornire informazioni per accertare se il Sistema di Gestione per la RS è: - ❑ conforme: - o ai requisiti propri dell'Azienda per il proprio Sistema di Gestione per la RS, compresa la politica e gli obiettivi per la RS - o ai requisiti della norma SA8000:2014 - ❑ efficacemente attuato e mantenuto. Quanto sopra descritto è ampiamente formalizzato all'interno dell'Informazione Documentata ' PSQ-008 Gestione Audit '.
+
+================================================================================
+
+CHUNK 107
+----------------------------------------
+Sezione: 4.9.4.4 Indicatori di Performance
+Livello: 4
+Pagina: 25
+Dimensione: 391 caratteri
+
+TESTO:
+LUTECH ha individuato glindicatori di performance da misurare monitorare periodicamente, confrontandoli con i valori target di anno in anno stabiliti. Si rimandal documento ' KPI-001 Elenco KPI SA8000 ' per l'elenco completo deglindicatori con i target stabiliti; i risultati sono raccolti e archiviati da Compliance che li mette quindi a disposizione dell'SPT per le valutazioni necessarie.
+
+================================================================================
+
+CHUNK 108
+----------------------------------------
+Sezione: 4.9.4.5 Riesame Periodico
+Livello: 4
+Pagina: 25
+Dimensione: 631 caratteri
+
+TESTO:
+È responsabilità dell'SPT organizzare periodicincontri al fine di: - ❑ raccogliere tutte le informazioni di competenza dalle altre funzioni aziendali - ❑ esaminare, definire, analizzare/o risolvere qualsiasi possibile non conformità allo Standard SA8000 - ❑ monitorare azioni correttive preventive - ❑ verificare sulla base degli audit interni la performance i benefici delle azionintraprese per soddisfare i requisiti della SA8000 - ❑ verificare le opportunità di miglioramento. Le attività precedenti devono quindi confluire all'interno del riesame della direzione per essere condivisi con il management almeno una voltall'anno .
+
+================================================================================
+
+CHUNK 109
+----------------------------------------
+Sezione: 4.9.5 Coinvolgimento interno e comunicazione
+Livello: 3
+Pagina: 25
+Dimensione: 397 caratteri
+
+TESTO:
+LUTECH assicura che i suoi processi di comunicazioni consentano ai lavoratori di comprendere i requisiti della norma SA8000 e di contribuire al miglioramento continuo del sistema di gestione per la RS. A tale scopo, per la comunicazione interna sono stati realizzati e messi a disposizione dei lavoratori diversi strumentinformatici di gestione, condivisione archiviazione delle informazioni come:
+
+================================================================================
+
+CHUNK 110
+----------------------------------------
+Sezione: ❑ INTRANET
+Livello: 1
+Pagina: 25,26
+Dimensione: 173 caratteri
+
+TESTO:
+È accessibile a tutti dipendenti e garantisce la diffusione condivisione dinformazioni quali: - o comunicazioni ufficiali ai dipendenti - o comunicazioni di servizio Manuale
+
+================================================================================
+

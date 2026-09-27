@@ -1,0 +1,53 @@
+{
+  "file": "req_UNI_PdR_125-2022_PDR100866103.pdf",
+  "method": "dynamic_v2_hierarchical",
+  "sections": [
+    {
+      "title": "PREMESSA",
+      "start_page": 3,
+      "end_page": 12
+    },
+    {
+      "title": "1 SCOPO E CAMPO DI APPLICAZIONE",
+      "start_page": 13,
+      "end_page": 13
+    },
+    {
+      "title": "3 TERMINI E DEFINIZIONI",
+      "start_page": 14,
+      "end_page": 16
+    },
+    {
+      "title": "4 PRINCIPIO",
+      "start_page": 17,
+      "end_page": 17
+    },
+    {
+      "title": "5 INDICATORI DI PERFORMANCE (KPI) PER LE ORGANIZZAZIONI",
+      "start_page": 18,
+      "end_page": 29
+    },
+    {
+      "title": "6 POLITICHE DI PARITÀ DI GENERE, PIANIFICAZIONE, ATTUAZIONE E MONITORAGGIO, E SISTEMA DI GESTIONE",
+      "start_page": 30,
+      "end_page": 37
+    },
+    {
+      "title": "APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE",
+      "start_page": 38,
+      "end_page": 40
+    },
+    {
+      "title": "APPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE",
+      "start_page": 41,
+      "end_page": 41
+    },
+    {
+      "title": "BIBLIOGRAFIA",
+      "start_page": 42,
+      "end_page": 48
+    }
+  ],
+  "total_chunks": 9,
+  "total_sub_chunks": 42
+}

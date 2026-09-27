@@ -1,0 +1,2090 @@
+REQUISITI ESTRATTI
+Totale requisiti: 175
+================================================================================
+
+REQUISITO 1
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione deve definire, misurare e monitorare Indicatori di Performance (KPI) per ciascuna delle aree di valutazione previste dalla prassi (Cultura e Strategia, Governance, Processi HR, Opportunità di crescita, Equità remunerativa, Tutela della genitorialità).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+PREMESSA
+La presente prassi di riferimento UNI/PdR 125:2022 non è una norma nazionale, ma è un documento pubblicato da UNI, come previsto dal Regolamento UE n.")
+DOMANDA AUDIT: L'organizzazione ha stabilito e monitora regolarmente i KPI per tutte le aree di valutazione richieste dalla UNI/PdR 125:2022?
+
+================================================================================
+
+REQUISITO 2
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione deve sviluppare, formalizzare e diffondere una Politica per la Parità di Genere che delinei gli impegni strategici dell'alta direzione.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+PREMESSA
+La presente prassi di riferimento UNI/PdR 125:2022 non è una norma nazionale, ma è un documento pubblicato da UNI, come previsto dal Regolamento UE n.")
+DOMANDA AUDIT: Esiste un documento formale di Politica per la Parità di Genere, approvato dalla direzione e comunicato a tutto il personale e alle parti interessate?
+
+================================================================================
+
+REQUISITO 3
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione deve elaborare e mantenere un piano strategico per la parità di genere, contenente obiettivi misurabili, azioni specifiche, responsabilità e scadenze.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+PREMESSA
+La presente prassi di riferimento UNI/PdR 125:2022 non è una norma nazionale, ma è un documento pubblicato da UNI, come previsto dal Regolamento UE n.")
+DOMANDA AUDIT: È stato redatto un piano strategico formale per la parità di genere e viene utilizzato attivamente per guidare e monitorare le iniziative dell'organizzazione?
+
+================================================================================
+
+REQUISITO 4
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 1, 7
+----------------------------------------
+REQUISITO: L'organizzazione deve attuare le azioni previste dal piano strategico e monitorarne costantemente lo stato di avanzamento e l'efficacia rispetto agli obiettivi prefissati.
+DOMANDA AUDIT: Come può l'organizzazione dimostrare di aver attuato le azioni definite nel piano strategico e di monitorarne costantemente l'avanzamento e l'efficacia in relazione agli obiettivi stabiliti?
+
+================================================================================
+
+REQUISITO 5
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione deve istituire, documentare e mantenere un Sistema di Gestione per la Parità di Genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+PREMESSA
+La presente prassi di riferimento UNI/PdR 125:2022 non è una norma nazionale, ma è un documento pubblicato da UNI, come previsto dal Regolamento UE n.")
+DOMANDA AUDIT: È stato implementato un sistema di gestione per la parità di genere e la sua struttura è documentata (es. manuale, procedure)?
+
+================================================================================
+
+REQUISITO 6
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 1, 7
+----------------------------------------
+REQUISITO: L'organizzazione deve stabilire e mantenere una documentazione controllata e adeguata a supporto del sistema di gestione per la parità di genere, la quale deve includere, come minimo, l'identificazione, l'elenco, il mantenimento aggiornato e la comunicazione interna dei requisiti normativi e legali applicabili.
+DOMANDA AUDIT: L'organizzazione può dimostrare di aver implementato un sistema di documentazione controllata per la parità di genere e, come parte di esso, può fornire evidenza del processo di identificazione, aggiornamento e comunicazione interna dei requisiti normativi applicabili?
+
+================================================================================
+
+REQUISITO 7
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione deve definire e attuare processi di comunicazione, sia interni che esterni, relativi alle politiche, agli obiettivi e alle performance in materia di parità di genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+PREMESSA
+La presente prassi di riferimento UNI/PdR 125:2022 non è una norma nazionale, ma è un documento pubblicato da UNI, come previsto dal Regolamento UE n.")
+DOMANDA AUDIT: Quali canali e attività di comunicazione vengono utilizzati per informare gli stakeholder interni ed esterni sulle iniziative e sui risultati relativi alla parità di genere?
+
+================================================================================
+
+REQUISITO 8
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione deve pianificare ed eseguire audit interni a intervalli regolari per verificare la conformità e l'efficacia del Sistema di Gestione per la Parità di Genere rispetto alla UNI/PdR 125:2022.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+PREMESSA
+La presente prassi di riferimento UNI/PdR 125:2022 non è una norma nazionale, ma è un documento pubblicato da UNI, come previsto dal Regolamento UE n.")
+DOMANDA AUDIT: Vengono condotti audit interni secondo un programma definito? Esistono report di audit che documentano i risultati, le non conformità e le opportunità di miglioramento?
+
+================================================================================
+
+REQUISITO 9
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione deve stabilire un processo per l'identificazione, la gestione e la correzione delle non conformità rispetto ai requisiti della prassi di riferimento e del proprio sistema di gestione.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+PREMESSA
+La presente prassi di riferimento UNI/PdR 125:2022 non è una norma nazionale, ma è un documento pubblicato da UNI, come previsto dal Regolamento UE n.")
+DOMANDA AUDIT: Esiste una procedura documentata per la gestione delle non conformità e delle azioni correttive? Vengono mantenute registrazioni di tali attività?
+
+================================================================================
+
+REQUISITO 10
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'alta direzione deve riesaminare periodicamente il Sistema di Gestione per la Parità di Genere per assicurarne la continua idoneità, adeguatezza ed efficacia.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+PREMESSA
+La presente prassi di riferimento UNI/PdR 125:2022 non è una norma nazionale, ma è un documento pubblicato da UNI, come previsto dal Regolamento UE n.")
+DOMANDA AUDIT: Vengono effettuati riesami della direzione a intervalli pianificati? Esistono verbali che documentano gli input, le analisi e le decisioni prese durante tali riesami?
+
+================================================================================
+
+REQUISITO 11
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione deve impegnarsi nel miglioramento continuo delle proprie performance e del proprio sistema di gestione in materia di parità di genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+PREMESSA
+La presente prassi di riferimento UNI/PdR 125:2022 non è una norma nazionale, ma è un documento pubblicato da UNI, come previsto dal Regolamento UE n.")
+DOMANDA AUDIT: Come dimostra l'organizzazione il suo impegno per il miglioramento continuo, ad esempio attraverso l'analisi dei dati, le azioni correttive e l'aggiornamento degli obiettivi?
+
+================================================================================
+
+REQUISITO 12
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: Il sistema di gestione deve essere strutturato in modo da poter essere sottoposto a valutazione di conformità da parte di un ente di certificazione di terza parte.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+PREMESSA
+La presente prassi di riferimento UNI/PdR 125:2022 non è una norma nazionale, ma è un documento pubblicato da UNI, come previsto dal Regolamento UE n.")
+DOMANDA AUDIT: La documentazione e le evidenze prodotte dal sistema di gestione sono sufficienti e adeguate per sostenere un audit di certificazione esterno?
+
+================================================================================
+
+REQUISITO 13
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2, 3
+----------------------------------------
+REQUISITO: L'organizzazione deve integrare i principi di parità di genere e di rispetto delle diversità nella propria cultura e strategia aziendale, assicurando che questi siano declinati in obiettivi specifici, sia strategici che operativi, al fine di promuovere un cambiamento sostenibile.
+DOMANDA AUDIT: Come dimostra l'organizzazione di aver integrato i principi di parità di genere e rispetto delle diversità nella propria cultura, strategia e negli obiettivi operativi, e quali evidenze (es. policy, KPI, verbali di riesame della direzione) esistono per attestare il perseguimento di un cambiamento sostenibile in tale ambito?
+
+================================================================================
+
+REQUISITO 14
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve definire e fissare obiettivi precisi e misurabili per la parità di genere in ogni fase del percorso lavorativo, dal recruiting al pensionamento.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: Esiste un documento che formalizza obiettivi misurabili per la parità di genere per le fasi di assunzione, gestione, sviluppo di carriera e retribuzione?
+
+================================================================================
+
+REQUISITO 15
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve seguire processi qualificati e trasparenti per la certificazione dei risultati raggiunti in materia di parità di genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: I processi di rendicontazione e certificazione della parità di genere sono documentati, qualificati, trasparenti e verificabili da terze parti?
+
+================================================================================
+
+REQUISITO 16
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire pari opportunità di carriera per tutti i generi, assicurando un accesso equo ai ruoli apicali.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: Quali politiche e processi sono in atto per assicurare che le opportunità di carriera e l'accesso a posizioni di vertice siano equi e non discriminatori?
+
+================================================================================
+
+REQUISITO 17
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire pari trattamento economico a parità di mansioni e responsabilità.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: L'organizzazione conduce analisi periodiche sulla parità retributiva e adotta misure correttive documentate in caso di divari ingiustificati?
+
+================================================================================
+
+REQUISITO 18
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve fornire condizioni di work-life balance adeguate alle diverse fasi di vita dei dipendenti.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: Quali misure di work-life balance (es. flessibilità oraria, smart working, supporto alla genitorialità) sono formalmente offerte e come ne viene monitorata l'efficacia e l'adeguatezza?
+
+================================================================================
+
+REQUISITO 19
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve promuovere misure proattive per il riequilibrio dei carichi familiari tra uomini e donne.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: Esistono iniziative specifiche (es. congedi parentali incentivati per i padri, servizi di supporto alla famiglia) per favorire un equo riparto dei carichi di cura?
+
+================================================================================
+
+REQUISITO 20
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve creare e mantenere un ambiente di lavoro che rifiuti stereotipi, discriminazioni e ogni forma di abuso (fisico, verbale, digitale).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: Quali politiche, codici di condotta e canali di segnalazione sono stati implementati per prevenire e contrastare discriminazioni, stereotipi e abusi sul luogo di lavoro?
+
+================================================================================
+
+REQUISITO 21
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve promuovere attivamente una cultura della diversità e dell'inclusione attraverso azioni concrete.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: Quali iniziative di formazione, comunicazione e engagement vengono realizzate periodicamente per promuovere una cultura aziendale inclusiva e rispettosa della diversità?
+
+================================================================================
+
+REQUISITO 22
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve adottare e mantenere un sistema di gestione per la parità di genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: Esiste un sistema di gestione formalizzato per la parità di genere, con politiche, procedure, ruoli e responsabilità definite?
+
+================================================================================
+
+REQUISITO 23
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: Il sistema di gestione per la parità di genere deve includere specifici KPI per misurare gli stati di avanzamento e i risultati.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: Quali sono i KPI definiti per monitorare la parità di genere e con quale frequenza vengono misurati, analizzati e riesaminati dalla direzione?
+
+================================================================================
+
+REQUISITO 24
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve rendicontare i KPI e i risultati sulla parità di genere nei propri documenti ufficiali (es. bilancio di sostenibilità, report annuale).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: I risultati dei KPI sulla parità di genere sono pubblicati e resi trasparenti attraverso la documentazione ufficiale e pubblica dell'organizzazione?
+
+================================================================================
+
+REQUISITO 25
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare misure e incentivi specifici per scardinare le criticità legate a divari retributivi e di carriera.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: Quali incentivi specifici (es. legati a bonus manageriali, obiettivi di performance) sono stati introdotti per promuovere attivamente la parità retributiva e di carriera?
+
+================================================================================
+
+REQUISITO 26
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare misure specifiche per supportare la genitorialità e neutralizzare il suo potenziale impatto negativo sulla carriera, in particolare quella femminile.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: Quali azioni concrete sono state intraprese per supportare la genitorialità (es. percorsi di rientro post-maternità, flessibilità, asili nido aziendali) e per incoraggiare la paternità attiva?
+
+================================================================================
+
+REQUISITO 27
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve utilizzare indicatori oggettivi per identificare e misurare la presenza di bias di genere, anche impliciti, nei processi gestionali (es. selezione, valutazione, promozione).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: Vengono utilizzati dati e indicatori oggettivi per analizzare i processi di HR (es. tassi di assunzione, promozione, abbandono per genere) al fine di identificare potenziali bias?
+
+================================================================================
+
+REQUISITO 28
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare azioni correttive per mitigare o rimuovere i bias di genere identificati nei processi aziendali.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+0 INTRODUZIONE
+0.")
+DOMANDA AUDIT: Una volta identificati i bias, quali interventi documentati (es. formazione, revisione dei processi, utilizzo di panel di valutazione diversificati) vengono attuati per contrastarli?
+
+================================================================================
+
+REQUISITO 29
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: Il sistema di gestione deve includere processi definiti per la misurazione sistematica e la successiva rendicontazione dei dati relativi al genere all'interno dell'organizzazione.
+DOMANDA AUDIT: L'organizzazione può dimostrare di aver implementato un processo sistematico per misurare e successivamente rendicontare i dati relativi al genere, come richiesto dal proprio sistema di gestione?
+
+================================================================================
+
+REQUISITO 30
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: Il sistema di gestione deve prevedere la valutazione periodica dei dati di genere raccolti e rendicontati.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+1 SCOPO E CAMPO DI APPLICAZIONE
+La prassi di riferimento definisce le linee guida sul sistema di gestione per la parità di genere che prevede la strutturazione e adozione di un insieme di indicatori prestazionali (KPI) inerenti alle politiche di parità di genere nelle organizzazioni di qualsiasi dimensione e settore, sia pubbliche che private.")
+DOMANDA AUDIT: Vengono condotte analisi e valutazioni sui dati di genere per identificare trend, criticità e aree di miglioramento?
+
+================================================================================
+
+REQUISITO 31
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve utilizzare i risultati della valutazione dei dati per definire e implementare azioni correttive volte a colmare i gap di genere identificati.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+1 SCOPO E CAMPO DI APPLICAZIONE
+La prassi di riferimento definisce le linee guida sul sistema di gestione per la parità di genere che prevede la strutturazione e adozione di un insieme di indicatori prestazionali (KPI) inerenti alle politiche di parità di genere nelle organizzazioni di qualsiasi dimensione e settore, sia pubbliche che private.")
+DOMANDA AUDIT: Le valutazioni sui dati di genere si traducono in piani d'azione concreti e monitorati per ridurre i divari esistenti?
+
+================================================================================
+
+REQUISITO 32
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire la conformità del proprio sistema di gestione alle disposizioni contenute nelle normative e legislazioni richiamate dalla prassi di riferimento.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+1 SCOPO E CAMPO DI APPLICAZIONE
+La prassi di riferimento definisce le linee guida sul sistema di gestione per la parità di genere che prevede la strutturazione e adozione di un insieme di indicatori prestazionali (KPI) inerenti alle politiche di parità di genere nelle organizzazioni di qualsiasi dimensione e settore, sia pubbliche che private.")
+DOMANDA AUDIT: È stata effettuata una mappatura della conformità del sistema di gestione rispetto ai riferimenti normativi e legislativi citati (es. D.Lgs 198/2006, L. 162/2021, UNI ISO 30415)?
+
+================================================================================
+
+REQUISITO 33
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve mantenere il proprio sistema di gestione aggiornato rispetto all'ultima edizione delle pubblicazioni di riferimento non datate.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+1 SCOPO E CAMPO DI APPLICAZIONE
+La prassi di riferimento definisce le linee guida sul sistema di gestione per la parità di genere che prevede la strutturazione e adozione di un insieme di indicatori prestazionali (KPI) inerenti alle politiche di parità di genere nelle organizzazioni di qualsiasi dimensione e settore, sia pubbliche che private.")
+DOMANDA AUDIT: Esiste un processo per monitorare le nuove edizioni delle normative di riferimento non datate e per aggiornare di conseguenza il sistema di gestione?
+
+================================================================================
+
+REQUISITO 34
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve classificare il personale secondo la definizione di 'addetto/a', includendo tutte le tipologie contrattuali specificate (dipendenti, titolari, cooperatori, somministrati, stage) ed escludendo i collaboratori esterni.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.")
+DOMANDA AUDIT: Il sistema di gestione delle risorse umane permette di censire e distinguere correttamente gli 'addetti' dai collaboratori esterni, in accordo con le definizioni della norma?
+
+================================================================================
+
+REQUISITO 35
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve tracciare e gestire i benefit offerti al personale, considerandoli come componente aggiuntiva alla retribuzione.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.")
+DOMANDA AUDIT: Esiste un processo o un sistema per censire e monitorare i benefit (es. buoni pasto, auto aziendale, assicurazione sanitaria) erogati al personale?
+
+================================================================================
+
+REQUISITO 36
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve definire e stanziare un budget dedicato alla programmazione e al conseguimento degli obiettivi di parità di genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.")
+DOMANDA AUDIT: È stato formalmente stanziato e documentato un budget per l'implementazione e il mantenimento della politica di parità di genere?
+
+================================================================================
+
+REQUISITO 37
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve utilizzare una check list basata sui requisiti della UNI/PdR per verificare che le attività pianificate per la parità di genere siano state eseguite correttamente.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.")
+DOMANDA AUDIT: Viene utilizzata una check list formale per condurre gli audit interni e verificare la conformità alla UNI/PdR 125:2022?
+
+================================================================================
+
+REQUISITO 38
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve istituire un Comitato Guida, nominato dall'Alta Direzione, per assicurare l'efficace adozione e la continua applicazione della Politica per la Parità di Genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.")
+DOMANDA AUDIT: È stato formalmente istituito un Comitato Guida per la parità di genere? La sua composizione, il mandato e le responsabilità sono documentati?
+
+================================================================================
+
+REQUISITO 39
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare politiche e strumenti per favorire la conciliazione vita-lavoro del personale.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.")
+DOMANDA AUDIT: Quali misure concrete (es. smart working, flessibilità oraria, supporto ai caregiver) sono state implementate per promuovere l'equilibrio vita-lavoro?
+
+================================================================================
+
+REQUISITO 40
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve erogare formazione, sia generale che specifica sulla parità di genere, per abilitare la piena partecipazione e contribuzione del personale rispetto al proprio ruolo.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.")
+DOMANDA AUDIT: Esiste un piano formativo che include tematiche specifiche sulla parità di genere, la diversità e l'inclusione, e ne viene tracciata la partecipazione?
+
+================================================================================
+
+REQUISITO 41
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare una politica per prevenire e contrastare le molestie, inclusi comportamenti indesiderati in forma fisica, verbale o digitale.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.")
+DOMANDA AUDIT: Esiste una policy aziendale formale contro le molestie? Sono previsti canali di segnalazione sicuri e procedure di gestione chiare?
+
+================================================================================
+
+REQUISITO 42
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve gestire la retribuzione in modo equo e trasparente, considerando tutte le sue componenti: fissa, variabile, bonus e benefit.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.")
+DOMANDA AUDIT: Il processo di revisione salariale assicura che non vi siano disparità di genere a parità di livello e mansione, considerando la retribuzione complessiva?
+
+================================================================================
+
+REQUISITO 43
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare un processo di selezione del personale strutturato per garantire il reperimento, la scelta e l'inserimento di nuove risorse in modo equo e non discriminatorio.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.")
+DOMANDA AUDIT: Il processo di recruiting e selezione è formalizzato e include misure per mitigare i bias inconsci e garantire pari opportunità a tutti i candidati?
+
+================================================================================
+
+REQUISITO 44
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare un sistema integrato di attività di sviluppo del personale (es. formazione, coaching, job rotation) per migliorare le competenze e favorire la crescita professionale in modo equo.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.")
+DOMANDA AUDIT: Esiste un programma strutturato per lo sviluppo professionale che garantisca pari accesso alle opportunità di crescita per tutto il personale?
+
+================================================================================
+
+REQUISITO 45
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare un piano di welfare aziendale volto a migliorare il benessere dei lavoratori e delle loro famiglie, coerente con il contesto locale e integrativo rispetto al welfare pubblico.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+3 TERMINI E DEFINIZIONI
+Ai fini del presente documento valgono i termini e le definizioni di cui alla UNI EN ISO 9000 e i seguenti:
+3.")
+DOMANDA AUDIT: È stato sviluppato e comunicato un piano di welfare aziendale che risponde alle esigenze del personale e ne promuove il benessere e la conciliazione vita-lavoro?
+
+================================================================================
+
+REQUISITO 46
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: Il sistema di misurazione deve utilizzare KPI che siano percorribili, pertinenti, confrontabili e in grado di tracciare il miglioramento continuo.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: I KPI utilizzati per la parità di genere sono stati valutati per la loro percorribilità, pertinenza, confrontabilità e capacità di mostrare miglioramenti?
+
+================================================================================
+
+REQUISITO 47
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve basare la sua misurazione su 6 aree di indicatori definite: Cultura e strategia, Governance, Processi HR, Opportunità di crescita, Equità remunerativa, Tutela della genitorialità e conciliazione vita-lavoro.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: La valutazione della parità di genere copre tutte le 6 aree di indicatori previste dalla norma?
+
+================================================================================
+
+REQUISITO 48
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: Il sistema di calcolo dello score di conformità deve ponderare ogni area di indicatori secondo i pesi percentuali definiti dalla norma.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Il calcolo dello score complessivo applica correttamente i pesi percentuali a ciascuna delle 6 aree di indicatori?
+
+================================================================================
+
+REQUISITO 49
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve effettuare un monitoraggio annuale e una verifica ogni due anni del proprio grado di maturità sulla parità di genere utilizzando i KPI definiti.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Esiste un processo documentato per il monitoraggio annuale e la verifica biennale dei KPI di parità di genere?
+
+================================================================================
+
+REQUISITO 50
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve applicare gli indicatori secondo un principio di proporzionalità basato sulla propria fascia dimensionale (micro, piccola, media, grande).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: L'applicazione degli indicatori KPI è stata adattata in base alla fascia dimensionale dell'organizzazione come richiesto dalla norma?
+
+================================================================================
+
+REQUISITO 51
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione (se consorzio, Rete di Impresa o General Contractor) deve definire un processo di selezione e qualifica che richieda ai propri partner (consorziati, imprese, outsourcer) l'adozione della prassi di riferimento UNI/PdR 125:2022.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Se l'organizzazione è un consorzio, Rete di Impresa o General Contractor, ha implementato un processo di qualifica dei fornitori/partner che include la richiesta di adozione della UNI/PdR 125:2022?
+
+================================================================================
+
+REQUISITO 52
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: Il sistema di valutazione deve assegnare il punteggio pieno per gli indicatori qualitativi solo in caso di piena soddisfazione del requisito (misurazione SÌ/NO), senza punteggi parziali.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: La metodologia di calcolo per gli indicatori qualitativi prevede l'assegnazione del punteggio solo in caso di piena conformità (SÌ/NO)?
+
+================================================================================
+
+REQUISITO 53
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione, al primo anno di applicazione, deve dimostrare un miglioramento nell'anno successivo se parte da un livello di ingresso per gli indicatori qualitativi.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Se al primo anno è stato registrato un livello di ingresso per un indicatore qualitativo, è stato documentato un miglioramento nell'anno successivo?
+
+================================================================================
+
+REQUISITO 54
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: Il sistema di valutazione deve misurare gli indicatori quantitativi come delta percentuale rispetto a benchmark interni o esterni (nazionali/settoriali ATECO).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Gli indicatori quantitativi vengono calcolati come delta percentuale rispetto a benchmark pertinenti (interni, nazionali, ATECO)?
+
+================================================================================
+
+REQUISITO 55
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6, 8
+----------------------------------------
+REQUISITO: Per ottenere la certificazione SA8000, l'organizzazione deve raggiungere uno score complessivo minimo del 60%. Nel caso specifico di una certificazione di gruppo, tale punteggio minimo deve essere raggiunto individualmente da ogni singola entità giuridica che fa parte del gruppo.
+DOMANDA AUDIT: L'organizzazione ha raggiunto lo score minimo del 60% richiesto per la certificazione? In caso di certificazione di gruppo, è stato verificato che ogni singola entità giuridica ha individualmente raggiunto tale punteggio minimo?
+
+================================================================================
+
+REQUISITO 56
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve sottoporsi a sorveglianza annuale per mantenere la certificazione, che ha validità triennale.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: È stato pianificato ed eseguito l'audit di sorveglianza annuale per il mantenimento della certificazione?
+
+================================================================================
+
+REQUISITO 57
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: Il sistema di calcolo dei KPI quantitativi deve utilizzare benchmark (medie di categoria ATECO) aggiornati annualmente.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: I benchmark di settore utilizzati per il calcolo dei KPI sono aggiornati all'ultimo anno disponibile?
+
+================================================================================
+
+REQUISITO 58
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve disporre di procedure o iniziative equivalenti che permettano al personale di esprimere opinioni e suggerimenti, anche in forma anonima.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Sono state implementate procedure o canali, anche anonimi, per raccogliere feedback e suggerimenti dal personale sulla cultura aziendale?
+
+================================================================================
+
+REQUISITO 59
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve adottare politiche per garantire una rappresentanza di genere equa nei panel di eventi, convegni e tavole rotonde.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Esiste una politica aziendale che promuove e verifica l'equa rappresentanza di genere nei panel di eventi pubblici?
+
+================================================================================
+
+REQUISITO 60
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve aver erogato, negli ultimi due anni, formazione a tutto il personale (inclusi i vertici) su temi di parità di genere, stereotipi e bias inconsci.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: È stata erogata formazione sulla parità di genere e sui bias inconsci a tutti i livelli aziendali negli ultimi due anni?
+
+================================================================================
+
+REQUISITO 61
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve aver condotto, nell'ultimo anno, analisi (es. survey) per misurare la percezione del personale riguardo le pari opportunità.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: È stata condotta un'analisi della percezione dei dipendenti sulle pari opportunità nell'ultimo anno?
+
+================================================================================
+
+REQUISITO 62
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve aver realizzato, negli ultimi due anni, interventi esterni (es. comunicazione, coinvolgimento stakeholder) per promuovere le pari opportunità.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: L'organizzazione ha intrapreso iniziative esterne negli ultimi due anni per promuovere la parità di genere?
+
+================================================================================
+
+REQUISITO 63
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare processi formali per identificare, analizzare e gestire episodi o situazioni di non inclusività.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Esistono processi documentati per la gestione di segnalazioni o eventi di non inclusività?
+
+================================================================================
+
+REQUISITO 64
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire la presenza del genere meno rappresentato nel Consiglio di Amministrazione, in linea con i requisiti normativi di riferimento o per almeno 1/3 della composizione.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: La composizione del Consiglio di Amministrazione rispetta il requisito di rappresentanza del genere meno rappresentato (normativa o 1/3)?
+
+================================================================================
+
+REQUISITO 65
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve definire e applicare processi HR (selezione, contratti, on-boarding, valutazione) basati su principi di inclusione e parità di genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: I processi HR chiave (selezione, on-boarding, valutazione) sono stati revisionati e documentati per garantire l'assenza di bias di genere?
+
+================================================================================
+
+REQUISITO 66
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6, 7
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare un sistema per pianificare, monitorare e analizzare i principali indicatori di gestione del personale, includendo specificamente il turnover e la gestione della carriera, assicurando che i dati raccolti siano disaggregati per genere.
+DOMANDA AUDIT: Come dimostra l'organizzazione di aver implementato un sistema per monitorare e analizzare il turnover del personale e la gestione della carriera? È possibile visionare i dati, disaggregati per genere, relativi a questi due indicatori?
+
+================================================================================
+
+REQUISITO 67
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve avere politiche che assicurino un accesso equo e paritario per entrambi i generi ai percorsi di formazione e sviluppo, inclusi quelli sulla leadership.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Esistono politiche e meccanismi di controllo per garantire che l'accesso alla formazione e allo sviluppo di carriera sia equo tra i generi?
+
+================================================================================
+
+REQUISITO 68
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve definire politiche di mobilità interna e piani di successione per le posizioni manageriali che promuovano la parità di genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Le politiche di mobilità interna e i piani di successione sono stati progettati per promuovere attivamente la parità di genere a livello manageriale?
+
+================================================================================
+
+REQUISITO 69
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire meccanismi di tutela del posto di lavoro e del livello retributivo per il personale al rientro dal congedo di maternità.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Esistono procedure formalizzate che garantiscono la protezione del posto e del livello retributivo al rientro dalla maternità?
+
+================================================================================
+
+REQUISITO 70
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve nominare referenti e stabilire prassi aziendali per prevenire e gestire episodi di molestie o mobbing.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Sono stati designati referenti e implementate procedure specifiche per la gestione e prevenzione di molestie e mobbing?
+
+================================================================================
+
+REQUISITO 71
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione (Fascia 1 e 2) deve monitorare la percentuale di donne in organico e raggiungere un incremento di almeno 10 punti percentuali rispetto al biennio precedente, o una percentuale pari o superiore al 50%.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Per le organizzazioni di Fascia 1 e 2, la percentuale di donne in organico ha raggiunto l'obiettivo di crescita (+10 p.p. vs biennio precedente) o la soglia del 50%?
+
+================================================================================
+
+REQUISITO 72
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve monitorare la percentuale di donne dirigenti e raggiungere specifici obiettivi di incremento, differenziati per fascia organizzativa:
+- Fascia 2: Deve raggiungere un incremento di almeno 10 punti percentuali rispetto al biennio precedente.
+- Fascia 3 e 4: Deve raggiungere un valore superiore di almeno 10 punti percentuali rispetto al benchmark di settore, garantendo al contempo una crescita anno su anno.
+DOMANDA AUDIT: Come dimostra l'organizzazione di monitorare la percentuale di donne dirigenti e di aver raggiunto gli obiettivi di incremento specifici per la propria fascia? Fornire evidenza del calcolo rispetto al biennio precedente per la Fascia 2, e rispetto al benchmark di settore con crescita anno su anno per le Fasce 3 e 4.
+
+================================================================================
+
+REQUISITO 73
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione (Fascia 3 e 4) deve raggiungere una quota di donne responsabili di unità organizzative di almeno il 40%, con una crescita anno su anno.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: La percentuale di donne responsabili di unità organizzative è almeno del 40% e in crescita annuale?
+
+================================================================================
+
+REQUISITO 74
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che la differenza retributiva media tra uomini e donne a parità di livello/mansione sia inferiore al 10% e decrescente negli anni.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Il gender pay gap, calcolato a parità di livello, è inferiore al 10% per tutti i livelli in cui sono presenti entrambi i generi?
+
+================================================================================
+
+REQUISITO 75
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che la percentuale di donne promosse sul totale delle donne sia pari alla percentuale di uomini promossi sul totale degli uomini.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Il tasso di promozione annuale è equo tra uomini e donne, considerando le rispettive popolazioni aziendali?
+
+================================================================================
+
+REQUISITO 76
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve comunicare in modo trasparente al personale le procedure e i criteri per l'assegnazione della remunerazione variabile.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Le politiche e i criteri per l'assegnazione della remunerazione variabile sono stati comunicati a tutto il personale?
+
+================================================================================
+
+REQUISITO 77
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve offrire servizi dedicati per supportare il rientro del personale dopo il congedo di maternità/paternità (es. coaching, part-time, smart working).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Sono attivi servizi specifici per facilitare il rientro al lavoro dopo il congedo di maternità/paternità?
+
+================================================================================
+
+REQUISITO 78
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare policy a tutela della genitorialità e per la conciliazione vita-lavoro che vadano oltre gli obblighi del CCNL di riferimento.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Esistono policy aziendali che offrono tutele o benefici per la genitorialità e la conciliazione superiori a quelli previsti dal CCNL?
+
+================================================================================
+
+REQUISITO 79
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 6
+----------------------------------------
+REQUISITO: L'organizzazione deve avere policy che garantiscano il mantenimento dei benefit durante il congedo di genitorialità e che valorizzino le competenze acquisite con l'esperienza.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+L'attuazione di un sistema di gestione per la parità di genere, volta a promuovere la parità di genere nelle aziende italiane, coinvolge in particolare l'attivazione delle seguenti aree:
+-opportunità di crescita in azienda e parità di retribuzioni;
+-politiche per la gestione della genitorialità e della conciliazione vita-lavoro;
+-politiche di gestione dei processi aziendali.")
+DOMANDA AUDIT: Esistono politiche per il mantenimento dei benefit durante il congedo di genitorialità e iniziative per valorizzare le soft skill acquisite?
+
+================================================================================
+
+REQUISITO 80
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve misurare gli stati di avanzamento dei risultati attraverso specifici KPI.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Vengono utilizzati KPI specifici per monitorare i progressi verso gli obiettivi di parità di genere?
+
+================================================================================
+
+REQUISITO 81
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve rendicontare i KPI nei documenti del sistema di gestione.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: I report dei KPI sulla parità di genere sono integrati nella documentazione ufficiale del sistema di gestione?
+
+================================================================================
+
+REQUISITO 82
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve mantenere e verificare le azioni pianificate attraverso il sistema di gestione.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Il sistema di gestione viene utilizzato per tracciare e verificare l'attuazione delle azioni pianificate per la parità di genere?
+
+================================================================================
+
+REQUISITO 83
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve supportare il piano di azione, il piano strategico e gli obiettivi di miglioramento con evidenze documentate.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esistono evidenze documentali a supporto del piano di azione, del piano strategico e degli obiettivi di miglioramento?
+
+================================================================================
+
+REQUISITO 84
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: La politica di parità di genere deve contenere riferimenti a politiche collegate, relative almeno alla gestione del personale, delle carriere e alla comunicazione.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: La politica di parità di genere include riferimenti espliciti alle politiche di HR, sviluppo carriera e comunicazione?
+
+================================================================================
+
+REQUISITO 85
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: Le politiche collegate devono dichiarare in modo trasparente la volontà dell'organizzazione di perseguire la parità di genere, valorizzare le diversità e supportare l'empowerment femminile.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Le politiche di HR e comunicazione dichiarano esplicitamente l'impegno dell'organizzazione verso la parità di genere?
+
+================================================================================
+
+REQUISITO 86
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve riconfermare o aggiornare la politica generale e quelle collegate durante la revisione periodica del sistema di gestione.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Le politiche di parità di genere vengono sistematicamente revisionate e aggiornate come parte del riesame della direzione?
+
+================================================================================
+
+REQUISITO 87
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: La politica di parità di genere deve essere definita dall'Alta Direzione in coordinamento con il comitato guida.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: La politica di parità di genere è stata formalmente definita e approvata dall'Alta Direzione e dal comitato guida?
+
+================================================================================
+
+REQUISITO 88
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve comunicare e diffondere la politica di parità di genere internamente e alle parti interessate.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esistono prove della comunicazione e diffusione della politica di parità di genere a tutto il personale e agli stakeholder esterni?
+
+================================================================================
+
+REQUISITO 89
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve fornire formazione e sensibilizzazione sulla politica di parità di genere al management aziendale.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Il management ha ricevuto una formazione specifica sulla politica di parità di genere?
+
+================================================================================
+
+REQUISITO 90
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve revisionare o confermare periodicamente la politica di parità di genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: La politica di parità di genere è soggetta a revisione periodica documentata?
+
+================================================================================
+
+REQUISITO 91
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve designare una figura responsabile, con competenze organizzative e di genere, per coordinare la politica.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: È stata nominata una persona responsabile per il coordinamento della politica di parità di genere e possiede le competenze richieste?
+
+================================================================================
+
+REQUISITO 92
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve rendere disponibile la politica di parità di genere sul proprio sito web.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: La politica di parità di genere è pubblicata e accessibile sul sito web aziendale?
+
+================================================================================
+
+REQUISITO 93
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: Il comitato guida deve essere composto almeno dall'amministratore delegato (o delegato) e dal direttore del personale (o equivalente).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: La composizione del comitato guida rispetta i requisiti minimi definiti dalla norma?
+
+================================================================================
+
+REQUISITO 94
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: Il comitato guida deve redigere un piano strategico che definisca obiettivi SMART (semplici, misurabili, raggiungibili, realistici, pianificati nel tempo) per ogni tema della politica.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esiste un piano strategico con obiettivi SMART per la parità di genere redatto dal comitato guida?
+
+================================================================================
+
+REQUISITO 95
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: Il piano strategico deve includere: identificazione dei processi, analisi dei punti di forza/debolezza, definizione degli obiettivi, definizione delle azioni correttive e pianificazione del monitoraggio dei KPI.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Il piano strategico contiene tutte le fasi richieste (analisi processi, SWOT, obiettivi, azioni, monitoraggio KPI)?
+
+================================================================================
+
+REQUISITO 96
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve condividere il piano strategico con la direzione e mantenerlo aggiornato.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Il piano strategico è stato approvato dalla direzione e viene aggiornato periodicamente?
+
+================================================================================
+
+REQUISITO 97
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve fornire istruzioni scritte sulle modalità di attuazione e monitoraggio, ove applicabile.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Sono disponibili procedure o istruzioni scritte per l'implementazione delle azioni e il monitoraggio dei KPI?
+
+================================================================================
+
+REQUISITO 98
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve predisporre corsi di formazione sui principi etici e sulle modalità operative adottate per la parità di genere, indirizzati a tutto il personale.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esistono corsi di formazione specifici sui principi etici e operativi della politica di parità di genere per tutto il personale?
+
+================================================================================
+
+REQUISITO 99
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve predisporre procedure di selezione e assunzione che prevengano la disparità di genere e contrastino i bias.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Le procedure di recruiting sono state progettate per essere neutre rispetto al genere e per mitigare i bias inconsci?
+
+================================================================================
+
+REQUISITO 100
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che le descrizioni delle mansioni (job description) siano neutre rispetto al genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Le job description utilizzate nel processo di selezione sono formulate in modo neutro rispetto al genere?
+
+================================================================================
+
+REQUISITO 101
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve proibire, durante i colloqui, domande relative a matrimonio, gravidanza o responsabilità di cura.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: I recruiter sono stati istruiti a non porre domande discriminatorie durante i colloqui di selezione?
+
+================================================================================
+
+REQUISITO 102
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve definire processi che assicurino non discriminazione e pari opportunità nello sviluppo di carriera e nelle promozioni.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esistono processi formalizzati per la gestione della carriera che garantiscono pari opportunità basate esclusivamente su capacità e merito?
+
+================================================================================
+
+REQUISITO 103
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve tendere al bilanciamento di genere nelle posizioni di leadership.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: L'organizzazione monitora e persegue attivamente un equilibrio di genere nelle posizioni manageriali e di leadership?
+
+================================================================================
+
+REQUISITO 104
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve rivolgere le opportunità di carriera e i programmi di sviluppo a tutto il personale.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: I programmi di sviluppo professionale e le opportunità di carriera sono accessibili e comunicati a tutto il personale senza distinzioni?
+
+================================================================================
+
+REQUISITO 105
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve rendere disponibili dati disaggregati per genere su assunzioni, promozioni, livelli, retribuzione e altri fenomeni di mobilità.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: L'organizzazione raccoglie e rende accessibili (nel rispetto della privacy) i dati relativi alla gestione del personale, disaggregati per genere?
+
+================================================================================
+
+REQUISITO 106
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve creare un ambiente lavorativo che favorisca la diversità e tuteli il benessere psico-fisico dei dipendenti.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Quali iniziative sono state intraprese per promuovere un ambiente di lavoro inclusivo e attento al benessere psico-fisico?
+
+================================================================================
+
+REQUISITO 107
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve prevedere opportunità di formazione sulla leadership specificamente rivolte al genere meno rappresentato, se rilevato.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Vengono offerti programmi di formazione per la leadership mirati a supportare il genere meno rappresentato nelle posizioni apicali?
+
+================================================================================
+
+REQUISITO 108
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve dotarsi di un mansionario aziendale dettagliato per permettere la segnalazione di disparità retributive.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esiste un mansionario aziendale che definisce ruoli e responsabilità, utilizzabile come riferimento per l'equità salariale?
+
+================================================================================
+
+REQUISITO 109
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve predisporre un meccanismo di controllo per garantire l'applicazione delle politiche non discriminatorie su stipendi, benefit e bonus.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: È stato implementato un processo di audit o controllo per verificare che le politiche retributive siano applicate senza discriminazioni?
+
+================================================================================
+
+REQUISITO 110
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve informare periodicamente i dipendenti sulle politiche retributive adottate.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Vengono fornite comunicazioni periodiche al personale riguardo alle politiche su stipendi, benefit, bonus e welfare?
+
+================================================================================
+
+REQUISITO 111
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: Il programma di welfare aziendale, se esistente, deve considerare le esigenze delle persone di ogni genere ed età.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Il piano di welfare è stato progettato per rispondere alle diverse esigenze di una forza lavoro eterogenea per genere ed età?
+
+================================================================================
+
+REQUISITO 112
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve predisporre programmi specifici per i congedi di maternità/paternità, come formazione per il reinserimento.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esistono programmi di supporto (es. formazione) per i dipendenti che rientrano da congedi di maternità o paternità?
+
+================================================================================
+
+REQUISITO 113
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve predisporre un piano per la gestione delle diverse fasi della maternità (prima, durante, dopo).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: È stato definito un piano aziendale per supportare le dipendenti durante la gravidanza, il congedo e il rientro al lavoro?
+
+================================================================================
+
+REQUISITO 114
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve attuare meccanismi di informazione per incentivare la fruizione del congedo di paternità.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Quali azioni di comunicazione sono state intraprese per promuovere l'utilizzo del congedo di paternità?
+
+================================================================================
+
+REQUISITO 115
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve pianificare iniziative specifiche (es. formazione, supporto) per i dipendenti al rientro da un congedo genitoriale.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esiste un piano di azione per supportare il rientro dei dipendenti dopo un congedo genitoriale?
+
+================================================================================
+
+REQUISITO 116
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve includere nel welfare aziendale, se esistente, iniziative a supporto della genitorialità e del caregiving.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Il programma di welfare include benefit specifici per genitori e caregiver?
+
+================================================================================
+
+REQUISITO 117
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve offrire servizi specifici come asili nido aziendali, doposcuola o voucher per attività dei figli.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: L'azienda offre o supporta servizi per l'infanzia per i figli dei dipendenti?
+
+================================================================================
+
+REQUISITO 118
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve promuovere e supportare attivamente accordi di lavoro part-time e flessibile, assicurando che i lavoratori con tali contratti abbiano pari opportunità di partecipazione alla vita aziendale, inclusa la possibilità di prendere parte alle riunioni pertinenti.
+DOMANDA AUDIT: Quali politiche e procedure ha implementato l'organizzazione per promuovere il lavoro part-time e flessibile, e come viene garantito che questi lavoratori non siano svantaggiati e possano partecipare efficacemente alle riunioni aziendali?
+
+================================================================================
+
+REQUISITO 119
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve offrire flessibilità di orario con regole e procedure semplici e accessibili.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esiste una policy chiara e accessibile sulla flessibilità dell'orario di lavoro?
+
+================================================================================
+
+REQUISITO 120
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve effettuare una revisione periodica delle esigenze di flessibilità dei dipendenti.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Vengono condotte indagini o analisi periodiche per comprendere le esigenze di flessibilità del personale?
+
+================================================================================
+
+REQUISITO 121
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve offrire la possibilità di smart working, telelavoro o altre forme di lavoro flessibile.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: L'azienda ha una policy attiva per lo smart working o altre forme di lavoro agile?
+
+================================================================================
+
+REQUISITO 122
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che le riunioni di lavoro si tengano in orari compatibili con la conciliazione vita-lavoro.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esistono linee guida aziendali per pianificare le riunioni in orari che non penalizzino la vita privata dei dipendenti?
+
+================================================================================
+
+REQUISITO 123
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve dare piena attuazione alle normative e agli accordi collettivi in materia di contrasto alle molestie sul lavoro.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: L'organizzazione ha implementato tutte le disposizioni di legge e contrattuali vigenti per la prevenzione delle molestie?
+
+================================================================================
+
+REQUISITO 124
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve individuare il rischio di ogni forma di abuso (fisico, verbale, digitale) nell'ambito della valutazione dei rischi per la salute e sicurezza.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Il rischio di molestie e abusi è stato formalmente identificato e valutato?
+
+================================================================================
+
+REQUISITO 125
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve preparare un piano per la prevenzione e gestione delle molestie sul lavoro.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esiste un piano d'azione documentato per prevenire e gestire le molestie?
+
+================================================================================
+
+REQUISITO 126
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve prevedere formazione specifica e periodica sulla 'tolleranza zero' verso ogni forma di violenza e molestia.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Tutto il personale riceve formazione periodica sulla politica di 'tolleranza zero' per le molestie?
+
+================================================================================
+
+REQUISITO 127
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve prevedere una metodologia di segnalazione anonima per le molestie.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: È stato istituito un canale di segnalazione anonimo e sicuro per i casi di molestia?
+
+================================================================================
+
+REQUISITO 128
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve pianificare e attuare verifiche periodiche (survey) per indagare l'esperienza dei dipendenti riguardo a comportamenti molesti o irrispettosi.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Vengono condotte survey periodiche per monitorare il clima aziendale e rilevare eventuali episodi di molestia?
+
+================================================================================
+
+REQUISITO 129
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve prevedere una valutazione dei rischi e un'analisi degli eventi avversi segnalati.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esiste una procedura per analizzare le segnalazioni di eventi avversi e valutare i rischi associati?
+
+================================================================================
+
+REQUISITO 130
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve assicurare una costante attenzione a un linguaggio gentile, neutrale e rispettoso.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Vengono promosse iniziative per sensibilizzare all'uso di un linguaggio inclusivo e non sessista?
+
+================================================================================
+
+REQUISITO 131
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve gestire la documentazione del sistema per assicurare che le versioni in vigore siano identificate, approvate e disponibili.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esiste un sistema di controllo della documentazione che ne garantisca la corretta gestione (versioning, approvazione, distribuzione)?
+
+================================================================================
+
+REQUISITO 132
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve raccogliere e analizzare dati disaggregati per genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Il sistema di reporting aziendale permette la raccolta e l'analisi di dati disaggregati per genere?
+
+================================================================================
+
+REQUISITO 133
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve raccogliere e analizzare i KPI generali e specifici del piano strategico.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Viene effettuata una raccolta e un'analisi periodica dei KPI definiti nel piano strategico per la parità di genere?
+
+================================================================================
+
+REQUISITO 134
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve valutare l'andamento dei KPI con frequenza adeguata e attuare azioni correttive in caso di deviazioni.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: L'analisi dei KPI porta all'identificazione di deviazioni e all'implementazione di azioni correttive tracciabili?
+
+================================================================================
+
+REQUISITO 135
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve basare la comunicazione (inclusi marketing e pubblicità) su principi di responsabilità, evitando stereotipi di genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: I materiali di comunicazione e marketing vengono revisionati per assicurare che non contengano stereotipi di genere?
+
+================================================================================
+
+REQUISITO 136
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve pianificare, attuare e documentare un sistema di audit interni per verificare l'applicazione della politica di parità di genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esiste un programma di audit interni documentato per la verifica della conformità alla UNI/PdR 125:2022?
+
+================================================================================
+
+REQUISITO 137
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: Gli audit interni devono essere condotti secondo la norma UNI EN ISO 19011, da team indipendenti, competenti e bilanciati per genere.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Gli audit interni sono condotti in conformità alla ISO 19011 e gli auditor possiedono i requisiti di indipendenza, competenza e bilanciamento di genere?
+
+================================================================================
+
+REQUISITO 138
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve definire una modalità per la raccolta, gestione e documentazione delle non conformità.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Esiste una procedura formalizzata per la gestione delle non conformità relative alla parità di genere?
+
+================================================================================
+
+REQUISITO 139
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire l'attivazione di meccanismi di comunicazione e di azioni correttive per rimuovere le cause delle non conformità.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: A fronte di una non conformità, vengono attivate le necessarie comunicazioni e implementate azioni per rimuoverne le cause alla radice?
+
+================================================================================
+
+REQUISITO 140
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve pianificare, attuare e registrare una revisione periodica del sistema da parte dell'Alta Direzione, con frequenza almeno annuale.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Viene condotto e verbalizzato almeno una volta all'anno un riesame del sistema di gestione per la parità di genere da parte dell'Alta Direzione?
+
+================================================================================
+
+REQUISITO 141
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: La revisione periodica deve valutare i risultati delle attività, la congruità del piano strategico, la necessità di aggiornamenti e le esigenze formative.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Il riesame della direzione include tutti gli elementi di input richiesti dalla norma?
+
+================================================================================
+
+REQUISITO 142
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: L'organizzazione deve identificare obiettivi di miglioramento a seguito della revisione periodica.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: Dal riesame della direzione emergono nuovi obiettivi di miglioramento?
+
+================================================================================
+
+REQUISITO 143
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 7
+----------------------------------------
+REQUISITO: Gli obiettivi di miglioramento devono essere integrati nel piano strategico o in altri documenti del sistema.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+Per le organizzazioni appartenenti alla fascia dimensionale 1 e 2 sono considerati necessari gli indicatori numero 2 e 3.")
+DOMANDA AUDIT: I nuovi obiettivi di miglioramento vengono formalizzati e integrati nella pianificazione strategica?
+
+================================================================================
+
+REQUISITO 144
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve basare il processo di valutazione sulla norma UNI CEI EN ISO/IEC 17021-1.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: L'OdC è accreditato e opera in conformità alla norma UNI CEI EN ISO/IEC 17021-1 per la certificazione dei sistemi di gestione?
+
+================================================================================
+
+REQUISITO 145
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve accettare richieste di certificazione da qualsiasi tipo di organizzazione, indipendentemente da dimensione, forma giuridica o settore (pubblico/privato).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Il processo di richiesta di certificazione dell'OdC è aperto a tutte le organizzazioni, escludendo solo quelle esplicitamente non ammesse dalla prassi?
+
+================================================================================
+
+REQUISITO 146
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve escludere dal processo di certificazione i lavoratori autonomi con partita IVA che non abbiano dipendenti o addetti.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Esiste una procedura di screening per verificare che i richiedenti la certificazione non rientrino nella categoria dei lavoratori autonomi senza dipendenti?
+
+================================================================================
+
+REQUISITO 147
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: La certificazione rilasciata dall'OdC deve coprire l'intera entità giuridica, includendo tutti i siti, filiali, sedi secondarie, attività e processi.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Il perimetro di certificazione definito nel contratto e nel certificato finale è esaustivo e copre tutte le componenti dell'organizzazione?
+
+================================================================================
+
+REQUISITO 148
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: Per le organizzazioni multisito, l'Organismo di Certificazione (OdC) deve verificare che il sistema di gestione sia attuato in tutti i siti.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Il piano di audit per un'organizzazione multisito prevede attività di verifica per tutti i siti inclusi nel perimetro?
+
+================================================================================
+
+REQUISITO 149
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve rilasciare una certificazione di 'gruppo' solo in presenza di una struttura organizzativa centralizzata che gestisce e controlla la compliance per tutte le società del gruppo.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Prima di concedere una certificazione di gruppo, è stata verificata l'esistenza e l'operatività di una funzione di governance centralizzata?
+
+================================================================================
+
+REQUISITO 150
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'organizzazione non deve escludere alcun processo o funzione aziendale dal perimetro di certificazione.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: È stato verificato che il campo di applicazione del sistema di gestione per la parità di genere non presenta esclusioni di processi o funzioni?
+
+================================================================================
+
+REQUISITO 151
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'organizzazione può limitare la certificazione a una singola nazione solo a condizione che la governance del sistema non sia centralizzata in un altro Paese.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Se la certificazione è limitata a una nazione, è stato verificato che la governance del sistema di gestione risiede in quella stessa nazione?
+
+================================================================================
+
+REQUISITO 152
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve implementare al proprio interno un sistema di gestione per la parità di genere conforme alla UNI/PdR 125:2022.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: L'OdC può dimostrare di aver implementato un sistema di gestione per la parità di genere conforme alla UNI/PdR 125:2022?
+
+================================================================================
+
+REQUISITO 153
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve garantire che il gruppo di audit includa almeno un membro qualificato per la valutazione di sistemi di gestione per la qualità secondo la norma UNI EN ISO 9001.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: La composizione del gruppo di audit include almeno un auditor con qualifica valida per la ISO 9001?
+
+================================================================================
+
+REQUISITO 154
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'auditor qualificato ISO 9001 deve dimostrare una conoscenza approfondita e documentata della UNI/PdR 125:2022 e della linea guida UNI ISO 30415.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Esistono evidenze documentate (es. attestati di formazione, esami superati) che comprovano la competenza dell'auditor sulla UNI/PdR 125:2022 e UNI ISO 30415?
+
+================================================================================
+
+REQUISITO 155
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve garantire che il gruppo di verifica includa competenze legali specifiche, quali un avvocato giuslavorista o un consulente del lavoro con almeno 5 anni di iscrizione all'albo, o un professionista con esperienza equivalente documentata.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Il curriculum e le qualifiche dei membri del team di audit dimostrano il possesso delle competenze legali o di settore richieste?
+
+================================================================================
+
+REQUISITO 156
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) può impiegare un singolo Lead Auditor solo se questi possiede tutte le competenze richieste (gestionali, sulla prassi e legali).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Nel caso di audit condotto da un singolo auditor, è stata prodotta documentazione che attesti il possesso di tutte le competenze necessarie?
+
+================================================================================
+
+REQUISITO 157
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve garantire che il comitato di delibera possieda, nel suo insieme, le competenze per la valutazione di certificazioni UNI EN ISO 9001 e una conoscenza dimostrabile della UNI/PdR 125:2022.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Le competenze dei membri del comitato di delibera sono state registrate e verificate per assicurare la conformità ai requisiti?
+
+================================================================================
+
+REQUISITO 158
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve calcolare i tempi di audit applicando la tabella QMS1 (Low Risk) del documento IAF MD05.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Il calcolo dei giorni/uomo per l'audit è stato effettuato utilizzando la tabella QMS1 dell'IAF MD05 come riferimento?
+
+================================================================================
+
+REQUISITO 159
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve calcolare gli addetti equivalenti (FTE) considerando il 100% del personale di uffici chiave (Direzione, HR, etc.) e il 10% del personale di altre aree, escludendo consulenti esterni.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: È disponibile il calcolo dettagliato degli FTE utilizzato per determinare i tempi di audit, conforme alla metodologia specificata?
+
+================================================================================
+
+REQUISITO 160
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) non deve applicare tempi di audit inferiori alla soglia minima prevista dalla tabella IAF MD 5 e deve giustificare formalmente ogni eventuale riduzione.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: I tempi di audit applicati sono superiori o uguali al minimo IAF MD 5? Se è stata applicata una riduzione, esiste una giustificazione scritta e approvata?
+
+================================================================================
+
+REQUISITO 161
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve garantire la presenza di un esperto tecnico/legale durante la fase di audit in cui vengono valutati gli indicatori aziendali (KPI).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Il verbale di audit attesta la presenza di un esperto durante la valutazione dei KPI specifici della UNI/PdR 125:2022?
+
+================================================================================
+
+REQUISITO 162
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve condurre l'audit di certificazione iniziale in due fasi (Stage 1 e Stage 2) e in modalità sincrona.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: La pianificazione e l'esecuzione dell'audit iniziale dimostrano la suddivisione in due fasi sincrone?
+
+================================================================================
+
+REQUISITO 163
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve dedicare parte del tempo di audit a interviste con personale manageriale e non, di entrambi i generi.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Il piano di audit e i relativi rapporti includono evidenza di interviste condotte con un campione rappresentativo del personale?
+
+================================================================================
+
+REQUISITO 164
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve documentare nell'audit report il perimetro, la mappatura dei processi, l'analisi dei rischi di violazione dei diritti, le eventuali cause giudiziarie e le evidenze raccolte.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: La documentazione finale dell'audit contiene tutte le sezioni richieste, inclusa l'analisi dei rischi e delle evidenze?
+
+================================================================================
+
+REQUISITO 165
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: La documentazione di audit deve includere una valutazione del grado di applicazione dei requisiti sistemici (politica, piano strategico, budget, obiettivi, etc.).
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Il report di audit valuta in modo specifico la conformità dell'organizzazione ai requisiti sistemici della prassi?
+
+================================================================================
+
+REQUISITO 166
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: La documentazione di audit deve includere una valutazione dei requisiti operativi, come la misurazione degli indicatori per le sei Aree e l'analisi dell'equità remunerativa.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Il report di audit documenta la verifica della misurazione dei KPI e l'analisi delle buste paga per l'equità retributiva?
+
+================================================================================
+
+REQUISITO 167
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve garantire che lo scopo del certificato menzioni esplicitamente la dicitura 'Misure per garantire la parità di genere nel contesto lavorativo'.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Il testo dello scopo di certificazione riportato sulla bozza o sul certificato finale include la frase richiesta?
+
+================================================================================
+
+REQUISITO 168
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: In caso di audit integrati, l'Organismo di Certificazione (OdC) deve applicare il documento IAF MD 11.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: Se l'audit è stato integrato con altri sistemi di gestione, la sua pianificazione ed esecuzione sono conformi all'IAF MD 11?
+
+================================================================================
+
+REQUISITO 169
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 8
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve disporre di un regolamento che definisca la dicitura esatta che l'organizzazione certificata deve usare per comunicare la propria conformità.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE A - RACCOMANDAZIONI PER LA VALUTAZIONE DI CONFORMITÀ DI TERZA PARTE (CERTIFICAZIONE) PER LE ORGANIZZAZIONI CHE HANNO IMPLEMENTATO UN SISTEMA DI GESTIONE PER GARANTIRE LA PARITÀ DI GENERE
+Il presente prospetto definisce schematicamente gli elementi necessari, per un Organismo di Certificazione (OdC), per valutare la conformità alla presente UNI/PdR da parte di un'organizzazione, di qualunque forma giuridica e operante nel settore pubblico o privato.")
+DOMANDA AUDIT: L'OdC fornisce alle organizzazioni certificate un regolamento sull'uso del marchio che include la fraseologia obbligatoria?
+
+================================================================================
+
+REQUISITO 170
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 9
+----------------------------------------
+REQUISITO: L'organizzazione deve implementare un processo per l'aggiornamento periodico dei dati di benchmark dei KPI, utilizzando fonti esterne come l'Istat.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE
+Il prospetto B1 riportato qui di seguito fornisce degli esempi di KPI, a carattere indicativo e non esaustivo, riferiti ai diversi settori industriali identificati tramite codice ATECO.")
+DOMANDA AUDIT: Esiste un processo documentato e applicato per l'aggiornamento periodico dei dati di riferimento dei KPI di settore?
+
+================================================================================
+
+REQUISITO 171
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 9
+----------------------------------------
+REQUISITO: Il sistema deve permettere di classificare le informazioni e i KPI in base al settore industriale, utilizzando la codifica ATECO.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE
+Il prospetto B1 riportato qui di seguito fornisce degli esempi di KPI, a carattere indicativo e non esaustivo, riferiti ai diversi settori industriali identificati tramite codice ATECO.")
+DOMANDA AUDIT: Il sistema consente di associare un'entità (es. azienda, report) a un codice ATECO e di utilizzare tale classificazione per le analisi?
+
+================================================================================
+
+REQUISITO 172
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 9
+----------------------------------------
+REQUISITO: Il sistema deve supportare la raccolta e il monitoraggio di KPI specifici sulla parità di genere, includendo, a titolo esemplificativo, la percentuale di donne con contratto a tempo indeterminato sul totale dei dipendenti e la percentuale di donne dirigenti rispetto al totale dei dirigenti.
+DOMANDA AUDIT: Il sistema permette di raccogliere e monitorare KPI sulla parità di genere? È possibile, ad esempio, visualizzare la percentuale di donne con contratto a tempo indeterminato e la percentuale di donne in posizioni dirigenziali?
+
+================================================================================
+
+REQUISITO 173
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 9
+----------------------------------------
+REQUISITO: Il sistema deve supportare il calcolo e il monitoraggio del differenziale retributivo di genere, calcolato come differenza percentuale tra la retribuzione media annua di uomini e donne rapportata a quella maschile.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE
+Il prospetto B1 riportato qui di seguito fornisce degli esempi di KPI, a carattere indicativo e non esaustivo, riferiti ai diversi settori industriali identificati tramite codice ATECO.")
+DOMANDA AUDIT: Il sistema fornisce una funzionalità per calcolare e tracciare il differenziale retributivo di genere secondo la metodologia specificata?
+
+================================================================================
+
+REQUISITO 174
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 9
+----------------------------------------
+REQUISITO: Il sistema deve tracciare e storicizzare i valori dei KPI su base periodica (es. annuale) per consentire analisi comparative e di trend.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE
+Il prospetto B1 riportato qui di seguito fornisce degli esempi di KPI, a carattere indicativo e non esaustivo, riferiti ai diversi settori industriali identificati tramite codice ATECO.")
+DOMANDA AUDIT: È possibile consultare i valori storici di un KPI per un dato anno di riferimento?
+
+================================================================================
+
+REQUISITO 175
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_merged_2_dynamic_chunks.txt
+Chunk sorgente: 9
+----------------------------------------
+REQUISITO: Il sistema deve essere in grado di gestire e rappresentare correttamente valori di KPI non disponibili o non applicabili (N.A.) per determinati settori o periodi, senza causare errori di calcolo.
+REFERENZE: (pag 1 "UNI/PdR 125:2022
+APPENDICE B - ESEMPI DI KPI PER SETTORE INDUSTRIALE
+Il prospetto B1 riportato qui di seguito fornisce degli esempi di KPI, a carattere indicativo e non esaustivo, riferiti ai diversi settori industriali identificati tramite codice ATECO.")
+DOMANDA AUDIT: Come gestisce il sistema, sia a livello di calcolo che di visualizzazione, i casi in cui un dato KPI per un settore o un periodo è contrassegnato come 'Non Applicabile' o 'Non Disponibile'?
+
+================================================================================
+

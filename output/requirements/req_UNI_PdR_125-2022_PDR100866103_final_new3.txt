@@ -1,0 +1,9 @@
+REQUISITI ESTRATTI
+Totale requisiti: 147
+================================================================================
+
+REQUISITO 1
+File sorgente: req_UNI_PdR_125-2022_PDR100866103_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve adempiere all'obbligo di presentazione biennale del rapporto sulla situazione del personale maschile e femminile, come previsto dalla Legge 162/2021 per le aziende soggette.

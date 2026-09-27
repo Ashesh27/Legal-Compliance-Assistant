@@ -1,0 +1,267 @@
+CHUNKING DINAMICO - req_2.05.23_FAQ_Accredia_PdR125.pdf
+================================================================================
+
+================================================================================
+CHUNK 0
+SEZIONE: 1. ASPETTI GENERALI
+PAGINE: 2-2
+CARATTERI: 3035
+PAROLE: 464
+--------------------------------------------------------------------------------
+
+[PAGE 2]
+
+
+1. ASPETTI GENERALI
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+2/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 1 | Possono essere emesse certificazioni accreditate ai sensi della UNI ISO 30415? | NA | La UNI ISO 30415 è una linea guida, non definisce requisiti e quindi non è certificabile e pertanto non è accreditabile. Questa guida è richiamata, in termini di conoscenza dei contenuti, da parte del personale di audit e di delibera, all'interno della UNI/PdR 125:2022 sulla parità di genere. |
+| 2 | Le certificazioni svolte da Organismi di Certificazione non accreditati danno la possibilità alle imprese di accedere ai benefici fiscali previsti dalle leggi in materia, perché le uniche riconosciute dal Decreto del Presidente del Consiglio dei Ministri, del 29 aprile scorso? | NA | No, solo le certificazioni rilasciate da organismi di certificazione accreditati ai sensi del Reg. (CE) n. 765/08 e quindi riportanti il marchio UNI e quello dell'Ente di accreditamento, sono valide ai fini del riconoscimento per le imprese dei benefici stabiliti dal legislatore. |
+| 3 | I CABaccreditati (ACCREDIA o da altri enti di accreditamento operanti in ambito Reg. (CE) n. 765/08), sono tenuti a comunicare all'Autorità competente specifiche informazioni? | NA | Sì. Al fine di garantire all'Autorità competente di poter condurre i necessari monitoraggi sul numero delle certificazioni sopra indicate, è fatto d'obbligo per tutti gli Organismi di Certificazione (inclusi quelli che non vogliono aderire alla misura da 12.500 euro) di iscrizione e comunicazione, in base alle istruzioni che verranno fornite in seguito: 1. di tutte le certificazioni rilasciate a fronte della UNI/PdR 125, compresa ogni successiva modifica - all'interno del sistema informativo di ACCREDIA, per gli Organismi accreditati da ACCREDIA; - all'interno del sistema informativo del Ministero Famiglia, Natalità, Pari Opportunità, per gli Organismi che sono accreditati da altri Enti di Accreditamento operanti ai sensi del Reg. (CE) n. 765/2008. A tal proposito si precisa inoltre che per i soggetti accreditati ACCREDIA i dati sono trasmessi al sistema informativo del Ministero direttamente attraverso la stessa banca dati ACCREDIA precedentemente citata; 2. dei dati relativi ai KPI richiesti dalla UNI/PdR 125 all'interno del sistema informativo del Ministero Famiglia, Natalità, Pari Opportunità, per tutti gli Organismi che sono accreditati ACCREDIA o da altri Enti di Accreditamento operanti ai sensi del Reg. (CE) n. 765/2008 e riconosciuti dal Ministero interessato attraverso l'inserimento in apposito elenco e secondo le modalità fornite da quest'ultimo. Queste informazioni possono essere elaborate e anche pubblicate in forma aggregata dal Ministero Famiglia, Natalità, Pari Opportunità. Gli OdC accreditati da ACCREDIA devono fornire ad ACCREDIA stessa solo le informazioni relative alle certificazioni rilasciate. |
+
+================================================================================
+CHUNK 1
+SEZIONE: 2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+PAGINE: 3-9
+CARATTERI: 20464
+PAROLE: 3318
+--------------------------------------------------------------------------------
+
+[PAGE 3]
+
+
+2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+3/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 4 | Nella UNI/PdR 125 è richiesto che nel gruppo di audit sia presente un/una avvocato/a giuslavorista o un/una consulente del lavoro purché iscritti da almeno 5 anni al relativo albo professionale, oppure altro/altra professionista che dimostri significativa e consolidata esperienza documentata nel settore specifico, oggetto della prassi, del Paese dell'organizzazione auditata e conoscenza della normativa applicabile. Si richiedono esempi riguardo le esperienze lavorative di questo/a professionista. | NA | Il/la professionista che può essere qualificato/a e ricoprire il ruolo di esperto tecnico, nell'ambito dei gruppi di audit, deve dimostrare esperienze lavorative in materia di parità di genere nel ruolo, ad esempio, di: Consigliera/consigliere di parità, professionista per le politiche di genere in commissioni ministeriali nazionali ointernazionali,Manager HR in organizzazioni che attuano politiche per la parità di genere. Professionista con esperienza maturata e documentata nella formazione, ricerca e sviluppo o consulenza per le organizzazioni in materia di parità di genere e inclusione. |
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 5 | Nella UNI PdR 125 viene assegnato un punteggio univoco ad ogni singolo KPI, Es. Prospetto 3 cultura e strategia, il punteggio viene assegnato nella sua totalità se il KPI è completamente soddisfatto oppure è possibile assegnare un punteggio parziale? | KPI qualitativi | È possibile assegnare il punteggio solo se il KPI è soddisfatto, quindi, in base all'esempio citato, se il piano risponde a tutti i requisiti del punto 6.3 della UNI/PdR 125. In caso contrario l'obiettivo non è raggiunto e non può essere assegnato alcun punteggio, neanche parziale. Laddove per il primo anno è accettabile l'applicazione di un 'entry level', l'anno successivo deve essere data dimostrazione di un miglioramento. |
+| 6 | Se un'organizzazione appartiene al cluster 'MICRO', i KPI applicabili saranno: 5.2.1, 5.3.1, 5.4.1, 5.4.6, 5.5.1, 5.6.1, 5.7.2, 5.7.3? Il conteggio complessivo di tali KPI considerandoli tutti soddisfatti è 35.25 (punteggio ottenuto considerando anche la percentuale di peso definita per ogni area). È corretto affermare che l'organizzazione risulta certificabile se raggiunge un punteggio ≥ 21 (21 è stato calcolato come il 60% del punteggio massimo ottenibile per la tipologia) MICRO) | KPI quantitativi | L'organizzazione risulta certificabile se raggiunge un punteggio ≥ 21 calcolato per le micro imprese. |
+
+
+
+[PAGE 4]
+
+
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+4/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 7 | Area opportunità di crescita ed inclusione delle donne in azienda: a. è corretto ritenere che per le piccole organizzazioni deve essere soddisfatto solo l'indicatore 1? o se non soddisfano l'indicatore 1 possono essere considerati gli altri indicatori della stessa area? b. È corretto che i KPI 5 e 6 siano applicabili solo alle organizzazioni di fascia 3 e 4? (perché nei KPI 2 e 4 questo è esplicitato ma non nei 5 e 6) c. KPI 1-2: non è chiara la nota: considerare nel calcolo le varie altre forme di collaborazione. È da considerare solo collaborazioni interne presenti in organigramma con contratto di lavoro? | punto. 5.5 KPI quantitativi | Occorre applicare i KPI che la UNI/PdR 125 specifica come applicabili a ciascuna delle fasce di appartenenza delle imprese. Un'impresa può decidere di adottare un approccio virtuoso ed applicare, oltre i KPI mandatori, anche ulteriori KPI, ma ciò non concorre a determinare il raggiungimento della soglia minima per l'ottenimento della certificazione. Si ricorda a tal proposito quanto previsto al punto 6.4.8 'Miglioramento' della UNI/PdR 125: ' A seguito dei risultati della revisione l'organizzazione può identificare obiettivi ulteriori' . a) Per le fasce 1 e 2 è già prevista un'agevolazione limitando l'applicabilità a solo alcuni KPI che costituiscono pertanto carattere mandatorio. b) I KPI 5 e 6 sono applicabili solo alle organizzazioni di fascia 3 e 4. c) Sono inclusi i contratti, ad esempio, di somministrazione, stage. Non necessariamente le figure contrattualizzate in tal modo sono presenti in organigramma. Per quanto riguarda il personale in somministrazione vanno considerati nel Sistema di gestione dell'azienda presso cui svolgono l'attività lavorativa e non nel Sistema di gestione dell'Agenzia che li ha collocati (es. agenzia interinale). Si precisa inoltre che non è da considerare nel computo degli addetti, sia per il calcolo dei tempi sia per i KPI, il personale che opera con contratto di collaborazione (anche se continuativo) ad esempio avvocati, informatori del farmaco, auditor non dipendenti (esterni). |
+| 8 | Come è possibile reperire i dati a cui fare riferimento per gli indicatori 2 e 4 del prospetto 6? | Punto 5.5, Prospetto 6, Indicatori 2 e 4 | Arettifica di quanto dichiarato nel documentoUNI/PDR125, la fonte dei dati non è la rilevazione Forze di lavoro. Per formulare la richiesta dei dati ci si deve registrare all'indirizzo https://contact.istat.it e accedere al servizio 'assistenza nella ricerca dei dati'. |
+
+
+
+[PAGE 5]
+
+
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+5/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 9 | Area equità remunerativa per genere. KPI 1. Percentuale di differenza retributiva per medesimo livello inquadramentale per genere e a parità di competenze. Come calcolare tale indicatore? Se ci sono livelli retributivi con solo uomini e non ci sono donne, per il calcolo si considerano solo i livelli retributivi dove ci sono sia uomini che donne? | punto 5.6 KPI quantitativo | L'indicatore può essere calcolato solo in presenza di entrambi i generi poiché deve essere calcolato il delta, cioè la differenza esistente, all'interno dei vari livelli, tra uomini e donne. Se il gap è superiore al 10% anche in un solo livello, il punteggio è zero. Se in un livello è presente un solo genere, non lo si considera nella valutazione; si considerano solo i livelli in cui sono presenti entrambi i generi. |
+| 10 | Area tutela delle genitorialità e conciliazione vita-lavoro: Non è chiaro il KPI 3 in cosa può essere nella pratica differente dal KPI 1. È ammissibile che il KPI 3 è più blando perché applicabile a piccole organizzazioni. Il KPI 1 più di dettaglio per le grandi organizzazioni? | punto 5.7 KPI quantitativi | Il KPI 1 affronta l'aspetto in termini 'generali' ed è applicabile alle piccole imprese. Il KPI 3 affronta l'aspetto in maniera più specifica e con una connotazione temporale di 'rientro post maternità/paternità'. |
+| 11 | Area tutela delle genitorialità e conciliazione vita-lavoro: KPI 4-5: cosa significa 'quanto più si avvicina'? È ammissibile che il valore di entrambi dovrebbe essere sempre 10. L'azienda non ha la possibilità di incidere sulle scelte personali del dipendente. L'importante è che l'azienda pubblicizzi la possibilità di congedo di paternità. | punto 5.7 KPI quantitativi | Conla pubblicazione del Decreto legislativo30giugno 2022, n. 105, pubblicato in GUil 29 luglio 2022, relativo all'equilibrio tra attività professionale e vita familiare e la pubblicazione della circolare n. 3066 dell'INPS del 4 agosto, sono state definite nuove regole in materia di congedo di paternità obbligatorio e sono state introdotte modifiche alle regole del congedo parentale, per entrambi i genitori. Le imprese devono informare i lavoratori e adeguarsi alle nuove disposizioni. |
+
+
+
+[PAGE 6]
+
+
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+6/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 12 | Area 'Tutela della genitorialità e conciliazione vita-lavoro'. KPI 4. Rapporto tra il numero dei beneficiari uomini effettivi sul totale dei beneficiari potenziali dei congedi di paternità nei primi dodici anni di vita del bambino obbligatori. KPI 5. Rapporto tra n. di giorni medio di congedo di paternità obbligatorio fruiti e il totale di n. gg potenziale previsto dalla legge. I due indicatori sembrerebbero avere il medesimo oggetto: il congedo di paternità. Tuttavia, nel primo KPI vi è il riferimento ai 'dodici anni di vita del bambino', proprio del congedo parentale , Nel secondo indicatore, tenuto conto che si parla di numero di giorni, non vi sono dubbi che il riferimento sia effettivamente il congedo di paternità essendo questo di dieci giorni piuttosto che il congedo parentale di dieci mesi, il cui calcolo del numero di gg. medio fruiti sarebbe più complicato. È dirimente fare chiarezza su questo aspetto perché è la fruizione del congedo parentale da parte dei padri che può contribuire a un effettivo bilanciamento dei ruoli di cura dei due genitori e, dunque, permettere alle donne pari opportunità professionali, piuttosto che la fruizione dei dieci giorni, già normativamente non bilanciata rispetto ai 150 giorni convenuti alla madre. | Punto 5.7 KPI quantitativi | Con la nuova legge il periodo di tempo per sfruttare il congedo è stato portato fino ai 12 anni; il congedo copre fino a 9 mesi di cui tre per i padri tre per le madri ed altri 3 da distribuire tra i genitori. In considerazione di quanto esposto, i KPI 4 e 5 devono essere intesi come segue: 4. Rapporto tra il numero dei beneficiari uomini effettivi sul totale dei beneficiari potenziali dei congedi parentali nei primi dodici anni di vita del bambino obbligatori. 5. Rapporto tra n. di giorni medio di congedo di paternità fruiti e il totale di n. gg potenziale previsto dalla legge. |
+| 13 | Quando un'azienda ha più attività, per i KPI come si ragiona? Bisogna considerare il 'settore prevalente', e questi come viene identificato: attività/fatturato/numero addetti? | KPI | L'azienda deve implementare il Sistema di Gestione (SG), gli obiettivi e i KPI per tutte le attività svolte e per tutti i livelli organizzativi. È importate valutare che il concetto di parità di genere sia applicato per gli aspetti delle sei aree della UNI/PdR 125 in modo trasversale per tutte le attività aziendali (per tutti i settori merceologici), i contratti e i livelli retributivi. Ai fini del calcolo dei KPI, per l'identificazione dei codici ATECO applicabili, è consigliabile fare riferimento a quanto riportato nelle visure camerali, identificando il settore prevalente in termini di fatturato. |
+| 14 | Come si devono comportare i CAB in fase di prima certificazione su quei KPI che sono espressi come miglioramento rispetto ai valori degli anni precedenti probabilmente non a disposizione dell'Organizzazione? Non avendo l'azienda applicato la prassi negli anni precedenti, si può considerare un punteggio di 25 come entry level e fare poi i confronti negli anni successivi? | KPI | È ammesso assegnare il punteggio di entry level solo se l'organizzazione ha implementato il sistema di gestione e ha messo in attoun piano strategico efficace per garantirne il miglioramento. |
+| 15 | Quale periodo di riferimento bisogna considerare? L'Azienda può decidere il periodo di riferimento (anno solare, periodo fiscale), purché sia sempre lo stesso? | KPI | Il periodo di riferimento per la periodicità degli audit è l'anno solare secondo i requisiti della norma UNI CEI EN ISO/IEC 17021-1. Per il calcolo dei KPI, invece, il periodo di riferimento è a discrezione dell'impresa e delle sue linee d'investimento definite a chiusura dell'anno fiscale (che potrebbe non coincidere con l'anno solare). |
+
+
+
+[PAGE 7]
+
+
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+7/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 16 | Il piano di azione, le strategie e gli obiettivi per il miglioramento devono essere supportati da evidenze, es. piano di investimenti? | punto 6.1 | Il piano di azione, il piano strategico e gli obiettivi per il miglioramento devono essere supportati da evidenze documentate. |
+| 17 | Piano di Azione: si attende un documento a sé oppure l'adozione e applicazione di sistema di gestione che include anche il piano strategico (rif. 6.2, 6.3) è di fatto espressione del piano di azione? L'azienda può decidere se fare uno o più documenti, purché i contenuti siano rintracciabili? | punto 6.1 | Il punto 6.1 descrive i contenuti del documento della Politica per la parità di genere, che è un documento di intenti dell'Alta Direzione aziendale. Dalla Politica scaturisce il piano di azione, che può essere articolato in più documenti: obiettivi, analisi e monitoraggio KPI, budget e altri documenti. |
+| 18 | Punto. 6.3.1 - b) 'formazione generale e specifica, a tutti i livelli, inclusi quelli contro i pregiudizi e gli stereotipi legati al genere' Per livelli si intende livelli organizzativi? Perché la parola 'inclusi' che è subito dopo farebbe pensare a livelli riferito ai contenuti, ma la frase non è chiara. Qual è la distinzione tra formazione generale e specifica? Sarebbe opportuno parlare di formazione senza distinguere tra generale e specifica. In audit saranno valutati i contenuti della formazione. | punto 6.3.1 | La formazione deve coinvolgere tutti i livelli organizzativi. Gli argomenti trattati devono includere la lotta contro i pregiudizi e gli stereotipi legati al genere. La formazione generale riguarda la descrizione di tematiche applicabili, ad esempio, in ambito nazionale (sentenza giuridica, leggi e regolamenti applicabili al tema). La formazione specifica è invece l'analisi degli aspetti di parità di genere legati al settore di riferimento dell'organizzazione e alle modalità che l'organizzazione in prima linea ha deciso di adottare per contrastare le disparità e gli stereotipi. |
+| 19 | KPI 5. Presenza di esponenti del sesso meno rappresentato nell'organo amministrativo e di controllo della organizzazione. Come si misura questo KPI per le aziende che non hanno un CdA, ma un Amministratore Unico (es. Srl a Socio Unico, Srls, Spa)? Si parla anche di organi di controllo, quindi ad es. Collegio Sindacale. Possiamo considerare anche la composizione del Collegio Sindacale? Se sì, quali altri organi di controllo si possono includere? | KPI punto 5.3 Governance | Tenuto conto che l'organo di controllo presidia l'osservanza delle leggi, dello statuto, l'adeguatezza dell'assetto organizzativo, amministrativo e contabile, oltre che il suo concreto funzionamento, è compito dell'impresa che intende certificarsi, individuare al suo interno tale riferimento in funzione della propria organizzazione. |
+| 20 | 'Ogni 2 anni tale certificazione viene rivalutata e rinnovata' - come si interpreta alla luce del fatto che sia nell'annex che nella circolare si parla di ISO 17021? Per una migliore gestione sarebbe preferibile applicare i criteri della ISO 17021 con ciclo triennale e verifiche annuali. | punto. 5.1 | Le regole per il rilascio e mantenimento della certificazione, da parte degli OdC sono definite dalla UNI CEI EN ISO/IEC 17021-1 e riguardano la sorveglianza annuale e il rinnovo ogni 3 anni. Nel passaggio specifico, la UNI/PdR 125 si riferisce alla periodicità biennale della rivalutazione e aggiornamento dei KPI. |
+
+
+
+[PAGE 8]
+
+
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+8/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 21 | Non è chiaro se tutti i punti oggetto del piano strategico debbano essere stati completamente realizzati per ottenere la certificazione. Il dubbio nasce in particolare dal fatto che i requisiti del punto 6.3.2 ('Temi oggetto del piano strategico') sono espressi come 'l'organizzazione deve' e ciò appare in contrasto con il requisito minimo del 60% richiesto per i KPI. Ad esempio: l'indicatore 'Presenza di servizi dedicati al rientro post maternità/paternità' (prospetto 8) potrebbe far parte del 40% non raggiunto, tuttavia il punto 6.3.2.4 d) richiede obbligatoriamente che esistano delle iniziative in merito. Lo stesso vale per la conciliazione dei tempi vita-lavoro (obbligatoria per 6.3.2.5, ma il relativo KPI del prospetto 8 potrebbe non essere raggiunto). D'altra parte se il piano dev'essere, appunto, 'strategico', sembrerebbe ragionevole che venga attuato su tempi medio-lunghi, mediante opportune azioni | punti 6.3.2, 6.3.2.4 d, 6.3.2.5 | Il punto 6.3.2.4 d) richiede obbligatoriamente che ci sia un piano di azione, ma per ottenere la certificazione non è necessario che siano realizzati tutti i punti in esso contenuti. Lo stesso vale per il punto 6.3.2.5. |
+| 22 | In caso di amministratore unico? Se dichiarato come unico organo di controllo, come ci si comporta? | punto 5.3.5 | In questo caso l'indicatore non è soddisfatto. |
+| 23 | Come deve essere effettuato il conteggio delle persone, sia totale che donne? A teste o ULA (unità lavorative anno)? Si devono conteggiare anche i non dipendenti? Il criterio è l'anno come media mensile o a un dato momento es. 31/12? Su questo siamo abbastanza sicuri sulla media, ma | punto 5.5.2 | Il conteggio deve essere fatto sul numero di teste che hanno composto l'organico nell'arco di un anno (esercizio o anno solare). |
+| 24 | andate via e hanno lavorato solo x mesi come le calcolo? Punto 5.3.4: In caso non ci siano dirigenti il requisito è soddisfatto? Se è l'uomo ad essere discriminato come numero? Per noi il requisito è comunque soddisfatto, corretto? | punti 5.3.4, 5.5.3, 5.5.6, 5.5.7 e 5.6.3 | L'appendice B1 riporta indicazioni chiare. L'indicatore è sui dirigenti. Se non ce ne sono, l'indicatore non è soddisfatto La UNI/PdR fa riferimento alla parità di genere intendendo la parità binaria tra uomo e donna e sottolinea come le percentuali siano solitamente a favore del genere femminile. Se gli uomini sono in numero inferiore in tutta l'azienda, allora essi saranno il sesso meno rappresentato, e quindi da considerare nell'indicatore inerente al consiglio di amministrazione. |
+
+
+
+[PAGE 9]
+
+
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+9/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 25 | Area 5.7 "Tutela della genitorialità e conciliazione vita-lavoro". 1) Con riferimento agli indicatori 4. e 5. di pagina 28 della PdR 125:2022, la Fonte INPS indicata prevede l'individuazione di un dato percentuale da parte dell'INPS o il riferimento all'INPS è fatto solo in relazione all'applicabilità dei contenuti del Messaggio INPS n. 3066 del 4 agosto 2022? Il riferimento deve essere fatto alla sola fonte interna? 2) Con riferimento specifico all'indicatore n. 5 "rapporto tra n. di giorni medi di congedo parentale fruiti e il totale di n. gg. Potenziale previsto dalla legge", cosa si deve intendere per potenziale? Infatti, dal momento che il congedo parentale può andare da 1 a 7 mesi, nel misurare il rapporto, di quale dato si deve tenere | Prospetto 8, indicatori 4 e 5. | 1) La Fonte dei dati deve essere interna e confrontata con quella INPS. In caso di mancanza di Fonte INPS basta quella interna. 2) Vedere FAQ 12. |
+| 26 | Se non ci sono dirigenti nell'organizzazione (né donne né uomini) come valutiamo il KPI? Essendo il KPI non quantificabile, non essendoci dati da poter analizzare, e non avendo la possibilità di dichiarare il KPI non applicabile, a nostro parere non è soddisfatto e dunque pari a 0. | Prospetto 6, KPI 3 e 4 | In questo caso l'indicatore non è soddisfatto |
+| 27 | È corretto? Se nel periodo di valutazione del KPI, l'organizzazione non ha effettuato promozioni a favore di donne e uomini, il KPI come deve essere valutato? Essendo il KPI non quantificabile, non essendoci dati da poter analizzare, e non avendo la possibilità di dichiarare il KPI non applicabile, a nostro parere non è soddisfatto e dunque pari a 0. È corretto? | Prospetto 7, KPI 2 | In questo caso l'indicatore non è soddisfatto |
+
+================================================================================
+CHUNK 2
+SEZIONE: 3. APPENDICE A
+PAGINE: 10-13
+CARATTERI: 13225
+PAROLE: 2066
+--------------------------------------------------------------------------------
+
+[PAGE 10]
+
+
+3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+10/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 28 | I tempi di verifica da parte di ACCREDIA presso la sede dell'OdC, (sia quelli per l'audit di accreditamento che quelli di prima sorveglianza), definiti nell''Iter di accreditamento/estensione', non tenendo conto delle dimensioni dell'Organismo e risultano proporzionati. Di fatto, in una verifica di certificazione in conformità alla UNI/PdR 125:2022, rilasciata da un OdC ad un altro OdC, i tempi devono essere calcolati sulla base del MD 05 (quindi si basano sul numero di dipendenti), mentre i tempi della verifica di ACCREDIA definiti ai punti A, B e C sono definiti in base a criteri che non considerano il numero degli addetti. Pertanto, la figura di ACCREDIA si contrapporrebbe agli OdC in un'ottica di concorrenza che potrebbe configurarsi discriminante. | Appendice A | La verifica svolta dall'Ente di accreditamento presso la sede degli OdC è finalizzata alla valutazione del sistema di gestione della parità di genere, in conformità alla UNI/PdR 125, e non alla certificazione del sistema di gestione stesso. Le attività di valutazione degli OdC sono, invece, finalizzata al rilascio e mantenimento delle certificazioni e devono quindi rispettare i requisiti mandatori dei documenti ISO e IAF in materia di certificazioni di sistemi di gestione volontari. |
+| 29 | Per il calcolo della durata degli audit di certificazione e mantenimento occorre fare riferimento allo IAF MD 5. Chiedo se è possibile avere dei criteri di riferimento per il calcolo degli addetti equivalenti (FTE). | Appendice A | Considerata la specificità del Sistema di Gestione per la parità di genere secondo la UNI/PdR 125:2022, che riguarda principalmente il coinvolgimento dei processi di 'Governance/HR', ai fini del calcolo degli addetti equivalenti (FTE- Full Time Equivalent), deve essere applicata la seguente metodologia:  Si individuano per i processi direttamente coinvolti nel Sistema di Gestione per la parità di genere i FTE, secondo le seguenti percentuali:  100% addetti ai seguenti uffici: o Direzione; o Amministrazione personale/HR; o Formazione; o Sistema di Gestione parità di genere; o Legale; o Comunicazione;  + 10% addetti ad altri uffici e produzione. Definiti i FTE si determina, attraverso l'Annex A - Quality Management Systems - complessità low, la durata dell'audit. Si ricorda che: - è escluso dal calcolo dei FTE il personale che offre all'impresa il servizio di consulenza/collaborazione; - la UNI/PdR 125:2022 non si applica alle P. IVA che non hanno dipendenti o addetti/addette; - occorre fare riferimento alla definizione di 'addetto' di cui al punto 3.1 della UNI/PdR 125 al fine di individuare il personale coinvolto; - valgono i termini e le definizioni dello IAF MD 5. Non è comunque consentito applicare tempi di audit al di sotto della soglia minima prevista dalla tabella IAFMD 5. In ogni caso le eventuali riduzioni applicate devono essere adeguatamente giustificate. |
+
+
+
+[PAGE 11]
+
+
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+11/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 30 | In relazione alle certificazioni multisite, per cui occorre applicare lo IAF MD 1, è necessario svolgere il sopralluogo presso tutti i siti aziendali o esistono dei criteri di campionamento? | Appendice A | Tutti i siti aziendali, presso cui opera personale dipendente o addetti/addette devono essere inclusi nel Sistema di Gestione per la parità di genere della impresa multisite. In particolare, il certificato deve elencare tutti i siti certificati. Pertanto, l'OdC deve garantire che il Sistema di Gestione secondo la UNI/PdR 125:2022 certificato sia attuato e aggiornato in tutti i siti della medesima legal entity. In relazione alle modalità di campionamento, si richiede di effettuare i sopralluoghi in campo almeno presso i siti che concorrono in maniera diretta alla progettazione e alla attuazione del Sistema di Gestione per la parità di genere.  Direzione  Ufficio risorse umane  Ufficio amministrativo  Ufficio formazione  Ufficio SG per la parità di genere  Ufficio legale  Ufficio comunicazione Si richiede inoltre agli OdC di svolgere il sopralluogo o almeno un virtual tour presso i siti in cui sono stati creati servizi e strutture (es. nido-nursery-percorsi sicuri) dedicati all'attuazione della politica per la parità di genere. |
+| 31 | Per i multisite composti da diverse legal entity sorge il dubbio di come richiedere i KPI: sulla Corporate (come sembrerebbe più corretto) o suddivisi per legal entity nella possibilità che poi i dati non aggregati possano servire per le premialità alla singola organizzazione? | Appendice A | Per i multisite costituite da diverse legal entity, occorre applicare un approccio di valutazione 'flessibile', che tenga conto della specificità del Sistema di Gestione per la parità di genere progettato e attuato dall'organizzazione valutata. Quindi, se i KPI sono tutti sotto il controllo della Corporate/Holding, verranno valutati c/o la corporate, se invece sono specifici e attuati per ciascuna local entity, allora dovranno essere verificati in ciascuna local entity. Occorre comunque verificare che i KPI (nelle 6 aree) siano stati attuati da tutte le legal entity elencate nel certificato UNI/PdR 125:2022 emesso. Si specifica inoltre che in caso di multisite costituito da diverse legal entity, ognuna deve singolarmente raggiungere il punteggio minimo del 60% affinché la Corporate/Holding possa essere certificata. |
+
+
+
+[PAGE 12]
+
+
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+12/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 32 | Come impiegare il tempo di audit in sito, visto che non sono previste interviste e requisiti specifici al di là di: diffusione delle politiche, formazione, consapevolezza o soluzioni che l'azienda ha pensato (nido- nursery-percorsi sicuri), ma che non si conoscono a priori? | Appendice A | I processi da valutare durante l'audit devono riguardare almeno: Processi generali e della Direzione: - Aspetti legali e contrattuali - Estensione territoriale di applicazione del Sistema di Gestione della Parità di Genere - Costituzione e composizione Comitato Guida - Strategia, programmi ed obiettivi di miglioramento - Politiche welfare - Budget dedicato e coerenza con gli obiettivi - Revisione periodica dei KPI. Requisiti del sistema di gestione, di documentazione ed informazione: - Identificazione requisiti normativi - Gestione e modifica alla documentazione - Informazioni pubbliche, riservatezza, comunicazione interna ed esterna - Audit interni - Gestione situazioni non conformi. Requisiti di sistema UNI/PdR 125: - Politiche e Piano strategico - Indicatori di performance per le sei Aree:  Cultura e strategia  Governance  Processi HR  Opportunità di crescita ed inclusione donne  Equità remunerativa (disamina buste paga)  Tutela della genitorialità e conciliazione vita- lavoro. La valutazione dei KPI deve comprendere la valutazione dei dati statistici raccolti, accompagnati dalla valutazione di evidenze documentate Nei successivi audit di sorveglianza si richiede di verificare l'efficace chiusura dei rilievi emersi dagli audit precedenti e il focus dei KPI nelle aree con potenziale |
+| 33 | È possibile integrare la PdR con altre norme? Se sì con quali? | Appendice A | È applicabile lo IAF MD 11. Si ricorda che la riduzione ammissibile della durata dell'audit deve essere giustificata in relazione al grado di integrazione dei Sistemi di Gestione dell'organizzazione e alla completezza (o livello di copertura) delle competenze del GVI incaricato dall'OdC a valutare il Sistema di Gestione integrato. |
+| 34 | Non previste interviste alle lavoratrici. Bisogna quindi fidarsi del management? | Appendice A | Al fine di verificare il grado di informazione e consapevolezza del personale, in merito alla politica, al piano strategico e ai KPI aziendali, deve essere dedicato del tempo alle interviste a uomini e donne, personale manager e non manager dell'impresa, coinvolti nella gestione dei processi, ad esempio personale amministrativo, addetti all'ufficio del personale. |
+| 35 | Criteri di competenze: se un Lead Auditor ha anche competenze giuslavoriste deve andare un altro esperto? | Appendice A | Può essere incaricato a svolgere l'audit solo il Lead Auditor se ricopre tutte le competenze richieste all'Appendice A, incluse le skills richieste all'esperto in materia. |
+
+
+
+[PAGE 13]
+
+
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+13/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 36 | I criteri accettati in fase iniziale di accreditamento degli OdC prevedono il rispetto di tutti i requisiti nell'arco temporale di 12 mesi, ciò in contrasto con quanto indicato nella UNI/PdR 125:2022 che non prevede dilazioni temporali. | Appendice A | I 12 mesi per implementare il SG UNI/PdR 125 sono considerati esclusivamente in fase di prima applicazione del Sistema di Gestione degli OdC che intendono farsi accreditare in quest'ambito. Le aziende/Organismi che desiderano conseguire la certificazione, invece, devono possedere un sistema di gestione applicato nella sua totalità, come richiesto dalla UNI/PDR 125:2022. A tal proposito, si ricordano le prescrizioni di cui al punto 9.3.1.3 della norma UNI CEI EN ISO/IEC 17021-1 che definisce gli obiettivi della fase 2 dell'audit di certificazione in assenza dei quali non è possibile conseguire la certificazione stessa. |
+| 37 | Utilizzo del Marchio UNI - secondo appendice A, prospetto A1 sembrerebbe obbligatorio l'uso combinato del marchio UNI con il Marchio dell'ente di certificazione. Si richiede conferma di tale obbligo considerati i relativi costi di licenza d'uso. | Appendice A | Per la certificazione ai sensi della UNI/PdR 125 sotto accreditamento, l'utilizzo combinato del 'Marchio UNI' e del marchio ODC è obbligatorio. Tutto lo schema nasce infatti da un'iniziativa UNI concertata con il Ministero e l'utilizzo del Marchio UNI è stato condiviso dal Tavolo di Lavoro UNI sin dalla presentazione del progetto al Ministero, divenendo pertanto requisito della stessa UNI/PdR 125. L'utilizzo del Marchio UNI rappresenta l'evidenza dell'impegno delle parti coinvolte al Tavolo UNI di realizzare uno schema che fosse certificabile e che rientrasse nel percorso completo dell'Infrastruttura Qualità (IQ) italiana (documento normativo UNI, certificazione OdC, accreditamento ACCREDIA), evitando così che si scegliessero percorsi paralleli estranei all'IQ anche ai fini di possibili incentivi pubblici. Ciò ha rappresentato anche la soluzione unificante alle esigenze di avere un unico marchio di certificazione ben identificabile per tutte le organizzazioni certificate, in aggiunta alla presenza dei marchi dei diversi OdC. |
+| 38 | I criteri per la formulazione dello scopo del certificato sono gli stessi già applicati per la UNI EN ISO 9001, con particolare attenzione al campo di applicazione del sistema di gestione, che deve menzionare le 'Misure per garantire la parità di genere nel contesto lavorativo'. È possibile avere chiarimenti aggiuntivi? | Appendice A | I criteri per la formulazione dello scopo del certificato sono gli stessi del SGQ (9001). Inoltre nello scopo del certificato deve comparire anche la dicitura 'misure per…' richiesta dal Ministero e correlata alle disposizioni legislative sul tema. |
+| 39 | La prima verifica deve essere necessariamente divisa in stage 1 e stage 2? Può essere svolta in una combinazione di remoto asincrono e sincrono o è necessario andare in presenza | Appendice A | Si applicano le regole della UNI CEI EN ISO/IEC 17021-1, punto 9.3.1 che prevede che l'audit di certificazione iniziale sia composto dalla Fase 1 e dalla Fase 2. È richiesto che l'attività sia svolta in modalità sincrona. Per quanto riguarda invece la possibilità di svolgerla in campo o da remoto, si applica quanto previsto dalla Circolare Tecnica di ACCREDIA n. 23/2022 che prevede quanto segue: ' Per le verifiche iniziali ci si riferisca d'ora in avanti alle FAQ 17 e FAQ 5 (è possibile condurre anche le verifiche iniziali in remoto, se è possibile vedere e verificare tutte le attività in remoto. Questo comporta anche che l'organizzazione interessata sia operativa)', salvo ulteriori modifiche/aggiornamenti. |
+| 40 | Se un'azienda multinazionale ha la governance centralizzata in un altro Paese, come possiamo limitare la certificazione al perimetro Italia? | Appendice A | Considerando che la Governance rappresenta una delle sei aree di KPI della UNI/PdR da analizzare, tenuto anche conto della definizione intrinseca che la stessa UNI/PdR 125 attribuisce alla Governance (si veda punto 3.15), si ritiene non ammissibile per l'esempio presentato la limitazione al solo perimetro italiano. |
+
+================================================================================
+CHUNK 3
+SEZIONE: 4. APPENDICE B
+PAGINE: 14-14
+CARATTERI: 2003
+PAROLE: 326
+--------------------------------------------------------------------------------
+
+[PAGE 14]
+
+
+4. APPENDICE B
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere - agg. 02/05/2023
+14/14
+
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 41 | Il Sistema di Gestione della Parità di Genere è applicabile a tutte le categorie merceologiche di aziende (es. anche ambito costruzioni)? | Appendice A | Si conferma che il Sistema di Gestione ai sensi della UNI/PdR 125:2022 è applicabile a tutte le organizzazioni pubbliche e private di ogni dimensione e settore. |
+
+
+**[TABELLA]**
+| N. | FAQ | RIF. UNI/ PdR 125 | RISPOSTE UNI - ACCREDIA |
+| --- | --- | --- | --- |
+| 42 | La tabella in appendice B presenta valori mancanti nei settori 'Agricoltura, silvicoltura e pesca' e 'Amministrazione pubblica e difesa assicurazione sociale obbligatoria'. Nell'eventualità di clienti con aziende dei settori suddetti e per i quali si applicano gli indicatori che richiedono la comparazione al benchmark, come dobbiamo regolarci? | Appendice B | Si tratta di esempi utili ma non esaustivi. Inoltre, sono riferiti al momento della pubblicazione della UNI/PdR 125 e quindi necessitano di aggiornamenti. |
+| 43 | È previsto l'aggiornamento dei parametri di riferimento presenti all'Appendice B della UNI/PdR 125? Chiarire se i parametri dell'appendice B sono mandatori o indicativi | Appendice B | Come tutti i documenti UNI, anche la UNI/PdR 125 potrà essere oggetto di revisione (e/o di trasposizione in norma) quando emergessero aspetti meritevoli di un aggiornamento del testo. |
+| 44 | Verrà garantito un aggiornamento annuale ufficiale dei dati di benchmark, in modo che non vi siano differenti riferimenti che potrebbero alterare il punteggio? | Appendice B | L'aggiornamento dei dati di riferimento sarà fornito dall'Istat su richiesta. Per formulare la richiesta di aggiornamento dei dati ci si deve registrare all'indirizzo https://contact.istat.it e accedere al servizio 'assistenza nella ricerca dei dati'. |
+

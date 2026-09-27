@@ -1,0 +1,26 @@
+{
+  "file": "req_2.05.23_FAQ_Accredia_PdR125.pdf",
+  "method": "dynamic_v2",
+  "sections": [
+    {
+      "title": "1. ASPETTI GENERALI",
+      "start_page": 2,
+      "end_page": 2
+    },
+    {
+      "title": "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)",
+      "start_page": 3,
+      "end_page": 9
+    },
+    {
+      "title": "3. APPENDICE A",
+      "start_page": 10,
+      "end_page": 13
+    },
+    {
+      "title": "4. APPENDICE B",
+      "start_page": 14,
+      "end_page": 14
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+REPORT MAPPING COMPLIANCE - ANALISI MIGLIORATA
+================================================================================
+
+REQUISITO 1
+------------------------------------------------------------
+TESTO: L'organizzazione deve garantire che il personale di audit e di delibera abbia conoscenza dei contenuti della norma UNI ISO 30415.
+TIPO: monitoraggio
+DOMANDA AUDIT: Quali processi sono in atto per assicurare e verificare che il personale di audit e di delibera sia formato e conosca i contenuti della norma UNI ISO 30415?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.2 Gestione delle segnalazioni di condotte illecite ai sensi del D. lgs 231/01 o di violazioni del Modello di Organizzazione Gestione e Controllo ex D. lgs 231/01
+  2. Score: 0.997
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.3 Audit Interno
+  3. Score: 0.994
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+  4. Score: 0.976
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  5. Score: 0.941
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 2
+------------------------------------------------------------
+TESTO: L'organizzazione, per accedere ai benefici fiscali, deve ottenere una certificazione rilasciata da un organismo di certificazione accreditato ai sensi del Reg. (CE) n. 765/08.
+TIPO: generale
+DOMANDA AUDIT: La certificazione ottenuta per accedere ai benefici fiscali è stata rilasciata da un organismo di certificazione accreditato secondo il Reg. (CE) n. 765/08?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.2 Gestione delle segnalazioni di condotte illecite ai sensi del D. lgs 231/01 o di violazioni del Modello di Organizzazione Gestione e Controllo ex D. lgs 231/01
+  2. Score: 0.973
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  3. Score: 0.965
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+  4. Score: 0.909
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  5. Score: 0.903
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.1 Gestione assunzione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 3
+------------------------------------------------------------
+TESTO: La certificazione valida ai fini dei benefici fiscali deve riportare il marchio UNI e quello dell'Ente di accreditamento.
+TIPO: generale
+DOMANDA AUDIT: Il certificato in possesso dell'organizzazione riporta sia il marchio UNI sia il marchio dell'Ente di accreditamento?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  2. Score: 0.978
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.1 Gestione assunzione
+  3. Score: 0.891
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  4. Score: 0.889
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  5. Score: 0.882
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 4
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione deve obbligatoriamente iscriversi e comunicare le informazioni richieste secondo le istruzioni fornite dall'Autorità competente.
+TIPO: comunicazione
+DOMANDA AUDIT: L'Organismo di Certificazione ha completato il processo di iscrizione e comunicazione dati come richiesto e documentato dall'Autorità competente?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  2. Score: 0.994
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.876
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  4. Score: 0.868
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.2 Contenuto della segnalazione
+  5. Score: 0.855
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 1.2.2 Comprendere le Esigenze le Aspettative dei Lavoratori e delle altre Parti Interessate
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 5
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione accreditato da ACCREDIA deve comunicare tutte le certificazioni rilasciate a fronte della UNI/PdR 125, e ogni successiva modifica, all'interno del sistema informativo di ACCREDIA.
+TIPO: comunicazione
+DOMANDA AUDIT: Esiste un processo tracciabile per la comunicazione di ogni certificazione UNI/PdR 125 (e relative modifiche) al sistema informativo di ACCREDIA?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  2. Score: 0.979
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.1 Gestione assunzione
+  3. Score: 0.967
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 3 DEFINIZIONI E ABBREVIAZIONI
+  4. Score: 0.959
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.5 Coinvolgimento interno e comunicazione
+  5. Score: 0.934
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+

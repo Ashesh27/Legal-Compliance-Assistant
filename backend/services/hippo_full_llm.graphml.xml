@@ -1,0 +1,572 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="source" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="chunk_0">
+  <data key="d0">chunk</data>
+  <data key="d1">unknown</data>
+</node>
+<node id="ent_cda">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_spt">
+  <data key="d0">entity</data>
+</node>
+<node id="chunk_1">
+  <data key="d0">chunk</data>
+  <data key="d1">unknown</data>
+</node>
+<node id="ent_digital">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_cloud">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_cybersecurity">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_managed_services">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_end-to-end_solutions">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_industry_solutions">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_customer_needs">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_business_objectives">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_digital_transformation">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_sustainability">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_safety">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_technology_excellence">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_public_and_private_sector_support">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_scientific_and_technological_excellence">
+  <data key="d0">entity</data>
+</node>
+<node id="chunk_2">
+  <data key="d0">chunk</data>
+  <data key="d1">unknown</data>
+</node>
+<node id="ent_health_and_safety">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_sustainable_technologies">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_sustainable_development">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_technology_in_information">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_mission">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_objectives">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_geographic_presence">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_headquarters_(hq)">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_sedi_(sites)">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_roma">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_napoli">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_bari">
+  <data key="d0">entity</data>
+</node>
+<node id="chunk_3">
+  <data key="d0">chunk</data>
+  <data key="d1">unknown</data>
+</node>
+<node id="ent_rispettare_le_leggi_nazionali,_quelle_comunitarie,_quelle_internazionali_materia_di_lavoro_e_di_diritti_dei_lavoratori">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_mantenere_nel_tempo_i_requisiti_di_responsabilità_sociale_adeguarsi_a_nuovi_requisiti_eventualmente_richiesti">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_garantire_il_monitoraggio_periodico_ed_il_miglioramento_continuo_del_sistema_di_gestione_implementato">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_assicurare_a_tutto_il_personale_adeguata_formazione_e_informazione_in_materia_di_etica_e_responsabilità_sociale">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_sensibilizzare_i_fornitori_ai_principi_di_responsabilità_sociale_dello_standard_sa8000">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_realizzare_audit_di_prima_parte_atti_ad_accertare_il_rispetto_dei_requisiti_sociali">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_documentare_comunicare_ai_portatori_d'interesse_l'impegno_in_materia_di_responsabilità_sociale_d'impresa_attraverso_la_redazione_del_bilancio_sociale">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_standard_sa8000">
+  <data key="d0">entity</data>
+</node>
+<node id="chunk_4">
+  <data key="d0">chunk</data>
+  <data key="d1">unknown</data>
+</node>
+<node id="ent_certificazione_sa8000">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_miglioramento_continuo">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_rispettare_le_leggi_nazionali">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_leggi_comunitarie">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_leggi_internazionali">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_requisiti_di_responsabilità_sociale">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_monitoraggio_periodico">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_obiettivi_specifici_di_miglioramento">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_indicatori_significativi">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_formazione_e_informazione_del_personale">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_etica_e_responsabilità_sociale">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_sensibilizzazione_dei_fornitori">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_principi_di_responsabilità_sociale">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_audit_di_prima_parte">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_rispetto_dei_requisiti_sociali">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_azioni_correttive_preventive">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_documentazione">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_comunicazione_ai_portatori_d'interesse">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_bilancio_sociale">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_coerenza_della_politica_per_la_responsabilità_sociale">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_strategie_aziendali">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_valutazione_periodica">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_congruità_con_le_logiche_aziendali">
+  <data key="d0">entity</data>
+</node>
+<node id="chunk_5">
+  <data key="d0">chunk</data>
+  <data key="d1">unknown</data>
+</node>
+<node id="ent_politica_per_la_responsabilità_sociale">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_sistema_sa8000">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_verifiche_di_parte_terza_indipendente">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_rappresentante_della_direzione_della_sa8000">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_rappresentante_dei_lavoratori_per_la_sa8000">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_social_performance_team_(spt)">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_monitorare_il_sistema_di_gestione_sa8000">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_scambio_di_informazioni">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_collaborazione_con_il_team_preposto_al_mantenimento_del_sistema_integrato_ambiente_salute_sicurezza">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_organismo_di_vigilanza">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_d.lgs.">
+  <data key="d0">entity</data>
+</node>
+<node id="chunk_6">
+  <data key="d0">chunk</data>
+  <data key="d1">unknown</data>
+</node>
+<node id="ent_environmental_management_system">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_information_exchange">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_collaboration">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_d.lgs._231/2001">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_internal_oversight_body">
+  <data key="d0">entity</data>
+</node>
+<node id="chunk_7">
+  <data key="d0">chunk</data>
+  <data key="d1">unknown</data>
+</node>
+<node id="ent_sa8000">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_code_of_ethics">
+  <data key="d0">entity</data>
+</node>
+<node id="chunk_8">
+  <data key="d0">chunk</data>
+  <data key="d1">unknown</data>
+</node>
+<node id="ent_lavoro_infantile">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_requisito_sa8000">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_prevenzione_del_lavoro_infantile">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_procedure_per_il_recupero_dei_bambini">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_frequenza_scolastica">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_situazioni_di_rischio">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_non_assunzione_di_dipendenti_di_età_inferiore_ai_16_anni">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_diffusione_della_politica_etica_ai_lavoratori_e_alle_parti_interessate">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_monitoraggio_dei_fornitori">
+  <data key="d0">entity</data>
+</node>
+<node id="ent_impegno_imprescindibile_per_i_fornitori">
+  <data key="d0">entity</data>
+</node>
+<edge source="chunk_0" target="ent_cda">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_0" target="ent_spt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_digital">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_cloud">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_cybersecurity">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_managed_services">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_end-to-end_solutions">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_industry_solutions">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_customer_needs">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_business_objectives">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_digital_transformation">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_sustainability">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_safety">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_technology_excellence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_public_and_private_sector_support">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_1" target="ent_scientific_and_technological_excellence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ent_safety" target="chunk_6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_2" target="ent_health_and_safety">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_2" target="ent_sustainable_technologies">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_2" target="ent_sustainable_development">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_2" target="ent_technology_in_information">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_2" target="ent_mission">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_2" target="ent_objectives">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_2" target="ent_geographic_presence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_2" target="ent_headquarters_(hq)">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_2" target="ent_sedi_(sites)">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_2" target="ent_roma">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_2" target="ent_napoli">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_2" target="ent_bari">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ent_health_and_safety" target="chunk_6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ent_health_and_safety" target="chunk_7">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_3" target="ent_rispettare_le_leggi_nazionali,_quelle_comunitarie,_quelle_internazionali_materia_di_lavoro_e_di_diritti_dei_lavoratori">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_3" target="ent_mantenere_nel_tempo_i_requisiti_di_responsabilità_sociale_adeguarsi_a_nuovi_requisiti_eventualmente_richiesti">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_3" target="ent_garantire_il_monitoraggio_periodico_ed_il_miglioramento_continuo_del_sistema_di_gestione_implementato">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_3" target="ent_assicurare_a_tutto_il_personale_adeguata_formazione_e_informazione_in_materia_di_etica_e_responsabilità_sociale">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_3" target="ent_sensibilizzare_i_fornitori_ai_principi_di_responsabilità_sociale_dello_standard_sa8000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_3" target="ent_realizzare_audit_di_prima_parte_atti_ad_accertare_il_rispetto_dei_requisiti_sociali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_3" target="ent_documentare_comunicare_ai_portatori_d'interesse_l'impegno_in_materia_di_responsabilità_sociale_d'impresa_attraverso_la_redazione_del_bilancio_sociale">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_3" target="ent_standard_sa8000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_certificazione_sa8000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_miglioramento_continuo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_rispettare_le_leggi_nazionali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_leggi_comunitarie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_leggi_internazionali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_requisiti_di_responsabilità_sociale">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_monitoraggio_periodico">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_obiettivi_specifici_di_miglioramento">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_indicatori_significativi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_formazione_e_informazione_del_personale">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_etica_e_responsabilità_sociale">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_sensibilizzazione_dei_fornitori">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_principi_di_responsabilità_sociale">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_audit_di_prima_parte">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_rispetto_dei_requisiti_sociali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_azioni_correttive_preventive">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_documentazione">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_comunicazione_ai_portatori_d'interesse">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_bilancio_sociale">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_coerenza_della_politica_per_la_responsabilità_sociale">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_strategie_aziendali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_valutazione_periodica">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_4" target="ent_congruità_con_le_logiche_aziendali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_5" target="ent_politica_per_la_responsabilità_sociale">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_5" target="ent_sistema_sa8000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_5" target="ent_verifiche_di_parte_terza_indipendente">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_5" target="ent_rappresentante_della_direzione_della_sa8000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_5" target="ent_rappresentante_dei_lavoratori_per_la_sa8000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_5" target="ent_social_performance_team_(spt)">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_5" target="ent_monitorare_il_sistema_di_gestione_sa8000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_5" target="ent_scambio_di_informazioni">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_5" target="ent_collaborazione_con_il_team_preposto_al_mantenimento_del_sistema_integrato_ambiente_salute_sicurezza">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_5" target="ent_organismo_di_vigilanza">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_5" target="ent_d.lgs.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_6" target="ent_environmental_management_system">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_6" target="ent_information_exchange">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_6" target="ent_collaboration">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_6" target="ent_d.lgs._231/2001">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_6" target="ent_internal_oversight_body">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_7" target="ent_sa8000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_7" target="ent_code_of_ethics">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_8" target="ent_lavoro_infantile">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_8" target="ent_requisito_sa8000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_8" target="ent_prevenzione_del_lavoro_infantile">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_8" target="ent_procedure_per_il_recupero_dei_bambini">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_8" target="ent_frequenza_scolastica">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_8" target="ent_situazioni_di_rischio">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_8" target="ent_non_assunzione_di_dipendenti_di_età_inferiore_ai_16_anni">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_8" target="ent_diffusione_della_politica_etica_ai_lavoratori_e_alle_parti_interessate">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_8" target="ent_monitoraggio_dei_fornitori">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chunk_8" target="ent_impegno_imprescindibile_per_i_fornitori">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>

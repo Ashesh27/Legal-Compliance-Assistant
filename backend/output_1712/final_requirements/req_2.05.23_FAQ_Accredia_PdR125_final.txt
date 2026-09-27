@@ -1,0 +1,814 @@
+REQUISITI ESTRATTI
+Totale requisiti: 74
+================================================================================
+
+REQUISITO 1
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che il personale di audit e di delibera abbia conoscenza dei contenuti della norma UNI ISO 30415.
+REFERENZE: (pag 2 "1. ASPETTI GENERALI
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di G...")
+DOMANDA AUDIT: Quali processi sono in atto per assicurare e verificare che il personale di audit e di delibera sia formato e conosca i contenuti della norma UNI ISO 30415?
+
+================================================================================
+
+REQUISITO 2
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'organizzazione, per accedere ai benefici fiscali, deve ottenere una certificazione rilasciata da un organismo di certificazione accreditato ai sensi del Reg. (CE) n. 765/08.
+REFERENZE: (pag 2 "1. ASPETTI GENERALI
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di G...")
+DOMANDA AUDIT: La certificazione ottenuta per accedere ai benefici fiscali è stata rilasciata da un organismo di certificazione accreditato secondo il Reg. (CE) n. 765/08?
+
+================================================================================
+
+REQUISITO 3
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: La certificazione valida ai fini dei benefici fiscali deve riportare il marchio UNI e quello dell'Ente di accreditamento.
+REFERENZE: (pag 2 "1. ASPETTI GENERALI
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di G...")
+DOMANDA AUDIT: Il certificato in possesso dell'organizzazione riporta sia il marchio UNI sia il marchio dell'Ente di accreditamento?
+
+================================================================================
+
+REQUISITO 4
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione deve obbligatoriamente iscriversi e comunicare le informazioni richieste secondo le istruzioni fornite dall'Autorità competente.
+REFERENZE: (pag 2 "1. ASPETTI GENERALI
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di G...")
+DOMANDA AUDIT: L'Organismo di Certificazione ha completato il processo di iscrizione e comunicazione dati come richiesto e documentato dall'Autorità competente?
+
+================================================================================
+
+REQUISITO 5
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione accreditato da ACCREDIA deve comunicare tutte le certificazioni rilasciate a fronte della UNI/PdR 125, e ogni successiva modifica, all'interno del sistema informativo di ACCREDIA.
+REFERENZE: (pag 2 "1. ASPETTI GENERALI
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di G...")
+DOMANDA AUDIT: Esiste un processo tracciabile per la comunicazione di ogni certificazione UNI/PdR 125 (e relative modifiche) al sistema informativo di ACCREDIA?
+
+================================================================================
+
+REQUISITO 6
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: Il sistema informativo di ACCREDIA deve essere in grado di trasmettere direttamente i dati delle certificazioni al sistema informativo del Ministero.
+REFERENZE: (pag 2 "1. ASPETTI GENERALI
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di G...")
+DOMANDA AUDIT: È stato implementato e testato il flusso di trasmissione dati automatico dal sistema informativo di ACCREDIA a quello del Ministero?
+
+================================================================================
+
+REQUISITO 7
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 1
+----------------------------------------
+REQUISITO: Gli Organismi di Certificazione accreditati da ACCREDIA devono fornire ad ACCREDIA esclusivamente le informazioni relative alle certificazioni rilasciate (e non i dati dei KPI).
+REFERENZE: (pag 2 "1. ASPETTI GENERALI
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di G...")
+DOMANDA AUDIT: Il flusso di dati inviato ad ACCREDIA è configurato per includere solo le informazioni sulle certificazioni rilasciate, escludendo i dati dei KPI?
+
+================================================================================
+
+REQUISITO 8
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve assicurare che il gruppo di audit per la certificazione UNI/PdR 125 includa un esperto tecnico qualificato, come un avvocato giuslavorista o consulente del lavoro con almeno 5 anni di iscrizione all'albo, o un altro professionista con consolidata esperienza documentata in materia di parità di genere.
+REFERENZE: (pag 3,4 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Il gruppo di audit include un esperto tecnico che soddisfa i requisiti di qualifica ed esperienza previsti dalla prassi?
+
+================================================================================
+
+REQUISITO 9
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve assegnare il punteggio completo a un KPI qualitativo solo se questo è interamente soddisfatto, senza possibilità di assegnare punteggi parziali.
+REFERENZE: (pag 3,4 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Il processo di valutazione dei KPI qualitativi prevede l'assegnazione del punteggio solo in caso di pieno soddisfacimento, escludendo punteggi parziali?
+
+================================================================================
+
+REQUISITO 10
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: In fase di prima certificazione, l'organizzazione può utilizzare un punteggio di 'entry level' per i KPI basati su miglioramenti annuali, a condizione che abbia implementato un sistema di gestione e un piano strategico efficace per il miglioramento. Di conseguenza, l'organizzazione deve dimostrare un effettivo miglioramento di tali KPI nell'anno successivo alla certificazione iniziale.
+DOMANDA AUDIT: L'organizzazione, qualora abbia utilizzato un punteggio di 'entry level' per i KPI in fase di prima certificazione, può dimostrare di aver avuto un sistema di gestione e un piano strategico per il miglioramento già implementati in quella fase, e può inoltre fornire evidenza del conseguente miglioramento dei KPI nell'anno successivo?
+
+================================================================================
+
+REQUISITO 11
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione classificata come 'MICRO' deve raggiungere un punteggio complessivo di almeno 21 per ottenere la certificazione.
+REFERENZE: (pag 3,4 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: L'organizzazione 'MICRO' ha raggiunto o superato il punteggio minimo di 21 per la certificazione?
+
+================================================================================
+
+REQUISITO 12
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve applicare tutti i KPI definiti come mandatori per la propria fascia di appartenenza dimensionale.
+REFERENZE: (pag 3,4 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Sono stati applicati e calcolati tutti i KPI mandatori per la fascia dimensionale dell'organizzazione?
+
+================================================================================
+
+REQUISITO 13
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: Il sistema di calcolo del punteggio non deve includere i KPI non mandatori ai fini del raggiungimento della soglia minima di certificazione.
+REFERENZE: (pag 3,4 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Il calcolo del punteggio finale per la certificazione si basa esclusivamente sui KPI mandatori per la fascia dell'organizzazione?
+
+================================================================================
+
+REQUISITO 14
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve applicare i KPI 5 e 6 dell'area 'opportunità di crescita' solo se appartiene alla fascia 3 o 4.
+REFERENZE: (pag 3,4,5 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: I KPI 5 e 6 sono stati applicati solo se l'organizzazione rientra nelle fasce 3 o 4?
+
+================================================================================
+
+REQUISITO 15
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve includere nel calcolo dei KPI il personale con contratti di somministrazione e stage.
+REFERENZE: (pag 3,4,5 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Il personale in somministrazione e stage è stato correttamente incluso nel calcolo dei KPI?
+
+================================================================================
+
+REQUISITO 16
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2, 3
+----------------------------------------
+REQUISITO: L'organizzazione deve escludere dal computo totale degli addetti, inclusi i calcoli per i Full-Time Equivalent (FTE), i tempi di lavoro e gli indicatori di performance (KPI), tutto il personale non dipendente che fornisce servizi di consulenza o collaborazione esterna (es. avvocati, auditor esterni).
+DOMANDA AUDIT: Come si assicura l'organizzazione che il personale non dipendente, come consulenti esterni o collaboratori, sia escluso dal calcolo degli addetti totali, dei FTE e degli altri KPI pertinenti? È possibile visionare la procedura o i registri di calcolo che dimostrino questa esclusione?
+
+================================================================================
+
+REQUISITO 17
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve utilizzare il servizio 'assistenza nella ricerca dei dati' di ISTAT, previa registrazione, per reperire i dati per gli indicatori 2 e 4 del prospetto 6.
+REFERENZE: (pag 3,4,5 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: I dati per gli indicatori 2 e 4 del prospetto 6 sono stati richiesti e ottenuti tramite il portale ISTAT come specificato?
+
+================================================================================
+
+REQUISITO 18
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: Il sistema di calcolo del KPI sulla differenza retributiva deve considerare solo i livelli di inquadramento dove sono presenti lavoratori di entrambi i generi.
+REFERENZE: (pag 3,4,5 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Il calcolo del KPI sulla differenza retributiva è stato eseguito escludendo i livelli di inquadramento con un solo genere rappresentato?
+
+================================================================================
+
+REQUISITO 19
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: Il sistema deve assegnare un punteggio pari a zero al KPI sulla differenza retributiva qualora il gap superi il 10% in almeno un livello di inquadramento.
+REFERENZE: (pag 4,5,6 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: È stato verificato che il punteggio del KPI sulla differenza retributiva sia zero se il gap supera il 10% in qualsiasi livello?
+
+================================================================================
+
+REQUISITO 20
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve informare attivamente i lavoratori riguardo le normative vigenti e le loro modifiche in materia di congedo di paternità e parentale.
+REFERENZE: (pag 4,5,6 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Esistono evidenze (comunicazioni, policy) che l'organizzazione ha informato i lavoratori sulle nuove regole dei congedi di paternità e parentale?
+
+================================================================================
+
+REQUISITO 21
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve adeguare le proprie policy e procedure interne per conformarsi alle disposizioni legislative in materia di congedi (D.Lgs. 105/2022).
+REFERENZE: (pag 4,5,6 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Le policy aziendali sui congedi sono state aggiornate in conformità con la normativa vigente?
+
+================================================================================
+
+REQUISITO 22
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve calcolare il KPI 4 (Area Tutela genitorialità) come il rapporto tra beneficiari uomini effettivi e potenziali dei congedi parentali nei primi dodici anni di vita del bambino.
+REFERENZE: (pag 4,5,6 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Il KPI 4 è stato calcolato considerando i congedi parentali, come da chiarimento, e non i congedi di paternità?
+
+================================================================================
+
+REQUISITO 23
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve calcolare il KPI 5 (Area Tutela genitorialità) come il rapporto tra i giorni medi di congedo di paternità fruiti e il totale dei giorni potenziali previsti dalla legge.
+REFERENZE: (pag 4,5,6 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Il KPI 5 è stato calcolato considerando i giorni di congedo di paternità, come da chiarimento?
+
+================================================================================
+
+REQUISITO 24
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: Il Sistema di Gestione per la parità di genere deve coprire tutte le attività, settori merceologici, contratti e livelli retributivi dell'organizzazione.
+REFERENZE: (pag 5,6,7 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Il perimetro del Sistema di Gestione per la parità di genere include tutte le attività e i livelli dell'organizzazione?
+
+================================================================================
+
+REQUISITO 25
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve identificare il settore prevalente in termini di fatturato, basandosi sulla visura camerale, per il calcolo dei KPI che lo richiedono.
+REFERENZE: (pag 5,6,7 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Il settore prevalente è stato identificato sulla base del fatturato come riportato in visura camerale?
+
+================================================================================
+
+REQUISITO 26
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve attenersi all'anno solare come periodo di riferimento per la periodicità degli audit di certificazione.
+REFERENZE: (pag 5,6,7 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: La periodicità degli audit è basata sull'anno solare?
+
+================================================================================
+
+REQUISITO 27
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve definire e utilizzare in modo consistente un periodo di riferimento (es. anno solare o fiscale) per il calcolo dei KPI.
+REFERENZE: (pag 5,6,7 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: È stato definito, documentato e utilizzato in modo consistente il periodo di riferimento per il calcolo dei KPI?
+
+================================================================================
+
+REQUISITO 28
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve supportare il piano di azione, il piano strategico e gli obiettivi di miglioramento con evidenze documentate.
+REFERENZE: (pag 6,7,8 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Esistono evidenze documentali a supporto del piano di azione, del piano strategico e degli obiettivi di miglioramento?
+
+================================================================================
+
+REQUISITO 29
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve formalizzare una Politica per la parità di genere e, da essa, derivare un piano di azione che può essere composto da più documenti rintracciabili.
+REFERENZE: (pag 6,7,8 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Esiste una Politica per la parità di genere formalizzata e un piano di azione collegato, anche se articolato in più documenti?
+
+================================================================================
+
+REQUISITO 30
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve erogare la formazione sulla parità di genere a tutti i livelli organizzativi.
+REFERENZE: (pag 6,7,8 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: La formazione sulla parità di genere è stata erogata a personale di tutti i livelli aziendali?
+
+================================================================================
+
+REQUISITO 31
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: Il programma di formazione deve includere contenuti specifici contro i pregiudizi e gli stereotipi di genere, oltre a contenuti generali (normativi) e specifici (di settore e aziendali).
+REFERENZE: (pag 6,7,8 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: I contenuti della formazione erogata coprono la lotta a pregiudizi e stereotipi, aspetti normativi generali e aspetti specifici del settore/azienda?
+
+================================================================================
+
+REQUISITO 32
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve identificare e documentare quale sia l'organo di controllo di riferimento (es. Collegio Sindacale) per la misurazione del KPI sulla rappresentanza di genere, in base al proprio assetto societario.
+REFERENZE: (pag 6,7,8 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: È stato identificato e documentato l'organo di controllo utilizzato per il calcolo del KPI sulla governance, in coerenza con la struttura aziendale?
+
+================================================================================
+
+REQUISITO 33
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve seguire un ciclo di certificazione triennale, con audit di sorveglianza annuali e un audit di rinnovo al terzo anno, in conformità alla ISO 17021-1.
+REFERENZE: (pag 7,8,9 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Il programma di audit di certificazione è strutturato su un ciclo triennale con sorveglianze annuali?
+
+================================================================================
+
+REQUISITO 34
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve effettuare una rivalutazione e un aggiornamento dei KPI con periodicità biennale.
+REFERENZE: (pag 7,8,9 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Esiste un processo documentato per la rivalutazione e l'aggiornamento biennale dei KPI?
+
+================================================================================
+
+REQUISITO 35
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve disporre di un piano di azione strategico, ma il completamento di tutte le azioni previste non è un prerequisito per l'ottenimento della certificazione iniziale.
+REFERENZE: (pag 7,8,9 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: L'organizzazione ha un piano strategico documentato, anche se non tutte le azioni sono state ancora completate?
+
+================================================================================
+
+REQUISITO 36
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: Il sistema di valutazione deve considerare il KPI sulla composizione degli organi di controllo (5.3.5) come 'non soddisfatto' qualora l'organizzazione abbia un amministratore unico come unico organo di controllo.
+REFERENZE: (pag 7,8,9 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: In presenza di un amministratore unico, il KPI 5.3.5 è stato correttamente valutato come non soddisfatto?
+
+================================================================================
+
+REQUISITO 37
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve calcolare l'organico per i KPI basandosi sul numero di teste (persone fisiche) presenti nell'arco del periodo di riferimento.
+REFERENZE: (pag 7,8,9 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Il conteggio dell'organico per i KPI è stato effettuato per teste e non per ULA (Unità Lavorative Anno)?
+
+================================================================================
+
+REQUISITO 38
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: Il sistema di valutazione deve considerare il KPI sui dirigenti (5.3.4) come 'non soddisfatto' qualora l'organizzazione non abbia personale con tale qualifica.
+REFERENZE: (pag 8,9 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: In assenza di dirigenti in organico, il KPI 5.3.4 è stato correttamente valutato come non soddisfatto?
+
+================================================================================
+
+REQUISITO 39
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve identificare il genere meno rappresentato nel contesto specifico di ogni KPI e basare il calcolo su di esso, anche qualora fosse il genere maschile.
+REFERENZE: (pag 8,9 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Per ogni KPI relativo al 'sesso meno rappresentato', è stato correttamente identificato e utilizzato il genere numericamente inferiore in quel contesto?
+
+================================================================================
+
+REQUISITO 40
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: L'organizzazione deve utilizzare dati interni per il calcolo degli indicatori 4 e 5 del Prospetto 8 (tutela genitorialità), essendo i dati INPS non obbligatori.
+REFERENZE: (pag 8,9 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: Gli indicatori 4 e 5 del Prospetto 8 sono stati calcolati utilizzando dati interni documentati?
+
+================================================================================
+
+REQUISITO 41
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: Il sistema di valutazione deve assegnare un punteggio pari a 0 ai KPI relativi ai dirigenti (Prospetto 6, KPI 3 e 4) qualora l'organizzazione non abbia dirigenti.
+REFERENZE: (pag 8,9 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: In assenza di dirigenti, i KPI 3 e 4 del Prospetto 6 hanno ricevuto un punteggio pari a zero?
+
+================================================================================
+
+REQUISITO 42
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 2
+----------------------------------------
+REQUISITO: Il sistema di valutazione deve assegnare un punteggio pari a 0 al KPI sulle promozioni (Prospetto 7, KPI 2) qualora non siano state effettuate promozioni nel periodo di riferimento.
+REFERENZE: (pag 8,9 "2. ASPETTI OPERATIVI (KPI, METODOLOGIE DI CALCOLO E ALTRO)
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 1...")
+DOMANDA AUDIT: In assenza di promozioni nel periodo di riferimento, il KPI 2 del Prospetto 7 ha ricevuto un punteggio pari a zero?
+
+================================================================================
+
+REQUISITO 43
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve condurre le attività di valutazione per il rilascio e mantenimento delle certificazioni UNI/PdR 125:2022 rispettando i requisiti mandatori dei documenti ISO e IAF in materia di certificazioni di sistemi di gestione volontari.
+REFERENZE: (pag 10,11 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Le procedure di audit dell'OdC sono conformi ai requisiti mandatori dei documenti ISO e IAF applicabili alle certificazioni di sistemi di gestione?
+
+================================================================================
+
+REQUISITO 44
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve calcolare la durata degli audit di certificazione e mantenimento facendo riferimento al documento IAF MD 5.
+REFERENZE: (pag 10,11 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: La metodologia utilizzata per calcolare la durata degli audit è conforme a quanto specificato nel documento IAF MD 5?
+
+================================================================================
+
+REQUISITO 45
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve calcolare gli addetti equivalenti (FTE) applicando la metodologia specifica: 100% degli addetti di Direzione, Amministrazione personale/HR, Formazione, Sistema di Gestione parità di genere, Legale, Comunicazione; più il 10% degli addetti di altri uffici e produzione.
+REFERENZE: (pag 10,11 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Il calcolo degli FTE per la determinazione della durata dell'audit segue la metodologia prescritta, distinguendo correttamente le percentuali per tipo di ufficio?
+
+================================================================================
+
+REQUISITO 46
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve determinare la durata dell'audit utilizzando l'Annex A - Quality Management Systems - complessità 'low' del documento IAF MD 5, basandosi sui FTE calcolati.
+REFERENZE: (pag 10,11 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: La durata dell'audit è stata calcolata utilizzando la tabella per la complessità 'low' dell'Annex A del IAF MD 5, partendo dal numero di FTE calcolati?
+
+================================================================================
+
+REQUISITO 47
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve utilizzare la definizione di 'addetto' di cui al punto 3.1 della UNI/PdR 125 per individuare il personale da includere nel calcolo FTE.
+REFERENZE: (pag 10,11 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: L'identificazione del personale da includere nel calcolo FTE è avvenuta in conformità con la definizione di 'addetto' della UNI/PdR 125?
+
+================================================================================
+
+REQUISITO 48
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione non deve applicare tempi di audit inferiori alla soglia minima prevista dalla tabella IAF MD 5.
+REFERENZE: (pag 10,11 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: I tempi di audit applicati sono uguali o superiori alla soglia minima definita dalla tabella IAF MD 5?
+
+================================================================================
+
+REQUISITO 49
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve giustificare e documentare adeguatamente qualsiasi riduzione applicata ai tempi di audit.
+REFERENZE: (pag 10,11,12 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Esiste una documentazione formale che giustifichi in modo adeguato le eventuali riduzioni dei tempi di audit applicate?
+
+================================================================================
+
+REQUISITO 50
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve includere nel Sistema di Gestione per la parità di genere tutti i siti aziendali presso cui opera personale dipendente o addetti/addette.
+REFERENZE: (pag 10,11,12 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Tutti i siti aziendali con personale sono inclusi nel perimetro del Sistema di Gestione per la parità di genere?
+
+================================================================================
+
+REQUISITO 51
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: Il certificato di conformità deve elencare tutti i siti aziendali inclusi nel campo di applicazione della certificazione.
+REFERENZE: (pag 10,11,12 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Il certificato finale elenca esplicitamente tutti i siti inclusi nel campo di applicazione della certificazione?
+
+================================================================================
+
+REQUISITO 52
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve garantire che il Sistema di Gestione certificato sia attuato e aggiornato in tutti i siti della medesima entità legale.
+REFERENZE: (pag 10,11,12 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: L'OdC ha verificato l'effettiva implementazione e l'aggiornamento del Sistema di Gestione in tutti i siti elencati nel certificato?
+
+================================================================================
+
+REQUISITO 53
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve effettuare sopralluoghi in campo almeno presso i siti che concorrono direttamente alla progettazione e attuazione del Sistema di Gestione (es. Direzione, HR, Amministrazione).
+REFERENZE: (pag 10,11,12 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Sono stati effettuati sopralluoghi fisici presso i siti chiave per la progettazione e l'attuazione del sistema, come richiesto?
+
+================================================================================
+
+REQUISITO 54
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'Organismo di Certificazione (OdC) deve svolgere un sopralluogo o un virtual tour presso i siti con servizi e strutture dedicate all'attuazione della politica per la parità di genere (es. nido, nursery).
+REFERENZE: (pag 10,11,12 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: È stato condotto un sopralluogo (fisico o virtuale) presso i siti con strutture dedicate alla parità di genere per verificarne l'esistenza e l'operatività?
+
+================================================================================
+
+REQUISITO 55
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve verificare che i KPI (nelle 6 aree) siano stati attuati da tutte le entità legali elencate nel certificato UNI/PdR 125:2022.
+REFERENZE: (pag 10,11,12 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: È stata verificata l'implementazione dei KPI in tutte le 6 aree per ogni singola entità legale inclusa nel certificato?
+
+================================================================================
+
+REQUISITO 56
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: In caso di organizzazione multisito costituita da diverse entità legali, ogni singola entità deve raggiungere il punteggio minimo del 60% affinché la Corporate/Holding possa essere certificata.
+REFERENZE: (pag 11,12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Ogni entità legale del gruppo multisito ha raggiunto individualmente il punteggio minimo del 60%?
+
+================================================================================
+
+REQUISITO 57
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'audit deve valutare i processi generali e della Direzione, inclusi aspetti legali, Comitato Guida, strategia, politiche welfare, budget e revisione periodica dei KPI.
+REFERENZE: (pag 11,12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: L'audit ha coperto in modo esaustivo tutti i processi generali e della Direzione specificati, come la strategia, il budget e la revisione dei KPI?
+
+================================================================================
+
+REQUISITO 58
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'audit deve valutare i requisiti del sistema di gestione, di documentazione e informazione, inclusi la gestione documentale, la comunicazione, gli audit interni e la gestione delle non conformità.
+REFERENZE: (pag 11,12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Sono stati verificati i requisiti di sistema, come la gestione documentale, gli audit interni e la gestione delle non conformità?
+
+================================================================================
+
+REQUISITO 59
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: La valutazione dei KPI deve comprendere l'analisi dei dati statistici raccolti e delle relative evidenze documentate.
+REFERENZE: (pag 11,12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: La valutazione dei KPI si è basata su dati statistici concreti e su prove documentali a supporto?
+
+================================================================================
+
+REQUISITO 60
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: Gli audit di sorveglianza devono verificare l'efficace chiusura dei rilievi emersi dagli audit precedenti.
+REFERENZE: (pag 11,12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Durante l'audit di sorveglianza, è stata verificata e documentata la chiusura efficace delle non conformità e delle osservazioni degli audit precedenti?
+
+================================================================================
+
+REQUISITO 61
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: Gli audit di sorveglianza devono focalizzarsi sui KPI nelle aree identificate con potenziale di miglioramento.
+REFERENZE: (pag 11,12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Il piano di audit di sorveglianza ha posto un'enfasi specifica sui KPI delle aree identificate come critiche o con maggiore potenziale di miglioramento?
+
+================================================================================
+
+REQUISITO 62
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve giustificare formalmente ogni riduzione della durata dell'audit per sistemi integrati, in base al grado di integrazione e alle competenze del team di valutazione.
+REFERENZE: (pag 11,12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: La riduzione dei tempi di audit per il sistema integrato è supportata da una giustificazione documentata che attesti il livello di integrazione e le competenze del team di audit?
+
+================================================================================
+
+REQUISITO 63
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'audit deve includere interviste a un campione rappresentativo di personale (uomini e donne, manager e non manager) per verificare il grado di informazione e consapevolezza sulla politica, piano strategico e KPI aziendali.
+REFERENZE: (pag 12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Sono state condotte e verbalizzate interviste con un campione rappresentativo del personale per valutare la loro consapevolezza riguardo alle politiche di parità di genere?
+
+================================================================================
+
+REQUISITO 64
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: Le aziende che desiderano conseguire la certificazione devono possedere un sistema di gestione per la parità di genere applicato nella sua totalità prima dell'audit di fase 2.
+REFERENZE: (pag 12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: L'organizzazione candidata alla certificazione ha dimostrato di aver implementato completamente il sistema di gestione per la parità di genere prima dell'avvio dell'audit di fase 2?
+
+================================================================================
+
+REQUISITO 65
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve utilizzare obbligatoriamente il 'Marchio UNI' in combinazione con il marchio dell'OdC per la certificazione UNI/PdR 125 sotto accreditamento.
+REFERENZE: (pag 12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Il certificato e la comunicazione relativa alla certificazione utilizzano il marchio UNI in combinazione con quello dell'OdC, come richiesto?
+
+================================================================================
+
+REQUISITO 66
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione deve includere nello scopo del certificato la dicitura 'misure per garantire la parità di genere nel contesto lavorativo'.
+REFERENZE: (pag 12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Lo scopo del certificato contiene la dicitura esatta 'misure per garantire la parità di genere nel contesto lavorativo'?
+
+================================================================================
+
+REQUISITO 67
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'audit di certificazione iniziale deve essere condotto in due fasi (Fase 1 e Fase 2) secondo la norma UNI CEI EN ISO/IEC 17021-1.
+REFERENZE: (pag 12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: L'audit iniziale è stato strutturato e documentato in due fasi distinte (Fase 1 e Fase 2) in conformità alla norma di riferimento?
+
+================================================================================
+
+REQUISITO 68
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'attività di audit, anche se remota, deve essere svolta in modalità sincrona.
+REFERENZE: (pag 12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Tutte le attività di audit sono state condotte in modalità sincrona, garantendo l'interazione in tempo reale?
+
+================================================================================
+
+REQUISITO 69
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 3
+----------------------------------------
+REQUISITO: L'organizzazione non deve limitare la certificazione al solo perimetro italiano se la Governance, una delle sei aree KPI, è centralizzata o gestita da un'entità in un altro Paese.
+REFERENZE: (pag 12,13 "3. APPENDICE A
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Se la governance è gestita a livello internazionale, il perimetro della certificazione e dell'audit include anche le funzioni di governance estere che impattano sulla sede italiana?
+
+================================================================================
+
+REQUISITO 70
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve garantire che il Sistema di Gestione per la Parità di Genere sia implementato in modo da essere applicabile a qualsiasi tipo di organizzazione, pubblica o privata, indipendentemente dalla dimensione e dal settore.
+REFERENZE: (pag 14 "4. APPENDICE B
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Il perimetro di applicazione del Sistema di Gestione per la Parità di Genere è stato definito e implementato in modo da essere valido per l'intera organizzazione, confermando la sua applicabilità universale come previsto dalla norma?
+
+================================================================================
+
+REQUISITO 71
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve riconoscere che i dati di benchmark presenti nell'Appendice B della UNI/PdR 125 non sono esaustivi e necessitano di aggiornamenti, non potendo essere usati come riferimento definitivo.
+REFERENZE: (pag 14 "4. APPENDICE B
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: L'organizzazione ha preso atto che i dati di benchmark nell'appendice della norma sono solo esemplificativi e non possono essere utilizzati per la valutazione ufficiale?
+
+================================================================================
+
+REQUISITO 72
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve istituire un processo formale per richiedere e ottenere periodicamente i dati di benchmark aggiornati dall'Istat, identificata come fonte ufficiale.
+REFERENZE: (pag 14 "4. APPENDICE B
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Esiste una procedura documentata che descrive come e con quale frequenza l'organizzazione richiede e ottiene i dati di benchmark aggiornati dall'Istat?
+
+================================================================================
+
+REQUISITO 73
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: L'organizzazione deve eseguire la procedura di richiesta dati registrandosi sul portale Istat (contact.istat.it) e utilizzando il servizio 'assistenza nella ricerca dei dati'.
+REFERENZE: (pag 14 "4. APPENDICE B
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: L'organizzazione può dimostrare di aver completato la registrazione sul portale Istat e di aver utilizzato il servizio specifico per richiedere i dati di benchmark?
+
+================================================================================
+
+REQUISITO 74
+File sorgente: req_2.05.23_FAQ_Accredia_PdR125_dynamic_chunks.txt
+Chunk sorgente: 4
+----------------------------------------
+REQUISITO: Il sistema o lo strumento utilizzato per il calcolo degli indicatori di parità di genere deve utilizzare i dati di benchmark ufficiali e aggiornati forniti da Istat per garantire l'accuratezza del punteggio.
+REFERENZE: (pag 14 "4. APPENDICE B
+FAQ ACCREDIA-UNI / Applicazione UNI/PdR 125:2022 Sistema di Gestione Parità di Genere...")
+DOMANDA AUDIT: Lo strumento di calcolo degli indicatori permette l'aggiornamento dei valori di benchmark o li ha cablati in modo statico? È possibile verificare che i dati usati per l'ultimo calcolo provengano dalla fonte ufficiale Istat?
+
+================================================================================
+

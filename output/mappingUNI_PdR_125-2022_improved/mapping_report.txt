@@ -1,0 +1,4419 @@
+REPORT MAPPING COMPLIANCE - ANALISI MIGLIORATA
+================================================================================
+
+REQUISITO 1
+------------------------------------------------------------
+TESTO: L'organizzazione deve integrare i principi di parità di genere e di rispetto delle diversità negli obiettivi strategici aziendali.
+TIPO: generale
+DOMANDA AUDIT: I principi di parità di genere e diversità sono formalmente inclusi e documentati negli obiettivi strategici dell'organizzazione?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  2. Score: 0.880
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.849
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  4. Score: 0.835
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.757
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 2
+------------------------------------------------------------
+TESTO: L'organizzazione deve dotarsi di strumenti adeguati per definire, misurare e certificare le politiche di parità di genere.
+TIPO: generale
+DOMANDA AUDIT: L'organizzazione ha implementato strumenti specifici per la gestione del ciclo di vita delle politiche di parità di genere, dalla definizione degli obiettivi alla certificazione dei risultati?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.949
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  3. Score: 0.938
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.826
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.805
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 3
+------------------------------------------------------------
+TESTO: L'organizzazione deve definire e monitorare obiettivi precisi per ogni fase del ciclo di vita lavorativo delle donne (es. recruiting, gestione, sviluppo, retribuzione, uscita).
+TIPO: monitoraggio
+DOMANDA AUDIT: Esistono obiettivi quantitativi e qualitativi, formalizzati e monitorati, per ogni fase della carriera delle donne all'interno dell'organizzazione?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.983
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.972
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  4. Score: 0.969
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.968
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 4
+------------------------------------------------------------
+TESTO: L'organizzazione deve adottare processi qualificati e trasparenti per la certificazione dei risultati raggiunti in materia di parità di genere.
+TIPO: generale
+DOMANDA AUDIT: I processi per la parità di genere sono documentati, trasparenti e strutturati in modo da poter essere sottoposti a una certificazione da parte di un ente terzo?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  2. Score: 0.998
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.990
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.879
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  5. Score: 0.864
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 5
+------------------------------------------------------------
+TESTO: L'organizzazione deve applicare i principi di parità di genere all'intero percorso professionale e alle fasi di vita delle lavoratrici, dal recruiting al pensionamento.
+TIPO: generale
+DOMANDA AUDIT: In che modo l'organizzazione assicura che i principi di parità di genere siano applicati in modo coerente in tutte le fasi del rapporto di lavoro?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.909
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.890
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  4. Score: 0.884
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.853
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 6
+------------------------------------------------------------
+TESTO: L'organizzazione deve attuare politiche per aumentare la presenza femminile a tutti i livelli aziendali.
+TIPO: generale
+DOMANDA AUDIT: Quali iniziative specifiche sono state intraprese per aumentare la rappresentanza femminile, e quali sono i risultati misurati?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.985
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.852
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.817
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  5. Score: 0.812
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 7
+------------------------------------------------------------
+TESTO: L'organizzazione deve garantire pari opportunità di carriera e di accesso ai ruoli apicali, rimuovendo attivamente le barriere basate sul genere.
+TIPO: generale
+DOMANDA AUDIT: Esistono processi formali e trasparenti per garantire che i percorsi di carriera e la selezione per i ruoli di vertice siano equi e basati esclusivamente sul merito?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.838
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.802
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.799
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  5. Score: 0.767
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 8
+------------------------------------------------------------
+TESTO: L'organizzazione deve garantire parità di trattamento economico a parità di mansioni e livello, monitorando e correggendo attivamente eventuali divari retributivi di genere.
+TIPO: generale
+DOMANDA AUDIT: L'organizzazione conduce analisi periodiche sul divario retributivo di genere (gender pay gap) e attua azioni correttive documentate in caso di disparità?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.972
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.958
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  4. Score: 0.893
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.870
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 9
+------------------------------------------------------------
+TESTO: L'organizzazione deve adottare misure per garantire l'equilibrio vita-lavoro (work-life balance) a tutto il personale, fornendo condizioni che siano adeguate alle diverse fasi di vita dei dipendenti e proattive nel riequilibrio dei carichi familiari.
+TIPO: generale
+DOMANDA AUDIT: Quali misure concrete ha adottato l'organizzazione per garantire l'equilibrio vita-lavoro a tutto il personale? Dimostrare come tali misure siano adeguate alle diverse fasi di vita dei dipendenti (es. neogenitori, caregiver) e come supportino proattivamente il riequilibrio dei carichi familiari.
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  2. Score: 0.970
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  3. Score: 0.863
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  4. Score: 0.810
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  5. Score: 0.797
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 10
+------------------------------------------------------------
+TESTO: L'organizzazione deve creare e mantenere un ambiente di lavoro che rifiuti stereotipi, discriminazioni e ogni forma di abuso fisico, verbale o digitale.
+TIPO: generale
+DOMANDA AUDIT: Esistono policy, codici di condotta, percorsi formativi e canali di segnalazione sicuri per prevenire e gestire casi di discriminazione, stereotipi o abusi?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.3.2 Identificazione dei rischi
+  2. Score: 0.964
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.3 Salute Sicurezza
+  3. Score: 0.946
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.3 Salute Sicurezza
+  4. Score: 0.936
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  5. Score: 0.933
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 11
+------------------------------------------------------------
+TESTO: L'organizzazione deve promuovere attivamente una cultura aziendale basata sulla diversità e sull'inclusione.
+TIPO: generale
+DOMANDA AUDIT: Quali attività di formazione, comunicazione e sensibilizzazione vengono svolte regolarmente per promuovere una cultura inclusiva a tutti i livelli aziendali?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  2. Score: 0.998
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  3. Score: 0.996
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  4. Score: 0.975
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.971
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 1.2.1 Comprendere l'Organizzazione il suo Contesto
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 12
+------------------------------------------------------------
+TESTO: L'organizzazione deve adottare un sistema di gestione per la parità di genere che includa la definizione e il monitoraggio di specifici KPI.
+TIPO: generale
+DOMANDA AUDIT: È stato implementato un sistema di gestione per la parità di genere? Quali sono i KPI definiti per misurarne l'efficacia?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.925
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.883
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 4.1.2 Cosa non può essere segnalato
+  4. Score: 0.825
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  5. Score: 0.816
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 13
+------------------------------------------------------------
+TESTO: L'organizzazione deve implementare misure per contrastare la penalizzazione delle carriere dovuta alla genitorialità, assicurando che non sia un fattore di svantaggio.
+TIPO: generale
+DOMANDA AUDIT: Quali misure specifiche (es. programmi di rientro post-maternità, coaching, flessibilità) sono in atto per supportare la carriera dei genitori e mitigare la 'child penalty'?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: LAVORO INFANTILE riscontrato presso i Fornitori :
+  2. Score: 0.875
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: LAVORO INFANTILE riscontrato presso i Fornitori :
+  3. Score: 0.732
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: LAVORO INFANTILE riscontrato presso i Fornitori :
+  4. Score: 0.722
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 7.1 Divieto di ritorsione
+  5. Score: 0.713
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.4.1 Compiti del Soggetto responsabile della gestione della segnalazione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 14
+------------------------------------------------------------
+TESTO: L'organizzazione deve implementare processi per riconoscere, misurare e rimuovere i bias di genere, sia espliciti che impliciti, dai processi di gestione e selezione del personale.
+TIPO: generale
+DOMANDA AUDIT: Come vengono identificati, misurati e gestiti i bias di genere nei processi HR (recruiting, valutazione, promozione) per garantire decisioni oggettive e basate sul merito?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.894
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.892
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.882
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.872
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 15
+------------------------------------------------------------
+TESTO: L'organizzazione deve assicurare che i gruppi di valutazione e selezione del personale siano composti in modo diversificato per mitigare i bias decisionali.
+TIPO: generale
+DOMANDA AUDIT: La composizione dei comitati di selezione e dei panel di valutazione del personale rispetta criteri di diversità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  2. Score: 0.943
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  3. Score: 0.923
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.885
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  5. Score: 0.868
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 16
+------------------------------------------------------------
+TESTO: Il sistema informativo aziendale deve essere in grado di raccogliere, elaborare e fornire dati disaggregati per genere per supportare le analisi, il reporting e le valutazioni di impatto.
+TIPO: generale
+DOMANDA AUDIT: I sistemi informativi HR sono configurati per fornire dati disaggregati per genere in modo affidabile e tempestivo, al fine di supportare le decisioni e il monitoraggio dei KPI?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  2. Score: 0.987
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  3. Score: 0.967
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  4. Score: 0.933
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 1.2.3 Determinare il Campo di Applicazione del Sistema di Gestione per la RS
+  5. Score: 0.923
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.2 Contenuto della segnalazione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 17
+------------------------------------------------------------
+TESTO: Il sistema di gestione deve prevedere la misurazione sistematica e la successiva rendicontazione dei dati relativi al genere all'interno dell'organizzazione.
+TIPO: generale
+DOMANDA AUDIT: Esistono procedure documentate e prove di attuazione (es. report, dashboard) che dimostrino la misurazione sistematica e la rendicontazione periodica dei dati di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  2. Score: 0.921
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: C) ESITO DELL'ISTRUTTORIA RISCONTRO ALLA SEGNALAZIONE
+  3. Score: 0.879
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  4. Score: 0.858
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  5. Score: 0.850
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.2.2 Gestione dell'organigramma su tool di gestione risorse umane
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 18
+------------------------------------------------------------
+TESTO: Il sistema di gestione deve prevedere la valutazione dei dati relativi al genere per identificare i gap esistenti.
+TIPO: generale
+DOMANDA AUDIT: Viene condotta un'analisi valutativa sui dati di genere per identificare le aree di disparità e le loro cause?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  2. Score: 0.998
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  3. Score: 0.960
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.3.3 Valutazione dei Rischi per la RS e altri Rischi per il Sistema di Gestione per la RS
+  4. Score: 0.931
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  5. Score: 0.924
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.2.1 Generalità
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 19
+------------------------------------------------------------
+TESTO: L'organizzazione deve utilizzare i risultati delle misurazioni e valutazioni per definire azioni volte a colmare i gap di genere.
+TIPO: generale
+DOMANDA AUDIT: A seguito della valutazione dei dati, sono stati definiti e implementati piani d'azione specifici per ridurre i gap di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.994
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.953
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  4. Score: 0.936
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  5. Score: 0.932
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 20
+------------------------------------------------------------
+TESTO: L'organizzazione deve garantire la conformità del proprio sistema di gestione alle disposizioni contenute nelle pubblicazioni normative e legislative citate come riferimento.
+TIPO: generale
+DOMANDA AUDIT: Esiste un processo per verificare e mantenere la conformità del sistema di gestione con i riferimenti normativi e legislativi applicabili (es. D.Lgs 198/2006, L. 162/2021, UNI ISO 30415)?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+  2. Score: 0.957
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 2 SCOPO
+  3. Score: 0.940
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  4. Score: 0.924
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.2 Gestione delle segnalazioni di condotte illecite ai sensi del D. lgs 231/01 o di violazioni del Modello di Organizzazione Gestione e Controllo ex D. lgs 231/01
+  5. Score: 0.921
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 21
+------------------------------------------------------------
+TESTO: L'organizzazione deve utilizzare l'ultima edizione disponibile per i riferimenti normativi non datati.
+TIPO: generale
+DOMANDA AUDIT: Come si assicura l'organizzazione di utilizzare sempre la versione più aggiornata delle normative e degli standard citati senza una data specifica?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  2. Score: 0.923
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: Politica whistleblowing - Gestione delle Segnalazioni di eventuali fatti illeciti ex D.lgs. 24/2023
+  3. Score: 0.883
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: Politica whistleblowing - Gestione delle Segnalazioni di eventuali fatti illeciti ex D.lgs. 24/2023
+  4. Score: 0.882
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.6 Pratiche disciplinari
+  5. Score: 0.868
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 22
+------------------------------------------------------------
+TESTO: L'organizzazione deve applicare modifiche o revisioni ai riferimenti normativi datati solo se tali aggiornamenti sono stati formalmente recepiti dalla prassi di riferimento UNI/PdR 125:2022.
+TIPO: generale
+DOMANDA AUDIT: Esiste una procedura per la gestione delle versioni dei riferimenti normativi datati che ne vincola l'aggiornamento a quello della prassi di riferimento stessa?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+  2. Score: 0.804
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 3 DEFINIZIONI E ABBREVIAZIONI
+  3. Score: 0.757
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.3 Formazione Neoassunto
+  4. Score: 0.742
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: VIOLAZIONI DEL DIRITTO UE
+  5. Score: 0.731
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 23
+------------------------------------------------------------
+TESTO: L'organizzazione deve misurare l'efficacia delle azioni intraprese per la parità di genere attraverso un insieme definito di Key Performance Indicator (KPI).
+TIPO: generale
+DOMANDA AUDIT: Esiste un sistema di misurazione basato su KPI per monitorare l'efficacia delle politiche di parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.693
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+  3. Score: 0.693
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.670
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.4 Indicatori di Performance
+  5. Score: 0.643
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 24
+------------------------------------------------------------
+TESTO: Il sistema di misurazione deve essere strutturato in 6 aree di indicatori: Cultura e strategia, Governance, Processi HR, Opportunità di crescita ed inclusione, Equità remunerativa, Tutela della genitorialità e conciliazione vita-lavoro.
+TIPO: generale
+DOMANDA AUDIT: Il framework di KPI è suddiviso nelle 6 aree definite dalla norma (Cultura e strategia, Governance, HR, Opportunità, Equità, Genitorialità)?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 1.2.1 Comprendere l'Organizzazione il suo Contesto
+  2. Score: 0.819
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.3.2 Identificazione dei rischi
+  3. Score: 0.819
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.805
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  5. Score: 0.801
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 25
+------------------------------------------------------------
+TESTO: Il sistema di calcolo del punteggio deve assegnare un peso percentuale specifico a ciascuna delle 6 aree di indicatori.
+TIPO: generale
+DOMANDA AUDIT: Il modello di scoring applica una ponderazione per ciascuna delle 6 aree come specificato dalla norma?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1 Indicatori
+  2. Score: 0.798
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1 Indicatori
+  3. Score: 0.782
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1.1 Materiali e servizi informatici
+  4. Score: 0.763
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1.4 Formazione
+  5. Score: 0.763
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1.1 Materiali e servizi informatici
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 26
+------------------------------------------------------------
+TESTO: L'organizzazione deve effettuare un monitoraggio annuale e una verifica ogni due anni dei KPI per dare evidenza del miglioramento o dell'attivazione di piani di rimedio.
+TIPO: generale
+DOMANDA AUDIT: È in atto un processo documentato di monitoraggio annuale e verifica biennale dei KPI di parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.1 Lavoro infantile
+  2. Score: 0.992
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+  3. Score: 0.907
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.4 Indicatori di Performance
+  4. Score: 0.905
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.4.1 Compiti del Soggetto responsabile della gestione della segnalazione
+  5. Score: 0.876
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 27
+------------------------------------------------------------
+TESTO: Il sistema deve classificare le organizzazioni in 4 fasce dimensionali (Micro, Piccola, Media, Grande) in base al numero di addetti/e.
+TIPO: generale
+DOMANDA AUDIT: Il sistema classifica correttamente l'organizzazione in una delle 4 fasce dimensionali previste?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.2.2 Gestione dell'organigramma su tool di gestione risorse umane
+  2. Score: 0.951
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.2.2 Gestione dell'organigramma su tool di gestione risorse umane
+  3. Score: 0.938
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  4. Score: 0.927
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.2.1 Organigramma Generale e altri organigrammi
+  5. Score: 0.843
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 28
+------------------------------------------------------------
+TESTO: Il sistema deve applicare un set di indicatori differenziato e semplificato per le organizzazioni di fascia 1 (Micro) e 2 (Piccola), secondo un principio di proporzionalità.
+TIPO: generale
+DOMANDA AUDIT: Viene applicato il set di KPI corretto e proporzionato alla fascia dimensionale dell'organizzazione?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1 Indicatori
+  2. Score: 0.963
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  3. Score: 0.959
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.2.1 Generalità
+  4. Score: 0.959
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 1.1 Scopo e Campo di Applicazione
+  5. Score: 0.954
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.1 Lavoro infantile
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 29
+------------------------------------------------------------
+TESTO: Il sistema di monitoraggio deve supportare sia indicatori qualitativi (misurati come presenza/assenza) sia quantitativi.
+TIPO: generale
+DOMANDA AUDIT: La piattaforma di monitoraggio gestisce correttamente sia indicatori qualitativi (Sì/No) che quantitativi?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.1 Lavoro infantile
+  2. Score: 0.854
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1 Indicatori
+  3. Score: 0.838
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.1 Generalità
+  4. Score: 0.836
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.827
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: Le  SEGNALAZIONI  non  possono  riguardare  generici  sospetti  o  notizie  meramente  riferite  da  terzi  o comunque che non abbiamo elementi di fatto o documenti univoci a supporto degli stessi.
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 30
+------------------------------------------------------------
+TESTO: Il sistema deve calcolare gli indicatori quantitativi misurando il delta percentuale rispetto a valori interni o a benchmark di settore (codice ATECO).
+TIPO: generale
+DOMANDA AUDIT: Il calcolo degli indicatori quantitativi viene effettuato confrontando i dati aziendali con benchmark interni o di settore (ATECO)?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.4 Indicatori di Performance
+  2. Score: 0.970
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1 Indicatori
+  3. Score: 0.959
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1 Indicatori
+  4. Score: 0.934
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1.1 Materiali e servizi informatici
+  5. Score: 0.841
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 31
+------------------------------------------------------------
+TESTO: L'organizzazione deve raggiungere uno score minimo di sintesi complessivo del 60% per ottenere la certificazione.
+TIPO: generale
+DOMANDA AUDIT: Lo score complessivo calcolato dal sistema ha raggiunto o superato la soglia del 60%?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.2 Social Performance Team
+  2. Score: 0.957
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  3. Score: 0.932
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  4. Score: 0.908
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1.4 Formazione
+  5. Score: 0.906
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 32
+------------------------------------------------------------
+TESTO: Il sistema di calcolo dei benchmark di settore (ATECO) deve essere dinamico, aggiornando le medie ogni anno sulla base dei dati dell'anno precedente.
+TIPO: generale
+DOMANDA AUDIT: L'algoritmo di calcolo dei benchmark di settore viene aggiornato annualmente con i dati più recenti?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.4 Indicatori di Performance
+  2. Score: 0.884
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  3. Score: 0.840
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.5 Riesame Periodico
+  4. Score: 0.837
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1 Indicatori
+  5. Score: 0.764
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.2.2 Gestione dell'organigramma su tool di gestione risorse umane
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 33
+------------------------------------------------------------
+TESTO: L'organizzazione deve formalizzare e implementare un piano strategico che favorisca un ambiente di lavoro inclusivo e definisca valori aziendali coerenti.
+TIPO: generale
+DOMANDA AUDIT: Esiste un piano strategico formalizzato e implementato con obiettivi e valori a sostegno dell'inclusione e della parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  2. Score: 0.930
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+  3. Score: 0.904
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  4. Score: 0.899
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 1.1 Scopo e Campo di Applicazione
+  5. Score: 0.897
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 34
+------------------------------------------------------------
+TESTO: L'organizzazione deve disporre di procedure interne, anche anonime, che consentano al personale di esprimere opinioni e suggerimenti.
+TIPO: generale
+DOMANDA AUDIT: Sono state implementate procedure, inclusa una modalità anonima, per la raccolta di feedback e suggerimenti da parte dei dipendenti?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  2. Score: 0.965
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  3. Score: 0.946
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  4. Score: 0.889
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.889
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.5 Gestione dei documenti dei/delle dipendenti
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 35
+------------------------------------------------------------
+TESTO: L'organizzazione deve realizzare attività di comunicazione interna e di sensibilizzazione per promuovere un linguaggio e comportamenti inclusivi e rispettosi delle diversità di genere.
+TIPO: generale
+DOMANDA AUDIT: Vengono svolte regolarmente attività di comunicazione e sensibilizzazione interna sull'uso di un linguaggio e di comportamenti inclusivi?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+  2. Score: 0.907
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  3. Score: 0.896
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.5 Coinvolgimento interno e comunicazione
+  4. Score: 0.861
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.823
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 36
+------------------------------------------------------------
+TESTO: L'organizzazione deve avere politiche per garantire una rappresentanza di genere equa tra i relatori in eventi pubblici come convegni e tavole rotonde.
+TIPO: generale
+DOMANDA AUDIT: Esiste una policy aziendale che promuove e verifica l'equa rappresentanza di genere nei panel di eventi esterni?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.974
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  3. Score: 0.917
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.894
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.860
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 37
+------------------------------------------------------------
+TESTO: L'organizzazione deve aver realizzato, nell'ultimo biennio, interventi formativi sulla differenza di genere, stereotipi e 'unconscious bias' per tutti i livelli, inclusi i vertici.
+TIPO: generale
+DOMANDA AUDIT: È possibile documentare la realizzazione di corsi di formazione su stereotipi di genere e 'unconscious bias' negli ultimi due anni, con la partecipazione anche del top management?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.998
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.964
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.924
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  5. Score: 0.885
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 38
+------------------------------------------------------------
+TESTO: L'organizzazione deve aver realizzato, nell'ultimo anno, interventi per analizzare la percezione dei dipendenti sulle pari opportunità (es. survey).
+TIPO: generale
+DOMANDA AUDIT: È stata condotta un'analisi (es. survey) nell'ultimo anno per misurare la percezione del personale riguardo le pari opportunità?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  2. Score: 0.994
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  3. Score: 0.988
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  4. Score: 0.977
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  5. Score: 0.963
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 39
+------------------------------------------------------------
+TESTO: L'organizzazione deve aver realizzato, nell'ultimo biennio, interventi per promuovere le pari opportunità al di fuori del proprio contesto, coinvolgendo gli stakeholder.
+TIPO: generale
+DOMANDA AUDIT: L'azienda ha partecipato o promosso iniziative esterne sui temi dell'inclusione e parità di genere negli ultimi due anni?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  2. Score: 0.923
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  3. Score: 0.911
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  4. Score: 0.902
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.892
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 40
+------------------------------------------------------------
+TESTO: L'organizzazione deve definire un presidio di governance (comitato, funzione, o ruolo) per la gestione e il monitoraggio delle tematiche di inclusione e parità di genere.
+TIPO: generale
+DOMANDA AUDIT: È stato formalmente istituito un organo o un ruolo con la responsabilità di supervisionare le politiche di parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.905
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.904
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  4. Score: 0.894
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.892
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.2 Social Performance Team
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 41
+------------------------------------------------------------
+TESTO: L'organizzazione deve disporre di processi formalizzati per identificare, analizzare e gestire qualsiasi forma di non inclusività.
+TIPO: generale
+DOMANDA AUDIT: Esistono procedure documentate per la gestione di segnalazioni o eventi di non inclusività?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  2. Score: 0.972
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  3. Score: 0.910
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.898
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  5. Score: 0.881
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.2.1 Generalità
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 42
+------------------------------------------------------------
+TESTO: L'organizzazione deve allocare un budget specifico per lo sviluppo di attività a supporto dell'inclusione e della parità di genere.
+TIPO: generale
+DOMANDA AUDIT: È stato stanziato un budget dedicato alle iniziative per la parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.940
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.912
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  4. Score: 0.894
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.880
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 43
+------------------------------------------------------------
+TESTO: L'organizzazione deve garantire la presenza del sesso meno rappresentato nell'organo amministrativo e di controllo per almeno 1/3 della composizione totale o secondo requisiti normativi.
+TIPO: monitoraggio
+DOMANDA AUDIT: La composizione dell'organo amministrativo e di controllo rispetta il requisito di rappresentanza del genere meno rappresentato?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  2. Score: 0.932
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.2 Gestione delle segnalazioni di condotte illecite ai sensi del D. lgs 231/01 o di violazioni del Modello di Organizzazione Gestione e Controllo ex D. lgs 231/01
+  3. Score: 0.930
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.4.1 Compiti del Soggetto responsabile della gestione della segnalazione
+  4. Score: 0.925
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  5. Score: 0.898
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 44
+------------------------------------------------------------
+TESTO: L'organizzazione deve definire processi di gestione e sviluppo delle risorse umane (selezione, contratto, on-boarding, valutazione delle prestazioni) basati su principi di neutralità di genere e inclusione.
+TIPO: generale
+DOMANDA AUDIT: I processi HR chiave sono stati revisionati per garantire l'assenza di bias di genere e promuovere l'inclusione?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.944
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  3. Score: 0.761
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.758
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  5. Score: 0.753
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 45
+------------------------------------------------------------
+TESTO: L'organizzazione deve disporre di meccanismi per l'analisi del turnover del personale suddiviso per genere.
+TIPO: generale
+DOMANDA AUDIT: Viene effettuata un'analisi periodica del turnover aziendale disaggregato per genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  2. Score: 0.961
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.957
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  4. Score: 0.900
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.870
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 46
+------------------------------------------------------------
+TESTO: L'organizzazione deve avere politiche per garantire una partecipazione equa e paritaria di entrambi i sessi ai percorsi di formazione e valorizzazione, inclusi i corsi sulla leadership.
+TIPO: formazione
+DOMANDA AUDIT: I dati sulla partecipazione ai corsi di formazione e sviluppo dimostrano un accesso equo per entrambi i generi?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.996
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.956
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.944
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  5. Score: 0.926
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 47
+------------------------------------------------------------
+TESTO: L'organizzazione deve avere politiche di mobilità interna e di successione a posizioni manageriali coerenti con i principi di inclusione e parità di genere.
+TIPO: generale
+DOMANDA AUDIT: Le politiche di mobilità interna e i piani di successione sono strutturati per promuovere attivamente la parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  2. Score: 0.996
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.977
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.947
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  5. Score: 0.914
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 48
+------------------------------------------------------------
+TESTO: L'organizzazione deve disporre di meccanismi per proteggere il posto di lavoro e garantire lo stesso livello retributivo al rientro dalla maternità.
+TIPO: generale
+DOMANDA AUDIT: Esiste una policy formalizzata che garantisce la posizione e il livello retributivo per il personale che rientra dal congedo di maternità?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  2. Score: 0.932
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+  3. Score: 0.892
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  4. Score: 0.879
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.872
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: LAVORO INFANTILE riscontrato presso i Fornitori :
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 49
+------------------------------------------------------------
+TESTO: L'organizzazione deve nominare referenti e stabilire prassi aziendali per la tutela dell'ambiente di lavoro da episodi di molestie o mobbing.
+TIPO: generale
+DOMANDA AUDIT: Sono stati designati referenti specifici e sono attive delle procedure per la prevenzione e la gestione di casi di molestie o mobbing?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.3.2 Identificazione dei rischi
+  2. Score: 0.999
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.954
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.3 Salute Sicurezza
+  4. Score: 0.952
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.2 Gestione delle segnalazioni di condotte illecite ai sensi del D. lgs 231/01 o di violazioni del Modello di Organizzazione Gestione e Controllo ex D. lgs 231/01
+  5. Score: 0.951
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 50
+------------------------------------------------------------
+TESTO: L'organizzazione (Fascia 1 e 2) deve raggiungere un incremento di almeno +10 punti percentuali di donne in organico rispetto al biennio precedente, fino al raggiungimento della parità.
+TIPO: generale
+DOMANDA AUDIT: Per le organizzazioni di Fascia 1 e 2, la percentuale di donne in organico è aumentata di almeno 10 punti percentuali negli ultimi due anni?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  2. Score: 0.954
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.911
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.871
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  5. Score: 0.836
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1.1 Materiali e servizi informatici
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 51
+------------------------------------------------------------
+TESTO: L'organizzazione deve raggiungere una quota di donne responsabili di unità organizzative di almeno il 40% del totale e in crescita costante.
+TIPO: generale
+DOMANDA AUDIT: La percentuale di donne con responsabilità di unità organizzative è almeno del 40% e mostra un trend di crescita?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  2. Score: 0.913
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.880
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  4. Score: 0.862
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  5. Score: 0.859
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 52
+------------------------------------------------------------
+TESTO: L'organizzazione deve garantire che la differenza retributiva media tra uomini e donne a parità di mansione/ruolo sia inferiore al 10% e in costante diminuzione.
+TIPO: generale
+DOMANDA AUDIT: L'analisi retributiva a parità di livello e mansione mostra un gender pay gap inferiore al 10%?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  2. Score: 0.904
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  3. Score: 0.880
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.865
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.830
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 53
+------------------------------------------------------------
+TESTO: L'organizzazione deve garantire che la percentuale di donne promosse sul totale delle donne sia pari a quella degli uomini promossi sul totale degli uomini, per ogni livello funzionale.
+TIPO: generale
+DOMANDA AUDIT: I tassi di promozione, normalizzati per popolazione di genere e livello, sono equi tra uomini e donne?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  2. Score: 0.815
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.800
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.790
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.763
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 54
+------------------------------------------------------------
+TESTO: L'organizzazione deve fornire servizi dedicati al rientro post-maternità/paternità (es. coaching, part-time temporaneo e reversibile, smart working, asilo nido aziendale).
+TIPO: generale
+DOMANDA AUDIT: Quali servizi specifici vengono offerti al personale per supportare il rientro dal congedo di maternità/paternità?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.996
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 1.2.3 Determinare il Campo di Applicazione del Sistema di Gestione per la RS
+  3. Score: 0.983
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.981
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  5. Score: 0.967
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 55
+------------------------------------------------------------
+TESTO: L'organizzazione deve adottare policy a tutela della maternità/paternità e per la conciliazione vita-lavoro che vadano oltre gli obblighi del CCNL di riferimento.
+TIPO: documentazione
+DOMANDA AUDIT: Esistono policy aziendali (es. congedo di paternità esteso, flessibilità) che offrono tutele aggiuntive rispetto a quanto previsto dal CCNL?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.930
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.8 Retribuzione
+  3. Score: 0.906
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 1 INTRODUZIONE
+  4. Score: 0.894
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  5. Score: 0.877
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 56
+------------------------------------------------------------
+TESTO: L'organizzazione deve avere policy per il mantenimento dei benefit durante il congedo di genitorialità e per valorizzare le competenze trasversali acquisite durante tale esperienza.
+TIPO: documentazione
+DOMANDA AUDIT: Le policy aziendali prevedono il mantenimento dei benefit durante il congedo e riconoscono la genitorialità come un'esperienza formativa di competenze?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: LAVORO INFANTILE riscontrato presso i Fornitori :
+  2. Score: 0.933
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 1.2.1 Comprendere l'Organizzazione il suo Contesto
+  3. Score: 0.903
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  4. Score: 0.898
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.889
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 57
+------------------------------------------------------------
+TESTO: L'organizzazione deve definire un piano di azione per l'attuazione della politica di parità di genere.
+TIPO: generale
+DOMANDA AUDIT: Esiste un piano d'azione formalizzato per l'attuazione della politica di parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.940
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.2.1 Generalità
+  3. Score: 0.930
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.873
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.858
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 58
+------------------------------------------------------------
+TESTO: L'organizzazione deve misurare gli stati di avanzamento dei risultati attraverso la predisposizione di specifici KPI.
+TIPO: generale
+DOMANDA AUDIT: L'organizzazione ha definito e misura specifici KPI per monitorare i progressi verso la parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.4 Indicatori di Performance
+  2. Score: 0.855
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+  3. Score: 0.826
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.768
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 1 SCOPO
+  5. Score: 0.758
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 59
+------------------------------------------------------------
+TESTO: La politica di parità di genere deve includere riferimenti a politiche collegate, relative almeno alla gestione del personale, alle carriere e alla comunicazione (incluso marketing e pubblicità).
+TIPO: generale
+DOMANDA AUDIT: La politica di parità di genere contiene riferimenti espliciti alle politiche di gestione del personale, carriere e comunicazione?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.926
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  3. Score: 0.909
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.897
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.896
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 60
+------------------------------------------------------------
+TESTO: L'organizzazione deve riconfermare o aggiornare la politica di parità di genere e le politiche collegate durante la revisione periodica del sistema di gestione.
+TIPO: generale
+DOMANDA AUDIT: La politica di parità di genere e quelle collegate vengono sistematicamente revisionate e aggiornate come parte della revisione periodica del sistema?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 4.1.2 Cosa non può essere segnalato
+  2. Score: 0.964
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.938
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  4. Score: 0.902
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  5. Score: 0.899
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 61
+------------------------------------------------------------
+TESTO: L'Alta Direzione, in coordinamento con il comitato guida, deve definire la politica di parità di genere.
+TIPO: generale
+DOMANDA AUDIT: La politica di parità di genere è stata formalmente definita dall'Alta Direzione con il supporto del comitato guida?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.924
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.2.1 Generalità
+  3. Score: 0.918
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.889
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.888
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 62
+------------------------------------------------------------
+TESTO: L'organizzazione deve comunicare e diffondere la politica di parità di genere internamente a tutto il personale e esternamente alle proprie parti interessate.
+TIPO: comunicazione
+DOMANDA AUDIT: Esistono evidenze della comunicazione e diffusione della politica di parità di genere sia all'interno che all'esterno dell'organizzazione?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.973
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  3. Score: 0.965
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.4 Libertà d'associazione diritto alla contrattazione collettiva
+  4. Score: 0.955
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  5. Score: 0.932
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 63
+------------------------------------------------------------
+TESTO: L'organizzazione deve fornire formazione e sensibilizzazione sulla politica di parità di genere al management aziendale.
+TIPO: formazione
+DOMANDA AUDIT: Il management aziendale ha ricevuto una formazione specifica sulla politica di parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.908
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.857
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.851
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  5. Score: 0.842
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 64
+------------------------------------------------------------
+TESTO: L'organizzazione deve rendere disponibile la politica di parità di genere sul proprio sito web.
+TIPO: generale
+DOMANDA AUDIT: La politica di parità di genere è pubblicata e accessibile sul sito web dell'organizzazione?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  2. Score: 0.946
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  3. Score: 0.886
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.795
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.780
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 65
+------------------------------------------------------------
+TESTO: La direzione deve assegnare risorse (budget), responsabilità e autorità adeguate per il raggiungimento e il mantenimento degli obiettivi di parità di genere.
+TIPO: generale
+DOMANDA AUDIT: Sono state formalmente assegnate risorse, responsabilità e autorità sufficienti per perseguire gli obiettivi di parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.963
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.956
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  4. Score: 0.907
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  5. Score: 0.905
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.2 Social Performance Team
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 66
+------------------------------------------------------------
+TESTO: Il comitato guida deve essere composto almeno dall'amministratore delegato (o un delegato dalla proprietà) e dal direttore del personale (o figura equivalente).
+TIPO: generale
+DOMANDA AUDIT: La composizione del comitato guida rispetta i requisiti minimi di rappresentanza (AD/delegato e Direttore HR/equivalente)?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.5 Gestione dei documenti dei/delle dipendenti
+  2. Score: 0.986
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: Politica whistleblowing - Gestione delle Segnalazioni di eventuali fatti illeciti ex D.lgs. 24/2023
+  3. Score: 0.981
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  4. Score: 0.941
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  5. Score: 0.920
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.3 Salute Sicurezza
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 67
+------------------------------------------------------------
+TESTO: Il comitato guida deve redigere un piano strategico che definisca obiettivi semplici, misurabili, raggiungibili, realistici e pianificati nel tempo (SMART) per ogni tema della politica.
+TIPO: generale
+DOMANDA AUDIT: Esiste un piano strategico redatto dal comitato guida con obiettivi SMART per la parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.2.1 Generalità
+  2. Score: 0.962
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  3. Score: 0.865
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  4. Score: 0.813
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  5. Score: 0.793
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 68
+------------------------------------------------------------
+TESTO: Il piano strategico deve includere: identificazione dei processi aziendali correlati, analisi dei punti di forza e debolezza, definizione degli obiettivi, definizione delle azioni per colmare i gap, e definizione di frequenza e responsabilità per il monitoraggio dei KPI.
+TIPO: generale
+DOMANDA AUDIT: Il piano strategico contiene tutte le fasi richieste (analisi processi, SWOT, obiettivi, azioni, monitoraggio KPI)?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  2. Score: 0.993
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.2.1 Generalità
+  3. Score: 0.952
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.934
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  5. Score: 0.922
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 69
+------------------------------------------------------------
+TESTO: L'organizzazione deve assicurare che il piano strategico sia condiviso dalla direzione e mantenuto aggiornato nel tempo.
+TIPO: generale
+DOMANDA AUDIT: Il piano strategico è stato approvato dalla direzione e viene aggiornato periodicamente?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  2. Score: 0.930
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  3. Score: 0.908
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  4. Score: 0.897
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  5. Score: 0.895
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.2 Social Performance Team
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 70
+------------------------------------------------------------
+TESTO: L'organizzazione deve attuare le azioni e i monitoraggi definiti nel piano strategico.
+TIPO: generale
+DOMANDA AUDIT: Le azioni e i monitoraggi previsti dal piano strategico sono stati effettivamente implementati?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  2. Score: 0.972
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  3. Score: 0.972
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  4. Score: 0.972
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.2.1 Generalità
+  5. Score: 0.970
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 71
+------------------------------------------------------------
+TESTO: L'organizzazione deve fornire istruzioni scritte sulle modalità di attuazione e monitoraggio delle azioni del piano, ove applicabile.
+TIPO: generale
+DOMANDA AUDIT: Sono disponibili istruzioni scritte che guidano l'attuazione e il monitoraggio delle iniziative per la parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.1 Generalità
+  2. Score: 0.880
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.1 Lavoro infantile
+  3. Score: 0.862
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  4. Score: 0.850
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.2.1 Generalità
+  5. Score: 0.850
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 72
+------------------------------------------------------------
+TESTO: L'organizzazione deve fornire formazione generale e specifica a tutti i livelli, inclusa la formazione contro pregiudizi e stereotipi di genere.
+TIPO: formazione
+DOMANDA AUDIT: È stato erogato un programma di formazione a tutti i livelli che include moduli specifici contro pregiudizi e stereotipi di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.975
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.966
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.949
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.786
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 73
+------------------------------------------------------------
+TESTO: L'organizzazione deve predisporre corsi di formazione sui principi etici, sui temi e sulle modalità operative della politica di parità di genere per tutto il personale.
+TIPO: formazione
+DOMANDA AUDIT: Tutto il personale ha ricevuto formazione sui principi etici e sulle modalità operative della politica di parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.980
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  3. Score: 0.974
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.954
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.943
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 74
+------------------------------------------------------------
+TESTO: La formazione per il personale manageriale deve coprire specificamente principi, temi e obiettivi di parità di genere che ricadono sotto le loro responsabilità.
+TIPO: formazione
+DOMANDA AUDIT: La formazione destinata ai manager è personalizzata per affrontare le loro specifiche responsabilità in materia di parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.992
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.953
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.934
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  5. Score: 0.912
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 75
+------------------------------------------------------------
+TESTO: L'organizzazione deve predisporre procedure di selezione e assunzione con regole atte a prevenire la disparità di genere e a contrastare i bias.
+TIPO: generale
+DOMANDA AUDIT: Esistono procedure formalizzate per il recruitment che includono misure specifiche anti-discriminazione e anti-bias?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.980
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  3. Score: 0.979
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.945
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  5. Score: 0.939
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 76
+------------------------------------------------------------
+TESTO: L'organizzazione deve garantire che le descrizioni delle mansioni (job description) siano neutre rispetto al genere e che il processo di reclutamento sia rivolto a tutti i generi.
+TIPO: generale
+DOMANDA AUDIT: Le job description e gli annunci di lavoro sono redatti in modo neutro e inclusivo?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  2. Score: 0.997
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.997
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  4. Score: 0.947
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  5. Score: 0.933
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 77
+------------------------------------------------------------
+TESTO: L'organizzazione deve proibire che durante i colloqui di selezione vengano effettuate domande relative a matrimonio, gravidanza o responsabilità di cura.
+TIPO: generale
+DOMANDA AUDIT: Esiste una policy chiara e vengono formati i recruiter per evitare domande discriminatorie durante i colloqui?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  2. Score: 0.920
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.870
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  4. Score: 0.844
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.4.1 Compiti del Soggetto responsabile della gestione della segnalazione
+  5. Score: 0.835
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.4.2 Astensione dalla gestione della segnalazione per potenziale conflitto interessi
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 78
+------------------------------------------------------------
+TESTO: L'organizzazione deve definire processi per assicurare la non discriminazione e le pari opportunità nello sviluppo professionale e nelle promozioni, basandoli esclusivamente su capacità e livelli professionali.
+TIPO: generale
+DOMANDA AUDIT: I processi di gestione della carriera e promozione sono formalizzati, trasparenti e basati esclusivamente su criteri meritocratici?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.904
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.889
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  4. Score: 0.881
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  5. Score: 0.806
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 79
+------------------------------------------------------------
+TESTO: L'organizzazione deve tendere a un bilanciamento di genere nelle posizioni di leadership aziendale.
+TIPO: generale
+DOMANDA AUDIT: L'organizzazione monitora e ha definito azioni per promuovere un bilanciamento di genere nelle posizioni di leadership?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  2. Score: 0.996
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.982
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  4. Score: 0.897
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.894
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 80
+------------------------------------------------------------
+TESTO: L'organizzazione deve rivolgere le opportunità di carriera e i programmi di sviluppo professionale a tutto il personale.
+TIPO: generale
+DOMANDA AUDIT: Le opportunità di carriera e i programmi di sviluppo sono comunicati e resi accessibili a tutto il personale senza distinzioni?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.998
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  3. Score: 0.885
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.878
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.4 Libertà d'associazione diritto alla contrattazione collettiva
+  5. Score: 0.869
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 81
+------------------------------------------------------------
+TESTO: L'organizzazione deve rendere disponibili i dati disaggregati per genere su assunzioni, situazione professionale, formazione, promozioni, livelli, mobilità, CIG, licenziamenti, pensionamenti e retribuzione.
+TIPO: formazione
+DOMANDA AUDIT: L'organizzazione raccoglie e rende disponibili i dati richiesti sulla forza lavoro, disaggregati per genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.963
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.901
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.857
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.837
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 82
+------------------------------------------------------------
+TESTO: L'organizzazione deve creare un ambiente di lavoro che favorisca la diversità e tuteli il benessere psico-fisico dei dipendenti.
+TIPO: generale
+DOMANDA AUDIT: Quali iniziative sono state intraprese per creare un ambiente di lavoro inclusivo e che tuteli il benessere psico-fisico?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  2. Score: 0.968
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  3. Score: 0.959
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  4. Score: 0.937
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.3.2 Identificazione dei rischi
+  5. Score: 0.910
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.3 Salute Sicurezza
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 83
+------------------------------------------------------------
+TESTO: L'organizzazione deve pianificare attività di monitoraggio per rilevare i dati sulla gestione della carriera disaggregati per genere.
+TIPO: generale
+DOMANDA AUDIT: Esiste un processo di monitoraggio periodico per analizzare i dati sulla carriera disaggregati per genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.986
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.986
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.950
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.936
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 84
+------------------------------------------------------------
+TESTO: L'organizzazione deve prevedere opportunità di formazione specificamente rivolte allo sviluppo della leadership per il genere meno rappresentato, laddove rilevato.
+TIPO: formazione
+DOMANDA AUDIT: Sono stati attivati programmi di formazione per la leadership mirati al genere meno rappresentato, sulla base dei dati di monitoraggio?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.993
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.911
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  4. Score: 0.908
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.902
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 85
+------------------------------------------------------------
+TESTO: L'organizzazione deve dotarsi di un mansionario aziendale dettagliato che integri quello del CCNL, utile per la segnalazione di eventuali disparità retributive.
+TIPO: generale
+DOMANDA AUDIT: L'azienda ha un proprio mansionario dettagliato che può essere usato come riferimento per l'equità salariale?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.7 Orario di Lavoro
+  2. Score: 0.990
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  3. Score: 0.959
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  4. Score: 0.952
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.935
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 86
+------------------------------------------------------------
+TESTO: L'organizzazione deve predisporre un meccanismo di controllo per garantire l'applicazione delle politiche non discriminatorie su stipendi, benefit, bonus e programmi di welfare.
+TIPO: monitoraggio
+DOMANDA AUDIT: Esiste un meccanismo di controllo (es. audit retributivo) per verificare l'assenza di discriminazione salariale e nei benefit?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.2 Gestione delle segnalazioni di condotte illecite ai sensi del D. lgs 231/01 o di violazioni del Modello di Organizzazione Gestione e Controllo ex D. lgs 231/01
+  2. Score: 0.882
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  3. Score: 0.870
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  4. Score: 0.869
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.2.1 Generalità
+  5. Score: 0.830
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 87
+------------------------------------------------------------
+TESTO: L'organizzazione deve informare periodicamente i dipendenti sulle politiche retributive adottate, inclusi benefit, bonus e welfare.
+TIPO: formazione
+DOMANDA AUDIT: Come e con quale frequenza vengono informati i dipendenti riguardo alle politiche retributive aziendali?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: ❑ INTRANET
+  2. Score: 0.997
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  3. Score: 0.992
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  4. Score: 0.975
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  5. Score: 0.970
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 88
+------------------------------------------------------------
+TESTO: Se esistente, il programma di welfare aziendale deve considerare le esigenze delle persone di ogni genere ed età.
+TIPO: generale
+DOMANDA AUDIT: Il programma di welfare aziendale è stato progettato per rispondere alle diverse esigenze di persone di ogni genere ed età?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.972
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.972
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 4.1.2 Cosa non può essere segnalato
+  4. Score: 0.951
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  5. Score: 0.935
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.1 Lavoro infantile
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 89
+------------------------------------------------------------
+TESTO: L'organizzazione deve predisporre programmi specifici per i congedi di maternità e paternità, come formazione per il reinserimento.
+TIPO: formazione
+DOMANDA AUDIT: Esistono programmi di supporto specifici per i dipendenti che usufruiscono di congedi di maternità o paternità?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.929
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.776
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.728
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  5. Score: 0.712
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: LAVORO INFANTILE riscontrato in Azienda
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 90
+------------------------------------------------------------
+TESTO: L'organizzazione deve definire una modalità per informare i dipendenti in congedo genitoriale sui cambiamenti importanti che avvengono in azienda.
+TIPO: formazione
+DOMANDA AUDIT: Come viene mantenuto il contatto e l'aggiornamento con i dipendenti durante il loro congedo genitoriale?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.8 Retribuzione
+  2. Score: 0.871
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  3. Score: 0.846
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.3.2 Identificazione dei rischi
+  4. Score: 0.830
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.820
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 91
+------------------------------------------------------------
+TESTO: L'organizzazione deve predisporre un piano per la gestione delle diverse fasi della maternità (prima, durante e dopo il congedo).
+TIPO: generale
+DOMANDA AUDIT: Esiste un piano aziendale che supporta le lavoratrici in tutte le fasi della maternità?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.876
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.794
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  4. Score: 0.786
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.770
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.3 Salute Sicurezza
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 92
+------------------------------------------------------------
+TESTO: L'organizzazione deve attuare meccanismi di informazione finalizzati a incentivare la fruizione del congedo di paternità.
+TIPO: formazione
+DOMANDA AUDIT: Quali azioni di comunicazione e incentivazione sono state messe in atto per promuovere il congedo di paternità?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.942
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.915
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  4. Score: 0.889
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  5. Score: 0.874
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 93
+------------------------------------------------------------
+TESTO: L'organizzazione deve pianificare iniziative di supporto (es. formazione, piani di engagement) per i dipendenti al loro rientro da un congedo genitoriale.
+TIPO: formazione
+DOMANDA AUDIT: Quali iniziative specifiche sono previste per facilitare il rientro dei dipendenti dopo un congedo genitoriale?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  2. Score: 0.988
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.920
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  4. Score: 0.912
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.879
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.2 Social Performance Team
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 94
+------------------------------------------------------------
+TESTO: L'organizzazione deve promuovere accordi specifici per consentire il lavoro part-time a chi ne faccia richiesta.
+TIPO: generale
+DOMANDA AUDIT: L'azienda facilita e promuove attivamente l'accesso al lavoro part-time?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  2. Score: 0.914
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  3. Score: 0.825
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.8 Retribuzione
+  4. Score: 0.778
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  5. Score: 0.732
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.7 Orario di Lavoro
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 95
+------------------------------------------------------------
+TESTO: L'organizzazione deve offrire flessibilità di orario, stabilendo e comunicando regole e procedure semplici e accessibili per usufruirne.
+TIPO: generale
+DOMANDA AUDIT: Esiste una policy chiara, semplice e accessibile per la gestione della flessibilità oraria?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.2.2 Gestione dell'organigramma su tool di gestione risorse umane
+  2. Score: 0.931
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.878
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.5 Coinvolgimento interno e comunicazione
+  4. Score: 0.870
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  5. Score: 0.856
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.2.1 Generalità
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 96
+------------------------------------------------------------
+TESTO: L'organizzazione deve effettuare una revisione periodica delle esigenze di flessibilità dei dipendenti.
+TIPO: generale
+DOMANDA AUDIT: Vengono condotte analisi periodiche (es. survey) per comprendere e aggiornare le esigenze di flessibilità del personale?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  2. Score: 0.947
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  3. Score: 0.922
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.2.2 Gestione dell'organigramma su tool di gestione risorse umane
+  4. Score: 0.914
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.5 Riesame Periodico
+  5. Score: 0.913
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 97
+------------------------------------------------------------
+TESTO: L'organizzazione deve offrire la possibilità di smart working, telelavoro o altre forme di lavoro flessibile e orario elastico.
+TIPO: generale
+DOMANDA AUDIT: Sono disponibili e regolamentate opzioni di lavoro flessibile come smart working o telelavoro?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.7 Orario di Lavoro
+  2. Score: 0.995
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  3. Score: 0.959
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+  4. Score: 0.928
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.3.2 Identificazione dei rischi
+  5. Score: 0.921
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.7 Orario di Lavoro
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 98
+------------------------------------------------------------
+TESTO: L'organizzazione deve garantire che le riunioni di lavoro siano tenute in orari compatibili con la conciliazione dei tempi di vita familiare e personale.
+TIPO: generale
+DOMANDA AUDIT: Esiste una policy o una prassi consolidata per pianificare le riunioni in orari che rispettino il work-life balance?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  2. Score: 0.910
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.7 Orario di Lavoro
+  3. Score: 0.856
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  4. Score: 0.827
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  5. Score: 0.801
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 99
+------------------------------------------------------------
+TESTO: L'organizzazione deve garantire la partecipazione alle riunioni anche al personale con contratti part-time o flessibili.
+TIPO: generale
+DOMANDA AUDIT: Come si assicura che anche i lavoratori part-time o con contratti flessibili possano partecipare alle riunioni importanti?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  2. Score: 0.954
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.7 Orario di Lavoro
+  3. Score: 0.920
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  4. Score: 0.906
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  5. Score: 0.891
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 100
+------------------------------------------------------------
+TESTO: L'organizzazione deve attuare pienamente le previsioni di legge e gli accordi collettivi in materia di contrasto alle molestie sui luoghi di lavoro.
+TIPO: generale
+DOMANDA AUDIT: L'organizzazione ha implementato tutte le misure previste dalla legge e dai contratti collettivi per il contrasto alle molestie?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: LAVORO INFANTILE riscontrato presso i Fornitori :
+  2. Score: 0.961
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1 Politiche, Procedure Registrazioni
+  3. Score: 0.927
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: LAVORO INFANTILE riscontrato presso i Fornitori :
+  4. Score: 0.925
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.2 Gestione delle segnalazioni di condotte illecite ai sensi del D. lgs 231/01 o di violazioni del Modello di Organizzazione Gestione e Controllo ex D. lgs 231/01
+  5. Score: 0.919
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.8 Retribuzione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 101
+------------------------------------------------------------
+TESTO: L'organizzazione, nell'ambito della propria valutazione dei rischi per la Salute e Sicurezza sul Lavoro, deve identificare, valutare e analizzare i rischi relativi a ogni forma di abuso e molestia (inclusi quelli di natura fisica, verbale e digitale), prevedendo inoltre l'analisi sistematica degli eventi avversi segnalati in materia.
+TIPO: generale
+DOMANDA AUDIT: Come dimostra l'organizzazione di aver integrato nella valutazione dei rischi per la Salute e Sicurezza l'analisi proattiva dei rischi di abuso e molestia (fisico, verbale, digitale) e l'analisi reattiva degli eventi avversi segnalati?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.3 Salute Sicurezza
+  2. Score: 0.991
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.3.3 Valutazione dei Rischi per la RS e altri Rischi per il Sistema di Gestione per la RS
+  3. Score: 0.887
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 1.2.1 Comprendere l'Organizzazione il suo Contesto
+  4. Score: 0.858
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.854
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 102
+------------------------------------------------------------
+TESTO: L'organizzazione deve preparare un Piano per la prevenzione e gestione delle molestie sul lavoro.
+TIPO: generale
+DOMANDA AUDIT: Esiste un piano formalizzato per la prevenzione e la gestione delle molestie?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  2. Score: 0.994
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  3. Score: 0.971
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  4. Score: 0.959
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.3.2 Identificazione dei rischi
+  5. Score: 0.941
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.2 Gestione delle segnalazioni di condotte illecite ai sensi del D. lgs 231/01 o di violazioni del Modello di Organizzazione Gestione e Controllo ex D. lgs 231/01
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 103
+------------------------------------------------------------
+TESTO: L'organizzazione deve prevedere formazione specifica e periodica sulla 'tolleranza zero' rispetto a ogni forma di violenza e molestia per tutto il personale.
+TIPO: formazione
+DOMANDA AUDIT: Viene erogata a tutto il personale una formazione periodica sulla politica di 'tolleranza zero' verso le molestie?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  2. Score: 0.992
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.6 Pratiche disciplinari
+  3. Score: 0.933
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+  4. Score: 0.912
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.907
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 104
+------------------------------------------------------------
+TESTO: L'organizzazione deve implementare una metodologia per la segnalazione anonima di molestie e abusi a tutela dei segnalanti.
+TIPO: generale
+DOMANDA AUDIT: È stato istituito un canale di segnalazione anonimo e sicuro per i casi di molestia?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  2. Score: 0.974
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: C) ESITO DELL'ISTRUTTORIA RISCONTRO ALLA SEGNALAZIONE
+  3. Score: 0.961
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  4. Score: 0.897
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.3 Segnalazioni anonime
+  5. Score: 0.892
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: Politica whistleblowing - Gestione delle Segnalazioni di eventuali fatti illeciti ex D.lgs. 24/2023
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 105
+------------------------------------------------------------
+TESTO: L'organizzazione deve pianificare e attuare verifiche periodiche (survey) presso i dipendenti per indagare la presenza di atteggiamenti o comportamenti non rispettosi.
+TIPO: generale
+DOMANDA AUDIT: Vengono condotte survey periodiche per monitorare il clima aziendale e rilevare eventuali episodi di molestia o mancanza di rispetto?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: LAVORO INFANTILE riscontrato presso i Fornitori :
+  2. Score: 0.960
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.953
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  4. Score: 0.929
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.1 Lavoro infantile
+  5. Score: 0.895
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: C) ESITO DELL'ISTRUTTORIA RISCONTRO ALLA SEGNALAZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 106
+------------------------------------------------------------
+TESTO: L'organizzazione deve gestire la documentazione del sistema assicurando che le versioni in vigore siano identificate, approvate, modificate da personale autorizzato e note agli utilizzatori.
+TIPO: generale
+DOMANDA AUDIT: Esiste una procedura di controllo della documentazione che ne garantisce la corretta gestione (versioning, approvazione, distribuzione)?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: Politica whistleblowing - Gestione delle Segnalazioni di eventuali fatti illeciti ex D.lgs. 24/2023
+  2. Score: 0.965
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.964
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.2.3 Controllo delle Informazioni Documentate
+  4. Score: 0.956
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+  5. Score: 0.932
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.2 Gestione delle segnalazioni di condotte illecite ai sensi del D. lgs 231/01 o di violazioni del Modello di Organizzazione Gestione e Controllo ex D. lgs 231/01
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 107
+------------------------------------------------------------
+TESTO: L'organizzazione deve raccogliere e analizzare dati disaggregati per genere.
+TIPO: generale
+DOMANDA AUDIT: Il sistema di reporting aziendale permette la raccolta e l'analisi sistematica di dati disaggregati per genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  2. Score: 0.963
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  3. Score: 0.921
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.1 Ricerca e Selezione
+  4. Score: 0.882
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.878
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 108
+------------------------------------------------------------
+TESTO: L'organizzazione deve valutare l'andamento dei KPI con frequenza idonea e attuare azioni di correzione a fronte di deviazioni.
+TIPO: generale
+DOMANDA AUDIT: Esiste un processo per la revisione periodica dei KPI e per l'implementazione di azioni correttive quando non sono in linea con gli obiettivi?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+  2. Score: 0.998
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  3. Score: 0.918
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.4 Indicatori di Performance
+  4. Score: 0.863
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.861
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 109
+------------------------------------------------------------
+TESTO: L'organizzazione deve basare la comunicazione interna ed esterna (marketing, pubblicità) su principi di responsabilità, evitando stereotipi di genere e utilizzando un linguaggio rispettoso.
+TIPO: generale
+DOMANDA AUDIT: La comunicazione aziendale, inclusa la pubblicità, viene revisionata per assicurare che sia priva di stereotipi di genere e rispettosa?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  2. Score: 0.980
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  3. Score: 0.975
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  4. Score: 0.968
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+  5. Score: 0.954
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 110
+------------------------------------------------------------
+TESTO: L'organizzazione deve pianificare, attuare e documentare un sistema di audit interni per verificare l'efficace applicazione della politica di parità di genere.
+TIPO: documentazione
+DOMANDA AUDIT: È stato implementato un programma di audit interni per verificare la conformità alla politica di parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  2. Score: 0.964
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  3. Score: 0.911
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.3 Audit Interno
+  4. Score: 0.895
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 4.1.2 Cosa non può essere segnalato
+  5. Score: 0.888
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 111
+------------------------------------------------------------
+TESTO: Gli audit interni devono essere condotti secondo le modalità della norma UNI EN ISO 19011, con team indipendenti, competenti e bilanciati in termini di genere.
+TIPO: monitoraggio
+DOMANDA AUDIT: Gli audit interni sono condotti in conformità alla ISO 19011 e da un team che rispetta i requisiti di indipendenza, competenza e bilanciamento di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.3 Audit Interno
+  2. Score: 0.990
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+  3. Score: 0.984
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  4. Score: 0.922
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  5. Score: 0.903
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 112
+------------------------------------------------------------
+TESTO: Le deviazioni riscontrate durante gli audit interni devono essere segnalate e gestite secondo procedure definite.
+TIPO: monitoraggio
+DOMANDA AUDIT: Esiste una procedura per la gestione delle non conformità emerse dagli audit interni?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.3 Audit Interno
+  2. Score: 0.960
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.956
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  4. Score: 0.915
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: C) ESITO DELL'ISTRUTTORIA RISCONTRO ALLA SEGNALAZIONE
+  5. Score: 0.914
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.4.1 Compiti del Soggetto responsabile della gestione della segnalazione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 113
+------------------------------------------------------------
+TESTO: L'organizzazione deve definire una procedura per la raccolta, gestione e documentazione delle situazioni non conformi relative alla parità di genere (es. KPI non in linea, reclami, incidenti).
+TIPO: documentazione
+DOMANDA AUDIT: Esiste una procedura formalizzata per la gestione delle non conformità in materia di parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.4.1 Compiti del Soggetto responsabile della gestione della segnalazione
+  2. Score: 0.958
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Manuale Sistema di Gestione Responsabilità Sociale
+  3. Score: 0.954
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.952
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.935
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 114
+------------------------------------------------------------
+TESTO: L'organizzazione deve garantire l'attivazione di meccanismi di comunicazione e l'implementazione di azioni correttive per rimuovere le cause delle non conformità.
+TIPO: generale
+DOMANDA AUDIT: A fronte di una non conformità, vengono attivate le comunicazioni previste e implementate azioni per rimuoverne le cause alla radice?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  2. Score: 0.868
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  3. Score: 0.809
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.4.1 Compiti del Soggetto responsabile della gestione della segnalazione
+  4. Score: 0.781
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.5 Riesame Periodico
+  5. Score: 0.777
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 115
+------------------------------------------------------------
+TESTO: L'organizzazione deve pianificare, attuare e mantenere registrazioni di una revisione periodica del sistema (almeno annuale) da parte dell'Alta Direzione.
+TIPO: generale
+DOMANDA AUDIT: L'Alta Direzione conduce una revisione del sistema di gestione per la parità di genere almeno una volta all'anno e ne mantiene le registrazioni?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  2. Score: 0.979
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.5 Riesame Periodico
+  3. Score: 0.934
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  4. Score: 0.929
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  5. Score: 0.891
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.3 Salute Sicurezza
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 116
+------------------------------------------------------------
+TESTO: La revisione della direzione deve valutare i risultati delle attività, la congruità del piano strategico, la necessità di aggiornamenti e le esigenze formative.
+TIPO: generale
+DOMANDA AUDIT: La revisione della direzione include tutti gli elementi di input richiesti (risultati, adeguatezza del piano, necessità di modifiche, formazione)?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  2. Score: 0.963
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.960
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.3.1 Generalità
+  4. Score: 0.913
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.894
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 117
+------------------------------------------------------------
+TESTO: L'organizzazione deve integrare i nuovi obiettivi di miglioramento, identificati a seguito della revisione della direzione, nel piano strategico o in altri documenti del sistema.
+TIPO: generale
+DOMANDA AUDIT: Gli obiettivi di miglioramento che emergono dalla revisione della direzione vengono formalizzati e integrati nella pianificazione strategica?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  2. Score: 0.982
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  3. Score: 0.978
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.1 Politica SGRS
+  4. Score: 0.940
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.1.3 Riesame di Direzione
+  5. Score: 0.938
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 118
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve operare in conformità alla norma UNI CEI EN ISO/IEC 17021-1 per l'accreditamento.
+TIPO: generale
+DOMANDA AUDIT: L'OdC è accreditato secondo la norma UNI CEI EN ISO/IEC 17021-1 e può dimostrare di rispettarne i requisiti durante il processo di certificazione per la parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.3 Salute Sicurezza
+  2. Score: 0.996
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.1 Gestione assunzione
+  3. Score: 0.994
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+  4. Score: 0.984
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.984
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 119
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve basare il processo di certificazione sulla prassi di riferimento UNI/PdR 125:2022.
+TIPO: generale
+DOMANDA AUDIT: Il processo di certificazione dell'OdC fa esplicito riferimento e applica i criteri della UNI/PdR 125:2022 in tutte le sue fasi?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+  2. Score: 0.893
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 3 DEFINIZIONI E ABBREVIAZIONI
+  3. Score: 0.882
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.863
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.1 Gestione assunzione
+  5. Score: 0.845
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 120
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve accettare richieste di certificazione da qualunque tipo di organizzazione, indipendentemente da dimensione, forma giuridica o settore (pubblico/privato).
+TIPO: generale
+DOMANDA AUDIT: Il processo di richiesta di certificazione dell'OdC è documentato come aperto a tutte le tipologie di organizzazioni, senza esclusioni basate su dimensione, forma giuridica o settore?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  2. Score: 0.965
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 4.2.1 Chi può segnalare
+  3. Score: 0.960
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  4. Score: 0.935
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  5. Score: 0.926
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 121
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve rilasciare certificazioni di 'gruppo' solo se esiste una struttura organizzativa centralizzata che gestisce e controlla la compliance per tutte le società del gruppo, in accordo con IAF MD01.
+TIPO: generale
+DOMANDA AUDIT: Prima di rilasciare una certificazione di gruppo, l'OdC verifica e documenta l'esistenza e l'efficacia di una struttura di gestione centralizzata della compliance, come richiesto da IAF MD01?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.2.1 Organigramma Generale e altri organigrammi
+  2. Score: 0.832
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.2.1 Organigramma Generale e altri organigrammi
+  3. Score: 0.773
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  4. Score: 0.765
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.765
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 122
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) non deve ammettere esclusioni di processi o funzioni dal perimetro di certificazione di una singola entità.
+TIPO: divieto
+DOMANDA AUDIT: La metodologia di audit dell'OdC prevede un controllo esplicito per assicurare che nessun processo o funzione sia stato escluso dal campo di applicazione della certificazione?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+  2. Score: 0.970
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.968
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  4. Score: 0.958
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.4.1 Compiti del Soggetto responsabile della gestione della segnalazione
+  5. Score: 0.869
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.4.2 Astensione dalla gestione della segnalazione per potenziale conflitto interessi
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 123
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve permettere di limitare il campo di applicazione della certificazione a una singola nazione.
+TIPO: generale
+DOMANDA AUDIT: L'OdC dispone di procedure per definire, verificare e gestire un perimetro di certificazione geograficamente limitato a una specifica nazione?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  2. Score: 0.908
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.860
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.4.2 Astensione dalla gestione della segnalazione per potenziale conflitto interessi
+  4. Score: 0.852
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: Politica whistleblowing - Gestione delle Segnalazioni di eventuali fatti illeciti ex D.lgs. 24/2023
+  5. Score: 0.813
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.8 Retribuzione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 124
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve implementare e mantenere un proprio sistema di gestione per la parità di genere conforme alla UNI/PdR 125:2022.
+TIPO: generale
+DOMANDA AUDIT: L'OdC può dimostrare, tramite documentazione e audit interni, di aver implementato al suo interno un sistema di gestione per la parità di genere conforme alla UNI/PdR 125:2022?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  2. Score: 0.947
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 4.1.2 Cosa non può essere segnalato
+  3. Score: 0.897
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  4. Score: 0.859
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.838
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.3 Formazione Neoassunto
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 125
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve assicurare che ogni gruppo di audit includa almeno un membro qualificato per la valutazione di sistemi di gestione qualità secondo la norma UNI EN ISO 9001.
+TIPO: monitoraggio
+DOMANDA AUDIT: Per ogni audit effettuato, l'OdC può documentare la presenza nel team di un membro con qualifica valida per audit UNI EN ISO 9001?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+  2. Score: 0.941
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.938
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.2 Gestione delle segnalazioni di condotte illecite ai sensi del D. lgs 231/01 o di violazioni del Modello di Organizzazione Gestione e Controllo ex D. lgs 231/01
+  4. Score: 0.918
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  5. Score: 0.895
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.3 Audit Interno
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 126
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve assicurare che il membro qualificato ISO 9001 nel gruppo di audit possieda una conoscenza approfondita e documentata della UNI/PdR 125:2022 e della linea guida UNI ISO 30415.
+TIPO: monitoraggio
+DOMANDA AUDIT: L'OdC dispone di registrazioni (es. attestati di formazione, test di valutazione) che attestano la conoscenza della UNI/PdR 125:2022 e della UNI ISO 30415 da parte degli auditor qualificati ISO 9001?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: VIOLAZIONI DEL DIRITTO UE
+  2. Score: 0.985
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+  3. Score: 0.940
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 3 DEFINIZIONI E ABBREVIAZIONI
+  4. Score: 0.897
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  5. Score: 0.892
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.3 Formazione Neoassunto
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 127
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve garantire che il gruppo di verifica includa un avvocato giuslavorista o un consulente del lavoro con almeno 5 anni di iscrizione all'albo, oppure un altro professionista con esperienza significativa e documentata nel settore.
+TIPO: generale
+DOMANDA AUDIT: L'OdC verifica e archivia la documentazione (es. iscrizione all'albo, CV, referenze) che attesta le qualifiche e l'esperienza dei professionisti legali o esperti di settore inclusi nel team di audit?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  2. Score: 0.977
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.899
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 4.2.1 Chi può segnalare
+  4. Score: 0.895
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 4.2.1 Chi può segnalare
+  5. Score: 0.894
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.1 Gestione assunzione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 128
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve valutare la necessità di includere esperti nel gruppo di audit per assicurare la copertura completa delle competenze richieste dalle 6 aree della UNI/PdR 125:2022, garantendo in particolare la presenza di un esperto qualificato durante le fasi di valutazione degli indicatori aziendali (KPI).
+TIPO: monitoraggio
+DOMANDA AUDIT: Come l'Organismo di Certificazione documenta il processo di valutazione delle competenze del gruppo di audit e come assicura, specificamente, la presenza di un esperto qualificato durante la verifica degli indicatori (KPI) previsti dalla UNI/PdR 125:2022?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  2. Score: 0.977
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  3. Score: 0.927
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.923
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+  5. Score: 0.903
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.5 Riesame Periodico
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 129
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve calcolare i tempi di audit utilizzando il documento IAF MD05, specificamente la tabella QMS1 per sistemi a basso rischio.
+TIPO: monitoraggio
+DOMANDA AUDIT: Il calcolo dei giorni/uomo per gli audit UNI/PdR 125:2022 è basato sulla tabella QMS1 del documento IAF MD05 e tale calcolo è documentato?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.2 Gestione delle segnalazioni di condotte illecite ai sensi del D. lgs 231/01 o di violazioni del Modello di Organizzazione Gestione e Controllo ex D. lgs 231/01
+  2. Score: 0.991
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: Manuale Sistema di Gestione Responsabilità Sociale
+  3. Score: 0.938
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  4. Score: 0.922
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 2 ELEMENTI NORMATIVI E LORO INTERPRETAZIONE
+  5. Score: 0.884
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.1 Gestione assunzione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 130
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve applicare una riduzione del 50% al conteggio del tempo di audit per il contributo degli esperti (tecnici e legali).
+TIPO: monitoraggio
+DOMANDA AUDIT: Nel calcolo della durata totale dell'audit, il tempo allocato agli esperti viene conteggiato al 50% come previsto, e ciò è tracciabile nella documentazione di pianificazione?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.2 Gestione delle segnalazioni di condotte illecite ai sensi del D. lgs 231/01 o di violazioni del Modello di Organizzazione Gestione e Controllo ex D. lgs 231/01
+  2. Score: 0.999
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  3. Score: 0.997
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  4. Score: 0.943
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.5 Riesame Periodico
+  5. Score: 0.920
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 131
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve registrare nella documentazione di audit il perimetro e l'applicabilità della UNI/PdR, inclusi tutti gli indirizzi legali e operativi delle sedi dell'organizzazione.
+TIPO: documentazione
+DOMANDA AUDIT: La documentazione di audit contiene una chiara e completa definizione del perimetro di certificazione, con tutti gli indirizzi pertinenti?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+  2. Score: 0.979
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.925
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: Politica whistleblowing - Gestione delle Segnalazioni di eventuali fatti illeciti ex D.lgs. 24/2023
+  4. Score: 0.920
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.2.1 Organigramma Generale e altri organigrammi
+  5. Score: 0.919
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 132
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve registrare nella documentazione di audit una valutazione completa della gestione della parità di genere da parte dell'organizzazione, includendo specificamente: la mappatura dei processi e l'elenco delle normative applicabili, l'analisi di episodi o minacce di violazione dei diritti con le relative contromisure, e le eventuali cause giudiziarie in cui l'organizzazione è coinvolta per violazioni dei diritti di genere.
+TIPO: documentazione
+DOMANDA AUDIT: La documentazione di audit dell'OdC contiene una registrazione completa e dettagliata degli aspetti relativi alla parità di genere dell'organizzazione, coprendo la mappatura dei processi, le normative, l'analisi dei rischi/incidenti con le contromisure e le cause giudiziarie pertinenti?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  2. Score: 0.993
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.971
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+  4. Score: 0.966
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 2 SCOPO
+  5. Score: 0.959
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 133
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve utilizzare checklist o documenti di supporto specifici per registrare le evidenze raccolte durante l'audit, assicurando che venga valutato il grado di applicazione dei requisiti della UNI/PdR.
+TIPO: documentazione
+DOMANDA AUDIT: Il gruppo di audit utilizza e compila checklist strutturate che permettono di registrare le evidenze e il livello di conformità per ogni requisito della prassi di riferimento?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  2. Score: 0.989
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: Politica whistleblowing - Gestione delle Segnalazioni di eventuali fatti illeciti ex D.lgs. 24/2023
+  3. Score: 0.980
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  4. Score: 0.973
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: Le  SEGNALAZIONI  non  possono  riguardare  generici  sospetti  o  notizie  meramente  riferite  da  terzi  o comunque che non abbiamo elementi di fatto o documenti univoci a supporto degli stessi.
+  5. Score: 0.913
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 6.2 Contenuto della segnalazione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 134
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve verificare e documentare la conformità ai requisiti operativi, incluse la definizione, le modalità e la frequenza di misurazione dei KPI qualitativi e quantitativi.
+TIPO: documentazione
+DOMANDA AUDIT: Il rapporto di audit documenta come l'organizzazione definisce, misura e monitora i KPI qualitativi e quantitativi previsti dalla UNI/PdR 125:2022?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.2 Non Conformità
+  2. Score: 0.844
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.1 Generalità
+  3. Score: 0.835
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  4. Score: 0.833
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.9.4.5 Riesame Periodico
+  5. Score: 0.822
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: Politica whistleblowing - Gestione delle Segnalazioni di eventuali fatti illeciti ex D.lgs. 24/2023
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 135
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve assicurare che lo scopo del certificato menzioni esplicitamente la dicitura 'Misure per garantire la parità di genere nel contesto lavorativo'.
+TIPO: generale
+DOMANDA AUDIT: Un campione di certificati emessi dall'OdC include la dicitura esatta 'Misure per garantire la parità di genere nel contesto lavorativo' nel campo di applicazione?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  2. Score: 0.976
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 1 SCOPO
+  3. Score: 0.964
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  4. Score: 0.939
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5 DESCRIZIONE
+  5. Score: 0.921
+     File: internal_0_MRS-000_v00_Manuale_Sistema_di_Gestione_Responsabilita_Sociale_chunks.txt
+     Sezione: 4.5 Discriminazione
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 136
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve disporre di un regolamento che definisca le regole per la dichiarazione di conformità e l'uso dei marchi da parte delle organizzazioni certificate. Tale regolamento deve includere specificamente: 1) la dicitura standard obbligatoria per la dichiarazione di conformità e 2) le condizioni per la licenza d'uso del proprio marchio di certificazione, prevedendone l'utilizzo combinato con il Marchio UNI 'Organizzazioni'.
+TIPO: generale
+DOMANDA AUDIT: Esiste un regolamento formalizzato che disciplina l'uso della certificazione e dei relativi marchi da parte delle organizzazioni certificate? Questo regolamento specifica chiaramente la dicitura standard obbligatoria per le dichiarazioni di conformità e le modalità per l'uso combinato del marchio dell'OdC con il Marchio UNI 'Organizzazioni'?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+  2. Score: 0.987
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 3.2 L'impegno
+  3. Score: 0.984
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  4. Score: 0.970
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.963
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 3 DEFINIZIONI E ABBREVIAZIONI
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 137
+------------------------------------------------------------
+TESTO: L'Organismo di Certificazione (OdC) deve stabilire nelle proprie regole che l'utilizzo combinato dei marchi è permesso solo a partire dalla data di emissione del certificato.
+TIPO: generale
+DOMANDA AUDIT: Il regolamento dell'OdC per l'uso dei marchi specifica chiaramente che l'autorizzazione all'uso decorre dalla data di emissione formale del certificato?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  2. Score: 0.925
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  3. Score: 0.877
+     File: internal_0_PO-020_v17_chunks.txt
+     Sezione: 4.1 Indicatori
+  4. Score: 0.852
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 1 INTRODUZIONE
+  5. Score: 0.815
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: 5.1 Gestione delle segnalazioni di violazioni NON afferenti al D. lgs 231/01
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+
+REQUISITO 138
+------------------------------------------------------------
+TESTO: Il sistema deve permettere di classificare i dati e i KPI dell'organizzazione in base al settore industriale di appartenenza, utilizzando codifiche standard come il codice ATECO.
+TIPO: generale
+DOMANDA AUDIT: È possibile associare l'organizzazione o le sue business unit a un codice ATECO per la segmentazione delle analisi sulla parità di genere?
+
+TOP MATCHES:
+  1. Score: 1.000
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.2.2 Gestione dell'organigramma su tool di gestione risorse umane
+  2. Score: 0.977
+     File: internal_0_POL-960_v00_Politica_per_la_Responsabilita_Sociale_chunks.txt
+     Sezione: 4 POLITICHE PRINCIPI
+  3. Score: 0.948
+     File: internal_0_PSQ-025_v23_chunks.txt
+     Sezione: 5.2.2.2 Gestione dell'organigramma su tool di gestione risorse umane
+  4. Score: 0.915
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+  5. Score: 0.899
+     File: internal_0_PSQ-501-IT_v03_-_Politica_Whistleblowing_chunks.txt
+     Sezione: B) FASE ISTRUTTORIA
+
+ANALISI:
+  Livello: 1 - ASSENTE
+  Allineamento: Errore nell'analisi automatica
+  Gap: Impossibile determinare gap
+  Aspetti mancanti: Analisi non disponibile
+  Azioni richieste: Verificare manualmente
+
+================================================================================
+

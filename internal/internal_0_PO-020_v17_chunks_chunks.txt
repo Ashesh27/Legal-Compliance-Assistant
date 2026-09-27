@@ -1,0 +1,341 @@
+CHUNKS - internal_0_PO-020_v17_chunks.txt
+================================================================================
+
+CHUNK 1
+----------------------------------------
+Sezione: 1 SCOPO
+Livello: 1
+Pagina: N/A
+Dimensione: 178 caratteri
+
+TESTO:
+La Pratica Operativa definisce  il metodo applicato per la determinazione del Vendor Rating dei fornitori e per la valutazione dei fornitori ritenuti critici in specifici ambiti.
+
+================================================================================
+
+CHUNK 2
+----------------------------------------
+Sezione: 2 CAMPO DI APPLICAZIONE
+Livello: 1
+Pagina: N/A
+Dimensione: 161 caratteri
+
+TESTO:
+Il  presente  documento  si  applica  a  tutti  i  fornitori secondo  la  classificazione riportata  in PSQ-005 Qualificazione fornitori, e ai fornitori critici.
+
+================================================================================
+
+CHUNK 3
+----------------------------------------
+Sezione: 3 DEFINIZIONI E ABBREVIAZIONI
+Livello: 1
+Pagina: N/A
+Dimensione: 611 caratteri
+
+TESTO:
+Di seguito sono indicate le abbreviazioni utilizzate all'interno del documento. Si veda il Glossario per le definizioni di uso comune. ACQ, DEFINIZIONE = Procurement. CO, DEFINIZIONE = Compliance Office. DEL, DEFINIZIONE = Service Delivery. EM, DEFINIZIONE = Engagement Manager. FM, DEFINIZIONE = Facility Management. HR, DEFINIZIONE = HumanResources. HRFOR, DEFINIZIONE = HumanResources [area Training]. RM, DEFINIZIONE = Workforce Management. SGI, DEFINIZIONE = Sistema di Gestione del Servizio. SGSI, DEFINIZIONE = Sistema di Gestione per la Sicurezza delle Informazioni. SM, DEFINIZIONE = Service Management
+
+================================================================================
+
+CHUNK 4
+----------------------------------------
+Sezione: 4 VALUTAZIONE FORNITORI
+Livello: 1
+Pagina: N/A
+Dimensione: 456 caratteri
+
+TESTO:
+La valutazione di tutti i fornitori inseriti nel tool TOO-051 Gestione Albo Fornitori avviene in due fasi:
+- ❑ La prima avviene in fase di qualifica iniziale e si conclude con l'assegnazione della classe al fornitore (vedi PSQ-005 Qualificazione fornitori)
+- ❑ La seconda fase è effettuata dai responsabili delle categorie di prodotto/servizio in base alle prestazioni erogate/fornite dal fornitore in un periodo di riferimento ( almeno una volta l'anno ).
+
+================================================================================
+
+CHUNK 5
+----------------------------------------
+Sezione: 4.1 Indicatori
+Livello: 2
+Pagina: N/A
+Dimensione: 899 caratteri
+
+TESTO:
+Gli indicatori utilizzati per la valutazione dei fornitori, durante la seconda fase, si differenziano a seconda che forniscano:
+- [ ] ❑ Materiali e servizi informatici (prodotti e accessori informatici)
+- [ ] ❑ Consulenze tecniche;
+- [ ] ❑ Prestazioni tecniche;
+- [ ] ❑ Formazione;
+- [ ] ❑ Servizi Cloud & IT Data Center;
+- [ ] ❑ Materiali e servizi di Facility;
+- [ ] ❑ Materiali e servizi HSE. oppure a seconda dell'ambito di criticità:
+- [ ] ❑ Fornitori Critici area Anticorruzione
+- [ ] ❑ Fornitori Critici area Facility
+- ❑ Fornitori Critici area GDPR
+- [ ] ❑ Fornitori Critici area HSE
+- [ ] ❑ Fornitori Critici area Security
+- [ ] ❑ Fornitori Critici area Sociale Alcuni indicatori  hanno  origine dal sistema informatico  gestionale TOO-010 Sistema Gestionale Lutech  e quindi sono dati oggettivi; altri, invece, sono originati direttamente dal personale che lavora a contatto col fornitore.
+
+CONTESTO PRECEDENTE:
+matici)
+- [ ] ❑ Consulenze tecniche;
+- [ ] ❑ Prestazioni tecniche;
+- [ ] ❑ Formazione;
+- [ ] ❑ Servizi Cloud & IT Data Center;
+- [ ] ❑ Materiali e servizi di Facility;
+- [ ] ❑ Materiali e servizi HSE.
+
+CONTESTO SUCCESSIVO:
+Nei paragrafi che seguono sono riportate per ciascuna tipologia di fornitori applicabile:
+- [ ] ❑ indicatori da monitorare
+- ❑ il peso da utilizzare nella costruzione del punteggio globale
+- [ ] ❑ la 
+
+================================================================================
+
+CHUNK 6
+----------------------------------------
+Sezione: 4.1 Indicatori
+Livello: 2
+Pagina: N/A
+Dimensione: 1001 caratteri
+
+TESTO:
+oppure a seconda dell'ambito di criticità:
+- [ ] ❑ Fornitori Critici area Anticorruzione
+- [ ] ❑ Fornitori Critici area Facility
+- ❑ Fornitori Critici area GDPR
+- [ ] ❑ Fornitori Critici area HSE
+- [ ] ❑ Fornitori Critici area Security
+- [ ] ❑ Fornitori Critici area Sociale Alcuni indicatori  hanno  origine dal sistema informatico  gestionale TOO-010 Sistema Gestionale Lutech  e quindi sono dati oggettivi; altri, invece, sono originati direttamente dal personale che lavora a contatto col fornitore. Nei paragrafi che seguono sono riportate per ciascuna tipologia di fornitori applicabile:
+- [ ] ❑ indicatori da monitorare
+- ❑ il peso da utilizzare nella costruzione del punteggio globale
+- [ ] ❑ la sorgente di estrazione del valore
+- [ ] ❑ il punteggio assegnabile e la sua descrizione. Il punteggio deve essere calcolato all'interno del periodo di riferimento, ovvero fra la data di valutazione in corso e la data di valutazione precedente (o data di classificazione provvisoria del fornitore).
+
+CONTESTO PRECEDENTE:
+:
+- [ ] ❑ indicatori da monitorare
+- ❑ il peso da utilizzare nella costruzione del punteggio globale
+- [ ] ❑ la sorgente di estrazione del valore
+- [ ] ❑ il punteggio assegnabile e la sua descrizione.
+
+================================================================================
+
+CHUNK 7
+----------------------------------------
+Sezione: 4.1 Indicatori
+Livello: 2
+Pagina: N/A
+Dimensione: 208 caratteri
+
+TESTO:
+Il punteggio deve essere calcolato all'interno del periodo di riferimento, ovvero fra la data di valutazione in corso e la data di valutazione precedente (o data di classificazione provvisoria del fornitore).
+
+================================================================================
+
+CHUNK 8
+----------------------------------------
+Sezione: 4.1.1 Materiali e servizi informatici
+Livello: 3
+Pagina: N/A
+Dimensione: 818 caratteri
+
+TESTO:
+QUOTAZIONI, PESO = 30. QUOTAZIONI, SORGENTE = Ordine fornitore. QUOTAZIONI, PUNTEGGIO = 1. Quotazione superiore del 10% rispetto alle quotazioni medie di mercato 2. Quotazione in linea con le quotazioni medie di mercato 3. Quotazione inferiore del 10% rispetto alle quotazioni medie. CONDIZIONI DI PAGAMENTO, PESO = 15. CONDIZIONI DI PAGAMENTO, SORGENTE = Ordine fornitore. CONDIZIONI DI PAGAMENTO, PUNTEGGIO = 1. alla consegna o presentazione fattura 2. < 90 giorni df fm rd 3. >= 90 giorni df fm rd. QUALITA' DELLE FORNITURE (contestazioni, resi e non conformità), PESO = 30. QUALITA' DELLE FORNITURE (contestazioni, resi e non conformità), SORGENTE = Resi da cliente. QUALITA' DELLE FORNITURE (contestazioni, resi e non conformità), PUNTEGGIO = 1. Contestazioni: più di 10; resi: più di 4; NC: più di 2 nell'anno 2.
+
+CONTESTO PRECEDENTE:
+QUALITA' DELLE FORNITURE (contestazioni, resi e non conformità), SORGENTE = Resi da cliente. QUALITA' DELLE FORNITURE (contestazioni, resi e non conformità), PUNTEGGIO = 1.
+
+CONTESTO SUCCESSIVO:
+contestazioni: da 2 a 10; resi: max. 4; NC: max2 3.
+
+================================================================================
+
+CHUNK 9
+----------------------------------------
+Sezione: 4.1.1 Materiali e servizi informatici
+Livello: 3
+Pagina: N/A
+Dimensione: 850 caratteri
+
+TESTO:
+QUALITA' DELLE FORNITURE (contestazioni, resi e non conformità), SORGENTE = Resi da cliente. QUALITA' DELLE FORNITURE (contestazioni, resi e non conformità), PUNTEGGIO = 1. Contestazioni: più di 10; resi: più di 4; NC: più di 2 nell'anno 2. contestazioni: da 2 a 10; resi: max. 4; NC: max2 3. contestazioni: max. 2; resi: 0; NC: 0. RISPETTO TEMPI DI CONSEGNA, PESO = 15. RISPETTO TEMPI DI CONSEGNA, SORGENTE = Bolla di entrata materiale. RISPETTO TEMPI DI CONSEGNA, PUNTEGGIO = Lo scostamento dalla promise è: 1. superiore ai 20 gg 2. fra i 5 gg e i 20 gg 3. entro i 5 gg. RISPETTO QUANTITA' ORDINATE, PESO = 10. RISPETTO QUANTITA' ORDINATE, SORGENTE = Bolla di entrata materiale. RISPETTO QUANTITA' ORDINATE, PUNTEGGIO = 1. Variazione superiore a ±20% rispetto alle quantità ordinate 2. Variazione inferiore a ±20% rispetto alle quantità ordinate 3.
+
+CONTESTO PRECEDENTE:
+RISPETTO QUANTITA' ORDINATE, PUNTEGGIO = 1. Variazione superiore a ±20% rispetto alle quantità ordinate 2.
+
+CONTESTO SUCCESSIVO:
+Quantità rispettate
+100
+La valutazione di questi indicatori è riportata nel MOD-005 A Albo fornitori (HW e SW) e non è registrata sul tool.
+
+================================================================================
+
+CHUNK 10
+----------------------------------------
+Sezione: 4.1.1 Materiali e servizi informatici
+Livello: 3
+Pagina: N/A
+Dimensione: 309 caratteri
+
+TESTO:
+RISPETTO QUANTITA' ORDINATE, PUNTEGGIO = 1. Variazione superiore a ±20% rispetto alle quantità ordinate 2. Variazione inferiore a ±20% rispetto alle quantità ordinate 3. Quantità rispettate
+100
+La valutazione di questi indicatori è riportata nel MOD-005 A Albo fornitori (HW e SW) e non è registrata sul tool.
+
+================================================================================
+
+CHUNK 11
+----------------------------------------
+Sezione: 4.1.2 Consulenze tecniche
+Livello: 3
+Pagina: N/A
+Dimensione: 850 caratteri
+
+TESTO:
+TARIFFE, PESO = 20. TARIFFE, SORGENTE = Ordine fornitore. TARIFFE, PUNTEGGIO = 1. Quotazione superiore del 10% rispetto alle quotazioni medie di mercato 2. Quotazione in linea con le quotazioni medie di mercato 3. Quotazione inferiore del 10% rispetto alle quotazioni medie. QUALITA' DELLE FORNITURE (competenze), PESO = 50. QUALITA' DELLE FORNITURE (competenze), SORGENTE = Engagement Manager Practice Manager Project Manager. QUALITA' DELLE FORNITURE (competenze), PUNTEGGIO = È calcolata secondo la Media aritmetica di tutte le valutazioni individuali registrate su MOD-041B Raccolta Dati Fornitore. TEMPESTIVITA', PESO = 15. TEMPESTIVITA', SORGENTE = Resource Manager/ Engagement Manager. TEMPESTIVITA', PUNTEGGIO = 1. Prima candidatura oltre la settimana dall'invio della richiesta 2. Prima candidatura entro i 3 gg dall'invio della richiesta 3.
+
+CONTESTO PRECEDENTE:
+TEMPESTIVITA', PUNTEGGIO = 1. Prima candidatura oltre la settimana dall'invio della richiesta 2.
+
+CONTESTO SUCCESSIVO:
+Prima candidatura entro 48ore dall'invio della richiesta. ATTRITION (Retention), PESO = 10.
+
+================================================================================
+
+CHUNK 12
+----------------------------------------
+Sezione: 4.1.2 Consulenze tecniche
+Livello: 3
+Pagina: N/A
+Dimensione: 794 caratteri
+
+TESTO:
+Prima candidatura oltre la settimana dall'invio della richiesta 2. Prima candidatura entro i 3 gg dall'invio della richiesta 3. Prima candidatura entro 48ore dall'invio della richiesta. ATTRITION (Retention), PESO = 10. ATTRITION (Retention), SORGENTE = Resource Manager/ Engagement Manager. ATTRITION (Retention), PUNTEGGIO = 1. Due o più avvicendamenti entro il medesimo contratto 2. Un avvicendamento entro il medesimo contratto 3. Nessun avvicendamento entro il medesimo contratto. AFFIDABILITA', PESO = 5. AFFIDABILITA', SORGENTE = Resource Manager/ Engagement Manager. AFFIDABILITA', PUNTEGGIO = 1. Scarsa affidabilità 2. Adeguata affidabilità 3. Buona affidabilità
+100
+La valutazione di questi indicatori è riportata nel MOD-005 B Albo fornitori (Consulenti) e non è registrata sul tool.
+
+================================================================================
+
+CHUNK 13
+----------------------------------------
+Sezione: 4.1.3 Prestazioni Tecniche
+Livello: 3
+Pagina: N/A
+Dimensione: 867 caratteri
+
+TESTO:
+SLA, PESO = 40. SLA, PESO* = -. SLA, SORGENTE = TOO-001 Sistema di Call Tracking. SLA, PUNTEGGIO = Il rispetto dello SLA è: 1. < 95% 2. fra il 95% e il 99% 3. > 99%. ASSENZA DI RECLAMI, PESO = 10. ASSENZA DI RECLAMI, PESO* = 15. ASSENZA DI RECLAMI, SORGENTE = Service Account Manager. ASSENZA DI RECLAMI, PUNTEGGIO = L'indicatore misura il numero di reclami sollevati nei confronti del fornitore: 1. più di 2 reclami 2. da 1 a 2 reclami 3. zero reclami I reclami sono generali dall'analisi e valutazione delle lamentele pervenute in riferimento all'operato e/o comportamento del fornitore. VALUTAZIONE SOGGETTIVA DEL SAM, PESO = 50. VALUTAZIONE SOGGETTIVA DEL SAM, PESO* = 85. VALUTAZIONE SOGGETTIVA DEL SAM, SORGENTE = Service Account Manager. VALUTAZIONE SOGGETTIVA DEL SAM, PUNTEGGIO = Il parametro si riferisce al giudizio espresso dal Service Account Manager: 1.
+
+CONTESTO PRECEDENTE:
+VALUTAZIONE SOGGETTIVA DEL SAM, PESO* = 85. VALUTAZIONE SOGGETTIVA DEL SAM, SORGENTE = Service Account Manager.
+
+CONTESTO SUCCESSIVO:
+scarso 2. accettabile 3.
+
+================================================================================
+
+CHUNK 14
+----------------------------------------
+Sezione: 4.1.3 Prestazioni Tecniche
+Livello: 3
+Pagina: N/A
+Dimensione: 674 caratteri
+
+TESTO:
+VALUTAZIONE SOGGETTIVA DEL SAM, PESO* = 85. VALUTAZIONE SOGGETTIVA DEL SAM, SORGENTE = Service Account Manager. VALUTAZIONE SOGGETTIVA DEL SAM, PUNTEGGIO = Il parametro si riferisce al giudizio espresso dal Service Account Manager: 1. scarso 2. accettabile 3. buono
+100
+100
+A ciascun indicatore sono associati due pesi diversi, per distinguere le seguenti due situazioni:
+- ❑ presenza del riferimento allo SLA nel contratto con il fornitore (colonna "PESO")
+- ❑ assenza del riferimento allo SLA nel contratto con il fornitore (colonna ("PESO*"). La valutazione di questi indicatori è riportata nel MOD-005 D Albo fornitori (Prestazioni tecniche) e non è registrata sul tool.
+
+================================================================================
+
+CHUNK 15
+----------------------------------------
+Sezione: 4.1.4 Formazione
+Livello: 3
+Pagina: N/A
+Dimensione: 855 caratteri
+
+TESTO:
+TARIFFE, PESO = 25. TARIFFE, SORGENTE = Ordine fornitore. TARIFFE, PUNTEGGIO = 1. Quotazione giornaliera superiore del 10% rispetto alle quotazioni medie di mercato 2. Quotazione giornaliera in linea con le quotazioni medie di mercato 3. Quotazione giornaliera inferiore del 10% rispetto alle quotazioni medie. CONDIZIONI DI PAGAMENTO, PESO = 10. CONDIZIONI DI PAGAMENTO, SORGENTE = Contratto. CONDIZIONI DI PAGAMENTO, PUNTEGGIO = 1. Pagamento contestuale al servizio 2. Pagamento in linea con le policy aziendali (60 giorni) 3. Pagamento differito rispetto ai termini. QUALITA' DEI DOCENTI, PESO = 40. QUALITA' DEI DOCENTI, SORGENTE = Partecipante. QUALITA' DEI DOCENTI, PUNTEGGIO = aziendali (90-120 giorni) 1. impreparati sull'oggetto del corso; scarsa comunicatività 2. preparati solo sull'oggetto del corso; scarsi negli approfondimenti fuori tema 3.
+
+CONTESTO PRECEDENTE:
+QUALITA' DEI DOCENTI, PUNTEGGIO = aziendali (90-120 giorni) 1. impreparati sull'oggetto del corso; scarsa comunicatività 2.
+
+CONTESTO SUCCESSIVO:
+preparati e competenti; disponibili ad approfondimenti anche fuori tema. MATERIALI DIDATTICI, PESO = 10.
+
+================================================================================
+
+CHUNK 16
+----------------------------------------
+Sezione: 4.1.4 Formazione
+Livello: 3
+Pagina: N/A
+Dimensione: 851 caratteri
+
+TESTO:
+QUALITA' DEI DOCENTI, PUNTEGGIO = aziendali (90-120 giorni) 1. impreparati sull'oggetto del corso; scarsa comunicatività 2. preparati solo sull'oggetto del corso; scarsi negli approfondimenti fuori tema 3. preparati e competenti; disponibili ad approfondimenti anche fuori tema. MATERIALI DIDATTICI, PESO = 10. MATERIALI DIDATTICI, SORGENTE = Partecipante. MATERIALI DIDATTICI, PUNTEGGIO = 1. documentazione assente o scarsa 2. documentazione adeguatama poco approfondita 3. documentazione approfondita, coerente e precisa. CONTENUTI E METODOLOGIE, PESO = 15. CONTENUTI E METODOLOGIE, SORGENTE = Partecipante. CONTENUTI E METODOLOGIE, PUNTEGGIO = 1. Valutazione compresa tra 1 e 2 nella survey di gradimento 2. Valutazione equivalente a 3 nella survey di gradimento 3. Valutazione compresa tra 4 e 5 nella survey di gradimento
+100
+
+
+IE, PUNTEGGIO = 1.
+
+CONTESTO PRECEDENTE:
+Valutazione compresa tra 1 e 2 nella survey di gradimento 2. Valutazione equivalente a 3 nella survey di gradimento 3.
+
+CONTESTO SUCCESSIVO:
+Valutazione compresa tra 1 e 2 nella survey di gradimento 2. Valutazione equivalente a 3 nella survey di gradimento 3.
+
+================================================================================
+
+CHUNK 17
+----------------------------------------
+Sezione: 4.1.4 Formazione
+Livello: 3
+Pagina: N/A
+Dimensione: 692 caratteri
+
+TESTO:
+Valutazione compresa tra 1 e 2 nella survey di gradimento 2. Valutazione equivalente a 3 nella survey di gradimento 3. Valutazione compresa tra 4 e 5 nella survey di gradimento
+100
+
+
+IE, PUNTEGGIO = 1. Valutazione compresa tra 1 e 2 nella survey di gradimento 2. Valutazione equivalente a 3 nella survey di gradimento 3. Valutazione compresa tra 4 e 5 nella survey di gradimento
+100
+La  valutazione  di  questi  fornitori  è  gestita  dalla  funzione  Human  Resource  che  attiva  delle  survey  di gradimento dei corsi erogati dai fornitori e li valuta sui parametri individuati. Al momento tale valutazione è gestita direttamente dalla struttura Human Resource e non è registrata sul tool.
+
+================================================================================
+
+CHUNK 18
+----------------------------------------
+Sezione: 4.1.5 Servizi Cloud & IT Data Center
+Livello: 3
+Pagina: N/A
+Dimensione: 867 caratteri
+
+TESTO:
+SLA, PESO = 20. SLA, PESO* = -. SLA, SORGENTE = TOO-001 Sistema di Call Tracking. SLA, PUNTEGGIO = Il rispetto dello SLA è: 1. < 95% 2. fra il 95% e il 99% 3. > 99%. ASSENZA DI RECLAMI, PESO = 10. ASSENZA DI RECLAMI, PESO* = 12. ASSENZA DI RECLAMI, SORGENTE = Service Account Manager. ASSENZA DI RECLAMI, PUNTEGGIO = L'indicatore misura il numero di reclami sollevati nei confronti del fornitore: 1. più di 2 reclami 2. da 1 a 2 reclami 3. zero reclami I reclami sono generali dall'analisi e valutazione delle lamentele pervenute in riferimento all'operato e/o comportamento. VALUTAZIONE SOGGETTIVA DEL CLIENTE, PESO = 35. VALUTAZIONE SOGGETTIVA DEL CLIENTE, PESO* = 44. VALUTAZIONE SOGGETTIVA DEL CLIENTE, SORGENTE = Service Account Manager. VALUTAZIONE SOGGETTIVA DEL CLIENTE, PUNTEGGIO = del fornitore Il parametro si riferisce al giudizio espresso dal Cliente: 1.
+
+CONTESTO PRECEDENTE:
+VALUTAZIONE SOGGETTIVA DEL CLIENTE, PESO* = 44. VALUTAZIONE SOGGETTIVA DEL CLIENTE, SORGENTE = Service Account Manager.
+
+CONTESTO SUCCESSIVO:
+scarso 2. accettabile 3.
+
+================================================================================
+
+CHUNK 19
+----------------------------------------
+Sezione: 4.1.5 Servizi Cloud & IT Data Center
+Livello: 3
+Pagina: N/A
+Dimensione: 585 caratteri
+
+TESTO:
+VALUTAZIONE SOGGETTIVA DEL CLIENTE, PESO* = 44. VALUTAZIONE SOGGETTIVA DEL CLIENTE, SORGENTE = Service Account Manager. VALUTAZIONE SOGGETTIVA DEL CLIENTE, PUNTEGGIO = del fornitore Il parametro si riferisce al giudizio espresso dal Cliente: 1. scarso 2. accettabile 3. buono. VALUTAZIONE SOGGETTIVA DEL SAM, PESO = 35. VALUTAZIONE SOGGETTIVA DEL SAM, PESO* = 44. VALUTAZIONE SOGGETTIVA DEL SAM, SORGENTE = Service Account Manager. VALUTAZIONE SOGGETTIVA DEL SAM, PUNTEGGIO = Il parametro si riferisce al giudizio espresso dal Service Account Manager: 1. scarso 2. accettabile 3. buono
+
+================================================================================
+
